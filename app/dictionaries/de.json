@@ -1,0 +1,406 @@
+{
+  "meta": {
+    "homeTitle": "Dr. Maksym Baida, PhD — Modern Orthopaedic Reconstruction",
+    "homeDescription": "Moderne rekonstruktive Orthopädie, Korrektur von Deformitäten und Extremitätenverlängerung. Kyjiw.",
+    "clinicalTitle": "Für Kollegen — Clinical & Reconstruction Ecosystem | Dr. Maksym Baida, PhD",
+    "clinicalDescription": "Ein Raum für Ärzte, die akademische Gemeinschaft und Technologiepartner: reconstruction ecosystem, klinische Fälle, akademische Tätigkeit und Zusammenarbeit."
+  },
+  "common": {
+    "ctaPrimary": "Beratungstermin vereinbaren",
+    "ctaSecondary": "Anfrage zur Fallbeurteilung stellen",
+    "brandTagline": "Modern Orthopaedic Reconstruction"
+  },
+  "topbar": {
+    "online": "Online buchen"
+  },
+  "nav": {
+    "home": "Startseite",
+    "field": "Über den Fachbereich",
+    "treatments": "Schwerpunkte",
+    "doctor": "Über den Arzt",
+    "tech": "Technologien",
+    "contacts": "Kontakt",
+    "forColleagues": "Für Kollegen",
+    "forPatients": "Für Patienten",
+    "menu": "Menü",
+    "backToTop": "Nach oben"
+  },
+  "hero": {
+    "eyebrow": "Modern Orthopaedic Reconstruction",
+    "subtitle": "Moderne rekonstruktive Orthopädie, Korrektur von Deformitäten und Extremitätenverlängerung.",
+    "body": "Ein spezialisierter Fachbereich der modernen Orthopädie für Patienten mit Extremitätenverkürzung, Deformitäten und Asymmetrien sowie für die funktionelle und ästhetische Verlängerung von Extremitäten.",
+    "ctaBook": "Termin vereinbaren",
+    "stats": [
+      {
+        "value": "15+",
+        "label": "Jahre Erfahrung"
+      },
+      {
+        "value": "4500+",
+        "label": "Operationen"
+      },
+      {
+        "value": "15+",
+        "label": "wissenschaftliche Publikationen"
+      }
+    ]
+  },
+  "aboutField": {
+    "sectionLabel": "Über den Fachbereich",
+    "headingLight": "Rekonstruktive Orthopädie ",
+    "headingBold": "der neuen Generation",
+    "paragraphs": [
+      "Die moderne rekonstruktive Orthopädie verbindet funktionelle Wiederherstellung, Korrektur von Deformitäten und moderne Technologien zur Extremitätenverlängerung.",
+      "Eine individuelle Behandlungsplanung ermöglicht die Arbeit mit Extremitätenverkürzungen, Asymmetrien, Traumafolgen und der ästhetischen Korrektur der Körperproportionen.",
+      "Moderne rekonstruktive Technologien eröffnen Möglichkeiten für eine präzisere, kontrolliertere und besser vorhersagbare Wiederherstellung von Funktion und Anatomie der Extremitäten."
+    ]
+  },
+  "philosophy": {
+    "pre": "Moderne Rekonstruktion ist das Zusammenspiel von ",
+    "words": [
+      "Präzision",
+      "Funktion",
+      "Symmetrie"
+    ],
+    "join": ", ",
+    "lastJoin": " und ",
+    "end": ".",
+    "author": "Dr. Maksym Baida, PhD"
+  },
+  "treatments": {
+    "sectionNum": "02",
+    "sectionLabel": "Behandlungsschwerpunkte",
+    "headingLight": "Wichtigste Behandlungs",
+    "headingBold": "richtungen",
+    "eyebrow": "Behandlungsrichtung",
+    "backLabel": "Alle Behandlungsrichtungen",
+    "learnMore": "Mehr erfahren"
+  },
+  "about": {
+    "sectionLabel": "Über den Arzt",
+    "leadLight": "Drei Prinzipien, auf denen jede ",
+    "leadBold": "Rekonstruktion beruht",
+    "principles": [
+      {
+        "label": "Präzision",
+        "body": "Individuelle Planung jedes Rekonstruktionsfalls — von der Achsgeometrie bis zur Kontrolle der Extremitätensymmetrie. Keine standardisierten Lösungen.",
+        "proof": "Individuelle Planung"
+      },
+      {
+        "label": "Erfahrung",
+        "body": "Eine spezialisierte rekonstruktive Praxis, akademische Tätigkeit und internationaler fachlicher Austausch in der modernen rekonstruktiven Orthopädie.",
+        "proof": "Hohe Spezialisierung"
+      },
+      {
+        "label": "Technologien",
+        "body": "Moderne reconstruction-Systeme, Korrekturplanung und minimalinvasive Zugänge als Teil des reconstruction workflow — von der Modellierung bis zur Ergebniskontrolle.",
+        "proof": "Reconstruction-Systeme"
+      }
+    ],
+    "portraitBadgeLabel": "— Praxis",
+    "portraitBadgeLine1": "Rekonstruktive Orthopädie",
+    "portraitBadgeLine2": "· Extremitätenverlängerung",
+    "bioTitle": "Orthopäde und Unfallchirurg, rekonstruktiver Chirurg.",
+    "tags": [
+      "Rekonstruktion nach Trauma",
+      "Korrektur von Deformitäten",
+      "Extremitätenverlängerung",
+      "Moderne reconstruction-Technologien"
+    ],
+    "p1pre": "Spezialisiert auf ",
+    "p1bold": "moderne rekonstruktive Orthopädie",
+    "p1post": ", Korrektur von Deformitäten und Extremitätenverlängerung.",
+    "p2": "Zu den wesentlichen Tätigkeitsschwerpunkten zählen die Behandlung von Traumafolgen, die Rekonstruktion komplexer orthopädischer Defekte, die Wiederherstellung der Symmetrie sowie moderne Ansätze zur funktionellen und ästhetischen Wiederherstellung der Extremitäten. Verbindet klinische Praxis, akademische Tätigkeit und moderne rekonstruktive Technologien.",
+    "credEducationLabel": "Ausbildung",
+    "credEducationMain": "Bogomolez-Universität (Nationale Medizinische Universität Kyjiw) ·",
+    "credEducationItalic": "PhD",
+    "credInternshipLabel": "Hospitationen",
+    "credInternshipValue": "Führende Kliniken in Paris, Italien und Deutschland",
+    "credSpecLabel": "Spezialisierung",
+    "credSpecMain": "Extremitätenrekonstruktion ·",
+    "credSpecItalic": "Achskorrektur"
+  },
+  "statsBar": [
+    {
+      "value": "15+",
+      "label": "Jahre Praxis"
+    },
+    {
+      "value": "4500+",
+      "label": "Rekonstruktionen"
+    },
+    {
+      "value": "15+",
+      "label": "Wissenschaftliche Publikationen"
+    }
+  ],
+  "academic": {
+    "sectionLabel": "Akademisches Umfeld",
+    "headingLight": "Akademisches und klinisches ",
+    "headingBold": "Umfeld",
+    "paragraphs": [
+      "Die Weiterentwicklung der modernen rekonstruktiven Orthopädie verbindet klinische Praxis, akademische Tätigkeit und internationalen fachlichen Austausch.",
+      "Ein universitäres klinisches Umfeld bildet die Grundlage für die Entwicklung moderner reconstruction-Ansätze, den fachlichen Austausch und die Einführung moderner Technologien in der Rekonstruktion und Verlängerung von Extremitäten."
+    ],
+    "quote": "Moderne Rekonstruktion bedeutet stetige Weiterentwicklung, fachlichen Austausch und technologischen Fortschritt.",
+    "miniCards": [
+      "Internationale fachliche Tätigkeit",
+      "Akademisches klinisches Umfeld",
+      "Moderne reconstruction-Technologien"
+    ]
+  },
+  "technology": {
+    "sectionLabel": "Technologien",
+    "headingLight": "Moderne rekonstruktive ",
+    "headingBold": "Technologien",
+    "paragraphs": [
+      "Die moderne rekonstruktive Orthopädie verbindet individuelle Planung, die Kontrolle von Achse und Symmetrie der Extremitäten sowie moderne Technologien zur Korrektur und Fixierung.",
+      "Die Weiterentwicklung der reconstruction-Technologien eröffnet neue Möglichkeiten für eine präzisere, kontrolliertere und funktionellere Wiederherstellung bei Deformitäten, Verkürzungen und der Verlängerung von Extremitäten."
+    ],
+    "quote": "Technologie soll den Chirurgen nicht ersetzen, sondern die Möglichkeiten der Rekonstruktion erweitern.",
+    "imageAlt": "Chirurg im Operationssaal — Vorbereitung auf einen rekonstruktiven Eingriff",
+    "miniCards": [
+      {
+        "title": "Individuelle Planung",
+        "body": "Analyse der Extremitätengeometrie und Auswahl des Rekonstruktionsszenarios für den jeweiligen Fall."
+      },
+      {
+        "title": "Kontrolle von Symmetrie und Achse",
+        "body": "Wiederherstellung von Achse, Symmetrie und biomechanischem Gleichgewicht der unteren Extremitäten."
+      },
+      {
+        "title": "Moderne reconstruction-Systeme",
+        "body": "Technologische Lösungen zur Korrektur und Fixierung als Teil des reconstruction workflow."
+      },
+      {
+        "title": "Funktionelle Wiederherstellung",
+        "body": "Kontrollierte Wiederherstellung von Funktion und Anatomie bei Deformitäten und Verlängerung."
+      }
+    ]
+  },
+  "bookOnline": {
+    "sectionLabel": "06 — Kontakt aufnehmen",
+    "headingPre": "Individuelle Beratung und ",
+    "headingItalic": "Fallbeurteilung",
+    "body": "Senden Sie uns Ihre Aufnahmen und beschreiben Sie kurz Ihre Situation — Sie erhalten einen vorläufigen Behandlungsplan mit Hinweisen zu den nächsten Schritten.",
+    "ctaUpload": "Aufnahmen online senden",
+    "channelsLabel": "Direkte Kanäle",
+    "channels": [
+      {
+        "mono": "TG",
+        "label": "Telegram",
+        "handle": "+380 66 766 70 94"
+      },
+      {
+        "mono": "WA",
+        "label": "WhatsApp",
+        "handle": "+380 66 766 70 94"
+      },
+      {
+        "mono": "@",
+        "label": "Email",
+        "handle": "meredian18@gmail.com"
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2026 Modern Orthopaedic Reconstruction. Alle Rechte vorbehalten."
+  },
+  "clinical": {
+    "hero": {
+      "eyebrow": "Für Kollegen · For colleagues",
+      "headingPre": "Klinische Zusammenarbeit in der ",
+      "headingBold": "rekonstruktiven Orthopädie",
+      "subtitle": "Ein Raum für Ärzte, die akademische Gemeinschaft und Technologiepartner — rund um das moderne reconstruction-Ökosystem.",
+      "body": "Rekonstruktion und Verlängerung von Extremitäten, Korrektur von Deformitäten und Achskontrolle — als gemeinsame klinische, akademische und technologische Arbeit und nicht nur als einzelne Praxis.",
+      "ctaPartnership": "Anfrage zur Zusammenarbeit",
+      "ctaReferral": "Patienten überweisen",
+      "audiences": [
+        "Für überweisende Ärzte",
+        "Akademische Zusammenarbeit",
+        "MedTech / reconstruction ecosystem"
+      ]
+    },
+    "ecosystem": {
+      "sectionLabel": "Reconstruction ecosystem",
+      "headingLight": "Rekonstruktion als ",
+      "headingBold": "durchgängiger workflow",
+      "paragraphs": [
+        "Für ein Fachpublikum ist der reconstruction-Bereich keine einzelne Leistung, sondern ein durchgängiger Prozess: von der Planung der Geometrie bis zur Kontrolle des funktionellen Ergebnisses.",
+        "Technologische Lösungen und moderne reconstruction-Systeme sind als Werkzeug der precision-Chirurgie in diesen Prozess integriert. Technologien erweitern die Möglichkeiten der Rekonstruktion — ohne die klinische Entscheidung des Chirurgen zu ersetzen."
+      ],
+      "imageAlt": "Geometrie des Kniegelenks — reconstruction planning overlay",
+      "layers": [
+        {
+          "title": "Präoperative Planung",
+          "body": "Analyse der Extremitätengeometrie, der Achse und der Symmetrie, Modellierung der Korrektur und des Rekonstruktionsszenarios für den jeweiligen Fall.",
+          "tags": [
+            "deformity analysis",
+            "axis & alignment",
+            "case planning"
+          ]
+        },
+        {
+          "title": "Korrektur- und Fixierungssysteme",
+          "body": "Moderne reconstruction-Systeme für kontrollierte Korrektur, Fixierung und Verlängerung — als Teil eines einheitlichen workflow und nicht als Implantatkatalog.",
+          "tags": [
+            "external / internal fixation",
+            "lengthening systems",
+            "gradual correction"
+          ]
+        },
+        {
+          "title": "Intraoperative Kontrolle",
+          "body": "Kontrolle von Achse, Symmetrie und biomechanischem Gleichgewicht während des Eingriffs auf Basis der vorausgehenden Planung.",
+          "tags": [
+            "intra-op control",
+            "biomechanics",
+            "precision"
+          ]
+        },
+        {
+          "title": "Funktionelle Wiederherstellung",
+          "body": "Kontrollierte Wiederherstellung von Funktion und Anatomie bei Deformitäten, Verkürzungen und Verlängerung nach einem vorhersagbaren Protokoll.",
+          "tags": [
+            "protocol-driven",
+            "outcome tracking",
+            "rehabilitation"
+          ]
+        }
+      ]
+    },
+    "cases": {
+      "sectionLabel": "Klinische Fälle und Techniken",
+      "headingLight": "Fallbesprechungen für die ",
+      "headingBold": "Fachgemeinschaft",
+      "intro": "Strukturierte klinische Fälle: Indikation, Planung, Technik, Ergebnis. Vollständige Unterlagen und Bildmaterial — auf Anfrage nach fachlicher Freigabe.",
+      "imageAlt": "Intramedulläre Fixierung — reconstruction system",
+      "fieldIndication": "Indikation",
+      "fieldPlanning": "Planung",
+      "fieldTechnique": "Technik",
+      "fieldResult": "Ergebnis",
+      "onRequest": "Unterlagen auf Anfrage",
+      "ctaRequest": "Klinische Unterlagen anfordern",
+      "items": [
+        {
+          "area": "Korrektur von Deformitäten",
+          "title": "Achskorrektur der unteren Extremität",
+          "indication": "Achsdeformität, Asymmetrie",
+          "planning": "Geometrieanalyse, Modellierung der Korrektur",
+          "technique": "Korrekturosteotomie, stabile Fixation",
+          "result": "Wiederhergestellte Achse und Symmetrie"
+        },
+        {
+          "area": "Extremitätenverlängerung",
+          "title": "Funktionelle Verlängerung",
+          "indication": "Extremitätenverkürzung",
+          "planning": "Berechnung der Verlängerung, Achskontrolle",
+          "technique": "Intramedulläre Verlängerung mit stufenweiser Kontrolle",
+          "result": "Geplante Länge bei erhaltener Funktion"
+        },
+        {
+          "area": "Rekonstruktion nach Trauma",
+          "title": "Rekonstruktion eines komplexen Defekts",
+          "indication": "Traumafolge, Segmentdefekt",
+          "planning": "Stufenweises reconstruction-Szenario",
+          "technique": "Stufenweise Defektrekonstruktion, stabile Fixation",
+          "result": "Wiederhergestellte Integrität und Belastbarkeit"
+        }
+      ]
+    },
+    "activity": {
+      "sectionLabel": "Akademische und internationale Tätigkeit",
+      "headingLight": "Klinische Praxis und ",
+      "headingBold": "akademische Arbeit",
+      "intro": "Die Weiterentwicklung des reconstruction-Bereichs verbindet klinische Praxis, akademische Tätigkeit und internationalen fachlichen Austausch in einem Umfeld.",
+      "quote": "Moderne Rekonstruktion bedeutet stetige Weiterentwicklung, fachlichen Austausch und technologischen Fortschritt.",
+      "imageAlt": "OP-Team während eines Eingriffs am Kniegelenk",
+      "groups": [
+        {
+          "k": "Ausbildung",
+          "items": [
+            "Bogomolez-Universität (Nationale Medizinische Universität Kyjiw)",
+            "PhD — rekonstruktive Orthopädie"
+          ]
+        },
+        {
+          "k": "Klinisches Umfeld",
+          "items": [
+            "Universitäre klinische Praxis",
+            "Rekonstruktion und Verlängerung von Extremitäten"
+          ]
+        },
+        {
+          "k": "Internationale Aktivität",
+          "items": [
+            "EFORT und Fachkongresse",
+            "Fachliches Networking-Umfeld"
+          ]
+        },
+        {
+          "k": "Publikationen",
+          "items": [
+            "15+ wissenschaftliche Publikationen"
+          ]
+        }
+      ]
+    },
+    "partnership": {
+      "sectionLabel": "Zusammenarbeit",
+      "headingLight": "Drei Formate der fachlichen ",
+      "headingBold": "Zusammenarbeit",
+      "tracks": [
+        {
+          "title": "Für überweisende Ärzte",
+          "body": "Überweisung von Patienten mit Deformitäten, Verkürzungen, Asymmetrien und Traumafolgen. Vorläufige Fallbeurteilung und Rückmeldung zum reconstruction-Szenario.",
+          "points": [
+            "Fallbeurteilung anhand von Aufnahmen",
+            "Rückmeldung zur Vorgehensweise",
+            "Begleitung des überwiesenen Patienten"
+          ]
+        },
+        {
+          "title": "Gemeinsame Operationen und second opinion",
+          "body": "Fachliche Beratung in komplexen Fällen, gemeinsame Eingriffe und eine unabhängige Einschätzung zur Planung der Rekonstruktion und Achskorrektur.",
+          "points": [
+            "Second opinion",
+            "Gemeinsame Eingriffe",
+            "Beratung zur Planung"
+          ]
+        },
+        {
+          "title": "MedTech / reconstruction ecosystem",
+          "body": "Zusammenarbeit mit Technologiepartnern rund um moderne reconstruction-Systeme — klinische Erprobung, Entwicklung des workflow und fachliche Kooperation.",
+          "points": [
+            "Klinische Erprobung",
+            "Entwicklung des workflow",
+            "Partnerschaftliche Zusammenarbeit"
+          ]
+        }
+      ],
+      "ctaLabel": "Anfrage zur Zusammenarbeit",
+      "ctaHeadingPre": "Einen klinischen Fall oder eine ",
+      "ctaHeadingItalic": "Partnerschaft besprechen",
+      "ctaBody": "Schreiben Sie uns kurz zum Fall, zum Format der Zusammenarbeit oder zu einer Anfrage nach klinischen Unterlagen — Sie erhalten eine Antwort zu den nächsten Schritten.",
+      "ctaSend": "Anfrage senden",
+      "channelsLabel": "Direkte Kanäle",
+      "channels": [
+        {
+          "mono": "TG",
+          "label": "Telegram",
+          "handle": "+380 66 766 70 94"
+        },
+        {
+          "mono": "WA",
+          "label": "WhatsApp",
+          "handle": "+380 66 766 70 94"
+        },
+        {
+          "mono": "@",
+          "label": "Email",
+          "handle": "meredian18@gmail.com"
+        }
+      ]
+    }
+  }
+}

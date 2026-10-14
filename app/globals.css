@@ -1,0 +1,100 @@
+@import "tailwindcss";
+
+@theme {
+  /* Unified palette: deep navy + steel/blue cool accents (matches Hero metallic) */
+  --color-navy: #0a1929;
+  --color-navy-90: #122337;
+  --color-cream: #ffffff;
+  --color-paper: #e3e7ec;          /* cool light gray */
+  --color-tan: #5d6b7d;             /* steel-blue accent (was warm taupe) */
+  --color-tan-dark: #0a1929;        /* deep navy block bg */
+  --color-blue: #2c4a7a;            /* steel blue — matches metallic border */
+  --color-blue-dark: #1d3559;
+  --color-blush: #dde3ea;
+  --color-card-cream: #ebeef2;
+  --color-card-mint: #e6ebf0;
+  --color-card-ice: #e6ebf0;
+  --color-card-blush: #ebeef2;
+  --color-ink: #0a1929;             /* deep navy text */
+  --color-ink-muted: #6b7280;
+  --color-hairline: #c8cdd4;
+  --color-hairline-soft: #b5bcc4;
+  --color-gold: #5d6b7d;            /* alias to steel */
+  --color-gold-dark: #44505f;
+
+  /* Fonts — KLAAS uses Inter everywhere */
+  --font-sans: var(--font-inter), system-ui, sans-serif;
+  --font-body: var(--font-inter), system-ui, sans-serif;
+  --font-serif: var(--font-cormorant), Georgia, serif;
+}
+
+:root {
+  color-scheme: light only;
+}
+
+html {
+  background: var(--color-cream);
+  color: var(--color-ink);
+}
+
+body {
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Small caps label utility — wrapped in @layer components so Tailwind utilities can override */
+@layer components {
+  .label-caps {
+    font-family: var(--font-body);
+    font-size: 10px;
+    font-weight: 500;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+  }
+
+  .label-caps-sm {
+    font-family: var(--font-body);
+    font-size: 9px;
+    font-weight: 500;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+  }
+
+  .btn-metallic {
+    background-image: linear-gradient(
+      180deg,
+      #eef1f4 0%,
+      #b6bcc2 22%,
+      #7a8088 55%,
+      #3e444a 100%
+    );
+    border: 1px solid #2c4a7a;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.55);
+    box-shadow:
+      inset 0 1px 0 rgba(255, 255, 255, 0.75),
+      inset 0 -1px 0 rgba(0, 0, 0, 0.45),
+      inset 0 0 0 1px rgba(255, 255, 255, 0.08),
+      0 2px 6px rgba(0, 0, 0, 0.45);
+    transition: filter 200ms ease, box-shadow 200ms ease;
+  }
+  .btn-metallic:hover {
+    filter: brightness(1.1) saturate(1.05);
+    box-shadow:
+      inset 0 1px 0 rgba(255, 255, 255, 0.85),
+      inset 0 -1px 0 rgba(0, 0, 0, 0.45),
+      inset 0 0 0 1px rgba(255, 255, 255, 0.12),
+      0 4px 10px rgba(0, 0, 0, 0.5);
+  }
+}
+
+/* Subtle diagonal noise overlay for dark surfaces */
+.surface-navy {
+  background-color: var(--color-navy);
+  background-image: repeating-linear-gradient(
+    135deg,
+    rgba(255, 255, 255, 0.014) 0px,
+    rgba(255, 255, 255, 0.014) 1px,
+    transparent 1px,
+    transparent 7px
+  );
+}

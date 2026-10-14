@@ -1,27 +1,36 @@
-# travmatolog.in.ua
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-Private source repository for the official website of orthopaedic trauma surgeon Maksym Baida.
+## Getting Started
 
-## Status
-**Migration preparation only.** The production website is hosted elsewhere. This repository does not yet contain the existing website source code, and nothing here is deployed.
+First, run the development server:
 
-## Goals
-- Preserve the existing site's design, content, language variants, URLs, SEO metadata and search visibility during migration.
-- Establish owner-controlled versioning and safe preview/production deployment.
-- Improve technical SEO, medical content quality, performance and measurable patient enquiries.
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-## Proposed infrastructure
-- GitHub: private source repository (this repository).
-- Cloudflare: preferred DNS/CDN and candidate hosting platform, subject to confirming the existing framework and backend requirements.
-- Deployment architecture, CMS and database: **to be decided after the developer handover**.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Migration policy
-1. Obtain original source code, assets, package/lock files, configuration templates, CMS/database export and deployment documentation.
-2. Inventory current public URLs, redirects, metadata, language variants, forms and DNS records.
-3. Run a non-indexable staging site and verify functional/SEO parity.
-4. Back up production and plan rollback before any DNS change.
-5. Cut over only after owner approval; verify site and email delivery afterward.
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-**Do not commit credentials, API keys, patient data or production environment files. Do not change live DNS until staging passes review.**
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-See [developer handover checklist](docs/DEVELOPER_HANDOVER.md) and [migration checklist](docs/MIGRATION_CHECKLIST.md).
+## Learn More
+
+To learn more about Next.js, take a look at the following resources:
+
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.

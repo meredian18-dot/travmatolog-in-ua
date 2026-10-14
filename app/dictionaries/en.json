@@ -1,0 +1,406 @@
+{
+  "meta": {
+    "homeTitle": "Dr. Maksym Baida, PhD — Modern Orthopaedic Reconstruction",
+    "homeDescription": "Modern reconstructive orthopaedics, deformity correction and limb lengthening. Kyiv.",
+    "clinicalTitle": "For colleagues — Clinical & Reconstruction Ecosystem | Dr. Maksym Baida, PhD",
+    "clinicalDescription": "A space for physicians, the academic community and technology partners: reconstruction ecosystem, clinical cases, academic work and collaboration."
+  },
+  "common": {
+    "ctaPrimary": "Book a consultation",
+    "ctaSecondary": "Submit a case for assessment",
+    "brandTagline": "Modern Orthopaedic Reconstruction"
+  },
+  "topbar": {
+    "online": "Book online"
+  },
+  "nav": {
+    "home": "Home",
+    "field": "The field",
+    "treatments": "Focus areas",
+    "doctor": "About the doctor",
+    "tech": "Technology",
+    "contacts": "Contacts",
+    "forColleagues": "For colleagues",
+    "forPatients": "For patients",
+    "menu": "Menu",
+    "backToTop": "Back to top"
+  },
+  "hero": {
+    "eyebrow": "Modern Orthopaedic Reconstruction",
+    "subtitle": "Modern reconstructive orthopaedics, deformity correction and limb lengthening.",
+    "body": "A specialised field of modern orthopaedics for patients with limb shortening, deformities and asymmetry, as well as for functional and aesthetic limb lengthening.",
+    "ctaBook": "Book now",
+    "stats": [
+      {
+        "value": "15+",
+        "label": "years of experience"
+      },
+      {
+        "value": "4500+",
+        "label": "surgeries"
+      },
+      {
+        "value": "15+",
+        "label": "scientific publications"
+      }
+    ]
+  },
+  "aboutField": {
+    "sectionLabel": "The field",
+    "headingLight": "Reconstructive orthopaedics ",
+    "headingBold": "of a new generation",
+    "paragraphs": [
+      "Modern reconstructive orthopaedics combines functional recovery, deformity correction and advanced limb-lengthening technologies.",
+      "Individualised treatment planning makes it possible to address limb shortening, asymmetry, the consequences of trauma and the aesthetic correction of body proportions.",
+      "Modern reconstructive technologies open the way to more precise, controlled and predictable restoration of limb function and anatomy."
+    ]
+  },
+  "philosophy": {
+    "pre": "Modern reconstruction is the union of ",
+    "words": [
+      "precision",
+      "function",
+      "symmetry"
+    ],
+    "join": ", ",
+    "lastJoin": " and ",
+    "end": ".",
+    "author": "Dr. Maksym Baida, PhD"
+  },
+  "treatments": {
+    "sectionNum": "02",
+    "sectionLabel": "Areas of treatment",
+    "headingLight": "Main treatment ",
+    "headingBold": "directions",
+    "eyebrow": "Treatment direction",
+    "backLabel": "All treatment directions",
+    "learnMore": "Learn more"
+  },
+  "about": {
+    "sectionLabel": "About the doctor",
+    "leadLight": "Three principles behind every ",
+    "leadBold": "reconstruction",
+    "principles": [
+      {
+        "label": "Precision",
+        "body": "Individualised planning of every reconstruction case — from axis geometry to control of limb symmetry. No off-the-shelf solutions.",
+        "proof": "Individualised planning"
+      },
+      {
+        "label": "Experience",
+        "body": "A focused reconstructive practice, academic work and international professional exchange in modern reconstructive orthopaedics.",
+        "proof": "Narrow specialisation"
+      },
+      {
+        "label": "Technology",
+        "body": "Modern reconstruction systems, correction planning and minimally invasive approaches as part of the reconstruction workflow — from modeling to outcome control.",
+        "proof": "Reconstruction systems"
+      }
+    ],
+    "portraitBadgeLabel": "— Practice",
+    "portraitBadgeLine1": "Reconstructive orthopaedics",
+    "portraitBadgeLine2": "· Limb lengthening",
+    "bioTitle": "orthopaedic trauma surgeon, reconstructive surgeon.",
+    "tags": [
+      "Post-traumatic reconstruction",
+      "Deformity correction",
+      "Limb lengthening",
+      "Modern reconstruction technologies"
+    ],
+    "p1pre": "Specialises in ",
+    "p1bold": "modern reconstructive orthopaedics",
+    "p1post": ", deformity correction and limb lengthening.",
+    "p2": "Core areas of work include treating the consequences of trauma, reconstructing complex orthopaedic defects, restoring symmetry, and modern approaches to functional and aesthetic limb restoration. Combines clinical practice, academic work and modern reconstructive technologies.",
+    "credEducationLabel": "Education",
+    "credEducationMain": "Bogomolets National Medical University ·",
+    "credEducationItalic": "PhD",
+    "credInternshipLabel": "Fellowship",
+    "credInternshipValue": "Leading clinics in Paris, Italy, and Germany",
+    "credSpecLabel": "Specialisation",
+    "credSpecMain": "Limb reconstruction ·",
+    "credSpecItalic": "axis correction"
+  },
+  "statsBar": [
+    {
+      "value": "15+",
+      "label": "Years in practice"
+    },
+    {
+      "value": "4500+",
+      "label": "Reconstructions"
+    },
+    {
+      "value": "15+",
+      "label": "Scientific publications"
+    }
+  ],
+  "academic": {
+    "sectionLabel": "Academic environment",
+    "headingLight": "Academic and clinical ",
+    "headingBold": "environment",
+    "paragraphs": [
+      "The advancement of modern reconstructive orthopaedics combines clinical practice, academic work and international professional exchange.",
+      "A university clinical setting provides the foundation for developing modern reconstruction approaches, professional communication and the adoption of advanced technologies in limb reconstruction and lengthening."
+    ],
+    "quote": "Modern reconstruction is continuous development, professional exchange and technological progress.",
+    "miniCards": [
+      "International professional activity",
+      "Academic clinical environment",
+      "Modern reconstruction technologies"
+    ]
+  },
+  "technology": {
+    "sectionLabel": "Technology",
+    "headingLight": "Modern reconstructive ",
+    "headingBold": "technologies",
+    "paragraphs": [
+      "Modern reconstructive orthopaedics combines individualised planning, control of limb axis and symmetry, and advanced technologies for correction and fixation.",
+      "The advancement of reconstruction technologies opens new possibilities for more precise, controlled and functional recovery in deformities, shortening and limb lengthening."
+    ],
+    "quote": "Technology should not replace the surgeon, but extend the possibilities of reconstruction.",
+    "imageAlt": "Surgeon in the operating room — preparing for a reconstructive procedure",
+    "miniCards": [
+      {
+        "title": "Individualised planning",
+        "body": "Analysis of limb geometry and selection of a reconstruction scenario tailored to the specific case."
+      },
+      {
+        "title": "Symmetry and axis control",
+        "body": "Restoration of the axis, symmetry and biomechanical balance of the lower limbs."
+      },
+      {
+        "title": "Modern reconstruction systems",
+        "body": "Technological solutions for correction and fixation as part of the reconstruction workflow."
+      },
+      {
+        "title": "Functional recovery",
+        "body": "Controlled restoration of function and anatomy in deformities and lengthening."
+      }
+    ]
+  },
+  "bookOnline": {
+    "sectionLabel": "06 — Get in touch",
+    "headingPre": "Personal consultation and ",
+    "headingItalic": "case assessment",
+    "body": "Send your imaging and a brief description of the situation — you will receive a preliminary treatment plan with notes on the next steps.",
+    "ctaUpload": "Submit imaging online",
+    "channelsLabel": "Direct channels",
+    "channels": [
+      {
+        "mono": "TG",
+        "label": "Telegram",
+        "handle": "+380 66 766 70 94"
+      },
+      {
+        "mono": "WA",
+        "label": "WhatsApp",
+        "handle": "+380 66 766 70 94"
+      },
+      {
+        "mono": "@",
+        "label": "Email",
+        "handle": "meredian18@gmail.com"
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2026 Modern Orthopaedic Reconstruction. All rights reserved."
+  },
+  "clinical": {
+    "hero": {
+      "eyebrow": "For colleagues",
+      "headingPre": "Clinical collaboration in ",
+      "headingBold": "reconstructive orthopaedics",
+      "subtitle": "A space for physicians, the academic community and technology partners — around a modern reconstruction ecosystem.",
+      "body": "Limb reconstruction and lengthening, deformity correction and axis control — as shared clinical, academic and technological work, not merely an individual practice.",
+      "ctaPartnership": "Request a collaboration",
+      "ctaReferral": "Refer a patient",
+      "audiences": [
+        "Referring physicians",
+        "Academic collaboration",
+        "MedTech / reconstruction ecosystem"
+      ]
+    },
+    "ecosystem": {
+      "sectionLabel": "Reconstruction ecosystem",
+      "headingLight": "Reconstruction as ",
+      "headingBold": "a single workflow",
+      "paragraphs": [
+        "For a professional audience, the reconstruction field is not a standalone service but an end-to-end process: from planning the geometry to controlling the functional outcome.",
+        "Technological solutions and modern reconstruction systems are integrated into this process as a tool of precision surgery. Technology extends the possibilities of reconstruction — without replacing the surgeon's clinical judgement."
+      ],
+      "imageAlt": "Knee joint geometry — reconstruction planning overlay",
+      "layers": [
+        {
+          "title": "Pre-operative planning",
+          "body": "Analysis of limb geometry, axis and symmetry; modelling of correction and the reconstruction scenario for the specific case.",
+          "tags": [
+            "deformity analysis",
+            "axis & alignment",
+            "case planning"
+          ]
+        },
+        {
+          "title": "Correction and fixation systems",
+          "body": "Modern reconstruction systems for controlled correction, fixation and lengthening — as part of a single workflow, not an implant catalogue.",
+          "tags": [
+            "external / internal fixation",
+            "lengthening systems",
+            "gradual correction"
+          ]
+        },
+        {
+          "title": "Intra-operative control",
+          "body": "Control of axis, symmetry and biomechanical balance during the procedure, guided by the pre-operative plan.",
+          "tags": [
+            "intra-op control",
+            "biomechanics",
+            "precision"
+          ]
+        },
+        {
+          "title": "Functional recovery",
+          "body": "Controlled restoration of function and anatomy in deformities, shortening and lengthening, following a predictable protocol.",
+          "tags": [
+            "protocol-driven",
+            "outcome tracking",
+            "rehabilitation"
+          ]
+        }
+      ]
+    },
+    "cases": {
+      "sectionLabel": "Clinical cases and techniques",
+      "headingLight": "Case reviews for the ",
+      "headingBold": "professional community",
+      "intro": "Structured clinical cases: indications, planning, technique, outcome. Full materials and images are available on request following professional approval.",
+      "imageAlt": "Intramedullary fixation — reconstruction system",
+      "fieldIndication": "Indication",
+      "fieldPlanning": "Planning",
+      "fieldTechnique": "Technique",
+      "fieldResult": "Outcome",
+      "onRequest": "Materials on request",
+      "ctaRequest": "Request clinical materials",
+      "items": [
+        {
+          "area": "Deformity correction",
+          "title": "Lower-limb axis correction",
+          "indication": "Axis deformity, asymmetry",
+          "planning": "Geometry analysis, correction modelling",
+          "technique": "Corrective osteotomy, stable fixation",
+          "result": "Restored limb axis and symmetry"
+        },
+        {
+          "area": "Limb lengthening",
+          "title": "Functional lengthening",
+          "indication": "Limb shortening",
+          "planning": "Lengthening calculation, axis control",
+          "technique": "Intramedullary lengthening with staged control",
+          "result": "Planned length with preserved function"
+        },
+        {
+          "area": "Post-traumatic reconstruction",
+          "title": "Reconstruction of a complex defect",
+          "indication": "Consequences of trauma, segmental defect",
+          "planning": "Staged reconstruction scenario",
+          "technique": "Staged defect reconstruction, stable fixation",
+          "result": "Restored integrity and weight-bearing function"
+        }
+      ]
+    },
+    "activity": {
+      "sectionLabel": "Academic and international activity",
+      "headingLight": "Clinical practice and ",
+      "headingBold": "academic work",
+      "intro": "The advancement of the reconstruction field brings together clinical practice, academic work and international professional exchange in a single environment.",
+      "quote": "Modern reconstruction is continuous development, professional exchange and technological progress.",
+      "imageAlt": "Surgical team during a knee joint procedure",
+      "groups": [
+        {
+          "k": "Education",
+          "items": [
+            "Bogomolets National Medical University",
+            "PhD — reconstructive orthopaedics"
+          ]
+        },
+        {
+          "k": "Clinical environment",
+          "items": [
+            "University clinical practice",
+            "Limb reconstruction and lengthening"
+          ]
+        },
+        {
+          "k": "International activity",
+          "items": [
+            "EFORT and specialist conferences",
+            "Professional networking environment"
+          ]
+        },
+        {
+          "k": "Publications",
+          "items": [
+            "15+ scientific publications"
+          ]
+        }
+      ]
+    },
+    "partnership": {
+      "sectionLabel": "Collaboration",
+      "headingLight": "Three formats of professional ",
+      "headingBold": "engagement",
+      "tracks": [
+        {
+          "title": "Referring physicians",
+          "body": "Referral of patients with deformities, shortening, asymmetry and the consequences of trauma. Preliminary case assessment and feedback on the reconstruction scenario.",
+          "points": [
+            "Case assessment from imaging",
+            "Feedback on the approach",
+            "Support for the referred patient"
+          ]
+        },
+        {
+          "title": "Joint surgery and second opinion",
+          "body": "Professional consultation in complex cases, joint procedures and an independent opinion on reconstruction and axis-correction planning.",
+          "points": [
+            "Second opinion",
+            "Joint procedures",
+            "Planning consultation"
+          ]
+        },
+        {
+          "title": "MedTech / reconstruction ecosystem",
+          "body": "Engagement with technology partners around modern reconstruction systems — clinical evaluation, workflow development and professional collaboration.",
+          "points": [
+            "Clinical evaluation",
+            "Workflow development",
+            "Partner engagement"
+          ]
+        }
+      ],
+      "ctaLabel": "Request a collaboration",
+      "ctaHeadingPre": "Discuss a clinical case or ",
+      "ctaHeadingItalic": "partnership",
+      "ctaBody": "Write a brief note about the case, the format of collaboration or a request for clinical materials — you will receive a reply on the next steps.",
+      "ctaSend": "Send request",
+      "channelsLabel": "Direct channels",
+      "channels": [
+        {
+          "mono": "TG",
+          "label": "Telegram",
+          "handle": "+380 66 766 70 94"
+        },
+        {
+          "mono": "WA",
+          "label": "WhatsApp",
+          "handle": "+380 66 766 70 94"
+        },
+        {
+          "mono": "@",
+          "label": "Email",
+          "handle": "meredian18@gmail.com"
+        }
+      ]
+    }
+  }
+}

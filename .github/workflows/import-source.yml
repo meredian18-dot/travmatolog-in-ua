@@ -1,0 +1,44 @@
+name: Import original website source (one-time)
+
+on:
+  push:
+    branches:
+      - migration/source-import
+    paths:
+      - '.github/workflows/import-source.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout target migration branch
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Clone original public source
+        run: |
+          git clone --depth 1 --branch main https://github.com/dmytro-musiiko/baida-site.git /tmp/baida-original
+
+      - name: Copy entire site snapshot safely
+        run: |
+          set -euo pipefail
+          rsync -a --exclude='.git/' --exclude='.github/workflows/' --exclude='AGENTS.md' --exclude='CLAUDE.md' /tmp/baida-original/ ./
+          mkdir -p docs
+          cp /tmp/baida-original/.github/workflows/deploy.yml docs/original-github-pages-deploy.yml
+          printf '\nOriginal source: https://github.com/dmytro-musiiko/baida-site\nImported from commit: %s\n' "$(git -C /tmp/baida-original rev-parse HEAD)" >> docs/SOURCE_PROVENANCE.md
+          git status --short
+
+      - name: Commit imported files to migration branch only
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if ! git diff --cached --quiet; then
+            git commit -m "Import original Next.js website snapshot for migration review"
+            git push origin HEAD:migration/source-import
+          fi
