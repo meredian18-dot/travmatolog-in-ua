@@ -1,0 +1,40 @@
+name: Validate migrated website
+
+on:
+  push:
+    branches: [migration/source-import]
+    paths:
+      - 'app/**'
+      - 'components/**'
+      - 'public/**'
+      - 'package.json'
+      - 'package-lock.json'
+      - 'next.config.ts'
+      - '.github/workflows/validate-migration.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout site
+        uses: actions/checkout@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - name: Install dependencies
+        run: npm ci
+      - name: Build static export (no publishing)
+        run: npm run build
+      - name: Validate generated website
+        run: |
+          test -f out/index.html || test -f out/uk/index.html
+          find out -name '*.html' | wc -l
+          test -d out
+          echo "Static export generated successfully; no deployment performed."
