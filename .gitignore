@@ -1,35 +1,49 @@
-# Environment files and secrets
-.env
-.env.*
-!.env.example
-*.pem
-*.key
-*.p12
-*.pfx
-*.sqlite
-*.sqlite3
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-# Dependencies and build output (review after receiving actual stack)
-node_modules/
-.next/
-.nuxt/
-dist/
-build/
-coverage/
-.wrangler/
-.vercel/
-.cache/
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
 
-# System and editor files
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
 .DS_Store
-Thumbs.db
-.idea/
-.vscode/
-*.log
+*.pem
 
-# Dumps, private exports, backups
-*.sql
-*.sql.gz
-*.bak
-backups/
-private/
+# internal docs (briefs, specs)
+*.docx
+*.doc
+*.pdf
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# env files (can opt-in for committing if needed)
+.env*
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# IDE
+.idea/

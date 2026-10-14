@@ -1,0 +1,406 @@
+{
+  "meta": {
+    "homeTitle": "Dr. Maksym Baida, PhD — Modern Orthopaedic Reconstruction",
+    "homeDescription": "Nowoczesna ortopedia rekonstrukcyjna, korekcja deformacji i wydłużanie kończyn. Kijów.",
+    "clinicalTitle": "Dla lekarzy — Clinical & Reconstruction Ecosystem | Dr. Maksym Baida, PhD",
+    "clinicalDescription": "Przestrzeń dla lekarzy, środowiska akademickiego i partnerów technologicznych: reconstruction ecosystem, przypadki kliniczne, działalność akademicka i współpraca."
+  },
+  "common": {
+    "ctaPrimary": "Umów konsultację",
+    "ctaSecondary": "Złóż wniosek o ocenę przypadku",
+    "brandTagline": "Modern Orthopaedic Reconstruction"
+  },
+  "topbar": {
+    "online": "Umów się online"
+  },
+  "nav": {
+    "home": "Strona główna",
+    "field": "O dziedzinie",
+    "treatments": "Kierunki",
+    "doctor": "O lekarzu",
+    "tech": "Technologie",
+    "contacts": "Kontakt",
+    "forColleagues": "Dla lekarzy",
+    "forPatients": "Dla pacjentów",
+    "menu": "Menu",
+    "backToTop": "Do góry"
+  },
+  "hero": {
+    "eyebrow": "Modern Orthopaedic Reconstruction",
+    "subtitle": "Nowoczesna ortopedia rekonstrukcyjna, korekcja deformacji i wydłużanie kończyn.",
+    "body": "Wyspecjalizowana dziedzina nowoczesnej ortopedii dla pacjentów ze skróceniem kończyn, deformacjami i zaburzeniem symetrii, a także w zakresie funkcjonalnego i estetycznego wydłużania kończyn.",
+    "ctaBook": "Umów się",
+    "stats": [
+      {
+        "value": "15+",
+        "label": "lat doświadczenia"
+      },
+      {
+        "value": "4500+",
+        "label": "operacji"
+      },
+      {
+        "value": "15+",
+        "label": "publikacji naukowych"
+      }
+    ]
+  },
+  "aboutField": {
+    "sectionLabel": "O dziedzinie",
+    "headingLight": "Ortopedia rekonstrukcyjna ",
+    "headingBold": "nowej generacji",
+    "paragraphs": [
+      "Nowoczesna ortopedia rekonstrukcyjna łączy odbudowę funkcjonalną, korekcję deformacji oraz nowoczesne technologie wydłużania kończyn.",
+      "Indywidualne planowanie leczenia pozwala pracować ze skróceniem kończyn, zaburzeniem symetrii, następstwami urazów oraz estetyczną korekcją proporcji ciała.",
+      "Nowoczesne technologie rekonstrukcyjne otwierają możliwości bardziej precyzyjnej, kontrolowanej i przewidywalnej odbudowy funkcji oraz anatomii kończyn."
+    ]
+  },
+  "philosophy": {
+    "pre": "Nowoczesna rekonstrukcja to połączenie ",
+    "words": [
+      "precyzji",
+      "funkcji",
+      "symetrii"
+    ],
+    "join": ", ",
+    "lastJoin": " i ",
+    "end": ".",
+    "author": "Dr. Maksym Baida, PhD"
+  },
+  "treatments": {
+    "sectionNum": "02",
+    "sectionLabel": "Kierunki leczenia",
+    "headingLight": "Główne kierunki ",
+    "headingBold": "leczenia",
+    "eyebrow": "Kierunek leczenia",
+    "backLabel": "Wszystkie kierunki leczenia",
+    "learnMore": "Więcej"
+  },
+  "about": {
+    "sectionLabel": "O lekarzu",
+    "leadLight": "Trzy zasady, na których opiera się każda ",
+    "leadBold": "rekonstrukcja",
+    "principles": [
+      {
+        "label": "Precyzja",
+        "body": "Indywidualne planowanie każdego przypadku rekonstrukcji — od geometrii osi po kontrolę symetrii kończyn. Żadnych szablonowych rozwiązań.",
+        "proof": "Indywidualne planowanie"
+      },
+      {
+        "label": "Doświadczenie",
+        "body": "Wąska praktyka rekonstrukcyjna, działalność akademicka i międzynarodowa współpraca zawodowa w nowoczesnej ortopedii rekonstrukcyjnej.",
+        "proof": "Wąska specjalizacja"
+      },
+      {
+        "label": "Technologie",
+        "body": "Nowoczesne systemy reconstruction, planowanie korekcji i dostępy małoinwazyjne jako część reconstruction workflow — od modelowania po kontrolę wyniku.",
+        "proof": "Systemy reconstruction"
+      }
+    ],
+    "portraitBadgeLabel": "— Praktyka",
+    "portraitBadgeLine1": "Ortopedia rekonstrukcyjna",
+    "portraitBadgeLine2": "· Wydłużanie kończyn",
+    "bioTitle": "ortopeda-traumatolog, chirurg rekonstrukcyjny.",
+    "tags": [
+      "Rekonstrukcja po urazach",
+      "Korekcja deformacji",
+      "Wydłużanie kończyn",
+      "Nowoczesne technologie reconstruction"
+    ],
+    "p1pre": "Specjalizuje się w ",
+    "p1bold": "nowoczesnej ortopedii rekonstrukcyjnej",
+    "p1post": ", korekcji deformacji oraz wydłużaniu kończyn.",
+    "p2": "Główne kierunki pracy obejmują leczenie następstw urazów, rekonstrukcję złożonych ubytków ortopedycznych, przywracanie symetrii oraz nowoczesne podejścia do funkcjonalnej i estetycznej odbudowy kończyn. Łączy praktykę kliniczną, działalność akademicką i nowoczesne technologie rekonstrukcyjne.",
+    "credEducationLabel": "Wykształcenie",
+    "credEducationMain": "Narodowy Uniwersytet Medyczny im. O.O. Bohomolca ·",
+    "credEducationItalic": "PhD",
+    "credInternshipLabel": "Staże",
+    "credInternshipValue": "Wiodące kliniki w Paryżu, we Włoszech i w Niemczech",
+    "credSpecLabel": "Specjalizacja",
+    "credSpecMain": "Rekonstrukcja kończyn ·",
+    "credSpecItalic": "korekcja osi"
+  },
+  "statsBar": [
+    {
+      "value": "15+",
+      "label": "Lat praktyki"
+    },
+    {
+      "value": "4500+",
+      "label": "Rekonstrukcji"
+    },
+    {
+      "value": "15+",
+      "label": "Publikacji naukowych"
+    }
+  ],
+  "academic": {
+    "sectionLabel": "Środowisko akademickie",
+    "headingLight": "Środowisko akademickie i ",
+    "headingBold": "kliniczne",
+    "paragraphs": [
+      "Rozwój nowoczesnej ortopedii rekonstrukcyjnej łączy praktykę kliniczną, działalność akademicką i międzynarodową współpracę zawodową.",
+      "Uniwersyteckie środowisko kliniczne tworzy podstawę rozwoju nowoczesnych podejść reconstruction, komunikacji zawodowej oraz wdrażania nowoczesnych technologii w rekonstrukcji i wydłużaniu kończyn."
+    ],
+    "quote": "Nowoczesna rekonstrukcja to nieustanny rozwój, współpraca zawodowa i postęp technologiczny.",
+    "miniCards": [
+      "Międzynarodowa działalność zawodowa",
+      "Akademickie środowisko kliniczne",
+      "Nowoczesne technologie reconstruction"
+    ]
+  },
+  "technology": {
+    "sectionLabel": "Technologie",
+    "headingLight": "Nowoczesne technologie ",
+    "headingBold": "rekonstrukcyjne",
+    "paragraphs": [
+      "Nowoczesna ortopedia rekonstrukcyjna łączy indywidualne planowanie, kontrolę osi i symetrii kończyn oraz nowoczesne technologie korekcji i stabilizacji.",
+      "Rozwój technologii reconstruction otwiera nowe możliwości bardziej precyzyjnej, kontrolowanej i funkcjonalnej odbudowy w przypadku deformacji, skróceń i wydłużania kończyn."
+    ],
+    "quote": "Technologie nie powinny zastępować chirurga, lecz poszerzać możliwości rekonstrukcji.",
+    "imageAlt": "Chirurg na sali operacyjnej — przygotowanie do zabiegu rekonstrukcyjnego",
+    "miniCards": [
+      {
+        "title": "Indywidualne planowanie",
+        "body": "Analiza geometrii kończyny i dobór scenariusza rekonstrukcji do konkretnego przypadku."
+      },
+      {
+        "title": "Kontrola symetrii i osi",
+        "body": "Przywracanie osi, symetrii i równowagi biomechanicznej kończyn dolnych."
+      },
+      {
+        "title": "Nowoczesne systemy reconstruction",
+        "body": "Rozwiązania technologiczne do korekcji i stabilizacji jako część reconstruction workflow."
+      },
+      {
+        "title": "Odbudowa funkcjonalna",
+        "body": "Kontrolowana odbudowa funkcji i anatomii w przypadku deformacji oraz wydłużania."
+      }
+    ]
+  },
+  "bookOnline": {
+    "sectionLabel": "06 — Skontaktuj się",
+    "headingPre": "Indywidualna konsultacja i ",
+    "headingItalic": "ocena przypadku",
+    "body": "Prześlij swoje zdjęcia i krótko opisz sytuację — otrzymasz wstępny plan leczenia z komentarzem dotyczącym dalszych kroków.",
+    "ctaUpload": "Prześlij zdjęcia online",
+    "channelsLabel": "Kanały bezpośrednie",
+    "channels": [
+      {
+        "mono": "TG",
+        "label": "Telegram",
+        "handle": "+380 66 766 70 94"
+      },
+      {
+        "mono": "WA",
+        "label": "WhatsApp",
+        "handle": "+380 66 766 70 94"
+      },
+      {
+        "mono": "@",
+        "label": "Email",
+        "handle": "meredian18@gmail.com"
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2026 Modern Orthopaedic Reconstruction. Wszelkie prawa zastrzeżone."
+  },
+  "clinical": {
+    "hero": {
+      "eyebrow": "Dla lekarzy · For colleagues",
+      "headingPre": "Współpraca kliniczna w ",
+      "headingBold": "ortopedii rekonstrukcyjnej",
+      "subtitle": "Przestrzeń dla lekarzy, środowiska akademickiego i partnerów technologicznych — wokół nowoczesnego ekosystemu reconstruction.",
+      "body": "Rekonstrukcja i wydłużanie kończyn, korekcja deformacji oraz kontrola osi — jako wspólna praca kliniczna, akademicka i technologiczna, a nie jedynie indywidualna praktyka.",
+      "ctaPartnership": "Zapytanie o współpracę",
+      "ctaReferral": "Skieruj pacjenta",
+      "audiences": [
+        "Dla lekarzy kierujących",
+        "Współpraca akademicka",
+        "MedTech / reconstruction ecosystem"
+      ]
+    },
+    "ecosystem": {
+      "sectionLabel": "Reconstruction ecosystem",
+      "headingLight": "Rekonstrukcja jako ",
+      "headingBold": "jeden workflow",
+      "paragraphs": [
+        "Dla odbiorców profesjonalnych dziedzina reconstruction to nie pojedyncza usługa, lecz całościowy proces: od planowania geometrii po kontrolę wyniku funkcjonalnego.",
+        "Rozwiązania technologiczne i nowoczesne systemy reconstruction są zintegrowane z tym procesem jako narzędzie precision-chirurgii. Technologie poszerzają możliwości rekonstrukcji — nie zastępując decyzji klinicznej chirurga."
+      ],
+      "imageAlt": "Geometria stawu kolanowego — reconstruction planning overlay",
+      "layers": [
+        {
+          "title": "Planowanie przedoperacyjne",
+          "body": "Analiza geometrii kończyny, osi i symetrii, modelowanie korekcji oraz scenariusza rekonstrukcji do konkretnego przypadku.",
+          "tags": [
+            "deformity analysis",
+            "axis & alignment",
+            "case planning"
+          ]
+        },
+        {
+          "title": "Systemy korekcji i stabilizacji",
+          "body": "Nowoczesne systemy reconstruction do kontrolowanej korekcji, stabilizacji i wydłużania — jako część jednego workflow, a nie katalog implantów.",
+          "tags": [
+            "external / internal fixation",
+            "lengthening systems",
+            "gradual correction"
+          ]
+        },
+        {
+          "title": "Kontrola śródoperacyjna",
+          "body": "Kontrola osi, symetrii i równowagi biomechanicznej podczas zabiegu w oparciu o wcześniejsze planowanie.",
+          "tags": [
+            "intra-op control",
+            "biomechanics",
+            "precision"
+          ]
+        },
+        {
+          "title": "Odbudowa funkcjonalna",
+          "body": "Kontrolowana odbudowa funkcji i anatomii w przypadku deformacji, skróceń i wydłużania według przewidywalnego protokołu.",
+          "tags": [
+            "protocol-driven",
+            "outcome tracking",
+            "rehabilitation"
+          ]
+        }
+      ]
+    },
+    "cases": {
+      "sectionLabel": "Przypadki kliniczne i techniki",
+      "headingLight": "Analiza przypadków dla ",
+      "headingBold": "środowiska zawodowego",
+      "intro": "Ustrukturyzowane przypadki kliniczne: wskazania, planowanie, technika, wynik. Pełne materiały i zdjęcia — na żądanie po zawodowym uzgodnieniu.",
+      "imageAlt": "Stabilizacja śródszpikowa — reconstruction system",
+      "fieldIndication": "Wskazania",
+      "fieldPlanning": "Planowanie",
+      "fieldTechnique": "Technika",
+      "fieldResult": "Wynik",
+      "onRequest": "Materiały na żądanie",
+      "ctaRequest": "Poproś o materiały kliniczne",
+      "items": [
+        {
+          "area": "Korekcja deformacji",
+          "title": "Korekcja osi kończyny dolnej",
+          "indication": "Deformacja osi, zaburzenie symetrii",
+          "planning": "Analiza geometrii, modelowanie korekcji",
+          "technique": "Osteotomia korekcyjna, stabilna fiksacja",
+          "result": "Przywrócenie osi i symetrii kończyny"
+        },
+        {
+          "area": "Wydłużanie kończyn",
+          "title": "Wydłużanie funkcjonalne",
+          "indication": "Skrócenie kończyny",
+          "planning": "Obliczenie wydłużenia, kontrola osi",
+          "technique": "Wydłużanie śródszpikowe z etapową kontrolą",
+          "result": "Zaplanowana długość z zachowaniem funkcji"
+        },
+        {
+          "area": "Rekonstrukcja po urazach",
+          "title": "Rekonstrukcja złożonego ubytku",
+          "indication": "Następstwa urazu, ubytek segmentu",
+          "planning": "Etapowy scenariusz reconstruction",
+          "technique": "Etapowa rekonstrukcja ubytku, stabilna fiksacja",
+          "result": "Przywrócenie ciągłości i funkcji podporowej"
+        }
+      ]
+    },
+    "activity": {
+      "sectionLabel": "Działalność akademicka i międzynarodowa",
+      "headingLight": "Praktyka kliniczna i ",
+      "headingBold": "praca akademicka",
+      "intro": "Rozwój dziedziny reconstruction łączy praktykę kliniczną, działalność akademicką i międzynarodową współpracę zawodową w jednym środowisku.",
+      "quote": "Nowoczesna rekonstrukcja to nieustanny rozwój, współpraca zawodowa i postęp technologiczny.",
+      "imageAlt": "Zespół chirurgiczny podczas zabiegu na stawie kolanowym",
+      "groups": [
+        {
+          "k": "Wykształcenie",
+          "items": [
+            "Narodowy Uniwersytet Medyczny im. O.O. Bohomolca",
+            "PhD — ortopedia rekonstrukcyjna"
+          ]
+        },
+        {
+          "k": "Środowisko kliniczne",
+          "items": [
+            "Uniwersytecka praktyka kliniczna",
+            "Rekonstrukcja i wydłużanie kończyn"
+          ]
+        },
+        {
+          "k": "Aktywność międzynarodowa",
+          "items": [
+            "EFORT i konferencje branżowe",
+            "Zawodowe środowisko networkingowe"
+          ]
+        },
+        {
+          "k": "Publikacje",
+          "items": [
+            "15+ publikacji naukowych"
+          ]
+        }
+      ]
+    },
+    "partnership": {
+      "sectionLabel": "Współpraca",
+      "headingLight": "Trzy formaty współpracy ",
+      "headingBold": "zawodowej",
+      "tracks": [
+        {
+          "title": "Dla lekarzy kierujących",
+          "body": "Kierowanie pacjentów z deformacjami, skróceniem, asymetrią i następstwami urazów. Wstępna ocena przypadku i informacja zwrotna dotycząca scenariusza reconstruction.",
+          "points": [
+            "Ocena przypadku na podstawie zdjęć",
+            "Informacja zwrotna co do taktyki",
+            "Opieka nad skierowanym pacjentem"
+          ]
+        },
+        {
+          "title": "Wspólne operacje i second opinion",
+          "body": "Konsultacja zawodowa w złożonych przypadkach, wspólne zabiegi oraz niezależna opinia dotycząca planowania rekonstrukcji i korekcji osi.",
+          "points": [
+            "Second opinion",
+            "Wspólne zabiegi",
+            "Konsultacja dotycząca planowania"
+          ]
+        },
+        {
+          "title": "MedTech / reconstruction ecosystem",
+          "body": "Współpraca z partnerami technologicznymi wokół nowoczesnych systemów reconstruction — walidacja kliniczna, rozwój workflow i współpraca partnerska.",
+          "points": [
+            "Walidacja kliniczna",
+            "Rozwój workflow",
+            "Współpraca partnerska"
+          ]
+        }
+      ],
+      "ctaLabel": "Zapytanie o współpracę",
+      "ctaHeadingPre": "Omów przypadek kliniczny lub ",
+      "ctaHeadingItalic": "partnerstwo",
+      "ctaBody": "Napisz krótko o przypadku, formacie współpracy lub zapytaniu o materiały kliniczne — otrzymasz odpowiedź dotyczącą dalszych kroków.",
+      "ctaSend": "Wyślij zapytanie",
+      "channelsLabel": "Kanały bezpośrednie",
+      "channels": [
+        {
+          "mono": "TG",
+          "label": "Telegram",
+          "handle": "+380 66 766 70 94"
+        },
+        {
+          "mono": "WA",
+          "label": "WhatsApp",
+          "handle": "+380 66 766 70 94"
+        },
+        {
+          "mono": "@",
+          "label": "Email",
+          "handle": "meredian18@gmail.com"
+        }
+      ]
+    }
+  }
+}
