@@ -1,0 +1,35 @@
+# Environment files and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.sqlite
+*.sqlite3
+
+# Dependencies and build output (review after receiving actual stack)
+node_modules/
+.next/
+.nuxt/
+dist/
+build/
+coverage/
+.wrangler/
+.vercel/
+.cache/
+
+# System and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
+
+# Dumps, private exports, backups
+*.sql
+*.sql.gz
+*.bak
+backups/
+private/
