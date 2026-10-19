@@ -10,7 +10,7 @@ declare global {
   }
 }
 
-const ID = process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID;
+const ID = "G-5VGYV62NPE";
 const CONSENT_KEY = "travmatolog-analytics-consent";
 
 export default function Analytics() {
