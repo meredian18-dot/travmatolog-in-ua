@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { localizedAlternates } from "../seo";
 import { notFound } from "next/navigation";
 import { getDictionary, hasLocale, type Locale } from "../i18n";
 import TopBar from "@/components/TopBar";
@@ -22,7 +23,7 @@ export async function generateMetadata({
   const { lang } = await params;
   if (!hasLocale(lang)) return {};
   const dict = getDictionary(lang);
-  return { title: dict.meta.homeTitle, description: dict.meta.homeDescription };
+  return { title: dict.meta.homeTitle, description: dict.meta.homeDescription, alternates: localizedAlternates(lang) };
 }
 
 export default async function Home({
