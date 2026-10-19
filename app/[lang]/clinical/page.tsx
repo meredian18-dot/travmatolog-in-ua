@@ -21,6 +21,7 @@ export async function generateMetadata({
   return {
     title: dict.meta.clinicalTitle,
     description: dict.meta.clinicalDescription,
+    alternates: { canonical: `https://travmatolog.in.ua/${lang}/clinical/` },
   };
 }
 
