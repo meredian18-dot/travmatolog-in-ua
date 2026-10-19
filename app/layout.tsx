@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Manrope, Inter, Cormorant_Garamond } from "next/font/google";
 import "./globals.css";
+import Analytics from "@/components/Analytics";
 
 // Production origin — the site's custom domain.
 const SITE_URL = "https://travmatolog.in.ua";
@@ -65,6 +66,7 @@ export default function RootLayout({
     >
       <body className="min-h-full flex flex-col bg-cream text-ink">
         {children}
+        <Analytics />
       </body>
     </html>
   );
