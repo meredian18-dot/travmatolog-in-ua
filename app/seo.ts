@@ -3,7 +3,7 @@ import { locales, type Locale } from "./i18n";
 
 const ORIGIN = "https://travmatolog.in.ua";
 
-/** Canonical and reciprocal alternate languages for the same content page. */
+/** Canonical and reciprocal alternate languages for equivalent localized pages. */
 export function localizedAlternates(lang: Locale, suffix = ""): NonNullable<Metadata["alternates"]> {
   const path = suffix ? `/${suffix.replace(/^\/+|\/+$/g, "")}/` : "/";
   const languages: Record<string, string> = {};
