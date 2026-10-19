@@ -36,8 +36,18 @@ export default async function Home({
   const loc = lang as Locale;
   const dict = getDictionary(loc);
 
+  const physicianSchema = {
+    "@context": "https://schema.org",
+    "@type": "Physician",
+    name: "Maksym Baida",
+    url: `https://travmatolog.in.ua/${loc}/`,
+    medicalSpecialty: "Orthopedic",
+    description: dict.meta.homeDescription,
+  };
+
   return (
     <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(physicianSchema).replace(/</g, "\\u003c") }} />
       <div className="relative">
         <Hero dict={dict} lang={loc} />
         <div className="absolute top-0 left-0 right-0 z-50">
