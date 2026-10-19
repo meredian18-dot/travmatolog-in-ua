@@ -18,11 +18,22 @@ jobs:
       - run: npm run build
       - name: Check static locale output
         run: |
-          for locale in uk en de pl; do
-            test -f "out/$locale/index.html"
-            grep -q "<html[^>]*lang=\"$locale\"" "out/$locale/index.html"
-            grep -q 'rel="canonical"' "out/$locale/index.html"
-            grep -q 'hreflang=' "out/$locale/index.html"
-          done
-          test -f out/sitemap.xml
-          test -f out/robots.txt
+          python3 - <<'PY'
+          from pathlib import Path
+          for lang in ['uk','en','de','pl']:
+              p=Path('out')/lang/'index.html'
+              print(lang, 'exists', p.exists())
+              if not p.exists(): raise SystemExit(1)
+              html=p.read_text()
+              import re
+              checks={'language':bool(re.search(r'<html[^>]*lang="'+lang+'"',html)),
+                      'canonical':'rel="canonical"' in html,
+                      'hreflang':'hreflang=' in html.lower()}
+              print(checks)
+              if not all(checks.values()):
+                  print('head excerpt:', html[:4000])
+                  raise SystemExit(1)
+          for path in ['out/sitemap.xml','out/robots.txt']:
+              print(path,Path(path).exists())
+              assert Path(path).exists()
+          PY
