@@ -15,6 +15,7 @@ export default function RootRedirect() {
   return (
     <>
       <meta httpEquiv="refresh" content={`0; url=${TARGET}`} />
+      <link rel="canonical" href="https://travmatolog.in.ua/uk/" />
       <main className="min-h-screen flex items-center justify-center bg-cream">
         <a href={TARGET} className="label-caps text-ink-muted hover:text-ink transition-colors">
           Continue →
