@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { localizedAlternates } from "@/app/seo";
 import { notFound } from "next/navigation";
 import { getDictionary, hasLocale, locales, type Locale } from "@/app/i18n";
 import { BASE } from "@/app/base";
@@ -24,7 +25,7 @@ export async function generateMetadata({
   const dict = getDictionary(lang);
   const article = getDirections(lang).articles[slug];
   if (!article) return {};
-  return { title: `${article.title} — ${dict.meta.homeTitle}`, description: article.lead };
+  return { title: `${article.title} — ${dict.meta.homeTitle}`, description: article.lead, alternates: localizedAlternates(lang, `treatments/${slug}`) };
 }
 
 export default async function TreatmentDetail({
