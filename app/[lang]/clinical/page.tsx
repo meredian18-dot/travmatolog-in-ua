@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { localizedAlternates } from "../../seo";
 import { notFound } from "next/navigation";
 import { getDictionary, hasLocale, type Locale } from "../../i18n";
 import TopBar from "@/components/TopBar";
@@ -21,7 +22,7 @@ export async function generateMetadata({
   return {
     title: dict.meta.clinicalTitle,
     description: dict.meta.clinicalDescription,
-    alternates: { canonical: `https://travmatolog.in.ua/${lang}/clinical/` },
+    alternates: localizedAlternates(lang, "clinical"),
   };
 }
 

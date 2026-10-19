@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { localizedAlternates } from "../seo";
 import { notFound } from "next/navigation";
 import { getDictionary, hasLocale, type Locale } from "../i18n";
 import TopBar from "@/components/TopBar";
@@ -22,7 +23,7 @@ export async function generateMetadata({
   const { lang } = await params;
   if (!hasLocale(lang)) return {};
   const dict = getDictionary(lang);
-  return { title: dict.meta.homeTitle, description: dict.meta.homeDescription, alternates: { canonical: `https://travmatolog.in.ua/${lang}/` } };
+  return { title: dict.meta.homeTitle, description: dict.meta.homeDescription, alternates: localizedAlternates(lang) };
 }
 
 export default async function Home({
@@ -35,8 +36,18 @@ export default async function Home({
   const loc = lang as Locale;
   const dict = getDictionary(loc);
 
+  const physicianSchema = {
+    "@context": "https://schema.org",
+    "@type": "Physician",
+    name: "Maksym Baida",
+    url: `https://travmatolog.in.ua/${loc}/`,
+    medicalSpecialty: "Orthopedic",
+    description: dict.meta.homeDescription,
+  };
+
   return (
     <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(physicianSchema).replace(/</g, "\\u003c") }} />
       <div className="relative">
         <Hero dict={dict} lang={loc} />
         <div className="absolute top-0 left-0 right-0 z-50">
