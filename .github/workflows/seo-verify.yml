@@ -1,0 +1,28 @@
+name: Verify SEO build
+on:
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - run: npm ci
+      - run: npm run build
+      - name: Check static locale output
+        run: |
+          for locale in uk en de pl; do
+            test -f "out/$locale/index.html"
+            grep -q "<html[^>]*lang=\"$locale\"" "out/$locale/index.html"
+            grep -q 'rel="canonical"' "out/$locale/index.html"
+            grep -q 'hreflang=' "out/$locale/index.html"
+          done
+          test -f out/sitemap.xml
+          test -f out/robots.txt
