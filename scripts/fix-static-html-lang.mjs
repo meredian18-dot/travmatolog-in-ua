@@ -13,7 +13,7 @@ for (const lang of ["uk", "en", "de", "pl"]) {
       if (entry.isDirectory()) visit(path);
       else if (entry.name.endsWith(".html")) {
         const html = readFileSync(path, "utf8");
-        const corrected = html.replace(/(<html\\b[^>]*\\blang=")[^"]*(")/i, `$1${lang}$2`);
+        const corrected = html.replace(/(<html\b[^>]*\blang=")[^"]*(")/i, `$1${lang}$2`);
         if (corrected === html && lang !== "uk") throw new Error(`Missing HTML lang in ${path}`);
         writeFileSync(path, corrected);
       }
