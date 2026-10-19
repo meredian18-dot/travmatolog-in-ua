@@ -24,7 +24,7 @@ export async function generateMetadata({
   const dict = getDictionary(lang);
   const article = getDirections(lang).articles[slug];
   if (!article) return {};
-  return { title: `${article.title} — ${dict.meta.homeTitle}`, description: article.lead };
+  return { title: `${article.title} — ${dict.meta.homeTitle}`, description: article.lead, alternates: { canonical: `https://travmatolog.in.ua/${lang}/treatments/${slug}/` } };
 }
 
 export default async function TreatmentDetail({

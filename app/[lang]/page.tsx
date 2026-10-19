@@ -22,7 +22,7 @@ export async function generateMetadata({
   const { lang } = await params;
   if (!hasLocale(lang)) return {};
   const dict = getDictionary(lang);
-  return { title: dict.meta.homeTitle, description: dict.meta.homeDescription };
+  return { title: dict.meta.homeTitle, description: dict.meta.homeDescription, alternates: { canonical: `https://travmatolog.in.ua/${lang}/` } };
 }
 
 export default async function Home({
