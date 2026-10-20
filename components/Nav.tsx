@@ -1,9 +1,10 @@
 import { locales, localeNames, type Dict, type Locale } from "@/app/i18n";
 import { BASE } from "@/app/base";
 import MobileMenu from "@/components/MobileMenu";
+import { internationalLabels } from "@/app/international-nav";
 
-function LocaleDropdown({ lang, current }: { lang: Locale; current: "home" | "clinical" }) {
-  const suffix = current === "clinical" ? "clinical/" : "";
+function LocaleDropdown({ lang, current }: { lang: Locale; current: "home" | "clinical" | "international" }) {
+  const suffix = current === "clinical" ? "clinical/" : current === "international" ? "international-patients/" : "";
   return (
     <details className="relative group">
       <summary className="flex items-center gap-2 px-6 py-5 label-caps text-[11.5px] font-semibold text-white/85 hover:text-white cursor-pointer list-none border-l border-white/15 h-full transition-colors">
@@ -46,7 +47,7 @@ export default function Nav({
 }: {
   dict: Dict;
   lang: Locale;
-  current: "home" | "clinical";
+  current: "home" | "clinical" | "international";
 }) {
   const navLinks = [
     { label: dict.nav.home, href: `${BASE}/${lang}/`, key: "home" },
@@ -54,6 +55,7 @@ export default function Nav({
     { label: dict.nav.treatments, href: `${BASE}/${lang}/#treatments`, key: "treatments" },
     { label: dict.nav.doctor, href: `${BASE}/${lang}/#about-doctor`, key: "doctor" },
     { label: dict.nav.tech, href: `${BASE}/${lang}/#technology`, key: "tech" },
+    { label: internationalLabels[lang], href: `${BASE}/${lang}/international-patients/`, key: "international" },
     { label: dict.nav.contacts, href: `${BASE}/${lang}/#consultation`, key: "contacts" },
   ];
 
@@ -62,7 +64,7 @@ export default function Nav({
     ? { label: dict.nav.forPatients, href: `${BASE}/${lang}/` }
     : { label: dict.nav.forColleagues, href: `${BASE}/${lang}/clinical/` };
 
-  const suffix = onClinical ? "clinical/" : "";
+  const suffix = onClinical ? "clinical/" : current === "international" ? "international-patients/" : "";
   const localeItems = locales.map((l) => ({
     code: l,
     name: localeNames[l],
@@ -86,7 +88,7 @@ export default function Nav({
         {/* Main nav — desktop */}
         <nav className="hidden xl:flex items-center gap-8 px-8 flex-1">
           {navLinks.map((link) => {
-            const active = current === "home" && link.key === "home";
+            const active = current === link.key;
             return (
               <a
                 key={link.key}
