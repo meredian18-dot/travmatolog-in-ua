@@ -83,10 +83,10 @@ function groupBlocks(blocks: Block[]): BlockGroup[] {
   return groups;
 }
 
-function BlockBody({ block }: { block: Block }) {
+function BlockBody({ block, hideDiagram = false }: { block: Block; hideDiagram?: boolean }) {
   return (
     <>
-      {block.diagram && (
+      {block.diagram && !hideDiagram && (
         <ImageLightbox
           images={[`${BASE}/directions/${block.diagram}`]}
           className="mb-4 grid grid-cols-1"
@@ -194,16 +194,22 @@ function RichDetail({
 
       <main className="bg-paper">
         <div className="mx-auto max-w-[1200px] px-5 sm:px-8 py-14 sm:py-20">
-          <p className="text-ink text-lg leading-relaxed">{article.intro}</p>
-
-          {article.gallery.length > 0 && (
-            <ImageLightbox
-              images={article.gallery.map((img) => `${BASE}/directions/${img}`)}
-              className="mt-8 grid grid-cols-1 sm:grid-cols-2 gap-4"
-              aspect="aspect-[3/2]"
-              fit="contain"
-              letterboxBg="bg-white"
-            />
+          {article.gallery.length > 0 ? (
+            <div className="grid grid-cols-1 lg:grid-cols-2 gap-7 lg:gap-10 items-center">
+              <div className="min-w-0">
+                <ImageLightbox
+                  images={article.gallery.map((img) => `${BASE}/directions/${img}`)}
+                  className={`grid gap-3 ${article.gallery.length > 1 ? "grid-cols-2" : "grid-cols-1"}`}
+                  aspect="aspect-[3/2]"
+                  fit="contain"
+                  letterboxBg="bg-white"
+                />
+                <p className="text-center text-xs text-ink-muted mt-2">Натисніть на зображення, щоб збільшити</p>
+              </div>
+              <p className="text-ink text-lg leading-relaxed">{article.intro}</p>
+            </div>
+          ) : (
+            <p className="text-ink text-lg leading-relaxed">{article.intro}</p>
           )}
 
           <div className="mt-4">
@@ -250,9 +256,27 @@ function RichDetail({
                   {block.heading && (
                     <h3 className="font-sans font-medium text-ink text-lg mb-3">{block.heading}</h3>
                   )}
-                  <div className="space-y-3.5 text-ink leading-relaxed">
-                    <BlockBody block={block} />
-                  </div>
+                  {block.diagram ? (
+                    <div className="grid grid-cols-1 lg:grid-cols-2 gap-7 lg:gap-10 items-start">
+                      <div className="min-w-0">
+                        <ImageLightbox
+                          images={[`${BASE}/directions/${block.diagram}`]}
+                          className="grid grid-cols-1"
+                          aspect="aspect-[3/2]"
+                          fit="contain"
+                          letterboxBg="bg-white"
+                        />
+                        <p className="text-center text-xs text-ink-muted mt-2">Натисніть на зображення, щоб збільшити</p>
+                      </div>
+                      <div className="space-y-3.5 text-ink leading-relaxed min-w-0">
+                        <BlockBody block={block} hideDiagram />
+                      </div>
+                    </div>
+                  ) : (
+                    <div className="space-y-3.5 text-ink leading-relaxed">
+                      <BlockBody block={block} />
+                    </div>
+                  )}
                 </div>
               );
             })}
