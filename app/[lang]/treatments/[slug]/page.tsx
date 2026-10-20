@@ -93,7 +93,8 @@ function groupBlocks(blocks: Block[]): BlockGroup[] {
 }
 
 function localizedTreatmentImage(file: string, slug: string, lang: Locale): string {
-  if (slug === "hallux-valgus" && lang !== "uk" && /^hallux-valgus-diagram[12]\\.jpg$/.test(file)) {
+  if (slug === "hallux-valgus" && lang !== "uk" &&
+      (file === "hallux-valgus-diagram1.jpg" || file === "hallux-valgus-diagram2.jpg")) {
     return file.replace(".jpg", `-${lang}.webp`);
   }
   return file;
