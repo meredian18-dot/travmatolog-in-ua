@@ -34,7 +34,11 @@ export default function Analytics() {
       else if (href.startsWith("mailto:")) channel = "email";
       else if (href.startsWith("https://t.me/")) channel = "telegram";
       else if (href.startsWith("https://wa.me/")) channel = "whatsapp";
-      if (channel) window.gtag?.("event", "contact_click", { contact_channel: channel });
+      if (channel) window.gtag?.("event", "contact_click", {
+        contact_channel: channel,
+        page_path: window.location.pathname,
+        page_language: window.location.pathname.split("/")[1] || "unknown",
+      });
     };
     document.addEventListener("click", onContactClick);
     return () => document.removeEventListener("click", onContactClick);
