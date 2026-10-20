@@ -276,7 +276,7 @@ function RichDetail({
                     <div className="grid grid-cols-1 lg:grid-cols-2 gap-7 lg:gap-10 items-start">
                       <div className="min-w-0">
                         <ImageLightbox
-                          images={[`${BASE}/directions/${block.diagram}`]}
+                          images={[`${BASE}/directions/${localizedTreatmentImage(block.diagram, slug, lang)}`]}
                           className="grid grid-cols-1"
                           aspect="aspect-[3/2]"
                           fit="contain"
