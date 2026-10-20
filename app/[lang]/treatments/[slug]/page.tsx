@@ -7,6 +7,7 @@ import TopBar from "@/components/TopBar";
 import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
 import ImageLightbox from "@/components/ImageLightbox";
+import HalluxInternationalUk from "@/components/HalluxInternationalUk";
 import { getDirections, type Article, type Block } from "@/app/directions";
 
 export function generateStaticParams() {
@@ -25,6 +26,13 @@ export async function generateMetadata({
   const dict = getDictionary(lang);
   const article = getDirections(lang).articles[slug];
   if (!article) return {};
+  if (lang === "uk" && slug === "hallux-valgus") {
+    return {
+      title: "Hallux valgus — операція на кісточці стопи | Максим Байда",
+      description: "Хірургічне лікування Hallux valgus: корекція кісточки на нозі, діагностика та відновлення після операції. Консультація ортопеда Максима Байди в Києві та звернення з-за кордону.",
+      alternates: localizedAlternates(lang, `treatments/${slug}`),
+    };
+  }
   return { title: `${article.title} — ${dict.meta.homeTitle}`, description: article.lead, alternates: localizedAlternates(lang, `treatments/${slug}`) };
 }
 
@@ -249,6 +257,8 @@ function RichDetail({
               );
             })}
           </div>
+
+          {lang === "uk" && slug === "hallux-valgus" && <HalluxInternationalUk />}
 
           <div className="mt-14 pt-10 border-t border-hairline">
             <a
