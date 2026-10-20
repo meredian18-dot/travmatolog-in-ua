@@ -33,7 +33,7 @@ const infographics = [
 
 export default function HalluxLayoutPreview() {
   const variant = "2";
-  const isSplit = variant === "3";
+  const isSplit: boolean = false;
   return (
     <main className="min-h-screen bg-paper text-ink px-5 sm:px-8 py-10 sm:py-16">
       <div className="mx-auto max-w-[1100px]">
