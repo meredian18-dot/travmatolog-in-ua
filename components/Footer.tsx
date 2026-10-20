@@ -1,6 +1,7 @@
 import { localeNames, type Dict, type Locale } from "@/app/i18n";
 import { BASE } from "@/app/base";
 import { CONTACTS } from "@/app/contacts";
+import { internationalLabels } from "@/app/international-nav";
 
 export default function Footer({ dict, lang }: { dict: Dict; lang: Locale }) {
   const navLinks = [
@@ -10,6 +11,7 @@ export default function Footer({ dict, lang }: { dict: Dict; lang: Locale }) {
     { label: dict.nav.doctor, href: `${BASE}/${lang}/#about-doctor` },
     { label: dict.nav.tech, href: `${BASE}/${lang}/#technology` },
     { label: dict.nav.contacts, href: `${BASE}/${lang}/#consultation` },
+    { label: internationalLabels[lang], href: `${BASE}/${lang}/international-patients/` },
     { label: dict.nav.forColleagues, href: `${BASE}/${lang}/clinical/` },
   ];
 
