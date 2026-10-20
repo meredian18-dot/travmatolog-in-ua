@@ -3,7 +3,7 @@ import { notFound } from "next/navigation";
 import { hasLocale, locales, getDictionary, type Locale } from "@/app/i18n";
 import { localizedAlternates } from "@/app/seo";
 import { BASE } from "@/app/base";
-import EuropeConnections from "@/components/EuropeConnections";
+
 import BookOnline from "@/components/BookOnline";
 import { TreatmentCards } from "@/components/Treatments";
 import TopBar from "@/components/TopBar";
@@ -65,7 +65,7 @@ export default async function InternationalPatients({params}:{params:Promise<{la
  const locale=lang as Locale;const c=copy[locale];const dict=getDictionary(locale);
  return <><div className="bg-tan-dark"><TopBar dict={dict} lang={locale}/><Nav dict={dict} lang={locale} current="international"/>
  <section className="relative isolate overflow-hidden mx-auto max-w-[1440px] px-5 sm:px-8 pt-14 pb-20 sm:pt-20 sm:pb-24 text-white">
- <div aria-hidden="true" className="absolute inset-y-0 right-0 w-[72%] lg:w-[57%] pointer-events-none opacity-25 sm:opacity-55 lg:opacity-100"><EuropeConnections/></div>
+ <div aria-hidden="true" className="absolute inset-y-0 right-0 w-[72%] lg:w-[57%] pointer-events-none opacity-20 sm:opacity-50 lg:opacity-80 flex items-center"><img src={`${BASE}/graphics/europe-network-soft.svg`} alt="" className="w-full h-auto max-h-full object-contain" /></div>
  <div className="relative z-10 lg:max-w-[64%]">
  <p className="label-caps text-white/60 mb-7">{c.eyebrow}</p>
  <h1 className="font-sans font-light text-[clamp(2rem,4.3vw,3.8rem)] leading-[1.1]">{c.title.split(" | ")[0]}</h1>
