@@ -47,7 +47,7 @@ export default function Nav({
 }: {
   dict: Dict;
   lang: Locale;
-  current: "home" | "clinical";
+  current: "home" | "clinical" | "international";
 }) {
   const navLinks = [
     { label: dict.nav.home, href: `${BASE}/${lang}/`, key: "home" },
