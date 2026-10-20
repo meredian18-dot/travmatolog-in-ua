@@ -97,7 +97,7 @@ function BlockBody({ block, hideDiagram = false }: { block: Block; hideDiagram?:
     <>
       {block.diagram && !hideDiagram && (
         <ImageLightbox
-          images={[`${BASE}/directions/${block.diagram}`]}
+          images={[`${BASE}/directions/${localizedImage(block.diagram)}`]}
           className="mb-4 grid grid-cols-1"
           aspect="aspect-[3/2]"
           fit="contain"
@@ -163,6 +163,10 @@ function RichDetail({
   article: Article;
 }) {
   const t = dict.treatments;
+  const localizedImage = (file: string) =>
+    slug === "hallux-valgus" && lang !== "uk" && /^hallux-valgus-diagram[12]\.jpg$/.test(file)
+      ? file.replace(".jpg", `-${lang}.webp`)
+      : file;
 
   return (
     <>
@@ -207,7 +211,7 @@ function RichDetail({
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-7 lg:gap-10 items-center">
               <div className="min-w-0">
                 <ImageLightbox
-                  images={article.gallery.map((img) => `${BASE}/directions/${img}`)}
+                  images={article.gallery.map((img) => `${BASE}/directions/${localizedImage(img)}`)}
                   className={`grid gap-3 ${article.gallery.length > 1 ? "grid-cols-2" : "grid-cols-1"}`}
                   aspect="aspect-[3/2]"
                   fit="contain"
