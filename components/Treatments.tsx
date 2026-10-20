@@ -19,14 +19,22 @@ function SectionHeader({ t }: { t: Dict["treatments"] }) {
 
 export default function Treatments({ dict, lang }: { dict: Dict; lang: Locale }) {
   const t = dict.treatments;
-  const directions = getDirections(lang);
 
   return (
     <section id="treatments" className="bg-tan-dark py-14 sm:py-20 scroll-mt-24">
       <div className="mx-auto max-w-[1440px] px-5 sm:px-8">
         <SectionHeader t={t} />
 
-        {/* 3×4 direction-card grid */}
+        <TreatmentCards dict={dict} lang={lang} />
+      </div>
+    </section>
+  );
+}
+
+export function TreatmentCards({ dict, lang }: { dict: Dict; lang: Locale }) {
+  const t = dict.treatments;
+  const directions = getDirections(lang);
+  return (
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 lg:gap-6">
           {directions.cards.map((card, i) => (
             <a
@@ -54,7 +62,5 @@ export default function Treatments({ dict, lang }: { dict: Dict; lang: Locale })
             </a>
           ))}
         </div>
-      </div>
-    </section>
   );
 }
