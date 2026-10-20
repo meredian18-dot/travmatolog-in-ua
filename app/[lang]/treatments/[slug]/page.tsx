@@ -92,6 +92,14 @@ function groupBlocks(blocks: Block[]): BlockGroup[] {
   return groups;
 }
 
+function localizedTreatmentImage(file: string, slug: string, lang: Locale): string {
+  if (slug === "hallux-valgus" && lang !== "uk" &&
+      (file === "hallux-valgus-diagram1.jpg" || file === "hallux-valgus-diagram2.jpg")) {
+    return file.replace(".jpg", `-${lang}.webp`);
+  }
+  return file;
+}
+
 function BlockBody({ block, hideDiagram = false }: { block: Block; hideDiagram?: boolean }) {
   return (
     <>
@@ -207,7 +215,7 @@ function RichDetail({
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-7 lg:gap-10 items-center">
               <div className="min-w-0">
                 <ImageLightbox
-                  images={article.gallery.map((img) => `${BASE}/directions/${img}`)}
+                  images={article.gallery.map((img) => `${BASE}/directions/${localizedTreatmentImage(img, slug, lang)}`)}
                   className={`grid gap-3 ${article.gallery.length > 1 ? "grid-cols-2" : "grid-cols-1"}`}
                   aspect="aspect-[3/2]"
                   fit="contain"
@@ -269,7 +277,7 @@ function RichDetail({
                     <div className="grid grid-cols-1 lg:grid-cols-2 gap-7 lg:gap-10 items-start">
                       <div className="min-w-0">
                         <ImageLightbox
-                          images={[`${BASE}/directions/${block.diagram}`]}
+                          images={[`${BASE}/directions/${localizedTreatmentImage(block.diagram, slug, lang)}`]}
                           className="grid grid-cols-1"
                           aspect="aspect-[3/2]"
                           fit="contain"
