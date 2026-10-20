@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   robots: { index: false, follow: false },
 };
 
-export function generateStaticParams() { return [{ variant: "2" }, { variant: "3" }]; }
+
 
 const infographics = [
   {
@@ -31,10 +31,9 @@ const infographics = [
   }
 ];
 
-export default async function HalluxLayoutPreview({ params }: { params: Promise<{variant:string}> }) {
-  const { variant } = await params;
-  if (variant !== "2" && variant !== "3") notFound();
-  const isSplit = variant === "3";
+export default function HalluxLayoutPreview() {
+  const variant = "3";
+  const isSplit: boolean = true;
   return (
     <main className="min-h-screen bg-paper text-ink px-5 sm:px-8 py-10 sm:py-16">
       <div className="mx-auto max-w-[1100px]">
@@ -44,8 +43,8 @@ export default async function HalluxLayoutPreview({ params }: { params: Promise<
           Варіант {variant}: {isSplit ? "інфографіка поряд із текстом" : "компактне прев’ю зі збільшенням"}
         </h1>
         <div className="mt-6 flex flex-wrap gap-3">
-          <a href={`${BASE}/uk/hallux-layout-preview/2/`} className={`rounded-md border px-5 py-3 text-sm ${!isSplit ? "bg-ink text-white" : "bg-white text-ink"}`}>Варіант 2</a>
-          <a href={`${BASE}/uk/hallux-layout-preview/3/`} className={`rounded-md border px-5 py-3 text-sm ${isSplit ? "bg-ink text-white" : "bg-white text-ink"}`}>Варіант 3</a>
+          <a href={`${BASE}/uk/hallux-preview-2/`} className={`rounded-md border px-5 py-3 text-sm ${!isSplit ? "bg-ink text-white" : "bg-white text-ink"}`}>Варіант 2</a>
+          <a href={`${BASE}/uk/hallux-preview-3/`} className={`rounded-md border px-5 py-3 text-sm ${isSplit ? "bg-ink text-white" : "bg-white text-ink"}`}>Варіант 3</a>
         </div>
         <p className="mt-5 text-sm text-ink-muted">Це два макети з реальними інфографіками та фрагментами чинної статті. Зміни на основній сторінці не внесені.</p>
         <div className="mt-8 space-y-8">
