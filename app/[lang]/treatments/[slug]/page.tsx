@@ -8,6 +8,7 @@ import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
 import ImageLightbox from "@/components/ImageLightbox";
 import HalluxInternationalUk from "@/components/HalluxInternationalUk";
+import HalluxInternational from "@/components/HalluxInternational";
 import { getDirections, type Article, type Block } from "@/app/directions";
 
 export function generateStaticParams() {
@@ -32,6 +33,14 @@ export async function generateMetadata({
       description: "Хірургічне лікування Hallux valgus: корекція кісточки на нозі, діагностика та відновлення після операції. Консультація ортопеда Максима Байди в Києві та звернення з-за кордону.",
       alternates: localizedAlternates(lang, `treatments/${slug}`),
     };
+  }
+  if (slug === "hallux-valgus") {
+    const meta: Record<string, { title: string; description: string }> = {
+      pl: { title: "Operacja haluksów (paluch koślawy) | Dr Maksym Baida", description: "Operacja haluksów, leczenie palucha koślawego i rekonwalescencja. Konsultacja ortopedyczna, indywidualne planowanie leczenia w Ukrainie dla pacjentów z Polski." },
+      de: { title: "Hallux valgus OP & Behandlung | Dr. Maksym Baida", description: "Hallux valgus (Ballenzeh): Operation, Behandlung und Nachsorge. Individuelle orthopädische Beratung und mögliche OP-Planung in der Ukraine für Patienten im Ausland." },
+      en: { title: "Bunion Surgery (Hallux Valgus) | Dr Maksym Baida", description: "Hallux valgus and bunion surgery: assessment, surgical correction and recovery. Orthopaedic second opinion and personalised treatment planning in Ukraine." },
+    };
+    if (meta[lang]) return { ...meta[lang], alternates: localizedAlternates(lang, `treatments/${slug}`) };
   }
   return { title: `${article.title} — ${dict.meta.homeTitle}`, description: article.lead, alternates: localizedAlternates(lang, `treatments/${slug}`) };
 }
@@ -282,7 +291,7 @@ function RichDetail({
             })}
           </div>
 
-          {lang === "uk" && slug === "hallux-valgus" && <HalluxInternationalUk />}
+          {slug === "hallux-valgus" && (lang === "uk" ? <HalluxInternationalUk /> : <HalluxInternational lang={lang} />)}
 
           <div className="mt-14 pt-10 border-t border-hairline">
             <a
