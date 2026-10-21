@@ -75,256 +75,127 @@
   ],
   "articles": {
     "hip-replacement": {
-      "title": "Endoprotezoplastyka stawu biodrowego",
-      "lead": "Nowoczesne leczenie chirurgiczne zmniejszające ból, przywracające ruchomość i pozwalające wrócić do aktywnego życia.",
-      "intro": "Jeśli ból stawu biodrowego ogranicza chodzenie, utrudnia codzienne życie, a leczenie zachowawcze nie przynosi już wystarczającego efektu, endoprotezoplastyka może stać się kolejnym etapem leczenia.",
+      "title": "Endoprotezoplastyka stawu biodrowego – operacja wymiany biodra",
+      "lead": "Indywidualne planowanie operacji, dobór endoprotezy i powrót do sprawności. Konsultacja ortopedyczna z dr. Maksymem Baidą.",
+      "intro": "Endoprotezoplastyka stawu biodrowego (wymiana biodra) może zmniejszyć ból i poprawić sprawność przy koksartrozie, martwicy głowy kości udowej lub następstwach urazów, gdy odpowiednie leczenie zachowawcze nie przynosi wystarczającej poprawy. Decyzja zależy od objawów, sprawności i badań, a nie wyłącznie zdjęcia RTG.",
       "hero": "hip-replacement-hero.jpg",
       "gallery": [],
       "blocks": [
         {
-          "heading": "Kiedy endoprotezoplastyka staje się konieczna",
+          "heading": "Kiedy rozważyć wymianę stawu biodrowego?",
           "body": [
             {
               "type": "p",
-              "text": "Przy zaawansowanej chorobie zwyrodnieniowej stawu biodrowego (koksartrozie), jałowej martwicy, następstwach urazów i innych schorzeniach stawu biodrowego jego struktury stopniowo tracą zdolność zapewniania bezbolesnego i pełnowartościowego ruchu."
-            },
-            {
-              "type": "p",
-              "text": "Ból może pojawiać się początkowo podczas obciążenia, a z czasem — przy zwykłym chodzeniu, a nawet w spoczynku. Zmniejsza się ruchomość, pojawia się utykanie, coraz trudniej jest zakładać obuwie, wchodzić po schodach, wsiadać do samochodu czy po prostu pokonywać zwykły dystans."
-            },
-            {
-              "type": "p",
-              "text": "Gdy możliwości leczenia zachowawczego lub oszczędzającego staw przestają dawać wystarczający efekt, jedną z opcji przywrócenia funkcji staje się całkowita endoprotezoplastyka stawu biodrowego."
-            },
-            {
-              "type": "p",
-              "text": "Podczas operacji uszkodzone powierzchnie stawowe zastępowane są komponentami endoprotezy. Celem jest przede wszystkim zmniejszenie bólu, przywrócenie ruchomości i stabilności stawu oraz pomoc pacjentowi w powrocie do bardziej aktywnego życia."
+              "text": "Endoprotezoplastyka stawu biodrowego (wymiana biodra) może zmniejszyć ból i poprawić sprawność przy koksartrozie, martwicy głowy kości udowej lub następstwach urazów, gdy odpowiednie leczenie zachowawcze nie przynosi wystarczającej poprawy. Decyzja zależy od objawów, sprawności i badań, a nie wyłącznie zdjęcia RTG."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Kiedy warto się zgłosić",
+          "heading": "Wskazania i przeciwwskazania",
           "body": [
             {
               "type": "list",
               "items": [
-                "ból w okolicy stawu biodrowego lub pachwiny stał się stały lub narasta",
-                "chodzenie na zwykłe dystanse staje się coraz trudniejsze",
-                "ból pojawia się nie tylko przy obciążeniu, ale też w spoczynku lub w nocy",
-                "pojawiło się utykanie",
-                "trudno zakładać obuwie, skarpetki lub wykonywać inne codzienne ruchy",
-                "istotnie zmniejszyła się ruchomość stawu biodrowego",
-                "z powodu bólu trzeba rezygnować ze zwykłej aktywności",
-                "leczenie zachowawcze nie przynosi już wystarczającej ulgi"
+                "Objawowa koksartroza (choroba zwyrodnieniowa stawu biodrowego).",
+                "Jałowa martwica głowy kości udowej, zwłaszcza z zapadnięciem powierzchni stawowej.",
+                "Pourazowe zmiany zwyrodnieniowe i ciężkie następstwa złamań lub zwichnięć.",
+                "Wybrane złamania bliższego końca kości udowej, gdy endoprotezoplastyka jest uzasadniona.",
+                "Zaawansowane zmiany spowodowane dysplazją lub chorobami zapalnymi."
               ]
+            },
+            {
+              "type": "p",
+              "text": "Czynne zakażenie stawu lub inne niekontrolowane zakażenia mogą uniemożliwiać planową operację. Niewyrównane choroby serca, płuc, cukrzyca i inne schorzenia wymagają wcześniejszej oceny i optymalizacji. Sam wiek lub masa ciała nie oznaczają automatycznej dyskwalifikacji."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Co może się zmienić po operacji",
+          "heading": "Indywidualne planowanie i dobór endoprotezy",
           "body": [
             {
               "type": "p",
-              "text": "Dla pacjenta głównym celem endoprotezoplastyki nie jest sam fakt wszczepienia sztucznego stawu, lecz poprawa jakości codziennego życia."
-            },
-            {
-              "type": "p",
-              "text": "Po operacji i odpowiednim okresie rekonwalescencji endoprotezoplastyka może pomóc:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "istotnie zmniejszyć ból",
-                "zwiększyć dystans komfortowego chodzenia",
-                "poprawić ruchomość stawu biodrowego",
-                "zmniejszyć utykanie",
-                "ułatwić wykonywanie codziennych czynności",
-                "poprawić zdolność obciążania kończyny",
-                "stopniowo wrócić do pracy, podróży i zwykłej aktywności fizycznej"
-              ]
-            },
-            {
-              "type": "p",
-              "text": "Celem leczenia jest przywrócenie pacjentowi maksymalnie możliwej swobody ruchu i zmniejszenie ograniczeń wywołanych przez chory staw biodrowy."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Indywidualne planowanie operacji",
-          "body": [
-            {
-              "type": "p",
-              "text": "Nowoczesna endoprotezoplastyka zaczyna się nie od wyboru marki implantu, lecz od szczegółowego planowania przedoperacyjnego."
-            },
-            {
-              "type": "p",
-              "text": "Przed operacją oceniane są anatomia stawu biodrowego, stan tkanki kostnej, geometria kości udowej i panewki, długość kończyn oraz parametry biomechaniczne stawu."
-            },
-            {
-              "type": "p",
-              "text": "Na podstawie tych danych planowane są rozmiary i położenie komponentów endoprotezy, sposób ich mocowania oraz taktyka chirurgiczna."
-            },
-            {
-              "type": "p",
-              "text": "Nie istnieje jeden uniwersalny endoprotez, jednakowo optymalny dla wszystkich pacjentów. Wybór konstrukcji, sposobu mocowania i pary trącej zależy od wieku, anatomii, jakości tkanki kostnej, poziomu aktywności i konkretnej sytuacji klinicznej."
+              "text": "Planowanie uwzględnia anatomię biodra, jakość kości, geometrię panewki i kości udowej, długość kończyn oraz biomechanikę. Dobiera się pozycję komponentów, parę trącą oraz mocowanie cementowe, bezcementowe lub hybrydowe. Nie istnieje jedna najlepsza endoproteza dla wszystkich."
             }
           ],
           "divider": false,
           "diagram": "hip-replacement-planning.jpg"
         },
         {
-          "heading": "Co jest ważne w endoprotezoplastyce stawu biodrowego",
+          "heading": "Dostęp operacyjny",
           "body": [
             {
               "type": "p",
-              "text": "Wynik operacji zależy nie tylko od producenta czy modelu endoprotezy."
-            },
-            {
-              "type": "p",
-              "text": "Ważne są:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "szczegółowe planowanie przedoperacyjne",
-                "prawidłowe pozycjonowanie komponentów",
-                "stabilność endoprotezy",
-                "odtworzenie anatomicznego środka stawu biodrowego",
-                "odtworzenie długości kończyny",
-                "odtworzenie offsetu i równowagi mięśniowej",
-                "indywidualny dobór typu mocowania i pary trącej",
-                "prawidłowo zorganizowana rehabilitacja pooperacyjna"
-              ]
-            },
-            {
-              "type": "p",
-              "text": "Celem nie jest po prostu wymiana uszkodzonego stawu, lecz maksymalne odtworzenie jego biomechaniki i funkcji."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Dostęp chirurgiczny",
-          "body": [
-            {
-              "type": "p",
-              "text": "Dostęp chirurgiczny nie jest odrębnym celem operacji, lecz jednym z narzędzi jej bezpiecznego i precyzyjnego wykonania."
-            },
-            {
-              "type": "p",
-              "text": "Jego wybór zależy od anatomii pacjenta, cech stawu biodrowego, charakteru patologii i planowanej operacji."
-            },
-            {
-              "type": "p",
-              "text": "W odpowiednich przypadkach klinicznych może być stosowany przedni dostęp do stawu biodrowego, w tym z kosmetycznie zorientowanym umiejscowieniem cięcia skórnego w naturalnym fałdzie — tzw. bikini incision."
-            },
-            {
-              "type": "p",
-              "text": "Taki wariant pozwala umieścić bliznę pooperacyjną zgodnie z naturalnymi liniami skóry. Może to mieć szczególne znaczenie dla pacjentów, dla których ważny jest aspekt kosmetyczny operacji."
-            },
-            {
-              "type": "p",
-              "text": "Jednocześnie wybór dostępu nie powinien być determinowany wyłącznie rozmiarem czy umiejscowieniem przyszłej blizny. Priorytetem pozostają bezpieczeństwo operacji, precyzja ustawienia komponentów i wynik funkcjonalny."
+              "text": "Dostęp operacyjny zależy od anatomii i rodzaju choroby. U wybranych pacjentów możliwy jest bezpośredni dostęp przedni, niekiedy ze skórnym cięciem w fałdzie (bikini incision). Efekt kosmetyczny nie może być ważniejszy od bezpieczeństwa i prawidłowego osadzenia komponentów; żaden dostęp nie jest najlepszy dla wszystkich."
             }
           ],
           "divider": false,
           "diagram": "hip-replacement-access.jpg"
         },
         {
-          "heading": "Jak przebiega leczenie",
-          "body": [],
-          "divider": true
-        },
-        {
-          "heading": "01 — Konsultacja i diagnostyka",
+          "heading": "Przygotowanie i przebieg operacji",
           "body": [
             {
               "type": "p",
-              "text": "Zaczynamy od tego, co dokładnie niepokoi pacjenta i w jakim stopniu problem ogranicza jego codzienne życie. Oceniamy ruchomość, chód, długość kończyn i funkcję stawu biodrowego, analizujemy zdjęcia rentgenowskie i dodatkowe badania zgodnie ze wskazaniami."
+              "text": "Podczas konsultacji ocenia się ból, chód, ruchomość, długość kończyn i RTG miednicy oraz biodra; TK lub MRI wykonuje się według wskazań. Sprawdza się choroby współistniejące, infekcje, niedokrwistość, ryzyko zakrzepicy i krwawienia, leki oraz stan przed znieczuleniem. Nie należy samodzielnie odstawiać leków."
+            },
+            {
+              "type": "p",
+              "text": "Podczas całkowitej endoprotezoplastyki uszkodzona głowa kości udowej i powierzchnia panewki są zastępowane komponentami implantu. Rodzaj znieczulenia ustala się indywidualnie. Ocenia się stabilność, długość kończyny i ruchomość. Po operacji prowadzi się leczenie bólu, profilaktykę powikłań i w miarę możliwości wczesne uruchamianie, często już tego samego lub następnego dnia."
             }
           ],
           "divider": false
         },
         {
-          "heading": "02 — Planowanie przedoperacyjne",
+          "heading": "Możliwe ryzyko i powikłania",
           "body": [
             {
+              "type": "list",
+              "items": [
+                "Zakażenie rany lub zakażenie okołoprotezowe, czasem wymagające kolejnej operacji.",
+                "Zakrzepica żył głębokich lub zatorowość płucna.",
+                "Zwichnięcie lub niestabilność endoprotezy.",
+                "Złamanie okołoprotezowe w trakcie lub po operacji.",
+                "Różnica długości kończyn, przewlekły ból lub ograniczenie ruchów.",
+                "Krwawienie bądź uszkodzenie nerwów lub naczyń.",
+                "Zużycie lub obluzowanie komponentów, niekiedy wymagające rewizji."
+              ]
+            },
+            {
               "type": "p",
-              "text": "Oceniamy anatomię stawu i tkanki kostnej, określamy taktykę chirurgiczną, planujemy położenie i parametry komponentów endoprotezy oraz sposób ich mocowania."
+              "text": "Indywidualne ryzyko zależy od chorób współistniejących, anatomii i złożoności zabiegu. Korzyści, alternatywy i powikłania są omawiane przed operacją."
             }
           ],
           "divider": false
         },
         {
-          "heading": "03 — Endoprotezoplastyka",
+          "heading": "Rehabilitacja po endoprotezoplastyce biodra",
           "body": [
             {
-              "type": "p",
-              "text": "Uszkodzone struktury stawu biodrowego zastępowane są komponentami endoprotezy zgodnie z wcześniejszym planem, z uwzględnieniem stabilności, relacji anatomicznych i biomechaniki stawu."
+              "type": "list",
+              "items": [
+                "Pierwsze dni: kontrola bólu, pielęgnacja rany, profilaktyka zakrzepicy i bezpieczny chód z pomocą sprzętu ortopedycznego.",
+                "Pierwsze 2–6 tygodni: stopniowe wydłużanie spacerów, powrót do czynności codziennych i wzmacnianie mięśni; obciążanie zgodnie z zaleceniem.",
+                "Kolejne miesiące: dalsza poprawa siły i wydolności. Powrót do pracy, jazdy samochodem i sportu ustala się indywidualnie.",
+                "Nasilający się ból, gorączka, wyciek z rany lub znaczny obrzęk nogi wymagają kontaktu z lekarzem. Nagła duszność, ból w klatce piersiowej lub omdlenie wymagają pilnej pomocy."
+              ]
             }
           ],
           "divider": false
         },
         {
-          "heading": "04 — Wczesna rekonwalescencja",
+          "heading": "Ile kosztuje operacja wymiany biodra?",
           "body": [
             {
               "type": "p",
-              "text": "Po operacji rozpoczyna się uruchamianie pacjenta, przywracanie chodzenia i stopniowe rozszerzanie codziennej aktywności. Tempo i zakres obciążania ustalane są indywidualnie."
+              "text": "Koszt zależy od modelu endoprotezy, trudności operacji, badań, znieczulenia, hospitalizacji, leków i rehabilitacji. Wstępny kosztorys można omówić po ocenie klinicznej; ostateczne warunki zależą od uzgodnionego planu."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Nasze podejście",
-          "body": [],
-          "divider": true
-        },
-        {
-          "heading": "Nie „jeden protez dla wszystkich”, lecz rozwiązanie dla konkretnego pacjenta",
-          "body": [
-            {
-              "type": "p",
-              "text": "Anatomia, jakość tkanki kostnej, wiek, poziom aktywności i przyczyny uszkodzenia stawu są różne u każdego pacjenta. Dlatego konstrukcja endoprotezy i taktyka chirurgiczna dobierane są indywidualnie."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Planowanie przed operacją",
-          "body": [
-            {
-              "type": "p",
-              "text": "Wcześniej oceniamy anatomię stawu biodrowego, długość kończyn i parametry biomechaniczne oraz planujemy przyszłe położenie komponentów."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Uwaga na biomechanikę",
-          "body": [
-            {
-              "type": "p",
-              "text": "Ważne jest nie tylko wszczepienie endoprotezy, ale też odtworzenie stabilności stawu, długości kończyny, offsetu i relacji anatomicznych."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Od operacji do powrotu do aktywności",
-          "body": [
-            {
-              "type": "p",
-              "text": "Endoprotezoplastyka to tylko jeden z etapów leczenia. Wczesne uruchamianie i konsekwentne usprawnianie czynnościowe są istotną częścią końcowego wyniku."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Przypadek kliniczny",
+          "heading": "Przypadek kliniczny: endoprotezoplastyka po ciężkim urazie",
           "body": [],
           "divider": true
         },
@@ -362,6 +233,16 @@
             "hip-replacement-case-after.jpg"
           ],
           "caseAspect": "landscape"
+        },
+        {
+          "heading": "Konsultacje dla pacjentów z zagranicy",
+          "body": [
+            {
+              "type": "p",
+              "text": "Pacjenci mieszkający za granicą mogą zwrócić się o wstępną zdalną ocenę dokumentacji i badań obrazowych. Ostateczne planowanie operacji wymaga osobistego badania klinicznego. Leczenie w Kijowie lub w bezpieczniejszych zachodnich regionach Ukrainy omawia się indywidualnie."
+            }
+          ],
+          "divider": false
         },
         {
           "heading": "Najczęściej zadawane pytania",
@@ -528,20 +409,6 @@
             {
               "type": "p",
               "text": "Po zakończeniu głównego etapu rekonwalescencji wiele form aktywności fizycznej może być dostępnych. Konkretne obciążenia i dyscypliny sportowe warto omawiać indywidualnie."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Potrzebujesz konsultacji?",
-          "body": [
-            {
-              "type": "p",
-              "text": "Jeśli ból w stawie biodrowym już ogranicza Twoje chodzenie i codzienną aktywność, podczas konsultacji będziemy mogli ocenić stan stawu, wyniki badań i możliwe warianty leczenia."
-            },
-            {
-              "type": "p",
-              "text": "Endoprotezoplastyka nie jest potrzebna każdemu pacjentowi z koksartrozą lub innymi schorzeniami stawu biodrowego. Naszym zadaniem jest ustalenie, jaka metoda leczenia będzie optymalna właśnie w Twojej sytuacji."
             }
           ],
           "divider": false
