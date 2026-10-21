@@ -75,256 +75,127 @@
   ],
   "articles": {
     "hip-replacement": {
-      "title": "Hip Replacement",
-      "lead": "Modern surgical treatment to reduce pain, restore mobility, and return to an active life.",
-      "intro": "When hip pain limits walking, interferes with daily life, and conservative treatment no longer provides sufficient relief, joint replacement may be the next step in treatment.",
+      "title": "Hip Replacement Surgery (Total Hip Arthroplasty)",
+      "lead": "Personalised implant selection, surgical planning and recovery guidance. Orthopaedic consultation with Dr Maksym Baida in Kyiv, Ukraine.",
+      "intro": "Hip replacement surgery (total hip arthroplasty, THA) may relieve pain and improve mobility when osteoarthritis, osteonecrosis or injury-related damage makes everyday activities difficult and appropriate non-surgical care no longer provides adequate relief. The decision is based on symptoms, function, imaging and individual goals, not an X-ray alone.",
       "hero": "hip-replacement-hero.jpg",
       "gallery": [],
       "blocks": [
         {
-          "heading": "When hip replacement becomes necessary",
+          "heading": "When to consider hip replacement",
           "body": [
             {
               "type": "p",
-              "text": "In advanced hip osteoarthritis, avascular necrosis, the aftermath of injuries, and other hip joint conditions, the joint's structures gradually lose the ability to provide pain-free, full-range movement."
-            },
-            {
-              "type": "p",
-              "text": "Pain may initially appear only during exertion, then later during ordinary walking or even at rest. Mobility decreases, a limp develops, and it becomes harder to put on shoes, climb stairs, get into a car, or simply walk a familiar distance."
-            },
-            {
-              "type": "p",
-              "text": "When conservative or joint-preserving treatment options no longer provide adequate results, total hip replacement becomes one way to restore function."
-            },
-            {
-              "type": "p",
-              "text": "During the operation, the damaged joint surfaces are replaced with implant components. The goal is, first and foremost, to reduce pain, restore joint mobility and stability, and help the patient return to a more active life."
+              "text": "Hip replacement surgery (total hip arthroplasty, THA) may relieve pain and improve mobility when osteoarthritis, osteonecrosis or injury-related damage makes everyday activities difficult and appropriate non-surgical care no longer provides adequate relief. The decision is based on symptoms, function, imaging and individual goals, not an X-ray alone."
             }
           ],
           "divider": false
         },
         {
-          "heading": "When it's time to see a specialist",
+          "heading": "Indications and reasons to defer surgery",
           "body": [
             {
               "type": "list",
               "items": [
-                "pain in the hip or groin area has become constant or is progressing",
-                "walking familiar distances is getting harder",
-                "pain occurs not only during activity, but also at rest or at night",
-                "a limp has developed",
-                "it has become difficult to put on shoes, socks, or perform other everyday movements",
-                "hip mobility has noticeably decreased",
-                "pain forces you to give up activities you used to enjoy",
-                "conservative treatment no longer provides adequate relief"
+                "Symptomatic hip osteoarthritis affecting everyday activities.",
+                "Osteonecrosis (avascular necrosis) of the femoral head, particularly with articular collapse.",
+                "Post-traumatic arthritis and severe consequences of fractures or dislocations.",
+                "Selected proximal femoral fractures where arthroplasty is appropriate.",
+                "Severe joint damage due to dysplasia or inflammatory disease."
               ]
+            },
+            {
+              "type": "p",
+              "text": "Active joint infection or other uncontrolled infection may preclude elective surgery. Uncontrolled cardiac or pulmonary illness, diabetes or other conditions may require assessment and optimisation first. Age or weight alone does not automatically rule out surgery."
             }
           ],
           "divider": false
         },
         {
-          "heading": "What can change after surgery",
+          "heading": "Individual planning and implant selection",
           "body": [
             {
               "type": "p",
-              "text": "For the patient, the main goal of hip replacement is not the fact of having an artificial joint, but an improvement in everyday quality of life."
-            },
-            {
-              "type": "p",
-              "text": "After surgery and an appropriate recovery period, hip replacement can help:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "significantly reduce pain",
-                "increase comfortable walking distance",
-                "improve hip mobility",
-                "reduce limping",
-                "make everyday activities easier",
-                "improve the limb's ability to bear weight",
-                "gradually return to work, travel, and familiar physical activity"
-              ]
-            },
-            {
-              "type": "p",
-              "text": "The goal of treatment is to restore the greatest possible freedom of movement and reduce the limitations caused by a diseased hip joint."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Individualized surgical planning",
-          "body": [
-            {
-              "type": "p",
-              "text": "Modern hip replacement doesn't begin with the choice of implant brand — it begins with detailed preoperative planning."
-            },
-            {
-              "type": "p",
-              "text": "Before surgery, we assess hip joint anatomy, bone quality, the geometry of the femur and acetabulum, limb length, and the joint's biomechanical parameters."
-            },
-            {
-              "type": "p",
-              "text": "Based on this data, we plan the size and position of the implant components, the method of fixation, and the surgical approach."
-            },
-            {
-              "type": "p",
-              "text": "There is no single implant that is equally optimal for every patient. The choice of design, fixation method, and bearing surface depends on age, anatomy, bone quality, activity level, and the specific clinical situation."
+              "text": "Planning considers hip anatomy, bone quality, acetabular and femoral geometry, leg length and biomechanics. Implant positioning, bearing surfaces and cemented, cementless or hybrid fixation are selected individually. No implant is best for everyone; stability, appropriate component position and functional reconstruction matter."
             }
           ],
           "divider": false,
           "diagram": "hip-replacement-planning.jpg"
         },
         {
-          "heading": "What matters most in hip replacement",
-          "body": [
-            {
-              "type": "p",
-              "text": "The outcome of the operation does not depend on the implant manufacturer or model alone."
-            },
-            {
-              "type": "p",
-              "text": "What matters most:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "detailed preoperative planning",
-                "correct positioning of the components",
-                "implant stability",
-                "restoring the anatomical center of the hip joint",
-                "restoring limb length",
-                "restoring offset and muscle balance",
-                "an individualized choice of fixation method and bearing surface",
-                "well-organized postoperative recovery"
-              ]
-            },
-            {
-              "type": "p",
-              "text": "The goal is not simply to replace the damaged joint, but to restore its biomechanics and function as fully as possible."
-            }
-          ],
-          "divider": false
-        },
-        {
           "heading": "Surgical approach",
           "body": [
             {
               "type": "p",
-              "text": "The surgical approach is not a goal in itself — it is one of the tools for performing the operation safely and precisely."
-            },
-            {
-              "type": "p",
-              "text": "The choice depends on the patient's anatomy, the specifics of the hip joint, the nature of the pathology, and the planned operation."
-            },
-            {
-              "type": "p",
-              "text": "In appropriate clinical cases, a Direct Anterior Approach (DAA) to the hip joint may be used, including a cosmetically oriented incision placed along a natural skin fold — the bikini incision."
-            },
-            {
-              "type": "p",
-              "text": "This option allows the postoperative scar to follow the skin's natural lines. This can matter especially for patients for whom the cosmetic aspect of surgery is important."
-            },
-            {
-              "type": "p",
-              "text": "That said, the choice of approach should not be determined solely by the size or location of the future scar. Safety of the operation, precision of component placement, and functional outcome remain the priority."
+              "text": "The surgical approach depends on anatomy, pathology and operative goals. A direct anterior approach, sometimes using a skin-crease bikini incision, may be suitable in selected cases. Scar location does not take priority over safety or component positioning, and no approach is universally superior."
             }
           ],
           "divider": false,
           "diagram": "hip-replacement-access.jpg"
         },
         {
-          "heading": "How treatment proceeds",
-          "body": [],
-          "divider": true
-        },
-        {
-          "heading": "01 — Consultation and diagnosis",
+          "heading": "Preparation and procedure",
           "body": [
             {
               "type": "p",
-              "text": "We start by understanding exactly what is troubling the patient and how much the problem limits their everyday life. We assess mobility, gait, limb length, and hip joint function, and review X-rays and any additional studies as indicated."
+              "text": "Assessment includes symptoms, gait, mobility, leg length and pelvic/hip X-rays; CT or MRI is used when indicated. Health conditions, infection, anaemia, thrombosis and bleeding risks, medications and anaesthetic fitness are reviewed. Do not stop prescribed medicines without medical advice."
+            },
+            {
+              "type": "p",
+              "text": "During total hip replacement, the damaged femoral head and acetabular surface are replaced with prosthetic components. Anaesthesia is selected individually. Component stability, leg length and range of motion are assessed during surgery. Pain management, complication prevention and early mobilisation follow; walking often starts on the day of surgery or the following day if appropriate."
             }
           ],
           "divider": false
         },
         {
-          "heading": "02 — Preoperative planning",
+          "heading": "Potential risks and complications",
           "body": [
             {
+              "type": "list",
+              "items": [
+                "Wound or periprosthetic joint infection, sometimes requiring further surgery.",
+                "Deep-vein thrombosis or pulmonary embolism.",
+                "Dislocation or instability of the new joint.",
+                "Periprosthetic fracture during or after surgery.",
+                "Leg-length difference, persistent pain or limited movement.",
+                "Bleeding or injury to nerves or blood vessels.",
+                "Implant wear or loosening, sometimes requiring revision surgery."
+              ]
+            },
+            {
               "type": "p",
-              "text": "We assess joint and bone anatomy, determine the surgical approach, and plan the position and parameters of the implant components and their method of fixation."
+              "text": "Personal risk varies with medical conditions, anatomy and surgical complexity. Your surgeon will discuss likely benefits, alternatives and risks before surgery."
             }
           ],
           "divider": false
         },
         {
-          "heading": "03 — Hip replacement",
+          "heading": "Recovery after hip replacement",
           "body": [
             {
-              "type": "p",
-              "text": "The damaged structures of the hip joint are replaced with implant components according to the preoperative plan, with attention to stability, anatomical relationships, and joint biomechanics."
+              "type": "list",
+              "items": [
+                "First days: pain control, wound care, clot prevention and assisted safe walking.",
+                "First 2–6 weeks: gradually longer walks, daily activities and muscle strengthening. Weight-bearing advice is individual.",
+                "Following months: gradual improvement in strength and endurance; return to work, driving and sport depends on recovery.",
+                "Increasing pain, fever, wound discharge or major leg swelling require prompt medical review. Sudden breathlessness, chest pain or fainting require emergency care."
+              ]
             }
           ],
           "divider": false
         },
         {
-          "heading": "04 — Early recovery",
+          "heading": "Cost of hip replacement",
           "body": [
             {
               "type": "p",
-              "text": "After surgery, mobilization begins, along with restoring walking and gradually expanding everyday activity. The pace and level of exertion are determined individually."
+              "text": "Costs depend on prosthesis components, operative complexity, investigations, anaesthesia, hospital stay, medicines and rehabilitation. An indicative estimate can be discussed after an individual assessment; final costs depend on the agreed treatment plan."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Our approach",
-          "body": [],
-          "divider": true
-        },
-        {
-          "heading": "Not \"one implant for everyone\", but a solution for each patient",
-          "body": [
-            {
-              "type": "p",
-              "text": "Anatomy, bone quality, age, activity level, and the cause of joint damage all differ from patient to patient. That's why implant design and surgical approach are chosen individually."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Planning before surgery",
-          "body": [
-            {
-              "type": "p",
-              "text": "We assess hip joint anatomy, limb length, and biomechanical parameters in advance, and plan the future position of the implant components."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Attention to biomechanics",
-          "body": [
-            {
-              "type": "p",
-              "text": "What matters isn't just placing the implant — it's also restoring joint stability, limb length, offset, and anatomical relationships."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "From surgery to a return to activity",
-          "body": [
-            {
-              "type": "p",
-              "text": "Hip replacement is only one stage of treatment. Early mobilization and consistent functional recovery are an important part of the final outcome."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Clinical case",
+          "heading": "Clinical case: hip replacement after severe trauma",
           "body": [],
           "divider": true
         },
@@ -362,6 +233,16 @@
             "hip-replacement-case-after.jpg"
           ],
           "caseAspect": "landscape"
+        },
+        {
+          "heading": "Consultations for international patients",
+          "body": [
+            {
+              "type": "p",
+              "text": "Patients living abroad may request an initial remote review of X-rays, reports and medical history. Definitive surgical planning requires an in-person clinical assessment. Treatment arrangements in Kyiv or in safer western regions of Ukraine may be discussed individually."
+            }
+          ],
+          "divider": false
         },
         {
           "heading": "Frequently asked questions",
@@ -528,20 +409,6 @@
             {
               "type": "p",
               "text": "Once the main recovery period is complete, many types of physical activity can become available again. Specific loads and sports should be discussed on an individual basis."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Need a consultation?",
-          "body": [
-            {
-              "type": "p",
-              "text": "If hip pain is already limiting your walking and everyday activity, during a consultation we can assess the condition of your joint, review your test results, and discuss possible treatment options."
-            },
-            {
-              "type": "p",
-              "text": "Not every patient with hip osteoarthritis or another hip condition needs a joint replacement. Our task is to determine which treatment approach will be optimal for your specific situation."
             }
           ],
           "divider": false

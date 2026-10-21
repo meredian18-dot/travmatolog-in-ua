@@ -27,6 +27,15 @@ export async function generateMetadata({
   const dict = getDictionary(lang);
   const article = getDirections(lang).articles[slug];
   if (!article) return {};
+  if (slug === "hip-replacement") {
+    const meta: Record<string, { title: string; description: string }> = {
+      uk: { title: "Ендопротезування кульшового суглоба в Києві | Максим Байда", description: "Заміна кульшового (тазостегнового) суглоба при коксартрозі, асептичному некрозі та наслідках травм. Операція, реабілітація та консультація ортопеда в Києві." },
+      en: { title: "Hip Replacement Surgery in Ukraine | Dr Maksym Baida", description: "Total hip replacement for arthritis, avascular necrosis and post-traumatic conditions. Personalised surgical planning and consultations in Ukraine." },
+      de: { title: "Hüft-TEP & Hüftprothese in der Ukraine | Dr. Baida", description: "Hüftgelenkersatz bei Arthrose, Hüftkopfnekrose und Unfallfolgen. Individuelle OP-Planung, Rehabilitation und orthopädische Beratung in der Ukraine." },
+      pl: { title: "Endoproteza biodra – operacja na Ukrainie | Dr Baida", description: "Endoprotezoplastyka biodra przy koksartrozie, martwicy głowy kości udowej i następstwach urazów. Konsultacja i indywidualne planowanie leczenia na Ukrainie." },
+    };
+    return { ...meta[lang], alternates: localizedAlternates(lang, `treatments/${slug}`) };
+  }
   if (lang === "uk" && slug === "hallux-valgus") {
     return {
       title: "Hallux valgus — операція на кісточці стопи | Максим Байда",
@@ -171,6 +180,7 @@ function RichDetail({
   article: Article;
 }) {
   const t = dict.treatments;
+  const zoomHint: Record<Locale, string> = { uk: "Натисніть на зображення, щоб збільшити", en: "Select the image to enlarge", de: "Bild zum Vergrößern auswählen", pl: "Kliknij obraz, aby powiększyć" };
 
   return (
     <>
@@ -221,7 +231,7 @@ function RichDetail({
                   fit="contain"
                   letterboxBg="bg-white"
                 />
-                <p className="text-center text-xs text-ink-muted mt-2">Натисніть на зображення, щоб збільшити</p>
+                <p className="text-center text-xs text-ink-muted mt-2">{zoomHint[lang]}</p>
               </div>
               <p className="text-ink text-lg leading-relaxed">{article.intro}</p>
             </div>
@@ -283,7 +293,7 @@ function RichDetail({
                           fit="contain"
                           letterboxBg="bg-white"
                         />
-                        <p className="text-center text-xs text-ink-muted mt-2">Натисніть на зображення, щоб збільшити</p>
+                        <p className="text-center text-xs text-ink-muted mt-2">{zoomHint[lang]}</p>
                       </div>
                       <div className="space-y-3.5 text-ink leading-relaxed min-w-0">
                         <BlockBody block={block} hideDiagram />
