@@ -278,12 +278,29 @@ function RichDetail({
               }
 
               const block = group.block;
+              const caseLayout = slug === "hip-replacement" && !!block.caseImages?.length;
               return (
                 <div key={i} className="mt-6 rounded-[8px] border border-hairline bg-cream/60 p-6 lg:p-7">
                   {block.heading && (
                     <h3 className="font-sans font-medium text-ink text-lg mb-3">{block.heading}</h3>
                   )}
-                  {block.diagram ? (
+                  {caseLayout ? (
+                    <div className="grid grid-cols-1 lg:grid-cols-2 gap-7 lg:gap-10 items-start">
+                      <div className="min-w-0">
+                        <ImageLightbox
+                          images={block.caseImages!.map((img) => `${BASE}/directions/${img}`)}
+                          className="grid grid-cols-1"
+                          aspect="aspect-[3/2]"
+                          fit="contain"
+                          letterboxBg="bg-white"
+                        />
+                        <p className="text-center text-xs text-ink-muted mt-2">{zoomHint[lang]}</p>
+                      </div>
+                      <div className="space-y-3.5 text-ink leading-relaxed min-w-0">
+                        <BlockBody block={{ ...block, caseImages: [] }} />
+                      </div>
+                    </div>
+                  ) : block.diagram ? (
                     <div className="grid grid-cols-1 lg:grid-cols-2 gap-7 lg:gap-10 items-start">
                       <div className="min-w-0">
                         <ImageLightbox
