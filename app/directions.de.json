@@ -75,256 +75,127 @@
   ],
   "articles": {
     "hip-replacement": {
-      "title": "Hüftendoprothetik",
-      "lead": "Moderne chirurgische Behandlung zur Schmerzlinderung, Wiederherstellung der Beweglichkeit und Rückkehr zu einem aktiven Leben.",
-      "intro": "Wenn Hüftschmerzen das Gehen einschränken, den Alltag beeinträchtigen und eine konservative Behandlung keine ausreichende Wirkung mehr zeigt, kann die Endoprothetik der nächste Behandlungsschritt sein.",
+      "title": "Hüftprothese und Hüftgelenkersatz (Hüft-TEP)",
+      "lead": "Individuelle Operationsplanung, Auswahl der Endoprothese und funktionelle Rehabilitation. Orthopädische Beratung bei Dr. Maksym Baida in Kyjiw.",
+      "intro": "Ein künstliches Hüftgelenk (Hüft-Totalendoprothese, Hüft-TEP) kann Schmerzen lindern und die Beweglichkeit verbessern, wenn Arthrose, Hüftkopfnekrose oder Unfallfolgen den Alltag stark beeinträchtigen und konservative Maßnahmen nicht ausreichend helfen. Entscheidend sind Beschwerden, Funktion und Befunde — nicht allein das Röntgenbild.",
       "hero": "hip-replacement-hero.jpg",
       "gallery": [],
       "blocks": [
         {
-          "heading": "Wann eine Endoprothese notwendig wird",
+          "heading": "Wann ist ein Hüftgelenkersatz sinnvoll?",
           "body": [
             {
               "type": "p",
-              "text": "Bei ausgeprägter Koxarthrose, Hüftkopfnekrose, Unfallfolgen und anderen Erkrankungen des Hüftgelenks verlieren dessen Strukturen zunehmend die Fähigkeit, eine schmerzfreie und vollwertige Bewegung zu gewährleisten."
-            },
-            {
-              "type": "p",
-              "text": "Der Schmerz kann zunächst unter Belastung auftreten und später auch beim gewöhnlichen Gehen oder sogar in Ruhe. Die Beweglichkeit nimmt ab, ein Hinken entsteht, das Anziehen von Schuhen, das Treppensteigen, das Einsteigen ins Auto oder das Zurücklegen gewohnter Strecken wird zunehmend schwieriger."
-            },
-            {
-              "type": "p",
-              "text": "Wenn die Möglichkeiten der konservativen oder gelenkerhaltenden Behandlung kein ausreichendes Ergebnis mehr bringen, wird die totale Hüftendoprothetik zu einer der Optionen zur Wiederherstellung der Funktion."
-            },
-            {
-              "type": "p",
-              "text": "Während der Operation werden die geschädigten Gelenkflächen durch Komponenten der Endoprothese ersetzt. Ziel ist es, vor allem den Schmerz zu lindern, Beweglichkeit und Stabilität des Gelenks wiederherzustellen und dem Patienten die Rückkehr zu einem aktiveren Leben zu ermöglichen."
+              "text": "Ein künstliches Hüftgelenk (Hüft-Totalendoprothese, Hüft-TEP) kann Schmerzen lindern und die Beweglichkeit verbessern, wenn Arthrose, Hüftkopfnekrose oder Unfallfolgen den Alltag stark beeinträchtigen und konservative Maßnahmen nicht ausreichend helfen. Entscheidend sind Beschwerden, Funktion und Befunde — nicht allein das Röntgenbild."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Wann Sie sich vorstellen sollten",
+          "heading": "Indikationen und Gründe für einen Aufschub",
           "body": [
             {
               "type": "list",
               "items": [
-                "Schmerzen im Bereich des Hüftgelenks oder der Leiste sind dauerhaft geworden oder nehmen zu",
-                "das Gehen gewohnter Strecken fällt zunehmend schwerer",
-                "der Schmerz tritt nicht nur unter Belastung, sondern auch in Ruhe oder nachts auf",
-                "ein Hinken ist aufgetreten",
-                "das Anziehen von Schuhen, Socken oder andere gewohnte Bewegungen fallen schwer",
-                "die Beweglichkeit des Hüftgelenks hat sich deutlich verringert",
-                "wegen der Schmerzen muss auf gewohnte Aktivitäten verzichtet werden",
-                "die konservative Behandlung bringt keine ausreichende Linderung mehr"
+                "Schmerzhafte Hüftarthrose mit Einschränkung im Alltag.",
+                "Hüftkopfnekrose, insbesondere bei Einbruch der Gelenkfläche.",
+                "Posttraumatische Arthrose und schwere Folgen von Frakturen oder Luxationen.",
+                "Ausgewählte proximale Femurfrakturen, bei denen eine Endoprothese sinnvoll ist.",
+                "Schwere Gelenkveränderungen infolge einer Dysplasie oder entzündlicher Erkrankungen."
               ]
+            },
+            {
+              "type": "p",
+              "text": "Bei aktiver Gelenkinfektion oder anderen unkontrollierten Infektionen muss eine geplante Operation möglicherweise verschoben werden. Nicht ausreichend behandelte Herz-, Lungen- oder Stoffwechselerkrankungen bedürfen einer Optimierung. Alter oder Körpergewicht allein schließen einen Eingriff nicht aus."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Was sich nach der Operation ändern kann",
+          "heading": "Individuelle Planung und Prothesenauswahl",
           "body": [
             {
               "type": "p",
-              "text": "Für den Patienten ist das eigentliche Ziel der Endoprothetik nicht die Tatsache eines künstlichen Gelenks an sich, sondern die Verbesserung der Lebensqualität im Alltag."
-            },
-            {
-              "type": "p",
-              "text": "Nach der Operation und einer entsprechenden Erholungsphase kann die Endoprothetik helfen:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "den Schmerz spürbar zu reduzieren",
-                "die Gehstrecke ohne Beschwerden zu vergrößern",
-                "die Beweglichkeit des Hüftgelenks zu verbessern",
-                "das Hinken zu verringern",
-                "alltägliche Tätigkeiten zu erleichtern",
-                "die Belastbarkeit der Extremität zu verbessern",
-                "schrittweise zu Arbeit, Reisen und gewohnter körperlicher Aktivität zurückzukehren"
-              ]
-            },
-            {
-              "type": "p",
-              "text": "Ziel der Behandlung ist es, dem Patienten die größtmögliche Bewegungsfreiheit zurückzugeben und die durch das erkrankte Hüftgelenk verursachten Einschränkungen zu verringern."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Individuelle Planung der Operation",
-          "body": [
-            {
-              "type": "p",
-              "text": "Die moderne Endoprothetik beginnt nicht mit der Wahl einer Implantatmarke, sondern mit einer detaillierten präoperativen Planung."
-            },
-            {
-              "type": "p",
-              "text": "Vor der Operation werden die Anatomie des Hüftgelenks, der Zustand des Knochengewebes, die Geometrie von Oberschenkelknochen und Hüftpfanne, die Beinlänge und die biomechanischen Parameter des Gelenks beurteilt."
-            },
-            {
-              "type": "p",
-              "text": "Auf Grundlage dieser Daten werden Größe und Position der Endoprothesenkomponenten, die Art ihrer Fixation sowie die chirurgische Taktik geplant."
-            },
-            {
-              "type": "p",
-              "text": "Es gibt keine einzige universelle Endoprothese, die für alle Patienten gleichermaßen optimal wäre. Die Wahl der Konstruktion, der Fixationsart und der Gleitpaarung hängt von Alter, Anatomie, Knochenqualität, Aktivitätsniveau und der konkreten klinischen Situation ab."
+              "text": "Berücksichtigt werden Anatomie, Knochenqualität, Pfannen- und Femurgeometrie, Beinlänge und Biomechanik. Implantatposition, Gleitpaarung sowie zementierte, zementfreie oder hybride Fixierung werden individuell ausgewählt. Es gibt keine universell beste Prothese."
             }
           ],
           "divider": false,
           "diagram": "hip-replacement-planning.jpg"
         },
         {
-          "heading": "Worauf es bei der Hüftendoprothetik ankommt",
+          "heading": "Operativer Zugang",
           "body": [
             {
               "type": "p",
-              "text": "Das Operationsergebnis hängt nicht allein vom Hersteller oder Modell der Endoprothese ab."
-            },
-            {
-              "type": "p",
-              "text": "Wichtig sind:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "eine detaillierte präoperative Planung",
-                "die korrekte Positionierung der Komponenten",
-                "die Stabilität der Endoprothese",
-                "die Wiederherstellung des anatomischen Hüftgelenkzentrums",
-                "die Wiederherstellung der Beinlänge",
-                "die Wiederherstellung des Offsets und des Muskelgleichgewichts",
-                "die individuelle Wahl von Fixationsart und Gleitpaarung",
-                "eine gut organisierte postoperative Erholung"
-              ]
-            },
-            {
-              "type": "p",
-              "text": "Ziel ist es, nicht nur das geschädigte Gelenk zu ersetzen, sondern seine Biomechanik und Funktion möglichst vollständig wiederherzustellen."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Chirurgischer Zugang",
-          "body": [
-            {
-              "type": "p",
-              "text": "Der chirurgische Zugang ist kein eigenständiges Operationsziel, sondern eines der Mittel für ihre sichere und präzise Durchführung."
-            },
-            {
-              "type": "p",
-              "text": "Seine Wahl hängt von der Anatomie des Patienten, den Besonderheiten des Hüftgelenks, der Art der Erkrankung und der geplanten Operation ab."
-            },
-            {
-              "type": "p",
-              "text": "In geeigneten klinischen Fällen kann der vordere Zugang zum Hüftgelenk angewendet werden, unter anderem mit kosmetisch orientierter Platzierung des Hautschnitts in der natürlichen Hautfalte — dem sogenannten Bikini-Schnitt."
-            },
-            {
-              "type": "p",
-              "text": "Diese Variante ermöglicht es, die postoperative Narbe entlang der natürlichen Hautlinien zu platzieren. Das kann besonders für Patienten von Bedeutung sein, für die der kosmetische Aspekt der Operation wichtig ist."
-            },
-            {
-              "type": "p",
-              "text": "Dabei darf die Wahl des Zugangs nicht allein von Größe oder Lage der künftigen Narbe bestimmt werden. Priorität haben weiterhin die Sicherheit der Operation, die Präzision der Komponentenimplantation und das funktionelle Ergebnis."
+              "text": "Der Zugang richtet sich nach Anatomie und Operationsziel. Bei geeigneten Patienten kommt ein direkter vorderer Zugang in Betracht, gegebenenfalls mit einem hautfaltenorientierten Bikini-Schnitt. Die Narbenlage ist der Sicherheit und korrekten Implantatposition untergeordnet; kein Zugang ist für alle überlegen."
             }
           ],
           "divider": false,
           "diagram": "hip-replacement-access.jpg"
         },
         {
-          "heading": "Wie die Behandlung abläuft",
-          "body": [],
-          "divider": true
-        },
-        {
-          "heading": "01 — Beratung und Diagnostik",
+          "heading": "Vorbereitung und Operationsablauf",
           "body": [
             {
               "type": "p",
-              "text": "Wir beginnen damit, was den Patienten konkret beeinträchtigt und wie sehr das Problem seinen Alltag einschränkt. Wir beurteilen Beweglichkeit, Gangbild, Beinlänge und Funktion des Hüftgelenks, analysieren Röntgenaufnahmen und bei Bedarf weitere Untersuchungen."
+              "text": "Die Untersuchung umfasst Beschwerden, Gangbild, Beweglichkeit und Röntgenaufnahmen von Becken und Hüfte; CT oder MRT erfolgen bei Bedarf. Begleiterkrankungen, Infektionen, Anämie, Thrombose- und Blutungsrisiken sowie Medikamente und Narkosefähigkeit werden geprüft. Medikamente nicht eigenmächtig absetzen."
+            },
+            {
+              "type": "p",
+              "text": "Bei der Hüft-TEP werden Hüftkopf und geschädigte Gelenkfläche der Pfanne durch Prothesenkomponenten ersetzt. Die Anästhesie wird individuell gewählt. Stabilität, Beinlänge und Beweglichkeit werden kontrolliert. Danach folgen Schmerztherapie, Komplikationsprophylaxe und bei geeigneten Patienten die Mobilisation noch am Operationstag oder am Folgetag."
             }
           ],
           "divider": false
         },
         {
-          "heading": "02 — Präoperative Planung",
+          "heading": "Risiken und mögliche Komplikationen",
           "body": [
             {
+              "type": "list",
+              "items": [
+                "Wundinfektion oder periprothetische Gelenkinfektion mit möglicher Folgeoperation.",
+                "Tiefe Venenthrombose und Lungenembolie.",
+                "Luxation oder Instabilität der Prothese.",
+                "Periprothetische Fraktur während oder nach dem Eingriff.",
+                "Beinlängendifferenz, anhaltende Schmerzen oder Bewegungseinschränkung.",
+                "Blutung oder Verletzung von Nerven und Gefäßen.",
+                "Verschleiß oder Lockerung der Implantatkomponenten mit möglicher Wechseloperation."
+              ]
+            },
+            {
               "type": "p",
-              "text": "Wir beurteilen die Anatomie des Gelenks und des Knochengewebes, legen die chirurgische Taktik fest und planen Position und Parameter der Endoprothesenkomponenten sowie die Art ihrer Fixation."
+              "text": "Das individuelle Risiko hängt von Vorerkrankungen, Anatomie und Operationskomplexität ab. Nutzen, Alternativen und Risiken werden vor dem Eingriff besprochen."
             }
           ],
           "divider": false
         },
         {
-          "heading": "03 — Endoprothetik",
+          "heading": "Rehabilitation nach Hüft-TEP",
           "body": [
             {
-              "type": "p",
-              "text": "Die geschädigten Strukturen des Hüftgelenks werden gemäß dem zuvor erstellten Plan durch Komponenten der Endoprothese ersetzt, mit besonderer Aufmerksamkeit für Stabilität, anatomische Verhältnisse und Biomechanik des Gelenks."
+              "type": "list",
+              "items": [
+                "Erste Tage: Schmerzbehandlung, Wundkontrolle, Thromboseprophylaxe und sicheres Gehen mit Hilfsmitteln.",
+                "Erste 2–6 Wochen: Gehstrecke, Alltagsaktivitäten und Muskelkraft schrittweise steigern; Belastung nach individueller ärztlicher Empfehlung.",
+                "Folgende Monate: Ausdauer und Kraft verbessern sich weiter. Autofahren, Arbeit und Sport werden individuell abgestimmt.",
+                "Zunehmende Schmerzen, Fieber, Wundsekret oder starke Beinschwellung erfordern ärztliche Hilfe. Plötzliche Atemnot, Brustschmerz oder Ohnmacht sind Notfälle."
+              ]
             }
           ],
           "divider": false
         },
         {
-          "heading": "04 — Frühe Mobilisation",
+          "heading": "Kosten des Hüftgelenkersatzes",
           "body": [
             {
               "type": "p",
-              "text": "Nach der Operation beginnen die Mobilisation, die Wiederherstellung des Gehens und die schrittweise Erweiterung der Alltagsaktivität. Tempo und Belastungsregime werden individuell festgelegt."
+              "text": "Die Kosten hängen von Prothesenmodell, Operationsaufwand, Diagnostik, Anästhesie, stationärem Aufenthalt, Medikamenten und Rehabilitation ab. Eine erste Kosteneinschätzung ist nach individueller Untersuchung möglich."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Unser Ansatz",
-          "body": [],
-          "divider": true
-        },
-        {
-          "heading": "Nicht „eine Prothese für alle“, sondern eine Lösung für den konkreten Patienten",
-          "body": [
-            {
-              "type": "p",
-              "text": "Anatomie, Knochenqualität, Alter, Aktivitätsniveau und Ursache der Gelenkschädigung unterscheiden sich von Patient zu Patient. Deshalb werden Konstruktion der Endoprothese und chirurgische Taktik individuell gewählt."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Planung vor der Operation",
-          "body": [
-            {
-              "type": "p",
-              "text": "Wir beurteilen im Voraus die Anatomie des Hüftgelenks, die Beinlänge und die biomechanischen Parameter und planen die künftige Position der Komponenten."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Aufmerksamkeit für die Biomechanik",
-          "body": [
-            {
-              "type": "p",
-              "text": "Wichtig ist nicht nur die Implantation der Endoprothese, sondern auch die Wiederherstellung von Gelenkstabilität, Beinlänge, Offset und anatomischen Verhältnissen."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Von der Operation zur Rückkehr in die Aktivität",
-          "body": [
-            {
-              "type": "p",
-              "text": "Die Endoprothetik ist nur ein Behandlungsschritt. Frühe Mobilisation und konsequente funktionelle Erholung sind ein wichtiger Teil des Endergebnisses."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Klinischer Fall",
+          "heading": "Klinischer Fall: Hüft-TEP nach schwerer Verletzung",
           "body": [],
           "divider": true
         },
@@ -362,6 +233,16 @@
             "hip-replacement-case-after.jpg"
           ],
           "caseAspect": "landscape"
+        },
+        {
+          "heading": "Beratung für Patienten aus dem Ausland",
+          "body": [
+            {
+              "type": "p",
+              "text": "Patienten aus dem Ausland können zunächst eine Fernbeurteilung medizinischer Unterlagen und Bildgebung anfragen. Die endgültige Planung setzt eine persönliche Untersuchung voraus. Möglichkeiten in Kyjiw oder in sichereren westlichen Regionen der Ukraine werden individuell besprochen."
+            }
+          ],
+          "divider": false
         },
         {
           "heading": "Häufig gestellte Fragen",
@@ -528,20 +409,6 @@
             {
               "type": "p",
               "text": "Nach Abschluss der wesentlichen Erholungsphase können viele Formen körperlicher Aktivität wieder möglich sein. Konkrete Belastungen und Sportarten sollten individuell besprochen werden."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Benötigen Sie eine Beratung?",
-          "body": [
-            {
-              "type": "p",
-              "text": "Wenn Hüftschmerzen bereits Ihr Gehen und Ihre Alltagsaktivität einschränken, können wir während der Beratung den Zustand des Gelenks, die Untersuchungsergebnisse und mögliche Behandlungsoptionen beurteilen."
-            },
-            {
-              "type": "p",
-              "text": "Nicht jeder Patient mit Koxarthrose oder anderen Hüfterkrankungen benötigt eine Endoprothese. Unsere Aufgabe ist es, herauszufinden, welche Behandlungsmethode in Ihrer Situation optimal ist."
             }
           ],
           "divider": false
