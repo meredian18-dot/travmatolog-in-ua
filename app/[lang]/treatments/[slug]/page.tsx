@@ -201,10 +201,10 @@ function RichDetail({
   const t = dict.treatments;
   const isTha = slug === "hip-replacement";
   const related: Record<Locale, { heading: string; links: { slug: string; label: string }[] }> = {
-    uk: { heading: "Пов’язані напрямки лікування", links: [{ slug: "avascular-necrosis", label: "Асептичний некроз головки стегнової кістки" }, { slug: "revision-arthroplasty", label: "Ревізійне ендопротезування" }] },
-    en: { heading: "Related treatments", links: [{ slug: "avascular-necrosis", label: "Avascular necrosis of the femoral head" }, { slug: "revision-arthroplasty", label: "Revision joint replacement" }] },
-    de: { heading: "Verwandte Behandlungen", links: [{ slug: "avascular-necrosis", label: "Hüftkopfnekrose" }, { slug: "revision-arthroplasty", label: "Wechseloperation einer Endoprothese" }] },
-    pl: { heading: "Powiązane metody leczenia", links: [{ slug: "avascular-necrosis", label: "Jałowa martwica głowy kości udowej" }, { slug: "revision-arthroplasty", label: "Rewizja endoprotezy" }] },
+    uk: { heading: "Пов’язані напрямки лікування", links: [{ slug: "avn", label: "Асептичний некроз головки стегнової кістки" }, { slug: "revision-arthroplasty", label: "Ревізійне ендопротезування" }] },
+    en: { heading: "Related treatments", links: [{ slug: "avn", label: "Avascular necrosis of the femoral head" }, { slug: "revision-arthroplasty", label: "Revision joint replacement" }] },
+    de: { heading: "Verwandte Behandlungen", links: [{ slug: "avn", label: "Hüftkopfnekrose" }, { slug: "revision-arthroplasty", label: "Wechseloperation einer Endoprothese" }] },
+    pl: { heading: "Powiązane metody leczenia", links: [{ slug: "avn", label: "Jałowa martwica głowy kości udowej" }, { slug: "revision-arthroplasty", label: "Rewizja endoprotezy" }] },
   };
   const zoomHint: Record<Locale, string> = { uk: "Натисніть на зображення, щоб збільшити", en: "Select the image to enlarge", de: "Bild zum Vergrößern auswählen", pl: "Kliknij obraz, aby powiększyć" };
 
