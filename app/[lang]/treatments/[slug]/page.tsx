@@ -66,7 +66,22 @@ export default async function TreatmentDetail({
 
   const article = getDirections(loc).articles[slug];
   if (!article) notFound();
-  return <RichDetail dict={dict} lang={loc} slug={slug} article={article} />;
+  const schema = slug === "hip-replacement" ? {
+    "@context": "https://schema.org",
+    "@type": "MedicalWebPage",
+    "@id": `https://travmatolog.in.ua/${loc}/treatments/hip-replacement/#medicalwebpage`,
+    url: `https://travmatolog.in.ua/${loc}/treatments/hip-replacement/`,
+    name: article.title,
+    description: article.lead,
+    inLanguage: loc === "uk" ? "uk-UA" : loc === "en" ? "en" : loc === "de" ? "de-DE" : "pl-PL",
+    about: { "@type": "MedicalProcedure", name: article.title, procedureType: "Surgical" },
+    author: { "@type": "Person", name: "Maksym Baida", jobTitle: "Orthopaedic trauma surgeon" },
+    publisher: { "@type": "Organization", name: "travmatolog.in.ua", url: "https://travmatolog.in.ua/" },
+  } : null;
+  return <>
+    {schema && <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema).replace(/</g, "\\u003c") }} />}
+    <RichDetail dict={dict} lang={loc} slug={slug} article={article} />
+  </>;
 }
 
 type BlockGroup =
@@ -184,6 +199,13 @@ function RichDetail({
   article: Article;
 }) {
   const t = dict.treatments;
+  const isTha = slug === "hip-replacement";
+  const related: Record<Locale, { heading: string; links: { slug: string; label: string }[] }> = {
+    uk: { heading: "Пов’язані напрямки лікування", links: [{ slug: "avascular-necrosis", label: "Асептичний некроз головки стегнової кістки" }, { slug: "revision-arthroplasty", label: "Ревізійне ендопротезування" }] },
+    en: { heading: "Related treatments", links: [{ slug: "avascular-necrosis", label: "Avascular necrosis of the femoral head" }, { slug: "revision-arthroplasty", label: "Revision joint replacement" }] },
+    de: { heading: "Verwandte Behandlungen", links: [{ slug: "avascular-necrosis", label: "Hüftkopfnekrose" }, { slug: "revision-arthroplasty", label: "Wechseloperation einer Endoprothese" }] },
+    pl: { heading: "Powiązane metody leczenia", links: [{ slug: "avascular-necrosis", label: "Jałowa martwica głowy kości udowej" }, { slug: "revision-arthroplasty", label: "Rewizja endoprotezy" }] },
+  };
   const zoomHint: Record<Locale, string> = { uk: "Натисніть на зображення, щоб збільшити", en: "Select the image to enlarge", de: "Bild zum Vergrößern auswählen", pl: "Kliknij obraz, aby powiększyć" };
 
   return (
@@ -247,12 +269,12 @@ function RichDetail({
             {groupBlocks(article.blocks).map((group, i) => {
               if (group.kind === "divider") {
                 return (
-                  <div
+                  <h2
                     key={i}
                     className="mt-14 mb-6 pb-3 border-b border-hairline label-caps text-ink-muted text-[12px] font-semibold"
                   >
                     {group.heading}
-                  </div>
+                  </h2>
                 );
               }
 
@@ -285,9 +307,7 @@ function RichDetail({
               const caseLayout = slug === "hip-replacement" && !!block.caseImages?.length;
               return (
                 <div key={i} className="mt-6 rounded-[8px] border border-hairline bg-cream/60 p-6 lg:p-7">
-                  {block.heading && (
-                    <h3 className="font-sans font-medium text-ink text-lg mb-3">{block.heading}</h3>
-                  )}
+                  {block.heading && (isTha ? <h2 className="font-sans font-medium text-ink text-lg mb-3">{block.heading}</h2> : <h3 className="font-sans font-medium text-ink text-lg mb-3">{block.heading}</h3>)}
                   {caseLayout ? (
                     <div className="grid grid-cols-1 lg:grid-cols-2 gap-7 lg:gap-10 items-start">
                       <div className="min-w-0">
@@ -330,6 +350,16 @@ function RichDetail({
             })}
           </div>
 
+          {isTha && (
+            <nav aria-label={related[lang].heading} className="mt-12 border-t border-hairline pt-8">
+              <h2 className="text-lg font-medium text-ink mb-3">{related[lang].heading}</h2>
+              <ul className="space-y-2">
+                {related[lang].links.filter(item => !!getDirections(lang).articles[item.slug]).map(item => (
+                  <li key={item.slug}><a className="text-tan-dark underline hover:no-underline" href={`${BASE}/${lang}/treatments/${item.slug}/`}>{item.label}</a></li>
+                ))}
+              </ul>
+            </nav>
+          )}
           {slug === "hallux-valgus" && (lang === "uk" ? <HalluxInternationalUk /> : <HalluxInternational lang={lang} />)}
 
           <div className="mt-14 pt-10 border-t border-hairline">
