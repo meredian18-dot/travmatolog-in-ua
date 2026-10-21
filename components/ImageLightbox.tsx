@@ -6,11 +6,13 @@ export default function ImageLightbox({
   images,
   className,
   imgClassName = "w-full h-auto",
+  altTexts = [],
   aspect,
   fit = "cover",
   letterboxBg = "bg-black",
 }: {
   images: string[];
+  altTexts?: string[];
   className?: string;
   imgClassName?: string;
   /** Tailwind aspect-ratio class (e.g. "aspect-[3/4]"). When set, every thumbnail sits in this uniform box instead of keeping its natural size. */
@@ -81,7 +83,7 @@ export default function ImageLightbox({
           >
             <img
               src={src}
-              alt=""
+              alt={altTexts[i] ?? ""}
               className={aspect ? (fit === "contain" ? "w-full h-full object-contain" : "w-full h-full object-cover") : imgClassName}
             />
           </button>
@@ -131,7 +133,7 @@ export default function ImageLightbox({
 
           <img
             src={images[openIndex]}
-            alt=""
+            alt={altTexts[openIndex] ?? ""}
             className="max-w-full max-h-full object-contain"
             onClick={(e) => e.stopPropagation()}
           />
