@@ -200,6 +200,14 @@ function RichDetail({
 }) {
   const t = dict.treatments;
   const isTha = slug === "hip-replacement";
+  const imageDescriptions: Record<Locale, Record<string, string>> = {
+    uk: { "hip-replacement-planning.jpg": "Інфографіка планування ендопротезування кульшового суглоба: положення компонентів, центр ротації та довжина кінцівки", "hip-replacement-access.jpg": "Анатомічна ілюстрація прямого переднього доступу до кульшового суглоба", "hip-replacement-case-after.jpg": "Післяопераційна рентгенограма кульшового суглоба після ендопротезування" },
+    en: { "hip-replacement-planning.jpg": "Total hip replacement planning diagram with component position, hip centre and leg length", "hip-replacement-access.jpg": "Anatomical illustration of the direct anterior approach to the hip", "hip-replacement-case-after.jpg": "Postoperative hip replacement radiograph" },
+    de: { "hip-replacement-planning.jpg": "Planung der Hüft-TEP mit Komponentenposition, Drehzentrum und Beinlänge", "hip-replacement-access.jpg": "Anatomische Darstellung des direkten vorderen Zugangs zur Hüfte", "hip-replacement-case-after.jpg": "Postoperatives Röntgenbild nach Hüftendoprothese" },
+    pl: { "hip-replacement-planning.jpg": "Schemat planowania endoprotezoplastyki biodra: położenie implantów, środek obrotu i długość kończyny", "hip-replacement-access.jpg": "Ilustracja anatomiczna bezpośredniego dostępu przedniego do biodra", "hip-replacement-case-after.jpg": "Pooperacyjne zdjęcie RTG po endoprotezoplastyce stawu biodrowego" },
+  };
+  const imageAlt = (file: string) => isTha ? (imageDescriptions[lang][file] ?? article.title) : "";
+
   const related: Record<Locale, { heading: string; links: { slug: string; label: string }[] }> = {
     uk: { heading: "Пов’язані напрямки лікування", links: [{ slug: "avn", label: "Асептичний некроз головки стегнової кістки" }, { slug: "revision-arthroplasty", label: "Ревізійне ендопротезування" }] },
     en: { heading: "Related treatments", links: [{ slug: "avn", label: "Avascular necrosis of the femoral head" }, { slug: "revision-arthroplasty", label: "Revision joint replacement" }] },
@@ -313,6 +321,7 @@ function RichDetail({
                       <div className="min-w-0">
                         <ImageLightbox
                           images={block.caseImages!.map((img) => `${BASE}/directions/${img}`)}
+                          altTexts={block.caseImages!.map(imageAlt)}
                           className="grid grid-cols-1"
                           aspect="aspect-[3/2]"
                           fit="contain"
@@ -329,6 +338,7 @@ function RichDetail({
                       <div className="min-w-0">
                         <ImageLightbox
                           images={[`${BASE}/directions/${localizedTreatmentImage(block.diagram, slug, lang)}`]}
+                          altTexts={[imageAlt(block.diagram)]}
                           className="grid grid-cols-1"
                           aspect="aspect-[3/2]"
                           fit="contain"
