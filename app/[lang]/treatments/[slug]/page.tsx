@@ -102,6 +102,10 @@ function groupBlocks(blocks: Block[]): BlockGroup[] {
 }
 
 function localizedTreatmentImage(file: string, slug: string, lang: Locale): string {
+  if (slug === "hip-replacement" && lang !== "uk" &&
+      (file === "hip-replacement-planning.jpg" || file === "hip-replacement-access.jpg")) {
+    return file.replace(".jpg", `-${lang}.svg`);
+  }
   if (slug === "hallux-valgus" && lang !== "uk" &&
       (file === "hallux-valgus-diagram1.jpg" || file === "hallux-valgus-diagram2.jpg")) {
     return file.replace(".jpg", `-${lang}.webp`);
