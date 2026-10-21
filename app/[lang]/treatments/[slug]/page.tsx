@@ -313,7 +313,7 @@ function RichDetail({
 
           <div className="mt-14 pt-10 border-t border-hairline">
             <a
-              href={`${BASE}/${lang}/contacts/`}
+              href={`${BASE}/${lang}/#consultation`}
               className="group inline-flex items-center justify-between gap-6 btn-metallic text-white px-8 py-4 label-caps w-full sm:w-auto sm:min-w-[280px]"
             >
               {dict.common.ctaPrimary}
