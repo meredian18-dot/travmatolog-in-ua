@@ -18,12 +18,12 @@ export default async function LangLayout({
   const { lang } = await params;
   if (!hasLocale(lang)) notFound();
   const dict = getDictionary(lang);
-  const cta = ({
-    uk: ["Записатися на консультацію", "Консультація"],
-    en: ["Book a Consultation", "Consultation"],
-    de: ["Beratung anfragen", "Beratung"],
-    pl: ["Umów konsultację", "Konsultacja"],
-  } as Record<string, [string, string]>)[lang];
+  const mobileCta: Record<string, string> = {
+    uk: "Консультація",
+    en: "Consultation",
+    de: "Beratung",
+    pl: "Konsultacja",
+  };
 
   return (
     <>
@@ -31,12 +31,12 @@ export default async function LangLayout({
       {children}
       <a
         href={`${BASE}/${lang}/#consultation`}
-        aria-label={cta[0]}
+        aria-label={dict.common.ctaPrimary}
         className="fixed bottom-5 left-4 sm:bottom-6 sm:left-6 z-40 inline-flex items-center gap-3 rounded-full btn-metallic px-5 py-3 text-sm font-semibold text-white shadow-lg transition-transform hover:-translate-y-1 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white"
       >
         <span aria-hidden="true">✉</span>
-        <span className="hidden sm:inline">{cta[0]}</span>
-        <span className="sm:hidden">{cta[1]}</span>
+        <span className="hidden sm:inline">{dict.common.ctaPrimary}</span>
+        <span className="sm:hidden">{mobileCta[lang]}</span>
         <span aria-hidden="true">→</span>
       </a>
       <BackToTop label={dict.nav.backToTop} />
