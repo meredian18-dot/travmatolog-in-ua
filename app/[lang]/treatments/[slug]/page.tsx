@@ -9,6 +9,8 @@ import Footer from "@/components/Footer";
 import ImageLightbox from "@/components/ImageLightbox";
 import HalluxInternationalUk from "@/components/HalluxInternationalUk";
 import ShoulderInternationalUk from "@/components/ShoulderInternationalUk";
+import HipInternationalUk from "@/components/HipInternationalUk";
+import KneeInternationalUk from "@/components/KneeInternationalUk";
 import HalluxInternational from "@/components/HalluxInternational";
 import { getDirections, type Article, type Block } from "@/app/directions";
 
@@ -412,6 +414,8 @@ function RichDetail({
           )}
           {slug === "hallux-valgus" && (lang === "uk" ? <HalluxInternationalUk /> : <HalluxInternational lang={lang} />)}
           {slug === "shoulder-replacement" && lang === "uk" && <ShoulderInternationalUk />}
+          {slug === "hip-replacement" && lang === "uk" && <HipInternationalUk />}
+          {slug === "knee-replacement" && lang === "uk" && <KneeInternationalUk />}
 
           <div className="mt-14 pt-10 border-t border-hairline">
             <a
