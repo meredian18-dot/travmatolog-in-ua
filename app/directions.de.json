@@ -473,7 +473,7 @@
     },
     "knee-replacement": {
       "title": "Knieendoprothetik",
-      "lead": "Moderne chirurgische Behandlung zur Schmerzlinderung, Wiederherstellung der Beweglichkeit und Rückkehr zu einem aktiven Leben.",
+      "lead": "Knie-TEP in der Ukraine bei Gonarthrose: Teil- und Vollprothese, Subvastus-Zugang, Operationsplanung, Risiken und Rehabilitation.",
       "intro": "Wenn Knieschmerzen das Gehen einschränken, den Alltag beeinträchtigen und eine konservative Behandlung keine ausreichende Wirkung mehr zeigt, kann die Endoprothetik der nächste Behandlungsschritt sein.",
       "hero": "knee-replacement-hero.jpg",
       "gallery": [
@@ -761,6 +761,66 @@
             "knee-replacement-case-after1.jpg",
             "knee-replacement-case-after2.jpg"
           ]
+        },
+        {
+          "heading": "Kontraindikationen und Operationsvorbereitung",
+          "body": [
+            {
+              "type": "p",
+              "text": "Bei aktiver Gelenk- oder systemischer Infektion, Infektion im Operationsgebiet oder schwerer nicht kontrollierter Erkrankung muss ein elektiver Eingriff verschoben werden. Diabetes, Anämie, Ernährungszustand, Rauchen und Risiken bei Adipositas werden individuell optimiert. Ein erhöhter BMI allein schließt eine Beratung nicht aus."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Vollständiger und teilweiser Kniegelenkersatz",
+          "body": [
+            {
+              "type": "p",
+              "text": "Bei der Knie-Totalendoprothese (Knie-TEP) werden beschädigte Gelenkflächen von Femur und Tibia durch Komponenten mit Polyethylen-Inlay ersetzt. Eine unikondyläre Teilprothese eignet sich bei ausgewählten Patienten mit isoliertem Kompartimentbefall. Eine spätere Wechseloperation kann notwendig werden."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Subvastus-Zugang bei der Knie-TEP",
+          "body": [
+            {
+              "type": "p",
+              "text": "Wir bevorzugen den Subvastus-Zugang unter dem Musculus vastus medialis, wobei Quadrizepsmuskel und Sehne nicht durchtrennt werden. Dies kann die frühe Muskelaktivierung und Mobilisation begünstigen. Langfristige Ergebnisse sind mit dem medial-parapatellaren Zugang meist vergleichbar; bei schwieriger Anatomie kann ein anderer Zugang sicherer sein."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Implantatwahl und Beinachse",
+          "body": [
+            {
+              "type": "p",
+              "text": "CR-, PS- und stärker gekoppelte Prothesen werden nach Bandfunktion und Stabilität ausgewählt; die Fixierung kann zementiert oder zementfrei erfolgen. Mechanisches, kinematisches, eingeschränkt kinematisches und funktionelles Alignment berücksichtigen Anatomie und Bandbalance auf unterschiedliche Weise. Keine Methode ist für alle Patienten überlegen."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Risiken und Rehabilitation",
+          "body": [
+            {
+              "type": "p",
+              "text": "Mögliche Komplikationen sind Infektion, Thrombose oder Lungenembolie, Blutverlust, Bewegungseinschränkung, Instabilität, persistierende Schmerzen und Lockerung; seltener Fraktur oder Nerven- und Gefäßverletzung. Frühmobilisation und individuelle Rehabilitation sind wichtig. Plötzliche Atemnot oder Brustschmerzen erfordern sofortige Notfallversorgung. Die Erholung kann 3–12 Monate dauern."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Kosten und Patienten aus dem Ausland",
+          "body": [
+            {
+              "type": "p",
+              "text": "Die Kosten hängen von Implantat, Aufwand, Anästhesie, Klinikaufenthalt und Rehabilitation ab. Patienten aus Deutschland, Polen und Tschechien können Befunde und digitale belastete Röntgenbilder vorab zur orientierenden Beurteilung übermitteln. Die endgültige Entscheidung erfordert eine Untersuchung vor Ort. Eine Behandlung in sichereren westlichen Regionen der Ukraine kann individuell geprüft werden."
+            }
+          ],
+          "divider": false
         },
         {
           "heading": "Häufig gestellte Fragen",
