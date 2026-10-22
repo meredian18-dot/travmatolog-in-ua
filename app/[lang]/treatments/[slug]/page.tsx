@@ -39,7 +39,7 @@ export async function generateMetadata({
       de:{title:"Schulterprothese & inverse Schulter-TEP | Dr. Baida",description:"Anatomische und inverse Schulterprothese: Indikationen, Rotatorenmanschette, OP-Planung, Risiken, Rehabilitation und Beratung in der Ukraine."},
       pl:{title:"Endoproteza barku na Ukrainie | Dr Maksym Baida",description:"Endoprotezoplastyka barku: proteza anatomiczna i odwrócona, wskazania, planowanie operacji, ryzyko, rehabilitacja i konsultacja ortopedyczna."}
     };
-    return {...meta[lang], alternates:localizedAlternates(lang, `treatments/${slug}`)};
+    return {...meta[lang], alternates: localizedAlternates(lang, `treatments/${slug}`), openGraph: {type:"article",url:`https://travmatolog.in.ua/${lang}/treatments/${slug}/`,title:meta[lang].title,description:meta[lang].description,siteName:"travmatolog.in.ua",images:[{url:"https://travmatolog.in.ua/directions/shoulder-replacement-hero.jpg",alt:article.title}]},twitter:{card:"summary_large_image",title:meta[lang].title,description:meta[lang].description,images:["https://travmatolog.in.ua/directions/shoulder-replacement-hero.jpg"]}};
   }
   if (slug === "knee-replacement") {
     const meta: Record<string, {title: string; description: string}> = {
@@ -251,6 +251,7 @@ function RichDetail({
     de: {"knee-replacement-diagram.jpg":"Schema zur Planung und mechanischen Beinachse bei Knie-TEP","knee-replacement-what.jpg":"Darstellung des Kniegelenkersatzes","knee-replacement-case-before1.jpg":"Belastete Röntgenaufnahme beider Knie mit Gonarthrose","knee-replacement-case-before2.jpg":"Röntgenbild einer Kniearthrose","knee-replacement-case-before3.jpg":"Ganzbeinaufnahme zur Achsbeurteilung","knee-replacement-case-after1.jpg":"Postoperative Knie-TEP in a.p. Projektion","knee-replacement-case-after2.jpg":"Postoperative Knie-TEP in seitlicher Projektion"},
     pl: {"knee-replacement-diagram.jpg":"Schemat planowania i osi mechanicznej kończyny przy endoprotezoplastyce kolana","knee-replacement-what.jpg":"Schemat całkowitej endoprotezoplastyki kolana","knee-replacement-case-before1.jpg":"RTG kolan pod obciążeniem z gonartrozą","knee-replacement-case-before2.jpg":"RTG choroby zwyrodnieniowej kolana","knee-replacement-case-before3.jpg":"RTG całych kończyn dolnych do oceny osi","knee-replacement-case-after1.jpg":"RTG endoprotezy kolana w projekcji przednio-tylnej","knee-replacement-case-after2.jpg":"RTG endoprotezy kolana w projekcji bocznej"}
   };
+  const shoulderAlt: Record<Locale, Record<string,string>> = {"uk":{"shoulder-replacement-cuff.jpg":"Стан ротаторної манжети та вибір анатомічного чи реверсивного ендопротеза плеча","shoulder-replacement-types.jpg":"Порівняння анатомічного та реверсивного ендопротезування плечового суглоба","shoulder-replacement-case-before.jpg":"Доопераційна рентгенограма плеча після тяжкої травми","shoulder-replacement-case-after1.jpg":"Післяопераційна рентгенограма реверсивного ендопротеза плеча, перша проєкція","shoulder-replacement-case-after2.jpg":"Післяопераційна рентгенограма реверсивного ендопротеза плеча, друга проєкція"},"en":{"shoulder-replacement-rotator-cuff-en.png":"Rotator cuff function and selection of anatomic or reverse shoulder replacement","shoulder-replacement-types-en.png":"Comparison of anatomic and reverse shoulder replacement implants","shoulder-replacement-case-before.jpg":"Preoperative shoulder radiograph following severe trauma","shoulder-replacement-case-after1.jpg":"Postoperative reverse shoulder replacement X-ray, first view","shoulder-replacement-case-after2.jpg":"Postoperative reverse shoulder replacement X-ray, second view"},"de":{"shoulder-replacement-rotator-cuff-de.png":"Rotatorenmanschette und Wahl zwischen anatomischer und inverser Schulterprothese","shoulder-replacement-types-de.png":"Vergleich anatomischer und inverser Schulterendoprothesen","shoulder-replacement-case-before.jpg":"Präoperatives Schulter-Röntgenbild nach schwerem Trauma","shoulder-replacement-case-after1.jpg":"Postoperatives Röntgenbild der inversen Schulterprothese, erste Aufnahme","shoulder-replacement-case-after2.jpg":"Postoperatives Röntgenbild der inversen Schulterprothese, zweite Aufnahme"},"pl":{"shoulder-replacement-rotator-cuff-pl.png":"Stożek rotatorów a wybór endoprotezy anatomicznej lub odwróconej","shoulder-replacement-types-pl.png":"Porównanie endoprotezy anatomicznej i odwróconej barku","shoulder-replacement-case-before.jpg":"Przedoperacyjne RTG barku po ciężkim urazie","shoulder-replacement-case-after1.jpg":"Pooperacyjne RTG odwróconej endoprotezy barku, pierwsza projekcja","shoulder-replacement-case-after2.jpg":"Pooperacyjne RTG odwróconej endoprotezy barku, druga projekcja"}};
   const imageAlt = (file: string) => slug === "knee-replacement" ? (kneeAlt[lang][file] ?? ({
     "knee-replacement-diagram.jpg": "Схема ендопротеза колінного суглоба",
     "knee-replacement-what.jpg": "Анатомічна схема коліна й ендопротезування",
@@ -259,7 +260,7 @@ function RichDetail({
     "knee-replacement-case-before3.jpg": "Панорамна рентгенограма нижніх кінцівок для оцінки механічної осі",
     "knee-replacement-case-after1.jpg": "Рентгенограма колінного ендопротеза у прямій проєкції",
     "knee-replacement-case-after2.jpg": "Рентгенограма колінного ендопротеза у бічній проєкції",
-  }[file] ?? article.title)) : isTha ? (imageDescriptions[lang][file] ?? article.title) : "";
+  }[file] ?? article.title)) : isTha ? (imageDescriptions[lang][file] ?? article.title) : slug === "shoulder-replacement" ? (shoulderAlt[lang][file] ?? article.title) : "";
 
   const related: Record<Locale, { heading: string; links: { slug: string; label: string }[] }> = {
     uk: { heading: "Пов’язані напрямки лікування", links: [{ slug: "avn", label: "Асептичний некроз головки стегнової кістки" }, { slug: "revision-arthroplasty", label: "Ревізійне ендопротезування" }] },
@@ -392,7 +393,7 @@ function RichDetail({
                       <div className="min-w-0">
                         <ImageLightbox
                           images={[`${BASE}/directions/${localizedTreatmentImage(block.diagram, slug, lang)}`]}
-                          altTexts={[imageAlt(block.diagram)]}
+                          altTexts={[imageAlt(localizedTreatmentImage(block.diagram, slug, lang))]}
                           className="grid grid-cols-1"
                           aspect="aspect-[3/2]"
                           fit="contain"
