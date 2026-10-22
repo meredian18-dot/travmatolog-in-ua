@@ -1,5 +1,6 @@
 name: Deploy to GitHub Pages
 # Uses the configured GitHub Actions Pages source; no DNS changes.
+# Redeploy trigger: refresh published site after hip/knee regional guidance.
 
 on:
   push:
