@@ -476,13 +476,15 @@
       "lead": "Endoproteza kolana na Ukrainie: gonartroza, całkowita i częściowa wymiana stawu, dostęp subvastus, planowanie i rehabilitacja.",
       "intro": "Jeśli ból kolana ogranicza chodzenie, utrudnia codzienne życie, a leczenie zachowawcze nie przynosi już wystarczającego efektu, endoprotezoplastyka może stać się kolejnym etapem leczenia.",
       "hero": "knee-replacement-hero.jpg",
-      "gallery": [
-        "knee-replacement-diagram.jpg",
-        "knee-replacement-what.jpg"
-      ],
+      "gallery": [],
       "blocks": [
         {
-          "heading": "Kiedy endoprotezoplastyka staje się konieczna",
+          "heading": "Choroby i wskazania",
+          "body": [],
+          "divider": true
+        },
+        {
+          "heading": "Gonartroza i inne przyczyny bólu kolana",
           "body": [
             {
               "type": "p",
@@ -499,13 +501,7 @@
             {
               "type": "p",
               "text": "Decyzja o operacji podejmowana jest indywidualnie — nie tylko na podstawie zdjęcia rentgenowskiego, lecz z uwzględnieniem bólu, ruchomości, deformacji, chodu i tego, w jakim stopniu choroba ogranicza codzienne życie."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Kiedy warto się zgłosić",
-          "body": [
+            },
             {
               "type": "list",
               "items": [
@@ -523,7 +519,197 @@
           "divider": false
         },
         {
-          "heading": "Co może się zmienić po operacji",
+          "heading": "Kiedy rozważyć wymianę stawu kolanowego?",
+          "body": [
+            {
+              "type": "list",
+              "items": [
+                "ból kolana stał się stały lub stopniowo się nasila",
+                "chodzenie na zwykłe dystanse staje się coraz trudniejsze",
+                "ból pojawia się nie tylko przy obciążeniu, ale też w spoczynku",
+                "trudno wchodzić po schodach lub z nich schodzić",
+                "kolano źle się zgina lub nie prostuje się całkowicie",
+                "pojawiła się lub narasta deformacja nogi",
+                "z powodu bólu trzeba rezygnować ze zwykłej aktywności",
+                "leczenie zachowawcze nie przynosi już wystarczającej ulgi"
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Zaczynamy od rozmowy o tym, co dokładnie niepokoi pacjenta i w jakim stopniu problem ogranicza jego życie. Oceniamy ruchomość, stabilność i deformację stawu kolanowego, analizujemy zdjęcia rentgenowskie i inne badania zgodnie ze wskazaniami."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Przeciwwskazania i przygotowanie",
+          "body": [
+            {
+              "type": "p",
+              "text": "Aktywne zakażenie stawu lub ogólnoustrojowe, zakażenie pola operacyjnego albo ciężka niewyrównana choroba mogą wymagać odroczenia zabiegu. Należy zoptymalizować cukrzycę, niedokrwistość, stan odżywienia, palenie tytoniu i ryzyko związane z otyłością. Sam podwyższony BMI nie wyklucza konsultacji."
+            },
+            {
+              "type": "p",
+              "text": "Aktywne zakażenie lub ciężka niewyrównana choroba mogą uniemożliwiać planowy zabieg. Cukrzycę, niedokrwistość, palenie, odżywienie i ryzyko zakrzepicy ocenia się indywidualnie; sam BMI nie powinien automatycznie wykluczać konsultacji."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Rodzaje endoprotezoplastyki",
+          "body": [],
+          "divider": true
+        },
+        {
+          "heading": "Całkowita i częściowa endoprotezoplastyka kolana",
+          "body": [
+            {
+              "type": "p",
+              "text": "Całkowita endoprotezoplastyka (TKA) zastępuje uszkodzone powierzchnie kości udowej i piszczelowej komponentami z wkładką polietylenową. Proteza jednoprzedziałowa (UKA) może być odpowiednia przy izolowanym uszkodzeniu jednego przedziału. Nie nadaje się do każdego przypadku; czasem konieczna jest późniejsza operacja rewizyjna."
+            },
+            {
+              "type": "p",
+              "text": "TKA zastępuje uszkodzone powierzchnie kości udowej i piszczelowej komponentami z wkładką polietylenową. UKA obejmuje jeden przedział u odpowiednio wybranych pacjentów z zachowaną stabilnością. Oba rozwiązania mogą wymagać późniejszej rewizji."
+            }
+          ],
+          "divider": false,
+          "diagram": "knee-replacement-what.jpg"
+        },
+        {
+          "heading": "Dobór endoprotezy kolana",
+          "body": [
+            {
+              "type": "p",
+              "text": "Implanty CR, PS i konstrukcje o większym stopniu stabilizacji dobiera się do stanu więzadeł. Stosuje się mocowanie cementowe lub bezcementowe. Ustawienie mechaniczne, kinematyczne, ograniczone kinematyczne i funkcjonalne uwzględniają anatomię oraz balans tkanek miękkich; nie ma jednej najlepszej techniki dla wszystkich."
+            },
+            {
+              "type": "p",
+              "text": "Implanty CR zachowują funkcjonalne więzadło krzyżowe tylne, PS częściowo zastępują jego działanie. Przy znacznej niestabilności stosuje się bardziej stabilizowane konstrukcje. Mocowanie cementowe lub bezcementowe dobiera się indywidualnie."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Planowanie, operacja i biomechanika",
+          "body": [],
+          "divider": true
+        },
+        {
+          "heading": "Badanie i planowanie przedoperacyjne",
+          "body": [
+            {
+              "type": "p",
+              "text": "Nowoczesna endoprotezoplastyka stawu kolanowego zaczyna się na długo przed samą operacją."
+            },
+            {
+              "type": "p",
+              "text": "Przed zabiegiem oceniane są stopień uszkodzenia stawu, anatomia kolana, oś kończyny dolnej, charakter deformacji, stan tkanki kostnej, stabilność aparatu więzadłowego i zakres ruchu."
+            },
+            {
+              "type": "p",
+              "text": "Na podstawie tych danych planuje się położenie komponentów endoprotezy i określa taktykę chirurgiczną."
+            },
+            {
+              "type": "p",
+              "text": "Nie istnieje jedno uniwersalne rozwiązanie dla wszystkich pacjentów. Typ endoprotezy i cechy operacji dobierane są odpowiednio do konkretnej sytuacji klinicznej."
+            },
+            {
+              "type": "p",
+              "text": "Wcześniej oceniamy anatomię stawu kolanowego i kończyny dolnej, charakter deformacji oraz cechy przyszłej endoprotezoplastyki."
+            },
+            {
+              "type": "p",
+              "text": "RTG kolana pod obciążeniem i w razie potrzeby zdjęcie całych kończyn na stojąco pozwalają ocenić deformację i oś mechaniczną. Tomografia jest zarezerwowana dla wybranych przypadków."
+            }
+          ],
+          "divider": false,
+          "diagram": "knee-replacement-diagram.jpg"
+        },
+        {
+          "heading": "Jak przebiega operacja?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Uszkodzone powierzchnie stawowe zastępowane są komponentami endoprotezy z odtworzeniem stabilności i funkcjonalnej biomechaniki stawu kolanowego."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Dostęp subvastus: ochrona mięśnia czworogłowego",
+          "body": [
+            {
+              "type": "p",
+              "text": "Preferujemy dostęp subvastus pod mięśniem obszernym przyśrodkowym, bez przecinania mięśnia czworogłowego uda i jego ścięgna. U wybranych pacjentów może to ułatwiać wczesną aktywację mięśnia i mobilizację. Odległe wyniki są zasadniczo porównywalne z dostępem przyśrodkowym przyrzepkowym; trudna anatomia może wymagać innego dostępu."
+            },
+            {
+              "type": "p",
+              "text": "Preferujemy dostęp subvastus pod mięśniem obszernym przyśrodkowym, bez przecięcia mięśnia czworogłowego i jego ścięgna. Może on ułatwiać wczesną mobilizację, lecz nie wykazano przewagi długoterminowej u wszystkich. Trudna anatomia bywa wskazaniem do innego dostępu."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Oś mechaniczna, balans więzadeł i stabilność",
+          "body": [
+            {
+              "type": "p",
+              "text": "Ważne jest nie tylko wszczepienie komponentów endoprotezy, ale też odtworzenie stabilności, funkcjonalnej osi kończyny i równowagi tkanek miękkich."
+            },
+            {
+              "type": "p",
+              "text": "Implanty CR, PS i konstrukcje o większym stopniu stabilizacji dobiera się do stanu więzadeł. Stosuje się mocowanie cementowe lub bezcementowe. Ustawienie mechaniczne, kinematyczne, ograniczone kinematyczne i funkcjonalne uwzględniają anatomię oraz balans tkanek miękkich; nie ma jednej najlepszej techniki dla wszystkich."
+            },
+            {
+              "type": "p",
+              "text": "Ustawienie mechaniczne, kinematyczne, ograniczone kinematyczne i funkcjonalne różnie uwzględniają anatomię i balans więzadeł. Kontroluje się przestrzenie w zgięciu i wyproście, stabilność oraz tor rzepki. Żadna metoda nie jest najlepsza dla wszystkich."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Bezpieczeństwo, rehabilitacja i wyniki",
+          "body": [],
+          "divider": true
+        },
+        {
+          "heading": "Możliwe ryzyko i powikłania",
+          "body": [
+            {
+              "type": "p",
+              "text": "Możliwe powikłania obejmują zakażenie, zakrzepicę i zatorowość, utratę krwi, sztywność, niestabilność, przewlekły ból i obluzowanie, rzadziej złamanie lub uszkodzenie nerwów i naczyń. Ważne są profilaktyka, wczesne uruchamianie i indywidualna rehabilitacja. Nagła duszność lub ból w klatce piersiowej wymagają pilnej pomocy. Powrót funkcji może trwać 3–12 miesięcy."
+            },
+            {
+              "type": "p",
+              "text": "Możliwe są zakażenie, zakrzepica lub zatorowość, krwawienie, sztywność, niestabilność, obluzowanie i przewlekły ból; rzadziej złamania i urazy nerwowo-naczyniowe. Nagła duszność lub ból w klatce piersiowej wymagają pilnej pomocy."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Rehabilitacja po endoprotezoplastyce kolana",
+          "body": [
+            {
+              "type": "p",
+              "text": "Po operacji rozpoczyna się uruchamianie pacjenta, przywracanie chodzenia i ruchów w stawie kolanowym. Obciążenie i tempo rehabilitacji ustalane są indywidualnie."
+            },
+            {
+              "type": "p",
+              "text": "Koszty zależą od implantu, złożoności zabiegu, znieczulenia, pobytu i rehabilitacji. Pacjenci z Polski, Niemiec i Czech mogą przesłać dokumentację i oryginalne cyfrowe RTG wykonane pod obciążeniem do wstępnej oceny. Ostateczny plan wymaga badania osobistego. Leczenie w bezpieczniejszych zachodnich regionach Ukrainy można rozważyć indywidualnie."
+            },
+            {
+              "type": "p",
+              "text": "Endoprotezoplastyka to tylko jeden z etapów leczenia. Wczesne uruchamianie i konsekwentne przywracanie ruchomości i siły są istotną częścią końcowego wyniku funkcjonalnego."
+            },
+            {
+              "type": "p",
+              "text": "Uruchamianie często rozpoczyna się w dniu zabiegu lub następnego dnia. Siła, wyprost, chód i schody poprawiają się przez tygodnie; pełniejszy powrót funkcji może trwać 3–12 miesięcy. Nie forsować ćwiczeń przez silny ból. Prowadzenie auta wymaga bezpiecznego hamowania."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Wyniki i trwałość endoprotezy",
           "body": [
             {
               "type": "p",
@@ -548,168 +734,60 @@
             {
               "type": "p",
               "text": "Celem leczenia jest pomoc pacjentowi w ponownym korzystaniu z kolana w codziennym życiu przy jak najmniejszych ograniczeniach bólowych i funkcjonalnych."
+            },
+            {
+              "type": "p",
+              "text": "Dane rejestrowe wskazują, że około 93%, 90% i 82% całkowitych endoprotez nie wymagało rewizji po 15, 20 i 25 latach. Nie oznacza to gwarancji bezbolesnej funkcji (Evans i wsp., Lancet 2019)."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Indywidualne planowanie operacji",
-          "body": [
-            {
-              "type": "p",
-              "text": "Nowoczesna endoprotezoplastyka stawu kolanowego zaczyna się na długo przed samą operacją."
-            },
-            {
-              "type": "p",
-              "text": "Przed zabiegiem oceniane są stopień uszkodzenia stawu, anatomia kolana, oś kończyny dolnej, charakter deformacji, stan tkanki kostnej, stabilność aparatu więzadłowego i zakres ruchu."
-            },
-            {
-              "type": "p",
-              "text": "Na podstawie tych danych planuje się położenie komponentów endoprotezy i określa taktykę chirurgiczną."
-            },
-            {
-              "type": "p",
-              "text": "Nie istnieje jedno uniwersalne rozwiązanie dla wszystkich pacjentów. Typ endoprotezy i cechy operacji dobierane są odpowiednio do konkretnej sytuacji klinicznej."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Co jest ważne w endoprotezoplastyce stawu kolanowego",
-          "body": [
-            {
-              "type": "p",
-              "text": "Wynik operacji zależy nie tylko od modelu czy producenta endoprotezy."
-            },
-            {
-              "type": "p",
-              "text": "Ważne są:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "precyzyjne planowanie przedoperacyjne",
-                "prawidłowe pozycjonowanie komponentów",
-                "ocena i korekcja deformacji kończyny",
-                "stabilność stawu kolanowego",
-                "równowaga więzadeł i tkanek miękkich",
-                "odtworzenie funkcjonalnego zakresu ruchu",
-                "prawidłowo zorganizowana rehabilitacja pooperacyjna"
-              ]
-            },
-            {
-              "type": "p",
-              "text": "Celem nie jest po prostu wszczepienie endoprotezy, lecz stworzenie stabilnego i funkcjonalnego stawu kolanowego, który pozwoli pacjentowi wrócić do zwykłej aktywności."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Jak przebiega leczenie",
+          "heading": "Informacje praktyczne",
           "body": [],
           "divider": true
         },
         {
-          "heading": "01 — Konsultacja i diagnostyka",
+          "heading": "Koszt endoprotezoplastyki kolana",
           "body": [
             {
               "type": "p",
-              "text": "Zaczynamy od rozmowy o tym, co dokładnie niepokoi pacjenta i w jakim stopniu problem ogranicza jego życie. Oceniamy ruchomość, stabilność i deformację stawu kolanowego, analizujemy zdjęcia rentgenowskie i inne badania zgodnie ze wskazaniami."
+              "text": "Koszty zależą od implantu, złożoności zabiegu, znieczulenia, pobytu i rehabilitacji. Pacjenci z Polski, Niemiec i Czech mogą przesłać dokumentację i oryginalne cyfrowe RTG wykonane pod obciążeniem do wstępnej oceny. Ostateczny plan wymaga badania osobistego. Leczenie w bezpieczniejszych zachodnich regionach Ukrainy można rozważyć indywidualnie."
+            },
+            {
+              "type": "p",
+              "text": "Koszt zależy od implantu, trudności zabiegu, znieczulenia, hospitalizacji i rehabilitacji. Wstępna wycena jest możliwa po analizie dokumentów, ostateczna po badaniu i ustaleniu planu."
             }
           ],
           "divider": false
         },
         {
-          "heading": "02 — Planowanie przedoperacyjne",
+          "heading": "Pacjenci z Kijowa, Ukrainy i zagranicy",
           "body": [
             {
               "type": "p",
-              "text": "Określamy cechy anatomii i deformacji, planujemy taktykę chirurgiczną, położenie komponentów i typ endoprotezy."
+              "text": "Koszty zależą od implantu, złożoności zabiegu, znieczulenia, pobytu i rehabilitacji. Pacjenci z Polski, Niemiec i Czech mogą przesłać dokumentację i oryginalne cyfrowe RTG wykonane pod obciążeniem do wstępnej oceny. Ostateczny plan wymaga badania osobistego. Leczenie w bezpieczniejszych zachodnich regionach Ukrainy można rozważyć indywidualnie."
+            },
+            {
+              "type": "p",
+              "text": "Pacjenci z Polski, Niemiec i Czech mogą przesłać wyniki i oryginalne cyfrowe RTG pod obciążeniem do wstępnej oceny. Ostateczne decyzje wymagają konsultacji osobistej. Leczenie w bezpieczniejszych zachodnich regionach Ukrainy rozważa się indywidualnie."
             }
           ],
           "divider": false
         },
         {
-          "heading": "03 — Endoprotezoplastyka",
-          "body": [
-            {
-              "type": "p",
-              "text": "Uszkodzone powierzchnie stawowe zastępowane są komponentami endoprotezy z odtworzeniem stabilności i funkcjonalnej biomechaniki stawu kolanowego."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "04 — Wczesna rekonwalescencja",
-          "body": [
-            {
-              "type": "p",
-              "text": "Po operacji rozpoczyna się uruchamianie pacjenta, przywracanie chodzenia i ruchów w stawie kolanowym. Obciążenie i tempo rehabilitacji ustalane są indywidualnie."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Nasze podejście",
+          "heading": "Przykłady badań rentgenowskich",
           "body": [],
           "divider": true
         },
         {
-          "heading": "Nie „protez dla wszystkich”, lecz rozwiązanie dla konkretnego pacjenta",
-          "body": [
-            {
-              "type": "p",
-              "text": "Wiek, anatomia, charakter deformacji, stan więzadeł, tkanki kostnej i poziom aktywności są różne u każdego pacjenta. Dlatego taktyka chirurgiczna ustalana jest indywidualnie."
-            }
+          "heading": "Gonartroza i ocena osi kończyn",
+          "caseImages": [
+            "knee-replacement-case-before1.jpg",
+            "knee-replacement-case-before2.jpg",
+            "knee-replacement-case-before3.jpg"
           ],
-          "divider": false
-        },
-        {
-          "heading": "Planowanie przed operacją",
-          "body": [
-            {
-              "type": "p",
-              "text": "Wcześniej oceniamy anatomię stawu kolanowego i kończyny dolnej, charakter deformacji oraz cechy przyszłej endoprotezoplastyki."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Uwaga na biomechanikę",
-          "body": [
-            {
-              "type": "p",
-              "text": "Ważne jest nie tylko wszczepienie komponentów endoprotezy, ale też odtworzenie stabilności, funkcjonalnej osi kończyny i równowagi tkanek miękkich."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Od operacji do powrotu do aktywności",
-          "body": [
-            {
-              "type": "p",
-              "text": "Endoprotezoplastyka to tylko jeden z etapów leczenia. Wczesne uruchamianie i konsekwentne przywracanie ruchomości i siły są istotną częścią końcowego wyniku funkcjonalnego."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Przykłady radiologiczne",
-          "body": [
-            {
-              "type": "p",
-              "text": "Radiografia jest ważną częścią planowania endoprotezoplastyki stawu kolanowego. Pozwala ocenić stopień zmian zwyrodnieniowych, charakter deformacji, stan powierzchni stawowych i oś kończyny dolnej."
-            },
-            {
-              "type": "p",
-              "text": "Przy planowaniu operacji ważne jest nie tylko zastąpienie uszkodzonych powierzchni stawowych, lecz także uwzględnienie anatomii konkretnego pacjenta, charakteru deformacji, położenia przyszłych komponentów i funkcjonalnej biomechaniki kończyny."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Gonartroza i ocena osi kończyn dolnych",
+          "caseAspect": "landscape",
           "body": [
             {
               "type": "caption",
@@ -728,16 +806,15 @@
               "text": "Informacja ta wykorzystywana jest podczas planowania przedoperacyjnego całkowitej endoprotezoplastyki stawu kolanowego."
             }
           ],
-          "divider": false,
-          "caseImages": [
-            "knee-replacement-case-before1.jpg",
-            "knee-replacement-case-before2.jpg",
-            "knee-replacement-case-before3.jpg"
-          ],
-          "caseAspect": "landscape"
+          "divider": false
         },
         {
-          "heading": "Całkowita endoprotezoplastyka stawu kolanowego",
+          "heading": "RTG po całkowitej endoprotezoplastyce",
+          "caseImages": [
+            "knee-replacement-case-after1.jpg",
+            "knee-replacement-case-after2.jpg"
+          ],
+          "caseAspect": "landscape",
           "body": [
             {
               "type": "caption",
@@ -756,79 +833,15 @@
               "text": "Ważne: przedstawione obrazy są odrębnymi przypadkami klinicznymi i nie stanowią serii „przed/po” jednego pacjenta."
             }
           ],
-          "divider": false,
-          "caseImages": [
-            "knee-replacement-case-after1.jpg",
-            "knee-replacement-case-after2.jpg"
-          ]
-        },
-        {
-          "heading": "Przeciwwskazania i przygotowanie do operacji",
-          "body": [
-            {
-              "type": "p",
-              "text": "Aktywne zakażenie stawu lub ogólnoustrojowe, zakażenie pola operacyjnego albo ciężka niewyrównana choroba mogą wymagać odroczenia zabiegu. Należy zoptymalizować cukrzycę, niedokrwistość, stan odżywienia, palenie tytoniu i ryzyko związane z otyłością. Sam podwyższony BMI nie wyklucza konsultacji."
-            }
-          ],
           "divider": false
         },
         {
-          "heading": "Całkowita i częściowa endoprotezoplastyka kolana",
-          "body": [
-            {
-              "type": "p",
-              "text": "Całkowita endoprotezoplastyka (TKA) zastępuje uszkodzone powierzchnie kości udowej i piszczelowej komponentami z wkładką polietylenową. Proteza jednoprzedziałowa (UKA) może być odpowiednia przy izolowanym uszkodzeniu jednego przedziału. Nie nadaje się do każdego przypadku; czasem konieczna jest późniejsza operacja rewizyjna."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Dostęp subvastus z zachowaniem mięśnia czworogłowego",
-          "body": [
-            {
-              "type": "p",
-              "text": "Preferujemy dostęp subvastus pod mięśniem obszernym przyśrodkowym, bez przecinania mięśnia czworogłowego uda i jego ścięgna. U wybranych pacjentów może to ułatwiać wczesną aktywację mięśnia i mobilizację. Odległe wyniki są zasadniczo porównywalne z dostępem przyśrodkowym przyrzepkowym; trudna anatomia może wymagać innego dostępu."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Dobór implantu, oś kończyny i stabilność",
-          "body": [
-            {
-              "type": "p",
-              "text": "Implanty CR, PS i konstrukcje o większym stopniu stabilizacji dobiera się do stanu więzadeł. Stosuje się mocowanie cementowe lub bezcementowe. Ustawienie mechaniczne, kinematyczne, ograniczone kinematyczne i funkcjonalne uwzględniają anatomię oraz balans tkanek miękkich; nie ma jednej najlepszej techniki dla wszystkich."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Ryzyko i rehabilitacja",
-          "body": [
-            {
-              "type": "p",
-              "text": "Możliwe powikłania obejmują zakażenie, zakrzepicę i zatorowość, utratę krwi, sztywność, niestabilność, przewlekły ból i obluzowanie, rzadziej złamanie lub uszkodzenie nerwów i naczyń. Ważne są profilaktyka, wczesne uruchamianie i indywidualna rehabilitacja. Nagła duszność lub ból w klatce piersiowej wymagają pilnej pomocy. Powrót funkcji może trwać 3–12 miesięcy."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Koszty i pacjenci z zagranicy",
-          "body": [
-            {
-              "type": "p",
-              "text": "Koszty zależą od implantu, złożoności zabiegu, znieczulenia, pobytu i rehabilitacji. Pacjenci z Polski, Niemiec i Czech mogą przesłać dokumentację i oryginalne cyfrowe RTG wykonane pod obciążeniem do wstępnej oceny. Ostateczny plan wymaga badania osobistego. Leczenie w bezpieczniejszych zachodnich regionach Ukrainy można rozważyć indywidualnie."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Najczęściej zadawane pytania",
+          "heading": "Najczęstsze pytania",
           "body": [],
           "divider": true
         },
         {
-          "heading": "Jak zrozumieć, że nadszedł już czas na operację?",
+          "heading": "Kiedy operacja jest potrzebna?",
           "body": [
             {
               "type": "p",
@@ -842,7 +855,7 @@
           "divider": false
         },
         {
-          "heading": "Czy można jeszcze spróbować obejść się bez operacji?",
+          "heading": "Czy można uniknąć operacji?",
           "body": [
             {
               "type": "p",
@@ -856,7 +869,17 @@
           "divider": false
         },
         {
-          "heading": "Czy noga się wyprostuje po endoprotezoplastyce?",
+          "heading": "Czy można wymienić tylko część kolana?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Endoproteza częściowa jest możliwa przy izolowanym uszkodzeniu i odpowiedniej stabilności."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Czy noga wyprostuje się po operacji?",
           "body": [
             {
               "type": "p",
@@ -870,21 +893,17 @@
           "divider": false
         },
         {
-          "heading": "Czy bardzo boli po operacji?",
+          "heading": "Czym wyróżnia się dostęp subvastus?",
           "body": [
             {
               "type": "p",
-              "text": "Ból pooperacyjny jest spodziewany, zwłaszcza w pierwszych dniach. Do jego kontroli stosuje się kompleksowe znieczulenie, które pozwala rozpocząć wczesną aktywizację i stopniowe przywracanie ruchów."
-            },
-            {
-              "type": "p",
-              "text": "Natężenie bólu i tempo jego zmniejszania się różnią się u poszczególnych pacjentów."
+              "text": "Dostęp subvastus oszczędza mięsień czworogłowy, ale nie jest odpowiedni dla wszystkich."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Kiedy będę mógł stanąć na nodze i chodzić?",
+          "heading": "Kiedy można wstać i chodzić?",
           "body": [
             {
               "type": "p",
@@ -898,7 +917,7 @@
           "divider": false
         },
         {
-          "heading": "Jak długo trwa rekonwalescencja?",
+          "heading": "Ile trwa rekonwalescencja?",
           "body": [
             {
               "type": "p",
@@ -912,7 +931,7 @@
           "divider": false
         },
         {
-          "heading": "Czy będę mógł normalnie chodzić po schodach?",
+          "heading": "Czy można zginać kolano i chodzić po schodach?",
           "body": [
             {
               "type": "p",
@@ -922,7 +941,7 @@
           "divider": false
         },
         {
-          "heading": "Kiedy będzie można prowadzić samochód?",
+          "heading": "Kiedy można prowadzić samochód?",
           "body": [
             {
               "type": "p",
@@ -932,7 +951,37 @@
           "divider": false
         },
         {
-          "heading": "Który endoprotez jest najlepszy?",
+          "heading": "Czy można klękać i uprawiać sport?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Niektórzy pacjenci mogą klękać; sport o dużych obciążeniach wymaga konsultacji."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Czy możliwa jest alergia na implant?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Istotna alergia na implant występuje rzadko; należy zgłosić znane uczulenia."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Czy można operować oba kolana?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Możliwa jest operacja obu kolan; zabieg jednoczasowy lub etapowy wymaga oceny ryzyka."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Jaka endoproteza jest najlepsza i ile służy?",
           "body": [
             {
               "type": "p",
@@ -946,11 +995,31 @@
           "divider": false
         },
         {
-          "heading": "Jak długo służy endoproteza kolana?",
+          "heading": "Czy można ponownie wymienić endoprotezę?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Zakażenie, obluzowanie, niestabilność lub złamanie mogą wymagać rewizji."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Ile kosztuje operacja?",
           "body": [
             {
               "type": "p",
               "text": "Nowoczesne endoprotezy są przeznaczone do długotrwałego funkcjonowania. Okres eksploatacji zależy od wielu czynników: konstrukcji i sposobu wszczepienia implantu, wieku, masy ciała, aktywności fizycznej oraz indywidualnych cech pacjenta."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Czy można skonsultować się z zagranicy?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Z zagranicy można przesłać dokumentację; ostateczna decyzja wymaga badania."
             }
           ],
           "divider": false
