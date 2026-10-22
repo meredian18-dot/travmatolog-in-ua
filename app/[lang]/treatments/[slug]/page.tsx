@@ -9,6 +9,7 @@ import Footer from "@/components/Footer";
 import ImageLightbox from "@/components/ImageLightbox";
 import HalluxInternationalUk from "@/components/HalluxInternationalUk";
 import ShoulderInternationalUk from "@/components/ShoulderInternationalUk";
+import ShoulderInternational from "@/components/ShoulderInternational";
 import HipInternationalUk from "@/components/HipInternationalUk";
 import KneeInternationalUk from "@/components/KneeInternationalUk";
 import ArthroplastyInternational from "@/components/ArthroplastyInternational";
@@ -31,6 +32,15 @@ export async function generateMetadata({
   const dict = getDictionary(lang);
   const article = getDirections(lang).articles[slug];
   if (!article) return {};
+  if (slug === "shoulder-replacement") {
+    const meta: Record<string, {title:string; description:string}> = {
+      uk:{title:"Ендопротезування плечового суглоба в Києві | Максим Байда",description:"Анатомічне та реверсивне ендопротезування плечового суглоба (ATSA/RTSA): показання, планування, операція, ризики, реабілітація та консультація."},
+      en:{title:"Shoulder Replacement in Ukraine | Dr Maksym Baida",description:"Anatomic and reverse shoulder replacement (ATSA/RTSA): indications, rotator cuff evaluation, surgical planning, risks, rehabilitation and consultation."},
+      de:{title:"Schulterprothese & inverse Schulter-TEP | Dr. Baida",description:"Anatomische und inverse Schulterprothese: Indikationen, Rotatorenmanschette, OP-Planung, Risiken, Rehabilitation und Beratung in der Ukraine."},
+      pl:{title:"Endoproteza barku na Ukrainie | Dr Maksym Baida",description:"Endoprotezoplastyka barku: proteza anatomiczna i odwrócona, wskazania, planowanie operacji, ryzyko, rehabilitacja i konsultacja ortopedyczna."}
+    };
+    return {...meta[lang], alternates:localizedAlternates(lang, `treatments/${slug}`)};
+  }
   if (slug === "knee-replacement") {
     const meta: Record<string, {title: string; description: string}> = {
       uk: {title: "Ендопротезування колінного суглоба в Києві | Максим Байда", description: "Заміна колінного суглоба при гонартрозі: тотальне та часткове ендопротезування, субвастус-доступ, ризики, реабілітація, вартість і консультація ортопеда."},
@@ -79,7 +89,7 @@ export default async function TreatmentDetail({
 
   const article = getDirections(loc).articles[slug];
   if (!article) notFound();
-  const schema = (slug === "hip-replacement" || slug === "knee-replacement") ? {
+  const schema = (slug === "hip-replacement" || slug === "knee-replacement" || slug === "shoulder-replacement") ? {
     "@context": "https://schema.org",
     "@type": "MedicalWebPage",
     "@id": `https://travmatolog.in.ua/${loc}/treatments/${slug}/#medicalwebpage`,
@@ -91,7 +101,7 @@ export default async function TreatmentDetail({
     author: { "@type": "Person", name: "Maksym Baida", jobTitle: "Orthopaedic trauma surgeon", url: `https://travmatolog.in.ua/${loc}/#about-doctor` },
     publisher: { "@type": "Organization", name: "travmatolog.in.ua", url: "https://travmatolog.in.ua/" },
   } : null;
-  const crumbs = slug === "knee-replacement" ? {
+  const crumbs = (slug === "knee-replacement" || slug === "shoulder-replacement") ? {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     itemListElement: [
@@ -223,7 +233,7 @@ function RichDetail({
 }) {
   const t = dict.treatments;
   const isTha = slug === "hip-replacement";
-  const isRich = isTha || slug === "knee-replacement";
+  const isRich = isTha || slug === "knee-replacement" || slug === "shoulder-replacement";
   // International TKA shares the same accessible image and semantic heading framework.
   const imageDescriptions: Record<Locale, Record<string, string>> = {
     uk: { "hip-replacement-planning.jpg": "Інфографіка планування ендопротезування кульшового суглоба: положення компонентів, центр ротації та довжина кінцівки", "hip-replacement-access.jpg": "Анатомічна ілюстрація прямого переднього доступу до кульшового суглоба", "hip-replacement-case-after.jpg": "Післяопераційна рентгенограма кульшового суглоба після ендопротезування" },
@@ -400,11 +410,14 @@ function RichDetail({
             })}
           </div>
 
-          {(isTha || slug === "knee-replacement") && (
+          {(isTha || slug === "knee-replacement" || slug === "shoulder-replacement") && (
             <nav aria-label={related[lang].heading} className="mt-12 border-t border-hairline pt-8">
               <h2 className="text-lg font-medium text-ink mb-3">{related[lang].heading}</h2>
               <ul className="space-y-2">
-                {(slug === "knee-replacement" ? [
+                {(slug === "shoulder-replacement" ? [
+                  { slug: "revision-arthroplasty", label: related[lang].links[1].label },
+                  { slug: "hip-replacement", label: {uk:"Ендопротезування кульшового суглоба",en:"Hip replacement",de:"Hüftendoprothese",pl:"Endoprotezoplastyka biodra"}[lang] },
+                ] : slug === "knee-replacement" ? [
                   { slug: "hip-replacement", label: { uk: "Ендопротезування кульшового суглоба", en: "Hip replacement surgery", de: "Hüftendoprothese", pl: "Endoprotezoplastyka biodra" }[lang] },
                   { slug: "revision-arthroplasty", label: related[lang].links[1].label },
                 ] : related[lang].links).filter(item => !!getDirections(lang).articles[item.slug]).map(item => (
@@ -414,7 +427,7 @@ function RichDetail({
             </nav>
           )}
           {slug === "hallux-valgus" && (lang === "uk" ? <HalluxInternationalUk /> : <HalluxInternational lang={lang} />)}
-          {slug === "shoulder-replacement" && lang === "uk" && <ShoulderInternationalUk />}
+          {slug === "shoulder-replacement" && (lang === "uk" ? <ShoulderInternationalUk /> : <ShoulderInternational lang={lang} />)}
           {slug === "hip-replacement" && lang === "uk" && <HipInternationalUk />}
           {slug === "knee-replacement" && lang === "uk" && <KneeInternationalUk />}
           {(slug === "hip-replacement" || slug === "knee-replacement") && lang !== "uk" && <ArthroplastyInternational lang={lang} joint={slug === "hip-replacement" ? "hip" : "knee"} />}
