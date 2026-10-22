@@ -149,6 +149,10 @@ function groupBlocks(blocks: Block[]): BlockGroup[] {
 }
 
 function localizedTreatmentImage(file: string, slug: string, lang: Locale): string {
+  if (slug === "shoulder-replacement" && lang !== "uk") {
+    if (file === "shoulder-replacement-cuff.jpg") return `shoulder-replacement-rotator-cuff-${lang}.png`;
+    if (file === "shoulder-replacement-types.jpg") return `shoulder-replacement-types-${lang}.png`;
+  }
   if (slug === "knee-replacement" && lang !== "uk" && (file === "knee-replacement-what.jpg" || file === "knee-replacement-diagram.jpg")) return file.replace(".jpg", `-${lang}.webp`);
   if (slug === "hip-replacement" && lang !== "uk" &&
       (file === "hip-replacement-planning.jpg" || file === "hip-replacement-access.jpg")) {
