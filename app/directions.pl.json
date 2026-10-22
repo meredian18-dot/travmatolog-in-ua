@@ -283,24 +283,6 @@
           "caseAspect": "landscape"
         },
         {
-          "heading": "Konsultacje dla pacjentów z zagranicy",
-          "body": [
-            {
-              "type": "p",
-              "text": "Pacjenci mieszkający za granicą mogą zwrócić się o wstępną zdalną ocenę dokumentacji i badań obrazowych. Ostateczne planowanie operacji wymaga osobistego badania klinicznego. Leczenie w Kijowie lub w bezpieczniejszych zachodnich regionach Ukrainy omawia się indywidualnie."
-            },
-            {
-              "type": "p",
-              "text": "Do wstępnej oceny zdalnej warto przygotować aktualne zdjęcia RTG, wyniki badań, krótki opis choroby i dotychczasowego leczenia."
-            },
-            {
-              "type": "p",
-              "text": "Po analizie dokumentów można omówić dodatkową diagnostykę, wizytę osobistą i kwestie organizacyjne. Ocena zdalna nie zastępuje badania klinicznego."
-            }
-          ],
-          "divider": false
-        },
-        {
           "heading": "Najczęściej zadawane pytania",
           "body": [],
           "divider": true
@@ -683,20 +665,6 @@
             {
               "type": "p",
               "text": "Wstępny kosztorys można rozważyć po analizie dokumentacji; ostateczny po badaniu i uzgodnieniu planu leczenia. Nie publikujemy niepotwierdzonej uniwersalnej ceny."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Pacjenci z Kijowa, Ukrainy i zagranicy",
-          "body": [
-            {
-              "type": "p",
-              "text": "Konsultacje i operacje są możliwe w Kijowie. Pacjenci z innych regionów Ukrainy oraz Ukraińcy mieszkający w Polsce, Niemczech, Czechach i innych krajach mogą rozpocząć od wstępnej zdalnej analizy dokumentów. Warto przesłać opis objawów, poprzedniego leczenia, chorób współistniejących oraz cyfrowe RTG kolana pod obciążeniem; zdjęcia osi kończyny, jeśli były wykonane."
-            },
-            {
-              "type": "p",
-              "text": "Ocena zdalna pomaga zaplanować następne kroki, ale nie zastępuje badania osobistego ani nie przesądza o wskazaniach operacyjnych. W indywidualnych sytuacjach można rozważyć leczenie w bezpieczniejszych zachodnich regionach Ukrainy, zależnie od warunków klinicznych i organizacyjnych. Podróż, opiekę pooperacyjną i rehabilitację planuje się z uwzględnieniem ryzyka."
             }
           ],
           "divider": false
