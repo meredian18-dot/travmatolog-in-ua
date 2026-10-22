@@ -903,6 +903,10 @@
             {
               "type": "p",
               "text": "Eine Prothese kann bei ausgeprägter Omarthrose, Rotatorenmanschettenarthropathie, ausgewählten komplexen proximalen Humerusfrakturen, posttraumatischer Arthrose, Humeruskopfnekrose und bestimmten entzündlichen Erkrankungen angezeigt sein. Ein isolierter Sehnenriss bedeutet nicht automatisch eine Prothesenindikation."
+            },
+            {
+              "type": "p",
+              "text": "Die Indikation ergibt sich aus Beschwerden, Funktionsverlust, strukturellem Schaden und den Alternativen zum Gelenkersatz, nicht allein aus dem Röntgenbefund. Bei komplexen Humerusfrakturen hängt die Entscheidung zwischen Osteosynthese und Prothese von Rekonstruierbarkeit und Prognose ab. Auch Nekrose, entzündliche Erkrankungen und Voroperationen erfordern eine individuelle Beurteilung."
             }
           ],
           "divider": false,
@@ -914,6 +918,10 @@
             {
               "type": "p",
               "text": "Vorstellung bei anhaltenden oder nächtlichen Schmerzen, Problemen beim Anheben des Arms, bei der Körperpflege sowie bei zunehmendem Kraft- und Bewegungsverlust trotz Behandlung. Untersuchung und Bildgebung sind entscheidend."
+            },
+            {
+              "type": "p",
+              "text": "Schwierigkeiten beim Anziehen, Waschen und Kämmen, fehlende aktive Armhebung und Schlafstörungen sind wichtige Gründe für eine Untersuchung. Dabei muss zwischen Gelenksteife und Schwäche durch Sehnen- oder Nervenschäden unterschieden werden."
             }
           ],
           "divider": false
@@ -929,6 +937,10 @@
             {
               "type": "p",
               "text": "ATSA stellt die anatomische Gelenkgeometrie nach; RTSA kehrt Kugel und Pfanne um und ermöglicht dem Deltamuskel einen größeren Beitrag zur Armhebung. Rotatorenmanschette, Glenoid und Knochenqualität bestimmen die Wahl."
+            },
+            {
+              "type": "p",
+              "text": "Es geht nicht nur um den Ersatz der Gelenkflächen, sondern um die gesamte Muskelmechanik. Bei schwerer Glenoiddeformität oder Knochenverlust kann eine inverse Prothese auch bei erhaltener Rotatorenmanschette sinnvoll sein."
             }
           ],
           "divider": false,
@@ -940,6 +952,10 @@
             {
               "type": "p",
               "text": "Bei ATSA werden Humeruskopf und Glenoidgelenkfläche ersetzt, während die natürliche Geometrie erhalten bleibt. Meist ist eine funktionsfähige Rotatorenmanschette erforderlich. Massive irreparable Schäden können die Eignung begrenzen."
+            },
+            {
+              "type": "p",
+              "text": "Die anatomische Prothese braucht meist eine gut funktionierende Rotatorenmanschette. Rissgröße, Rekonstruierbarkeit, Muskelqualität und Knochenlager werden beurteilt. Ein kleiner reparabler Defekt schließt ATSA nicht zwangsläufig aus."
             }
           ],
           "divider": false
@@ -950,6 +966,10 @@
             {
               "type": "p",
               "text": "Bei RTSA wird die Kugel am Glenoid und die konkave Pfanne am Humerus befestigt. Indikationen umfassen Rotatorenmanschettenarthropathie, irreparable Defekte mit Funktionsverlust, ausgewählte Pseudoparalysen, komplizierte Frakturen, Glenoiddeformitäten und Revisionen. Volle Beweglichkeit ist nicht garantiert."
+            },
+            {
+              "type": "p",
+              "text": "RTSA kommt bei Manschettenarthropathie, massiven irreparablen Rissen, ausgewählter Pseudoparalyse mit erhaltener passiver Beweglichkeit, komplexen Frakturen und Revisionen infrage. Entscheidend sind Deltamuskelfunktion, Innervation und stabile Fixation. Bessere Armhebung bedeutet nicht automatisch bessere Außenrotation; dabei spielen Infraspinatus und Teres minor eine Rolle."
             }
           ],
           "divider": false
@@ -960,6 +980,10 @@
             {
               "type": "p",
               "text": "Supraspinatus, Infraspinatus, Teres minor und Subscapularis stabilisieren die Schulter. Entscheidend sind Sehnenzustand, Retraktion, Muskelatrophie, fettige Degeneration und Deltamuskelfunktion. Das Alter allein entscheidet nicht."
+            },
+            {
+              "type": "p",
+              "text": "Untersucht werden Sehnenretraktion, Muskelatrophie und fettige Degeneration, Subscapularis und Deltamuskel sowie aktive und passive Beweglichkeit. Ein Sehnenriss allein legt die Prothesenart nicht fest."
             }
           ],
           "divider": false
@@ -975,6 +999,10 @@
             {
               "type": "p",
               "text": "Die klinische Untersuchung erfasst Schmerz, aktive und passive Beweglichkeit, Muskelkraft und Nervenfunktion. Röntgen zeigt Arthrose und Deformität. CT beurteilt Glenoidversion, Inklination und Knochendefekte; MRT oder Ultraschall werden bei Bedarf für Weichteile genutzt."
+            },
+            {
+              "type": "p",
+              "text": "Röntgen in geeigneten Projektionen einschließlich axialer Aufnahme zeigt Gelenkspalt, Osteophyten, Deformität und Stellung des Humeruskopfes. CT ist besonders für Glenoidversion, Inklination, Knochenverlust und komplexe posttraumatische oder Revisionsfälle wichtig. MRT beurteilt Sehnenretraktion und Muskeldegeneration; Ultraschall kann ergänzend eingesetzt werden."
             }
           ],
           "divider": false
@@ -985,6 +1013,10 @@
             {
               "type": "p",
               "text": "Bei komplexer Anatomie ermöglicht die CT-basierte 3D-Planung die Beurteilung des Glenoids und die Simulation von Implantatgröße, Ausrichtung, Fixation, Augmenten oder Knochentransplantation. Ein besseres klinisches Ergebnis ist dadurch nicht garantiert."
+            },
+            {
+              "type": "p",
+              "text": "Mit CT-basierter 3D-Planung lassen sich Korrektur der Glenoidversion und -inklination, Implantatposition und Knochenlager abschätzen. Augmente, Knochentransplantate und patientenspezifische Instrumente kommen selektiv infrage. Nicht jeder Patient braucht eine 3D-Planung."
             }
           ],
           "divider": false
@@ -995,6 +1027,10 @@
             {
               "type": "p",
               "text": "Die Implantatwahl richtet sich nach Erkrankung, Knochenqualität, Humerus und Glenoid, Rotatorenmanschette und Voroperationen. Schaftprothesen, schaftfreie Komponenten, Augmente oder individuelle Lösungen können sinnvoll sein. Entscheidend ist die stabile Verankerung."
+            },
+            {
+              "type": "p",
+              "text": "Humeruskomponenten gibt es mit Schaft oder schaftfrei, abhängig von Anatomie und Knochenqualität. Für die Glenoidfixation muss ausreichend Knochen verfügbar sein. Größere Defekte können Augmente, Knochentransplantation oder spezielle Rekonstruktionen erfordern."
             }
           ],
           "divider": false
@@ -1005,6 +1041,10 @@
             {
               "type": "p",
               "text": "Die Operation erfolgt unter geeigneter Anästhesie, häufig über einen deltopektoralen Zugang. Gelenk und Knochen werden vorbereitet, Komponenten eingesetzt und Stabilität geprüft. Bei ATSA kann eine Subscapularisrekonstruktion nötig sein; bei RTSA sind Glenosphärenposition, Basisplattenfixation und Weichteilbalance wichtig."
+            },
+            {
+              "type": "p",
+              "text": "Der deltopektorale Zugang nutzt die anatomische Lücke zwischen Delta- und großem Brustmuskel. Nach Beurteilung von Knochen und Weichteilen werden Humerus und Glenoid vorbereitet, Komponenten eingesetzt und Stabilität sowie Beweglichkeit geprüft. Bei ATSA sind Subscapularisschonung und -rekonstruktion relevant, bei RTSA Glenosphärenlage, Verankerung der Basisplatte und Weichteilspannung."
             }
           ],
           "divider": false
@@ -1020,6 +1060,10 @@
             {
               "type": "p",
               "text": "Mögliche Komplikationen sind Infektion (auch schleichend durch Cutibacterium acnes), Instabilität oder Luxation, Lockerung, periprothetische Fraktur, Nervenschädigung, Hämatom, Wundheilungsstörung, Thrombose und Steifigkeit."
+            },
+            {
+              "type": "p",
+              "text": "Schulterprotheseninfektionen können besonders bei Cutibacterium acnes schleichend verlaufen; Diagnostik und Behandlung sind anspruchsvoll, manchmal bis zum Komponentenwechsel. Instabilität hängt von Stellung der Komponenten und Weichteilen ab. Periprothetische Frakturen können nach Stürzen auftreten. Schädigungen von Axillarisnerv oder Plexus brachialis können Kraft und Gefühl beeinträchtigen."
             }
           ],
           "divider": false
@@ -1030,6 +1074,10 @@
             {
               "type": "p",
               "text": "ATSA kann durch Subscapularis- oder Rotatorenmanschetteninsuffizienz sowie Glenoidlockerung beeinträchtigt werden. Bei RTSA sind Instabilität, Stressfrakturen des Akromions oder der Spina scapulae und Scapular Notching relevant; Letzteres verursacht nicht immer Beschwerden."
+            },
+            {
+              "type": "p",
+              "text": "Bei ATSA können Subscapularisinsuffizienz oder weitere Manschettenrisse Schmerzen und Instabilität verursachen. Bei RTSA erhöht die veränderte Deltamuskelbelastung das Risiko von Stressfrakturen des Akromions oder der Spina scapulae. Scapular Notching bezeichnet knöcherne Erosion am Skapulahals durch mechanischen Kontakt, nicht immer mit Symptomen."
             }
           ],
           "divider": false
@@ -1050,6 +1098,10 @@
             {
               "type": "p",
               "text": "Schmerzlinderung und bessere Funktion sind die Ziele. ATSA erhält eher natürliche Biomechanik; RTSA kann trotz Manschettenschaden die Armhebung verbessern, nicht unbedingt die Außenrotation. Die Haltbarkeit beträgt oft viele Jahre, ist aber nicht garantiert."
+            },
+            {
+              "type": "p",
+              "text": "Das Ergebnis hängt von Ausgangsbeweglichkeit, Krankheitsdauer, Muskelfunktion und Voroperationen ab. RTSA kann die Armhebung verbessern, ohne Außenrotation oder kombinierte Bewegungen vollständig wiederherzustellen. Auch Beschwerdefreie brauchen Verlaufskontrollen, da Veränderungen lange stumm bleiben können."
             }
           ],
           "divider": false
@@ -1075,6 +1127,10 @@
             {
               "type": "p",
               "text": "Rehabilitation schützt heilende Gewebe und verbessert schrittweise Beweglichkeit und Muskelkontrolle. Anfangs kann eine Schlinge nötig sein; Hand- und Handgelenkbewegungen sind meist früh möglich, Schulterbewegungen nach Operationsprotokoll."
+            },
+            {
+              "type": "p",
+              "text": "Zu Beginn stehen Schmerzbehandlung, Wundkontrolle, Gewebeschutz und Komplikationsprävention im Vordergrund. Dauer der Armschlinge und Beginn passiver oder assistierter Schulterbewegungen hängen vom Eingriff und rekonstruierten Sehnen ab."
             }
           ],
           "divider": false
@@ -1085,6 +1141,10 @@
             {
               "type": "p",
               "text": "Etwa 0–6 Wochen: Schutz und erlaubte assistierte Bewegung. 6–12 Wochen: schrittweise aktive Bewegungen. 3–6 Monate: dosierter Muskelaufbau. Verbesserungen können 6–12 Monate oder länger anhalten. Zeiträume sind individuell."
+            },
+            {
+              "type": "p",
+              "text": "Früh werden abrupte Bewegungen, Heben und Abstützen vermieden. Danach erfolgt der Übergang von assistierten zu aktiven Bewegungen und Schulterblattkontrolle, erst später zum dosierten Kraftaufbau. Schwere Arbeit und Sport bedürfen gesonderter Freigabe."
             }
           ],
           "divider": false
@@ -1095,6 +1155,10 @@
             {
               "type": "p",
               "text": "Nach ATSA muss eine rekonstruierte Subscapularissehne geschützt werden. Außenrotation, Innenrotation gegen Widerstand, Abstützen, Heben und Dehnen können vorübergehend begrenzt sein."
+            },
+            {
+              "type": "p",
+              "text": "Wurde die Subscapularissehne abgelöst und wieder fixiert, kann zu frühe Belastung die Heilung gefährden. Außenrotation, Innenrotation gegen Widerstand und Dehnung werden je nach Rekonstruktionsmethode zeitweilig begrenzt."
             }
           ],
           "divider": false
@@ -1105,6 +1169,10 @@
             {
               "type": "p",
               "text": "Nach RTSA stehen Deltamuskel und Schulterblattkontrolle im Mittelpunkt. Anfangs werden kombinierte Extension, Adduktion und Innenrotation sowie kräftiges Abstützen oft vermieden. Fraktur- und Revisionsfälle brauchen angepasste Protokolle."
+            },
+            {
+              "type": "p",
+              "text": "Nach RTSA sollte man nicht vorzeitig weit hinter den Rücken greifen oder sich kräftig aus einem Stuhl hochdrücken. Nach Frakturversorgung beeinflusst die Heilung der Tuberkula das Training; nach Revision sind zusätzliche Einschränkungen möglich."
             }
           ],
           "divider": false
@@ -1115,6 +1183,10 @@
             {
               "type": "p",
               "text": "Körperpflege, Autofahren, Beruf und Sport werden schrittweise wieder aufgenommen. Zum Autofahren sind ausreichend Kontrolle, kein Tragen einer Schlinge und ärztliche Zustimmung erforderlich. Schwere oder Kontaktsportarten können ungeeignet bleiben."
+            },
+            {
+              "type": "p",
+              "text": "Autofahren setzt sichere Armkontrolle, das Ablegen der Schlinge und ärztliche Zustimmung voraus. Büroarbeit und körperlich schwere Tätigkeiten haben unterschiedliche Voraussetzungen. Schwere Lasten oder Kontaktsport können dauerhaft eingeschränkt bleiben."
             }
           ],
           "divider": false
@@ -1125,6 +1197,10 @@
             {
               "type": "p",
               "text": "Kontrollen beurteilen Schmerzen, Wunde, Bewegung, Muskelkraft, Komponentenlage und Röntgenbilder. Für Patienten im Ausland sollten Reha und örtliche Arztkontakte vorab vereinbart werden; Fernberatung ersetzt keine erforderlichen Präsenztermine."
+            },
+            {
+              "type": "p",
+              "text": "Patienten aus anderen Regionen und Ländern sollten Aufenthaltsdauer, Reha, Röntgenkontrollen und Notfallversorgung vor der Operation planen. Eine Fernberatung ersetzt erforderliche persönliche Untersuchungen nicht."
             }
           ],
           "divider": false
@@ -1149,6 +1225,10 @@
               "type": "link",
               "text": "Offizielle Fallvorstellung der NMU",
               "href": "https://nmuofficial.com/news/v-universytetskij-klinitsi-provodyat-innovatsijni-hirurgichni-operatsiyi-ukrayinskym-zahysnykam/"
+            },
+            {
+              "type": "p",
+              "text": "Der publizierte Fall betrifft einen ukrainischen Soldaten mit ausgeprägter posttraumatischer Omarthrose, Schmerzen und Funktionsverlust. Die inverse Schulterprothese wurde an der Universitätsklinik der NMU mit dem Ziel von Schmerzlinderung und Funktionsverbesserung eingesetzt. Verifizierte Langzeitergebnisse liegen nicht vor."
             }
           ],
           "divider": false,
