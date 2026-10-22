@@ -907,6 +907,18 @@
             {
               "type": "p",
               "text": "Die Indikation ergibt sich aus Beschwerden, Funktionsverlust, strukturellem Schaden und den Alternativen zum Gelenkersatz, nicht allein aus dem Röntgenbefund. Bei komplexen Humerusfrakturen hängt die Entscheidung zwischen Osteosynthese und Prothese von Rekonstruierbarkeit und Prognose ab. Auch Nekrose, entzündliche Erkrankungen und Voroperationen erfordern eine individuelle Beurteilung."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Fortgeschrittene Omarthrose mit Schmerzen und Bewegungseinschränkung",
+                "Rotatorenmanschettenarthropathie mit gestörter Biomechanik",
+                "Ausgewählte komplexe proximale Humerusfrakturen mit ungünstiger Rekonstruktionsprognose",
+                "Posttraumatische Arthrose und Fehlstellungen nach Frakturen",
+                "Humeruskopfnekrose mit Gelenkflächenschaden",
+                "Ausgewählte entzündliche Arthritiden mit Gelenkschaden",
+                "Schmerzhafte Funktionsstörung nach Voroperationen bei eingeschränkten Alternativen"
+              ]
             }
           ],
           "divider": false,
@@ -922,6 +934,16 @@
             {
               "type": "p",
               "text": "Schwierigkeiten beim Anziehen, Waschen und Kämmen, fehlende aktive Armhebung und Schlafstörungen sind wichtige Gründe für eine Untersuchung. Dabei muss zwischen Gelenksteife und Schwäche durch Sehnen- oder Nervenschäden unterschieden werden."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Anhaltender oder zunehmender Schulterschmerz, besonders nachts",
+                "Schwierigkeiten beim Armheben, Anziehen und bei der Körperpflege",
+                "Deutlicher Bewegungs- oder Kraftverlust",
+                "Folgen von Frakturen, fortgeschrittener Arthrose oder Nekrose",
+                "Unzureichende Wirkung bisheriger Behandlung"
+              ]
             }
           ],
           "divider": false
@@ -956,6 +978,14 @@
             {
               "type": "p",
               "text": "Die anatomische Prothese braucht meist eine gut funktionierende Rotatorenmanschette. Rissgröße, Rekonstruierbarkeit, Muskelqualität und Knochenlager werden beurteilt. Ein kleiner reparabler Defekt schließt ATSA nicht zwangsläufig aus."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Fortgeschrittene Arthrose mit funktionsfähiger Rotatorenmanschette",
+                "Ausreichendes Knochenlager und rekonstruierbare Gelenkanatomie",
+                "Ausgewählte posttraumatische Arthrose oder Humeruskopfnekrose"
+              ]
             }
           ],
           "divider": false
@@ -970,6 +1000,16 @@
             {
               "type": "p",
               "text": "RTSA kommt bei Manschettenarthropathie, massiven irreparablen Rissen, ausgewählter Pseudoparalyse mit erhaltener passiver Beweglichkeit, komplexen Frakturen und Revisionen infrage. Entscheidend sind Deltamuskelfunktion, Innervation und stabile Fixation. Bessere Armhebung bedeutet nicht automatisch bessere Außenrotation; dabei spielen Infraspinatus und Teres minor eine Rolle."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Rotatorenmanschettenarthropathie oder schmerzhafte massive irreparable Risse",
+                "Ausgewählte Pseudoparalyse bei erhaltener passiver Bewegung",
+                "Komplexe proximale Humerusfrakturen und deren Folgen",
+                "Schwere Glenoiddeformität oder Knochenmangel",
+                "Ausgewählte Revisionsoperationen"
+              ]
             }
           ],
           "divider": false
@@ -984,6 +1024,15 @@
             {
               "type": "p",
               "text": "Untersucht werden Sehnenretraktion, Muskelatrophie und fettige Degeneration, Subscapularis und Deltamuskel sowie aktive und passive Beweglichkeit. Ein Sehnenriss allein legt die Prothesenart nicht fest."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Größe, Lokalisation und Rekonstruierbarkeit des Sehnenrisses",
+                "Sehnenretraktion, Muskelatrophie und fettige Degeneration",
+                "Subscapularis- und Deltamuskelfunktion",
+                "Aktive und passive Bewegung sowie Knochenqualität"
+              ]
             }
           ],
           "divider": false
@@ -1003,6 +1052,15 @@
             {
               "type": "p",
               "text": "Röntgen in geeigneten Projektionen einschließlich axialer Aufnahme zeigt Gelenkspalt, Osteophyten, Deformität und Stellung des Humeruskopfes. CT ist besonders für Glenoidversion, Inklination, Knochenverlust und komplexe posttraumatische oder Revisionsfälle wichtig. MRT beurteilt Sehnenretraktion und Muskeldegeneration; Ultraschall kann ergänzend eingesetzt werden."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Röntgenaufnahmen zur Beurteilung von Arthrose und Deformität",
+                "CT für Glenoidversion, Neigung, Erosion und Knochendefekte",
+                "MRT für Sehnen, Retraktion und Muskeln",
+                "Ultraschall für die Sehnenintegrität nach Indikation"
+              ]
             }
           ],
           "divider": false
@@ -1017,6 +1075,15 @@
             {
               "type": "p",
               "text": "Mit CT-basierter 3D-Planung lassen sich Korrektur der Glenoidversion und -inklination, Implantatposition und Knochenlager abschätzen. Augmente, Knochentransplantate und patientenspezifische Instrumente kommen selektiv infrage. Nicht jeder Patient braucht eine 3D-Planung."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Position und Fixation der Glenoidkomponente planen",
+                "Deformitätskorrektur und Knochenlager abschätzen",
+                "Augmente, Knochentransplantate und Spezialkomponenten prüfen",
+                "Patientenspezifische Instrumente bei Indikation erwägen"
+              ]
             }
           ],
           "divider": false
@@ -1045,6 +1112,16 @@
             {
               "type": "p",
               "text": "Der deltopektorale Zugang nutzt die anatomische Lücke zwischen Delta- und großem Brustmuskel. Nach Beurteilung von Knochen und Weichteilen werden Humerus und Glenoid vorbereitet, Komponenten eingesetzt und Stabilität sowie Beweglichkeit geprüft. Bei ATSA sind Subscapularisschonung und -rekonstruktion relevant, bei RTSA Glenosphärenlage, Verankerung der Basisplatte und Weichteilspannung."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Gelenk freilegen und Knochen und Weichteile beurteilen",
+                "Humerus und Glenoid vorbereiten",
+                "Ausgewählte Prothesenkomponenten einsetzen",
+                "Stabilität und Bewegungsausmaß kontrollieren",
+                "Weichteile nach Indikation rekonstruieren"
+              ]
             }
           ],
           "divider": false
@@ -1064,6 +1141,17 @@
             {
               "type": "p",
               "text": "Schulterprotheseninfektionen können besonders bei Cutibacterium acnes schleichend verlaufen; Diagnostik und Behandlung sind anspruchsvoll, manchmal bis zum Komponentenwechsel. Instabilität hängt von Stellung der Komponenten und Weichteilen ab. Periprothetische Frakturen können nach Stürzen auftreten. Schädigungen von Axillarisnerv oder Plexus brachialis können Kraft und Gefühl beeinträchtigen."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Protheseninfektion, auch schleichend durch Cutibacterium acnes",
+                "Luxation oder Instabilität",
+                "Abrieb oder Lockerung von Komponenten",
+                "Periprothetische Frakturen",
+                "Schädigung von Axillarisnerv oder Plexus brachialis",
+                "Blutung, Hämatom, Wundprobleme, Thromboembolie, Narkoserisiken und Steifigkeit"
+              ]
             }
           ],
           "divider": false
@@ -1088,6 +1176,16 @@
             {
               "type": "p",
               "text": "Risikominderung umfasst richtige Indikation, Behandlung von Begleiterkrankungen und aktiven Infektionen, genaue Planung, stabile Fixation, Infektionsprävention, passende Rehabilitation und Nachkontrollen. Restrisiken bleiben."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Richtige Indikation und Optimierung von Begleiterkrankungen",
+                "Aktive Infektionen vor elektiver Operation behandeln",
+                "Sorgfältige Planung und Implantatwahl",
+                "Präzise Positionierung und stabile Verankerung",
+                "Infektionsschutz, individuelle Reha und Kontrollen"
+              ]
             }
           ],
           "divider": false
@@ -1112,6 +1210,15 @@
             {
               "type": "p",
               "text": "Fieber mit Wundsekret, plötzliche starke Schmerzen, Deformität, Funktionsverlust oder neue Taubheit erfordern ärztliche Abklärung. Brustschmerzen oder schwere Atemnot sind Notfälle."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Fieber, Schüttelfrost, zunehmende Rötung oder Wundsekret",
+                "Plötzlicher starker Schmerz, Deformität oder Funktionsverlust",
+                "Neue ausgeprägte Schwäche oder Gefühlsstörung",
+                "Brustschmerzen oder starke Atemnot sind Notfälle"
+              ]
             }
           ],
           "divider": false
@@ -1145,6 +1252,15 @@
             {
               "type": "p",
               "text": "Früh werden abrupte Bewegungen, Heben und Abstützen vermieden. Danach erfolgt der Übergang von assistierten zu aktiven Bewegungen und Schulterblattkontrolle, erst später zum dosierten Kraftaufbau. Schwere Arbeit und Sport bedürfen gesonderter Freigabe."
+            },
+            {
+              "type": "list",
+              "items": [
+                "0–6 Wochen: Schutz, Schmerztherapie und erlaubte assistierte Bewegung",
+                "6–12 Wochen: zunehmende aktive Bewegungen und Alltagstätigkeiten",
+                "3–6 Monate: dosierte Kräftigung und Funktionstraining",
+                "Nach 6 Monaten: weiterer Aufbau von Kraft und Koordination"
+              ]
             }
           ],
           "divider": false
