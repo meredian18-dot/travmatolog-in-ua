@@ -891,286 +891,240 @@
       ]
     },
     "shoulder-replacement": {
-      "title": "Schulterendoprothetik",
-      "lead": "Moderne chirurgische Behandlung zur Schmerzlinderung, Wiederherstellung der Armbeweglichkeit und Rückkehr zur Alltagsaktivität.",
-      "intro": "Wenn der Schulterschmerz dauerhaft geworden ist, den Schlaf stört, das Anheben des Arms, das Anziehen oder andere gewohnte Bewegungen erschwert und eine konservative Behandlung keine ausreichende Wirkung mehr zeigt, kann die Schulterendoprothetik eine der Behandlungsoptionen sein.",
+      "title": "Schulterendoprothetik: anatomische und inverse Prothese",
+      "lead": "Anatomische und inverse Schulterprothese (ATSA/RTSA): Indikationen, Planung, Operation, Risiken und Rehabilitation.",
+      "intro": "Bei anhaltenden Schulterschmerzen, eingeschränkter Armfunktion und unzureichender Wirkung konservativer Behandlung kann eine Endoprothese erwogen werden. Die Wahl richtet sich nach Rotatorenmanschette, Knochenanatomie und funktionellen Bedürfnissen.",
       "hero": "shoulder-replacement-hero.jpg",
       "gallery": [],
       "blocks": [
         {
-          "heading": "Wann eine Endoprothese notwendig wird",
+          "heading": "Wann ist eine Schulterendoprothese angezeigt?",
           "body": [
             {
               "type": "p",
-              "text": "Das Schultergelenk ermöglicht ein großes Bewegungsausmaß des Arms, weshalb seine ausgeprägte Schädigung selbst einfache Alltagstätigkeiten erheblich beeinträchtigen kann."
-            },
-            {
-              "type": "p",
-              "text": "Bei Arthrose, Folgen komplexer Frakturen, Hüftkopf- bzw. Humeruskopfnekrose und einigen anderen Erkrankungen entstehen allmählich Schmerz, Steifheit und Funktionsverlust."
-            },
-            {
-              "type": "p",
-              "text": "Eine eigene Patientengruppe bilden Personen mit ausgeprägter Schädigung der Rotatorenmanschettensehnen. In solchen Fällen liegt das Problem nicht nur in den Gelenkflächen, sondern auch im Verlust des normalen Bewegungsmechanismus der Schulter."
-            },
-            {
-              "type": "p",
-              "text": "Wenn die Möglichkeiten der konservativen oder gelenkerhaltenden Behandlung Schmerz und Funktion nicht mehr ausreichend kontrollieren können, kann eine Endoprothetik in Betracht gezogen werden."
+              "text": "Eine Prothese kann bei ausgeprägter Omarthrose, Rotatorenmanschettenarthropathie, ausgewählten komplexen proximalen Humerusfrakturen, posttraumatischer Arthrose, Humeruskopfnekrose und bestimmten entzündlichen Erkrankungen angezeigt sein. Ein isolierter Sehnenriss bedeutet nicht automatisch eine Prothesenindikation."
             }
           ],
           "divider": false,
           "diagram": "shoulder-replacement-cuff.jpg"
         },
         {
-          "heading": "Wann Sie sich vorstellen sollten",
+          "heading": "Wann sollte man einen Orthopäden aufsuchen?",
           "body": [
             {
-              "type": "list",
-              "items": [
-                "anhaltender oder zunehmender Schulterschmerz",
-                "nächtlicher Schmerz, der den Schlaf stört",
-                "das Anheben des Arms ist schwierig geworden",
-                "Anziehen, Haarekämmen oder andere Körperpflege fällt schwer",
-                "das Bewegungsausmaß der Schulter hat sich deutlich verringert",
-                "der Arm hat an Kraft und Funktion verloren",
-                "Unfallfolgen nach einer proximalen Oberarmfraktur",
-                "eine ausgeprägte Schulterarthrose wurde diagnostiziert",
-                "die bisherige Behandlung bringt keine ausreichende Wirkung mehr"
-              ]
+              "type": "p",
+              "text": "Vorstellung bei anhaltenden oder nächtlichen Schmerzen, Problemen beim Anheben des Arms, bei der Körperpflege sowie bei zunehmendem Kraft- und Bewegungsverlust trotz Behandlung. Untersuchung und Bildgebung sind entscheidend."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Was sich nach der Operation ändern kann",
-          "body": [
-            {
-              "type": "p",
-              "text": "Das Hauptziel der Schulterendoprothetik ist nicht einfach der Ersatz geschädigter Strukturen, sondern die Schmerzlinderung und die größtmögliche Wiederherstellung der Armfunktion."
-            },
-            {
-              "type": "p",
-              "text": "Nach der Operation und einer entsprechenden Erholungsphase kann die Endoprothetik helfen:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "den Schulterschmerz spürbar zu reduzieren",
-                "den nächtlichen Schmerz zu verringern oder zu beseitigen",
-                "die Armbeweglichkeit zu verbessern",
-                "Selbstversorgung und alltägliche Tätigkeiten zu erleichtern",
-                "die Fähigkeit, den Arm anzuheben und zu nutzen, zu verbessern",
-                "schrittweise zur gewohnten Alltagsaktivität zurückzukehren"
-              ]
-            },
-            {
-              "type": "p",
-              "text": "Ziel der Behandlung ist es, den Arm im Alltag wieder funktionsfähig zu machen und die durch Schmerz und Beweglichkeitsverlust bedingten Einschränkungen möglichst zu verringern."
-            }
-          ],
-          "divider": false
+          "heading": "Anatomische und inverse Schulterendoprothese (ATSA/RTSA)",
+          "body": [],
+          "divider": true
         },
         {
-          "heading": "Welcher Endoprothesentyp wird benötigt",
+          "heading": "Welche Prothese ist geeignet?",
           "body": [
             {
               "type": "p",
-              "text": "Anders als bei vielen anderen Gelenken ist bei der Schulterendoprothetik der Zustand der Rotatorenmanschette — der Sehnen, die Stabilität und Bewegung des Schultergelenks gewährleisten — von besonderer Bedeutung."
-            },
-            {
-              "type": "p",
-              "text": "Deshalb können unterschiedliche Patienten grundsätzlich unterschiedliche Endoprothesenkonstruktionen benötigen."
+              "text": "ATSA stellt die anatomische Gelenkgeometrie nach; RTSA kehrt Kugel und Pfanne um und ermöglicht dem Deltamuskel einen größeren Beitrag zur Armhebung. Rotatorenmanschette, Glenoid und Knochenqualität bestimmen die Wahl."
             }
           ],
           "divider": false,
           "diagram": "shoulder-replacement-types.jpg"
         },
         {
-          "heading": "Anatomische Endoprothetik",
+          "heading": "Anatomische Schultertotalendoprothese (ATSA)",
           "body": [
             {
               "type": "p",
-              "text": "Die anatomische Endoprothese bildet die natürliche Struktur des Schultergelenks nach: Der Humeruskopf wird durch einen künstlichen Kopf ersetzt, die Gelenkpfanne durch eine entsprechende Komponente."
-            },
-            {
-              "type": "p",
-              "text": "Diese Variante kann angewendet werden, wenn die Anatomie des Gelenks eine Wiederherstellung erlaubt und die Rotatorenmanschette ihre notwendige Funktion behält."
+              "text": "Bei ATSA werden Humeruskopf und Glenoidgelenkfläche ersetzt, während die natürliche Geometrie erhalten bleibt. Meist ist eine funktionsfähige Rotatorenmanschette erforderlich. Massive irreparable Schäden können die Eignung begrenzen."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Inverse Endoprothetik",
+          "heading": "Inverse Schultertotalendoprothese (RTSA)",
           "body": [
             {
               "type": "p",
-              "text": "Bei der inversen Endoprothese wird die Geometrie des Gelenks verändert: Die Konstruktion schafft eine andere Biomechanik, die es dem Deltamuskel ermöglicht, eine größere Rolle beim Anheben des Arms zu übernehmen."
-            },
-            {
-              "type": "p",
-              "text": "Diese Variante kann bei ausgeprägter Rotatorenmanschetteninsuffizienz, bestimmten komplexen Frakturen und deren Folgen sowie in anderen klinischen Situationen angewendet werden, in denen eine anatomische Endoprothetik keine optimale Lösung darstellt."
-            },
-            {
-              "type": "p",
-              "text": "Die Wahl zwischen anatomischer und inverser Endoprothetik richtet sich nicht allein nach dem Alter des Patienten, sondern nach dem Zustand des Gelenks, des Knochengewebes, der Rotatorenmanschette und den funktionellen Bedürfnissen."
+              "text": "Bei RTSA wird die Kugel am Glenoid und die konkave Pfanne am Humerus befestigt. Indikationen umfassen Rotatorenmanschettenarthropathie, irreparable Defekte mit Funktionsverlust, ausgewählte Pseudoparalysen, komplizierte Frakturen, Glenoiddeformitäten und Revisionen. Volle Beweglichkeit ist nicht garantiert."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Individuelle Planung der Operation",
+          "heading": "Bedeutung der Rotatorenmanschette",
           "body": [
             {
               "type": "p",
-              "text": "Die Schulterendoprothetik beginnt mit einer detaillierten Beurteilung nicht nur der Knochen, sondern des gesamten funktionellen Systems der Schulter."
-            },
-            {
-              "type": "p",
-              "text": "Vor der Operation werden beurteilt:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "die Anatomie des Schultergelenks",
-                "das Ausmaß der Zerstörung der Gelenkflächen",
-                "der Zustand von Humeruskopf und Gelenkpfanne",
-                "der Zustand des Knochengewebes",
-                "die Funktion der Rotatorenmanschette",
-                "das Bewegungsausmaß",
-                "vorangegangene Verletzungen und Operationen"
-              ]
-            },
-            {
-              "type": "p",
-              "text": "Neben der Röntgendiagnostik kann in komplexen Fällen zur Planung eine CT eingesetzt werden, und zur Beurteilung der Weichteile weitere bildgebende Verfahren nach Indikation."
-            },
-            {
-              "type": "p",
-              "text": "Auf Grundlage dieser Daten werden Endoprothesentyp, seine Parameter und die chirurgische Taktik festgelegt."
+              "text": "Supraspinatus, Infraspinatus, Teres minor und Subscapularis stabilisieren die Schulter. Entscheidend sind Sehnenzustand, Retraktion, Muskelatrophie, fettige Degeneration und Deltamuskelfunktion. Das Alter allein entscheidet nicht."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Worauf es bei der Schulterendoprothetik ankommt",
-          "body": [
-            {
-              "type": "p",
-              "text": "Das Operationsergebnis hängt nicht allein vom Modell oder Hersteller der Endoprothese ab."
-            },
-            {
-              "type": "p",
-              "text": "Wichtig sind:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "die korrekte Indikationsstellung für die Operation",
-                "die Wahl zwischen anatomischer und inverser Konstruktion",
-                "die Beurteilung des Zustands der Rotatorenmanschette",
-                "eine detaillierte präoperative Planung",
-                "die korrekte Positionierung der Komponenten",
-                "die Stabilität der Endoprothese",
-                "der Zustand und die Qualität des Knochengewebes",
-                "eine konsequente postoperative Erholung"
-              ]
-            },
-            {
-              "type": "p",
-              "text": "Ziel ist es, nicht einfach eine Endoprothese zu implantieren, sondern Konstruktion und chirurgische Strategie zu wählen, die der konkreten Erkrankung entsprechen und die Armfunktion möglichst weitgehend wiederherstellen."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Wie die Behandlung abläuft",
+          "heading": "Diagnostik und Operationsplanung",
           "body": [],
           "divider": true
         },
         {
-          "heading": "01 — Beratung und Diagnostik",
+          "heading": "Untersuchungen vor der Operation",
           "body": [
             {
               "type": "p",
-              "text": "Wir beginnen damit, was den Patienten konkret beeinträchtigt: Schmerz, nächtlicher Schmerz, Bewegungseinschränkung, Schwäche oder Unfähigkeit, den Arm anzuheben."
-            },
-            {
-              "type": "p",
-              "text": "Wir beurteilen Beweglichkeit und Funktion des Schultergelenks und analysieren Röntgenaufnahmen und weitere Untersuchungsergebnisse."
+              "text": "Die klinische Untersuchung erfasst Schmerz, aktive und passive Beweglichkeit, Muskelkraft und Nervenfunktion. Röntgen zeigt Arthrose und Deformität. CT beurteilt Glenoidversion, Inklination und Knochendefekte; MRT oder Ultraschall werden bei Bedarf für Weichteile genutzt."
             }
           ],
           "divider": false
         },
         {
-          "heading": "02 — Präoperative Planung",
+          "heading": "CT-basierte 3D-Planung",
           "body": [
             {
               "type": "p",
-              "text": "Wir beurteilen die Anatomie des Gelenks, das Knochengewebe und den Zustand der Rotatorenmanschette. Wir legen fest, welcher Endoprothesentyp der konkreten klinischen Situation am besten entspricht."
+              "text": "Bei komplexer Anatomie ermöglicht die CT-basierte 3D-Planung die Beurteilung des Glenoids und die Simulation von Implantatgröße, Ausrichtung, Fixation, Augmenten oder Knochentransplantation. Ein besseres klinisches Ergebnis ist dadurch nicht garantiert."
             }
           ],
           "divider": false
         },
         {
-          "heading": "03 — Endoprothetik",
+          "heading": "Auswahl des Implantats",
           "body": [
             {
               "type": "p",
-              "text": "Die geschädigten Strukturen des Schultergelenks werden gemäß dem zuvor erstellten Plan durch Komponenten einer anatomischen oder inversen Endoprothese ersetzt."
+              "text": "Die Implantatwahl richtet sich nach Erkrankung, Knochenqualität, Humerus und Glenoid, Rotatorenmanschette und Voroperationen. Schaftprothesen, schaftfreie Komponenten, Augmente oder individuelle Lösungen können sinnvoll sein. Entscheidend ist die stabile Verankerung."
             }
           ],
           "divider": false
         },
         {
-          "heading": "04 — Erholung",
+          "heading": "Ablauf der Operation",
           "body": [
             {
               "type": "p",
-              "text": "Nach der Operation beginnt die stufenweise Erholung. Ihr Tempo hängt vom Endoprothesentyp, dem Zustand der Weichteile, der Art der Vorerkrankung und den Besonderheiten der Operation ab."
+              "text": "Die Operation erfolgt unter geeigneter Anästhesie, häufig über einen deltopektoralen Zugang. Gelenk und Knochen werden vorbereitet, Komponenten eingesetzt und Stabilität geprüft. Bei ATSA kann eine Subscapularisrekonstruktion nötig sein; bei RTSA sind Glenosphärenposition, Basisplattenfixation und Weichteilbalance wichtig."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Unser Ansatz",
+          "heading": "Risiken und zu erwartende Ergebnisse",
           "body": [],
           "divider": true
         },
         {
-          "heading": "Zuerst die Ursache des Funktionsverlusts",
+          "heading": "Mögliche Komplikationen",
           "body": [
             {
               "type": "p",
-              "text": "Arthrose, Schädigung der Rotatorenmanschette, eine komplexe Fraktur und deren Folgen können unterschiedliche chirurgische Taktiken erfordern. Deshalb ist es zunächst wichtig zu verstehen, warum die Schulter schmerzt und ihre Funktion verloren hat."
+              "text": "Mögliche Komplikationen sind Infektion (auch schleichend durch Cutibacterium acnes), Instabilität oder Luxation, Lockerung, periprothetische Fraktur, Nervenschädigung, Hämatom, Wundheilungsstörung, Thrombose und Steifigkeit."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Nicht ein Endoprothesentyp für alle",
+          "heading": "Unterschiede der Risiken bei ATSA und RTSA",
           "body": [
             {
               "type": "p",
-              "text": "Anatomische und inverse Konstruktion funktionieren nach unterschiedlichen biomechanischen Prinzipien. Die Wahl richtet sich nach der konkreten Erkrankung und dem Zustand des Schultergelenks."
+              "text": "ATSA kann durch Subscapularis- oder Rotatorenmanschetteninsuffizienz sowie Glenoidlockerung beeinträchtigt werden. Bei RTSA sind Instabilität, Stressfrakturen des Akromions oder der Spina scapulae und Scapular Notching relevant; Letzteres verursacht nicht immer Beschwerden."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Detaillierte präoperative Planung",
+          "heading": "Wie Risiken verringert werden",
           "body": [
             {
               "type": "p",
-              "text": "Die Beurteilung von Knochenanatomie, Gelenkpfanne und Weichteilen ermöglicht es, Typ und Position der Komponenten bereits vor der Operation zu planen."
+              "text": "Risikominderung umfasst richtige Indikation, Behandlung von Begleiterkrankungen und aktiven Infektionen, genaue Planung, stabile Fixation, Infektionsprävention, passende Rehabilitation und Nachkontrollen. Restrisiken bleiben."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Von der Operation zur Armfunktion",
+          "heading": "Ergebnisse und Haltbarkeit der Prothese",
           "body": [
             {
               "type": "p",
-              "text": "Die Endoprothetik ist nur ein Behandlungsschritt. Die weitere Wiederherstellung von Beweglichkeit und Funktion erfordert eine richtige und konsequente Rehabilitation."
+              "text": "Schmerzlinderung und bessere Funktion sind die Ziele. ATSA erhält eher natürliche Biomechanik; RTSA kann trotz Manschettenschaden die Armhebung verbessern, nicht unbedingt die Außenrotation. Die Haltbarkeit beträgt oft viele Jahre, ist aber nicht garantiert."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Wann ist dringend ärztliche Hilfe nötig?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Fieber mit Wundsekret, plötzliche starke Schmerzen, Deformität, Funktionsverlust oder neue Taubheit erfordern ärztliche Abklärung. Brustschmerzen oder schwere Atemnot sind Notfälle."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Erholung und Rehabilitation",
+          "body": [],
+          "divider": true
+        },
+        {
+          "heading": "Rehabilitation nach Schulterprothese",
+          "body": [
+            {
+              "type": "p",
+              "text": "Rehabilitation schützt heilende Gewebe und verbessert schrittweise Beweglichkeit und Muskelkontrolle. Anfangs kann eine Schlinge nötig sein; Hand- und Handgelenkbewegungen sind meist früh möglich, Schulterbewegungen nach Operationsprotokoll."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Phasen der Rehabilitation",
+          "body": [
+            {
+              "type": "p",
+              "text": "Etwa 0–6 Wochen: Schutz und erlaubte assistierte Bewegung. 6–12 Wochen: schrittweise aktive Bewegungen. 3–6 Monate: dosierter Muskelaufbau. Verbesserungen können 6–12 Monate oder länger anhalten. Zeiträume sind individuell."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Rehabilitation nach ATSA",
+          "body": [
+            {
+              "type": "p",
+              "text": "Nach ATSA muss eine rekonstruierte Subscapularissehne geschützt werden. Außenrotation, Innenrotation gegen Widerstand, Abstützen, Heben und Dehnen können vorübergehend begrenzt sein."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Rehabilitation nach RTSA",
+          "body": [
+            {
+              "type": "p",
+              "text": "Nach RTSA stehen Deltamuskel und Schulterblattkontrolle im Mittelpunkt. Anfangs werden kombinierte Extension, Adduktion und Innenrotation sowie kräftiges Abstützen oft vermieden. Fraktur- und Revisionsfälle brauchen angepasste Protokolle."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Rückkehr in den Alltag",
+          "body": [
+            {
+              "type": "p",
+              "text": "Körperpflege, Autofahren, Beruf und Sport werden schrittweise wieder aufgenommen. Zum Autofahren sind ausreichend Kontrolle, kein Tragen einer Schlinge und ärztliche Zustimmung erforderlich. Schwere oder Kontaktsportarten können ungeeignet bleiben."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Nachkontrollen und Rehabilitation im Ausland",
+          "body": [
+            {
+              "type": "p",
+              "text": "Kontrollen beurteilen Schmerzen, Wunde, Bewegung, Muskelkraft, Komponentenlage und Röntgenbilder. Für Patienten im Ausland sollten Reha und örtliche Arztkontakte vorab vereinbart werden; Fernberatung ersetzt keine erforderlichen Präsenztermine."
             }
           ],
           "divider": false
@@ -1181,27 +1135,19 @@
           "divider": true
         },
         {
-          "heading": "Inverse Schulterendoprothetik nach schwerem Trauma",
+          "heading": "Inverse Schulterprothese nach schwerem Trauma",
           "body": [
             {
+              "type": "p",
+              "text": "Ein ukrainischer Soldat erlitt nach schwerem Trauma eine ausgeprägte posttraumatische Schulterarthrose mit Schmerzen und Funktionsverlust. In der Universitätsklinik der Bogomolez-Universität führte Orthopäde und Unfallchirurg Maksym Baida eine inverse Schulterendoprothetik durch. Ziel war Schmerzlinderung und bestmögliche Funktion; kein unbelegtes Langzeitergebnis wird behauptet."
+            },
+            {
               "type": "caption",
-              "text": "Röntgenaufnahme vor der Operation | Röntgenaufnahme nach der Operation"
+              "text": "Röntgenaufnahmen vor und nach der Operation"
             },
             {
-              "type": "p",
-              "text": "Der Patient — ein ukrainischer Soldat mit schweren posttraumatischen Veränderungen des Schultergelenks und erheblicher Funktionsstörung des Arms."
-            },
-            {
-              "type": "p",
-              "text": "Angesichts der Art der Verletzung und des Zustands des Schultergelenks wurde eine inverse Endoprothetik gewählt. Diese Konstruktion verändert die Biomechanik des Gelenks und ermöglicht es dem Deltamuskel, eine größere Rolle beim Anheben des Arms zu übernehmen."
-            },
-            {
-              "type": "p",
-              "text": "In der Universitätsklinik der O.O.-Bohomolez-NMU wurde eine inverse Schulterendoprothetik durchgeführt, mit dem Ziel, den Schmerz zu lindern und die Armfunktion möglichst weitgehend wiederherzustellen."
-            },
-            {
-              "type": "p",
-              "text": "Dieser klinische Fall wurde in einer offiziellen Veröffentlichung der O.O.-Bohomolez-Nationalen Medizinischen Universität vorgestellt →",
+              "type": "link",
+              "text": "Offizielle Fallvorstellung der NMU",
               "href": "https://nmuofficial.com/news/v-universytetskij-klinitsi-provodyat-innovatsijni-hirurgichni-operatsiyi-ukrayinskym-zahysnykam/"
             }
           ],
@@ -1214,122 +1160,86 @@
           "caseAspect": "landscape"
         },
         {
-          "heading": "Häufig gestellte Fragen",
+          "heading": "Häufige Fragen",
           "body": [],
           "divider": true
         },
         {
-          "heading": "Woran erkenne ich, dass bereits eine Schulterendoprothese notwendig ist?",
+          "heading": "Wann wird eine Schulterprothese notwendig?",
           "body": [
             {
               "type": "p",
-              "text": "Die Entscheidung wird nicht allein anhand der Röntgenaufnahme getroffen."
-            },
-            {
-              "type": "p",
-              "text": "Wichtig ist die Beurteilung von Schmerzintensität, nächtlichem Schmerz, Beweglichkeit, Kraft und dem Ausmaß, in dem die Schulter die Armnutzung im Alltag beeinträchtigt."
-            },
-            {
-              "type": "p",
-              "text": "Wenn Schmerz und Funktionsverlust trotz durchgeführter Behandlung erheblich bleiben, sollten Sie die weitere chirurgische Taktik mit einem Orthopäden besprechen."
+              "text": "Bei schweren Gelenkveränderungen mit Schmerzen und Funktionsverlust trotz angemessener Behandlung; Entscheidung nach Untersuchung."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Kann man noch ohne Operation auskommen?",
+          "heading": "Kann man Arthrose ohne Operation behandeln?",
           "body": [
             {
               "type": "p",
-              "text": "In vielen Fällen — ja. Die Möglichkeiten einer konservativen oder gelenkerhaltenden Behandlung hängen von der Ursache der Erkrankung und dem Ausmaß der strukturellen Veränderungen ab."
-            },
-            {
-              "type": "p",
-              "text": "Ziel der Beratung ist es festzustellen, ob die Möglichkeiten anderer Behandlungsmethoden tatsächlich ausgeschöpft sind und ob eine Endoprothetik die optimale Lösung darstellt."
+              "text": "Medikamente, Bewegungstherapie und Belastungsanpassung können Beschwerden lindern, zerstörten Knorpel aber nicht wiederherstellen."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Was ist eine inverse Schulterendoprothese?",
+          "heading": "Anatomische oder inverse Prothese – welche ist besser?",
           "body": [
             {
               "type": "p",
-              "text": "Das ist eine Konstruktion, bei der die gewohnte Geometrie des Schultergelenks verändert wird. Dadurch verändert sich die Biomechanik, und der Deltamuskel kann effektiver am Anheben des Arms mitwirken."
-            },
-            {
-              "type": "p",
-              "text": "Das ist besonders wichtig in Fällen, in denen die Rotatorenmanschette erheblich geschädigt ist und ihre Funktion nicht mehr normal erfüllen kann."
+              "text": "Keine ist generell besser. Manschettenfunktion, Glenoid und Grunderkrankung sind entscheidend."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Was ist besser — anatomisch oder invers?",
+          "heading": "Welche Untersuchungen sind nötig?",
           "body": [
             {
               "type": "p",
-              "text": "Das ist keine Frage von „besser oder schlechter“. Es handelt sich um zwei unterschiedliche Konstruktionen für unterschiedliche klinische Situationen."
-            },
-            {
-              "type": "p",
-              "text": "Die Wahl hängt vom Zustand des Gelenks, der Rotatorenmanschette, des Knochengewebes, der Art der Erkrankung und weiteren individuellen Faktoren ab."
+              "text": "Röntgen gehört dazu, CT bei Glenoidfragen, MRT oder Ultraschall bei Bedarf für Sehnen."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Werde ich nach der Operation den Arm heben können?",
+          "heading": "Wird die Beweglichkeit vollständig wiederhergestellt?",
           "body": [
             {
               "type": "p",
-              "text": "Die Wiederherstellung der Fähigkeit, den Arm anzuheben und zu nutzen, ist eines der Hauptziele der Operation."
-            },
-            {
-              "type": "p",
-              "text": "Das endgültige Bewegungsausmaß hängt vom Ausgangszustand von Gelenk, Muskeln und Sehnen, dem Endoprothesentyp und dem Rehabilitationsverlauf ab."
+              "text": "Besserung ist möglich, volle Beweglichkeit nicht garantiert, insbesondere Außenrotation nach RTSA."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Tut es nach der Operation stark weh?",
+          "heading": "Wie stark sind die Schmerzen nach der Operation?",
           "body": [
             {
               "type": "p",
-              "text": "Postoperative Schmerzen sind zu erwarten, besonders in den ersten Tagen. Zu ihrer Kontrolle wird eine multimodale Schmerztherapie eingesetzt."
-            },
-            {
-              "type": "p",
-              "text": "Der Schmerz lässt im weiteren Verlauf allmählich nach, doch die Erholungsgeschwindigkeit ist individuell."
+              "text": "Anfangsschmerzen werden individuell behandelt; eine plötzliche Verschlechterung muss abgeklärt werden."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Wie lange muss der Arm ruhiggestellt werden?",
+          "heading": "Wie lange braucht man eine Armschlinge?",
           "body": [
             {
               "type": "p",
-              "text": "Notwendigkeit und Dauer einer Orthese oder Armschlinge hängen vom Operationstyp, dem Zustand der Weichteile und den Besonderheiten des konkreten Falls ab."
-            },
-            {
-              "type": "p",
-              "text": "Das Vorgehen wird vom Chirurgen nach der Operation festgelegt."
+              "text": "Häufig mehrere Wochen, abhängig von Eingriff und Geweberekonstruktion."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Wann beginnt die Bewegungstherapie für die Schulter?",
+          "heading": "Wann beginnt die Rehabilitation?",
           "body": [
             {
               "type": "p",
-              "text": "Das Rehabilitationsprogramm richtet sich nach dem Endoprothesentyp und dem Zustand der Gewebe."
-            },
-            {
-              "type": "p",
-              "text": "Bei verschiedenen Patienten können erlaubte Bewegungen und deren Erweiterungszeitpunkte erheblich variieren, weshalb die Rehabilitation nicht ohne Absprache mit dem Chirurgen forciert werden sollte."
+              "text": "Handbewegungen oft früh; Schulterübungen richten sich nach dem individuellen Protokoll."
             }
           ],
           "divider": false
@@ -1339,45 +1249,47 @@
           "body": [
             {
               "type": "p",
-              "text": "Die Wiederherstellung der Schulterfunktion erfolgt schrittweise über mehrere Monate. Die Geschwindigkeit hängt von der Vorerkrankung, dem Operationstyp, dem Zustand von Muskeln und Sehnen sowie der individuellen Reaktion auf die Rehabilitation ab."
+              "text": "Mehrere Monate, mit Verbesserungen bis 6–12 Monate oder länger."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Kann ich nach der Endoprothetik Sport treiben?",
+          "heading": "Kann ich wieder Sport treiben?",
           "body": [
             {
               "type": "p",
-              "text": "Nach Abschluss der wesentlichen Erholungsphase kann ein Teil der körperlichen Belastungen wieder möglich sein."
-            },
-            {
-              "type": "p",
-              "text": "Das zulässige Aktivitätsniveau hängt vom Endoprothesentyp, der Schulterfunktion und der Art der jeweiligen Sportart ab und wird individuell festgelegt."
+              "text": "Ausgewählte Aktivitäten sind möglich; schwere Lasten und Kontaktsport können ungeeignet sein."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Wie lange hält eine Schulterendoprothese?",
+          "heading": "Wie lange hält die Prothese?",
           "body": [
             {
               "type": "p",
-              "text": "Moderne Schulterendoprothesen sind für eine lange Funktionsdauer ausgelegt. Die Haltbarkeit hängt von Konstruktion, Knochenqualität, Implantationspräzision, Belastungsniveau und weiteren individuellen Faktoren ab."
+              "text": "Viele Jahre sind möglich, ohne Garantie. Regelmäßige Nachkontrollen sind wichtig."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Benötigen Sie eine Beratung?",
+          "heading": "Ist eine Beratung aus dem Ausland möglich?",
           "body": [
             {
               "type": "p",
-              "text": "Wenn Schulterschmerzen den Schlaf stören, das Anheben des Arms erschweren oder gewohnte Alltagstätigkeiten beeinträchtigen, können wir während der Beratung die Ursache des Funktionsverlusts bestimmen, die Untersuchungsergebnisse beurteilen und mögliche Behandlungsoptionen besprechen."
-            },
+              "text": "Eine erste Fernbeurteilung von Unterlagen kann erfolgen, endgültige Entscheidungen benötigen eine angemessene Untersuchung."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Möchten Sie eine Beratung?",
+          "body": [
             {
               "type": "p",
-              "text": "Nicht jeder Patient mit Schulterschmerzen oder -arthrose benötigt eine Endoprothese. Unsere Aufgabe ist es festzustellen, ob eine Operation notwendig ist und welche Behandlungsmethode in Ihrer Situation optimal ist."
+              "text": "Dr. Maksym Baida beurteilt Symptome, Bildgebung, Rotatorenmanschette und Behandlungsmöglichkeiten. Nicht jeder Schulterschmerz erfordert eine Prothese. Anfragen aus Kyjiw, der Ukraine und dem Ausland sind möglich."
             }
           ],
           "divider": false
