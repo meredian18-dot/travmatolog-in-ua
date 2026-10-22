@@ -473,7 +473,7 @@
     },
     "knee-replacement": {
       "title": "Endoprotezoplastyka stawu kolanowego",
-      "lead": "Nowoczesne leczenie chirurgiczne zmniejszające ból, przywracające ruchomość i pozwalające wrócić do aktywnego życia.",
+      "lead": "Endoproteza kolana na Ukrainie: gonartroza, całkowita i częściowa wymiana stawu, dostęp subvastus, planowanie i rehabilitacja.",
       "intro": "Jeśli ból kolana ogranicza chodzenie, utrudnia codzienne życie, a leczenie zachowawcze nie przynosi już wystarczającego efektu, endoprotezoplastyka może stać się kolejnym etapem leczenia.",
       "hero": "knee-replacement-hero.jpg",
       "gallery": [
@@ -761,6 +761,66 @@
             "knee-replacement-case-after1.jpg",
             "knee-replacement-case-after2.jpg"
           ]
+        },
+        {
+          "heading": "Przeciwwskazania i przygotowanie do operacji",
+          "body": [
+            {
+              "type": "p",
+              "text": "Aktywne zakażenie stawu lub ogólnoustrojowe, zakażenie pola operacyjnego albo ciężka niewyrównana choroba mogą wymagać odroczenia zabiegu. Należy zoptymalizować cukrzycę, niedokrwistość, stan odżywienia, palenie tytoniu i ryzyko związane z otyłością. Sam podwyższony BMI nie wyklucza konsultacji."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Całkowita i częściowa endoprotezoplastyka kolana",
+          "body": [
+            {
+              "type": "p",
+              "text": "Całkowita endoprotezoplastyka (TKA) zastępuje uszkodzone powierzchnie kości udowej i piszczelowej komponentami z wkładką polietylenową. Proteza jednoprzedziałowa (UKA) może być odpowiednia przy izolowanym uszkodzeniu jednego przedziału. Nie nadaje się do każdego przypadku; czasem konieczna jest późniejsza operacja rewizyjna."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Dostęp subvastus z zachowaniem mięśnia czworogłowego",
+          "body": [
+            {
+              "type": "p",
+              "text": "Preferujemy dostęp subvastus pod mięśniem obszernym przyśrodkowym, bez przecinania mięśnia czworogłowego uda i jego ścięgna. U wybranych pacjentów może to ułatwiać wczesną aktywację mięśnia i mobilizację. Odległe wyniki są zasadniczo porównywalne z dostępem przyśrodkowym przyrzepkowym; trudna anatomia może wymagać innego dostępu."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Dobór implantu, oś kończyny i stabilność",
+          "body": [
+            {
+              "type": "p",
+              "text": "Implanty CR, PS i konstrukcje o większym stopniu stabilizacji dobiera się do stanu więzadeł. Stosuje się mocowanie cementowe lub bezcementowe. Ustawienie mechaniczne, kinematyczne, ograniczone kinematyczne i funkcjonalne uwzględniają anatomię oraz balans tkanek miękkich; nie ma jednej najlepszej techniki dla wszystkich."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Ryzyko i rehabilitacja",
+          "body": [
+            {
+              "type": "p",
+              "text": "Możliwe powikłania obejmują zakażenie, zakrzepicę i zatorowość, utratę krwi, sztywność, niestabilność, przewlekły ból i obluzowanie, rzadziej złamanie lub uszkodzenie nerwów i naczyń. Ważne są profilaktyka, wczesne uruchamianie i indywidualna rehabilitacja. Nagła duszność lub ból w klatce piersiowej wymagają pilnej pomocy. Powrót funkcji może trwać 3–12 miesięcy."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Koszty i pacjenci z zagranicy",
+          "body": [
+            {
+              "type": "p",
+              "text": "Koszty zależą od implantu, złożoności zabiegu, znieczulenia, pobytu i rehabilitacji. Pacjenci z Polski, Niemiec i Czech mogą przesłać dokumentację i oryginalne cyfrowe RTG wykonane pod obciążeniem do wstępnej oceny. Ostateczny plan wymaga badania osobistego. Leczenie w bezpieczniejszych zachodnich regionach Ukrainy można rozważyć indywidualnie."
+            }
+          ],
+          "divider": false
         },
         {
           "heading": "Najczęściej zadawane pytania",
