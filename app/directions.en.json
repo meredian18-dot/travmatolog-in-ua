@@ -473,7 +473,7 @@
     },
     "knee-replacement": {
       "title": "Knee Replacement",
-      "lead": "Modern surgical treatment to reduce pain, restore mobility, and return to an active life.",
+      "lead": "Knee replacement for osteoarthritis: total and partial implants, the subvastus approach, planning, risks and recovery in Ukraine.",
       "intro": "When knee pain limits walking, interferes with daily life, and conservative treatment no longer provides sufficient relief, joint replacement may be the next step in treatment.",
       "hero": "knee-replacement-hero.jpg",
       "gallery": [
@@ -761,6 +761,66 @@
             "knee-replacement-case-after1.jpg",
             "knee-replacement-case-after2.jpg"
           ]
+        },
+        {
+          "heading": "Contraindications and surgical preparation",
+          "body": [
+            {
+              "type": "p",
+              "text": "Active joint or systemic infection, infection at the operative site or severe uncontrolled medical illness may delay elective surgery. Diabetes, anaemia, malnutrition, smoking and obesity-related risks should be assessed and optimised; elevated BMI alone is not an automatic reason to deny consultation."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Total versus partial knee replacement",
+          "body": [
+            {
+              "type": "p",
+              "text": "Total knee arthroplasty (TKA) resurfaces damaged femoral and tibial surfaces with implants and a polyethylene insert. Partial or unicompartmental replacement (UKA) treats one affected compartment in appropriately selected patients; it may support faster early recovery but is unsuitable for widespread damage and may later require revision."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "The subvastus surgical approach",
+          "body": [
+            {
+              "type": "p",
+              "text": "We preferentially use a subvastus approach beneath the vastus medialis, avoiding division of the quadriceps muscle and tendon. In selected patients it may improve early muscle activation and mobilisation. Long-term results are broadly comparable with the medial parapatellar approach; a different access may be safer with severe deformity or difficult anatomy."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Implant selection and alignment principles",
+          "body": [
+            {
+              "type": "p",
+              "text": "Cruciate-retaining (CR), posterior-stabilised (PS) and more constrained implants serve different ligament and stability requirements. Cemented and cementless fixation are selected individually. Mechanical, kinematic, restricted kinematic and functional alignment approaches consider different aspects of anatomy and soft-tissue balance; none is universally best."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Risks and recovery",
+          "body": [
+            {
+              "type": "p",
+              "text": "Possible complications include infection, thromboembolism, bleeding, stiffness, instability, persistent pain, loosening and occasionally periprosthetic fracture or nerve and vessel injury. Early mobilisation, prevention measures and rehabilitation are important. Sudden chest pain or breathlessness require emergency care. Recovery can continue for 3–12 months."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Cost and care for patients abroad",
+          "body": [
+            {
+              "type": "p",
+              "text": "Treatment costs depend on implant, complexity, anaesthesia, hospital stay and rehabilitation; an estimate requires medical review. Patients in Poland, Germany, Czechia or elsewhere can request an initial remote review of medical reports and original digital weight-bearing radiographs. Final planning requires an in-person assessment. Treatment in safer western regions of Ukraine may be considered individually when appropriate."
+            }
+          ],
+          "divider": false
         },
         {
           "heading": "Frequently asked questions",
