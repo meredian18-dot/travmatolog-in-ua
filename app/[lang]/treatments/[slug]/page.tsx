@@ -210,6 +210,7 @@ function RichDetail({
   const t = dict.treatments;
   const isTha = slug === "hip-replacement";
   const isRich = isTha || slug === "knee-replacement";
+  // International TKA shares the same accessible image and semantic heading framework.
   const imageDescriptions: Record<Locale, Record<string, string>> = {
     uk: { "hip-replacement-planning.jpg": "Інфографіка планування ендопротезування кульшового суглоба: положення компонентів, центр ротації та довжина кінцівки", "hip-replacement-access.jpg": "Анатомічна ілюстрація прямого переднього доступу до кульшового суглоба", "hip-replacement-case-after.jpg": "Післяопераційна рентгенограма кульшового суглоба після ендопротезування" },
     en: { "hip-replacement-planning.jpg": "Total hip replacement planning diagram with component position, hip centre and leg length", "hip-replacement-access.jpg": "Anatomical illustration of the direct anterior approach to the hip", "hip-replacement-case-after.jpg": "Postoperative hip replacement radiograph" },
