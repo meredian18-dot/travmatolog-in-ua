@@ -84,10 +84,19 @@ export default async function TreatmentDetail({
     description: article.lead,
     inLanguage: loc === "uk" ? "uk-UA" : loc === "en" ? "en" : loc === "de" ? "de-DE" : "pl-PL",
     about: { "@type": "MedicalProcedure", name: article.title, procedureType: "Surgical" },
-    author: { "@type": "Person", name: "Maksym Baida", jobTitle: "Orthopaedic trauma surgeon" },
+    author: { "@type": "Person", name: "Maksym Baida", jobTitle: "Orthopaedic trauma surgeon", url: `https://travmatolog.in.ua/${loc}/#about-doctor` },
     publisher: { "@type": "Organization", name: "travmatolog.in.ua", url: "https://travmatolog.in.ua/" },
   } : null;
+  const crumbs = slug === "knee-replacement" ? {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: dict.nav.home, item: `https://travmatolog.in.ua/${loc}/` },
+      { "@type": "ListItem", position: 2, name: article.title, item: `https://travmatolog.in.ua/${loc}/treatments/${slug}/` },
+    ],
+  } : null;
   return <>
+    {crumbs && <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(crumbs).replace(/</g, "\\u003c") }} />}
     {schema && <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema).replace(/</g, "\\u003c") }} />}
     <RichDetail dict={dict} lang={loc} slug={slug} article={article} />
   </>;
@@ -387,11 +396,14 @@ function RichDetail({
             })}
           </div>
 
-          {isTha && (
+          {(isTha || slug === "knee-replacement") && (
             <nav aria-label={related[lang].heading} className="mt-12 border-t border-hairline pt-8">
               <h2 className="text-lg font-medium text-ink mb-3">{related[lang].heading}</h2>
               <ul className="space-y-2">
-                {related[lang].links.filter(item => !!getDirections(lang).articles[item.slug]).map(item => (
+                {(slug === "knee-replacement" ? [
+                  { slug: "hip-replacement", label: { uk: "Ендопротезування кульшового суглоба", en: "Hip replacement surgery", de: "Hüftendoprothese", pl: "Endoprotezoplastyka biodra" }[lang] },
+                  { slug: "revision-arthroplasty", label: related[lang].links[1].label },
+                ] : related[lang].links).filter(item => !!getDirections(lang).articles[item.slug]).map(item => (
                   <li key={item.slug}><a className="text-tan-dark underline hover:no-underline" href={`${BASE}/${lang}/treatments/${item.slug}/`}>{item.label}</a></li>
                 ))}
               </ul>
