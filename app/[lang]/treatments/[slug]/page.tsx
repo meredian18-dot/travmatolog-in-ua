@@ -8,6 +8,7 @@ import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
 import ImageLightbox from "@/components/ImageLightbox";
 import HalluxInternationalUk from "@/components/HalluxInternationalUk";
+import ShoulderInternationalUk from "@/components/ShoulderInternationalUk";
 import HalluxInternational from "@/components/HalluxInternational";
 import { getDirections, type Article, type Block } from "@/app/directions";
 
@@ -410,6 +411,7 @@ function RichDetail({
             </nav>
           )}
           {slug === "hallux-valgus" && (lang === "uk" ? <HalluxInternationalUk /> : <HalluxInternational lang={lang} />)}
+          {slug === "shoulder-replacement" && lang === "uk" && <ShoulderInternationalUk />}
 
           <div className="mt-14 pt-10 border-t border-hairline">
             <a
