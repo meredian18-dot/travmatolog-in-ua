@@ -474,7 +474,7 @@
     "knee-replacement": {
       "title": "Endoprotezoplastyka stawu kolanowego",
       "lead": "Endoproteza kolana na Ukrainie: gonartroza, całkowita i częściowa wymiana stawu, dostęp subvastus, planowanie i rehabilitacja.",
-      "intro": "Jeśli ból kolana ogranicza chodzenie, utrudnia codzienne życie, a leczenie zachowawcze nie przynosi już wystarczającego efektu, endoprotezoplastyka może stać się kolejnym etapem leczenia.",
+      "intro": "Endoprotezoplastyka kolana (TKA) polega na zastąpieniu uszkodzonych powierzchni stawowych implantem w celu złagodzenia bólu oraz poprawy chodu i ruchomości. Decyzja o operacji uwzględnia objawy, funkcję, badanie i potrzeby pacjenta, a nie tylko stadium zmian w RTG.",
       "hero": "knee-replacement-hero.jpg",
       "gallery": [],
       "blocks": [
@@ -488,32 +488,11 @@
           "body": [
             {
               "type": "p",
-              "text": "Przy zaawansowanej chorobie zwyrodnieniowej (gonartrozie) stopniowo niszczeją powierzchnie stawowe kolana. Ból się nasila, ruchy stają się ograniczone, może zmieniać się kształt stawu i oś kończyny dolnej."
+              "text": "Gonartroza (choroba zwyrodnieniowa kolana) obejmuje chrząstkę, kość podchrzęstną i inne struktury stawu. Typowe objawy to ból podczas chodzenia i korzystania ze schodów, sztywność, obrzęk, ograniczenie ruchu i postępująca deformacja. Nasilenie bólu nie zawsze odpowiada zmianom na RTG."
             },
             {
               "type": "p",
-              "text": "Na pewnym etapie leczenie farmakologiczne, fizjoterapia, iniekcje i inne metody zachowawcze nie pozwalają już dostatecznie kontrolować objawów."
-            },
-            {
-              "type": "p",
-              "text": "Endoprotezoplastyka polega na zastąpieniu uszkodzonych powierzchni stawowych komponentami sztucznego stawu. Celem operacji jest przede wszystkim zmniejszenie bólu, przywrócenie stabilności i funkcji kolana oraz pomoc pacjentowi w powrocie do bardziej aktywnego życia."
-            },
-            {
-              "type": "p",
-              "text": "Decyzja o operacji podejmowana jest indywidualnie — nie tylko na podstawie zdjęcia rentgenowskiego, lecz z uwzględnieniem bólu, ruchomości, deformacji, chodu i tego, w jakim stopniu choroba ogranicza codzienne życie."
-            },
-            {
-              "type": "list",
-              "items": [
-                "ból kolana stał się stały lub stopniowo się nasila",
-                "chodzenie na zwykłe dystanse staje się coraz trudniejsze",
-                "ból pojawia się nie tylko przy obciążeniu, ale też w spoczynku",
-                "trudno wchodzić po schodach lub z nich schodzić",
-                "kolano źle się zgina lub nie prostuje się całkowicie",
-                "pojawiła się lub narasta deformacja nogi",
-                "z powodu bólu trzeba rezygnować ze zwykłej aktywności",
-                "leczenie zachowawcze nie przynosi już wystarczającej ulgi"
-              ]
+              "text": "Endoprotezoplastyka może być również wskazana przy artrozie pourazowej, zaawansowanym uszkodzeniu stawu w przebiegu reumatoidalnego zapalenia stawów, osteonekrozie lub po złożonych deformacjach. Nie każdy ból kolana oznacza gonartrozę i nie każda gonartroza wymaga operacji."
             }
           ],
           "divider": false
@@ -522,21 +501,12 @@
           "heading": "Kiedy rozważyć wymianę stawu kolanowego?",
           "body": [
             {
-              "type": "list",
-              "items": [
-                "ból kolana stał się stały lub stopniowo się nasila",
-                "chodzenie na zwykłe dystanse staje się coraz trudniejsze",
-                "ból pojawia się nie tylko przy obciążeniu, ale też w spoczynku",
-                "trudno wchodzić po schodach lub z nich schodzić",
-                "kolano źle się zgina lub nie prostuje się całkowicie",
-                "pojawiła się lub narasta deformacja nogi",
-                "z powodu bólu trzeba rezygnować ze zwykłej aktywności",
-                "leczenie zachowawcze nie przynosi już wystarczającej ulgi"
-              ]
+              "type": "p",
+              "text": "Operację rozważa się przy uporczywym bólu, znacznym ograniczeniu chodzenia i codziennych czynności, przykurczu lub postępującej deformacji ze znacznym uszkodzeniem stawu, gdy odpowiednie leczenie zachowawcze nie wystarcza."
             },
             {
               "type": "p",
-              "text": "Zaczynamy od rozmowy o tym, co dokładnie niepokoi pacjenta i w jakim stopniu problem ogranicza jego życie. Oceniamy ruchomość, stabilność i deformację stawu kolanowego, analizujemy zdjęcia rentgenowskie i inne badania zgodnie ze wskazaniami."
+              "text": "We wcześniejszych stadiach stosuje się ćwiczenia terapeutyczne, modyfikację obciążeń, kontrolę masy ciała w razie potrzeby i dobrane leki. Jeśli istnieją wskazania operacyjne, nie trzeba bez uzasadnienia powtarzać nieskutecznych terapii. Decyzję podejmuje się wspólnie z pacjentem."
             }
           ],
           "divider": false
@@ -546,11 +516,11 @@
           "body": [
             {
               "type": "p",
-              "text": "Aktywne zakażenie stawu lub ogólnoustrojowe, zakażenie pola operacyjnego albo ciężka niewyrównana choroba mogą wymagać odroczenia zabiegu. Należy zoptymalizować cukrzycę, niedokrwistość, stan odżywienia, palenie tytoniu i ryzyko związane z otyłością. Sam podwyższony BMI nie wyklucza konsultacji."
+              "text": "Planowej endoprotezoplastyki nie wykonuje się przy aktywnym zakażeniu stawu, bakteriemii, zakażeniu w polu operacyjnym ani ciężkiej niewyrównanej chorobie uniemożliwiającej bezpieczny zabieg. Poważne zaburzenia naczyniowe, neurologiczne lub kostne wymagają indywidualnej oceny."
             },
             {
               "type": "p",
-              "text": "Aktywne zakażenie lub ciężka niewyrównana choroba mogą uniemożliwiać planowy zabieg. Cukrzycę, niedokrwistość, palenie, odżywienie i ryzyko zakrzepicy ocenia się indywidualnie; sam BMI nie powinien automatycznie wykluczać konsultacji."
+              "text": "Przed operacją warto zoptymalizować kontrolę cukrzycy, leczyć niedokrwistość, poprawić stan odżywienia i omówić zaprzestanie palenia oraz ryzyka związane z otyłością. Sam podwyższony BMI nie oznacza automatycznej odmowy. Należy zgłosić niedawne iniekcje do kolana, zakażenia, choroby i przyjmowane leki."
             }
           ],
           "divider": false
@@ -565,11 +535,11 @@
           "body": [
             {
               "type": "p",
-              "text": "Całkowita endoprotezoplastyka (TKA) zastępuje uszkodzone powierzchnie kości udowej i piszczelowej komponentami z wkładką polietylenową. Proteza jednoprzedziałowa (UKA) może być odpowiednia przy izolowanym uszkodzeniu jednego przedziału. Nie nadaje się do każdego przypadku; czasem konieczna jest późniejsza operacja rewizyjna."
+              "text": "Podczas całkowitej endoprotezoplastyki (TKA) zastępuje się uszkodzone powierzchnie kości udowej i piszczelowej metalowymi komponentami oraz wkładką polietylenową; w wybranych przypadkach opracowuje się także powierzchnię rzepki. Nie oznacza to usunięcia całego kolana. TKA stosuje się najczęściej przy zmianach obejmujących kilka przedziałów."
             },
             {
               "type": "p",
-              "text": "TKA zastępuje uszkodzone powierzchnie kości udowej i piszczelowej komponentami z wkładką polietylenową. UKA obejmuje jeden przedział u odpowiednio wybranych pacjentów z zachowaną stabilnością. Oba rozwiązania mogą wymagać późniejszej rewizji."
+              "text": "Częściowa, jednoprzedziałowa endoprotezoplastyka (UKA) zastępuje powierzchnie tylko jednego zajętego przedziału, zwykle przyśrodkowego. Zachowuje pozostałe powierzchnie i część więzadeł. Może ułatwiać wczesny powrót do sprawności u dobrze dobranych pacjentów, lecz nie jest odpowiednia dla wszystkich; możliwy jest postęp choroby w innych przedziałach i późniejsza rewizja."
             }
           ],
           "divider": false,
@@ -580,11 +550,11 @@
           "body": [
             {
               "type": "p",
-              "text": "Implanty CR, PS i konstrukcje o większym stopniu stabilizacji dobiera się do stanu więzadeł. Stosuje się mocowanie cementowe lub bezcementowe. Ustawienie mechaniczne, kinematyczne, ograniczone kinematyczne i funkcjonalne uwzględniają anatomię oraz balans tkanek miękkich; nie ma jednej najlepszej techniki dla wszystkich."
+              "text": "Wybór zależy od stanu więzadeł, jakości kości, deformacji i wymaganej stabilizacji. Implanty CR zachowują sprawne więzadło krzyżowe tylne, a konstrukcje PS częściowo zastępują jego funkcję. Przy znacznej niestabilności, ubytkach kostnych lub rewizji mogą być potrzebne bardziej stabilizowane albo zawiasowe konstrukcje."
             },
             {
               "type": "p",
-              "text": "Implanty CR zachowują funkcjonalne więzadło krzyżowe tylne, PS częściowo zastępują jego działanie. Przy znacznej niestabilności stosuje się bardziej stabilizowane konstrukcje. Mocowanie cementowe lub bezcementowe dobiera się indywidualnie."
+              "text": "Komponenty mocuje się cementem kostnym lub bezcementowo, z zamiarem uzyskania biologicznego związania z kością. Stosuje się biokompatybilne stopy metali i polietylen. Żaden producent, typ implantu ani metoda mocowania nie jest najlepsza dla wszystkich: ważne są planowanie, pozycja komponentów i balans tkanek miękkich."
             }
           ],
           "divider": false
@@ -599,27 +569,11 @@
           "body": [
             {
               "type": "p",
-              "text": "Nowoczesna endoprotezoplastyka stawu kolanowego zaczyna się na długo przed samą operacją."
+              "text": "Oceniamy ból, chód, zgięcie i wyprost, przykurcze, deformację szpotawą lub koślawą, stabilność więzadeł, aparat wyprostny i wcześniejsze operacje. Podstawą obrazowania są RTG kolana pod obciążeniem, a gdy to potrzebne — panoramiczne RTG kończyn dolnych na stojąco. TK stosuje się selektywnie, np. przy trudnej anatomii."
             },
             {
               "type": "p",
-              "text": "Przed zabiegiem oceniane są stopień uszkodzenia stawu, anatomia kolana, oś kończyny dolnej, charakter deformacji, stan tkanki kostnej, stabilność aparatu więzadłowego i zakres ruchu."
-            },
-            {
-              "type": "p",
-              "text": "Na podstawie tych danych planuje się położenie komponentów endoprotezy i określa taktykę chirurgiczną."
-            },
-            {
-              "type": "p",
-              "text": "Nie istnieje jedno uniwersalne rozwiązanie dla wszystkich pacjentów. Typ endoprotezy i cechy operacji dobierane są odpowiednio do konkretnej sytuacji klinicznej."
-            },
-            {
-              "type": "p",
-              "text": "Wcześniej oceniamy anatomię stawu kolanowego i kończyny dolnej, charakter deformacji oraz cechy przyszłej endoprotezoplastyki."
-            },
-            {
-              "type": "p",
-              "text": "RTG kolana pod obciążeniem i w razie potrzeby zdjęcie całych kończyn na stojąco pozwalają ocenić deformację i oś mechaniczną. Tomografia jest zarezerwowana dla wybranych przypadków."
+              "text": "Oś mechaniczna biegnie od środka głowy kości udowej do środka stawu skokowego. Jej przebieg pozwala ocenić rozkład obciążeń. Planuje się pozycję komponentów w trzech płaszczyznach, poziom szpary stawowej, tor rzepki i balans więzadeł. Część decyzji doprecyzowuje się podczas operacji."
             }
           ],
           "divider": false,
@@ -630,7 +584,11 @@
           "body": [
             {
               "type": "p",
-              "text": "Uszkodzone powierzchnie stawowe zastępowane są komponentami endoprotezy z odtworzeniem stabilności i funkcjonalnej biomechaniki stawu kolanowego."
+              "text": "Po przygotowaniu i wyborze znieczulenia podpajęczynówkowego lub ogólnego chirurg uzyskuje dostęp do stawu, wykonuje zaplanowane cięcia kostne, wprowadza komponenty próbne oraz sprawdza zgięcie, wyprost, stabilność i ruch rzepki. W razie potrzeby koryguje balans tkanek i grubość wkładki, a następnie mocuje właściwy implant i zamyka ranę."
+            },
+            {
+              "type": "p",
+              "text": "Standardowy pierwotny zabieg często trwa około 1–2 godzin; przypadki złożone wymagają więcej czasu. Bezpieczeństwo i dokładność są ważniejsze niż szybkość."
             }
           ],
           "divider": false
@@ -640,11 +598,11 @@
           "body": [
             {
               "type": "p",
-              "text": "Preferujemy dostęp subvastus pod mięśniem obszernym przyśrodkowym, bez przecinania mięśnia czworogłowego uda i jego ścięgna. U wybranych pacjentów może to ułatwiać wczesną aktywację mięśnia i mobilizację. Odległe wyniki są zasadniczo porównywalne z dostępem przyśrodkowym przyrzepkowym; trudna anatomia może wymagać innego dostępu."
+              "text": "Preferujemy dostęp subvastus: dojście pod mięśniem obszernym przyśrodkowym (vastus medialis), bez przecinania mięśnia czworogłowego uda ani jego ścięgna. U niektórych pacjentów może to zmniejszać wczesny ból, ułatwiać aktywację mięśnia i początkowe uruchamianie."
             },
             {
               "type": "p",
-              "text": "Preferujemy dostęp subvastus pod mięśniem obszernym przyśrodkowym, bez przecięcia mięśnia czworogłowego i jego ścięgna. Może on ułatwiać wczesną mobilizację, lecz nie wykazano przewagi długoterminowej u wszystkich. Trudna anatomia bywa wskazaniem do innego dostępu."
+              "text": "Odległe wyniki dostępu subvastus i tradycyjnego dostępu przyśrodkowego przyrzepkowego są na ogół porównywalne. Przy dużych deformacjach, przykurczach lub trudnej anatomii bezpieczniejszy może być inny dostęp. Ochrona tkanek nie może obniżać dokładności ani bezpieczeństwa operacji."
             }
           ],
           "divider": false
@@ -654,15 +612,11 @@
           "body": [
             {
               "type": "p",
-              "text": "Ważne jest nie tylko wszczepienie komponentów endoprotezy, ale też odtworzenie stabilności, funkcjonalnej osi kończyny i równowagi tkanek miękkich."
+              "text": "Celem jest stabilne, funkcjonalne kolano, a nie wyłącznie prawidłowy obraz RTG. Ustawienie mechaniczne (MA) korzysta ze standardowej osi, kinematyczne (KA) uwzględnia indywidualną anatomię, ograniczone kinematyczne (rKA) stosuje ustalone granice, a funkcjonalne (FA) bierze pod uwagę balans tkanek. Nie dowiedziono uniwersalnej długofalowej przewagi jednej metody."
             },
             {
               "type": "p",
-              "text": "Implanty CR, PS i konstrukcje o większym stopniu stabilizacji dobiera się do stanu więzadeł. Stosuje się mocowanie cementowe lub bezcementowe. Ustawienie mechaniczne, kinematyczne, ograniczone kinematyczne i funkcjonalne uwzględniają anatomię oraz balans tkanek miękkich; nie ma jednej najlepszej techniki dla wszystkich."
-            },
-            {
-              "type": "p",
-              "text": "Ustawienie mechaniczne, kinematyczne, ograniczone kinematyczne i funkcjonalne różnie uwzględniają anatomię i balans więzadeł. Kontroluje się przestrzenie w zgięciu i wyproście, stabilność oraz tor rzepki. Żadna metoda nie jest najlepsza dla wszystkich."
+              "text": "W czasie operacji ocenia się struktury przyśrodkowe i boczne, przestrzenie w zgięciu i wyproście, stabilność w różnych pozycjach oraz tor rzepki. Przestrzenie nie zawsze muszą być geometrycznie identyczne — ważna jest stabilność bez nadmiernego napięcia lub wiotkości. Nawigacja i robotyka mogą zwiększać precyzję niektórych pomiarów, lecz nie gwarantują lepszych odległych wyników."
             }
           ],
           "divider": false
@@ -677,11 +631,11 @@
           "body": [
             {
               "type": "p",
-              "text": "Możliwe powikłania obejmują zakażenie, zakrzepicę i zatorowość, utratę krwi, sztywność, niestabilność, przewlekły ból i obluzowanie, rzadziej złamanie lub uszkodzenie nerwów i naczyń. Ważne są profilaktyka, wczesne uruchamianie i indywidualna rehabilitacja. Nagła duszność lub ból w klatce piersiowej wymagają pilnej pomocy. Powrót funkcji może trwać 3–12 miesięcy."
+              "text": "Możliwe powikłania to zakażenie okołoprotezowe, zakrzepica żył głębokich i zatorowość, utrata krwi lub niedokrwistość, sztywność, niestabilność, utrzymujący się ból, obluzowanie lub zużycie komponentów. Rzadziej występują złamania okołoprotezowe albo uszkodzenia nerwów i naczyń. Czasem konieczna jest ponowna operacja."
             },
             {
               "type": "p",
-              "text": "Możliwe są zakażenie, zakrzepica lub zatorowość, krwawienie, sztywność, niestabilność, obluzowanie i przewlekły ból; rzadziej złamania i urazy nerwowo-naczyniowe. Nagła duszność lub ból w klatce piersiowej wymagają pilnej pomocy."
+              "text": "Ryzyko zmniejsza właściwe przygotowanie, profilaktyka antybiotykowa, ograniczanie utraty krwi, wczesne uruchamianie i indywidualna profilaktyka przeciwzakrzepowa. Gorączka, wydzielina z rany, nasilający się ból, obrzęk łydki czy zaburzenia czucia i krążenia wymagają szybkiej oceny. Przy nagłej duszności, bólu w klatce piersiowej lub omdleniu należy natychmiast wezwać pomoc."
             }
           ],
           "divider": false
@@ -691,19 +645,11 @@
           "body": [
             {
               "type": "p",
-              "text": "Po operacji rozpoczyna się uruchamianie pacjenta, przywracanie chodzenia i ruchów w stawie kolanowym. Obciążenie i tempo rehabilitacji ustalane są indywidualnie."
+              "text": "Jeśli nie ma przeciwwskazań, wstawanie i chodzenie z asekuracją często zaczyna się w dniu operacji lub następnego dnia. W pierwszym tygodniu kontroluje się ból i obrzęk, ćwiczy wyprost, ostrożne zgięcie i bezpieczny chód. W tygodniach 2–6 odbudowuje się siłę, równowagę i sprawność na schodach, a w tygodniach 6–12 stopniowo rozszerza aktywność. Poprawa może trwać 3–12 miesięcy lub dłużej."
             },
             {
               "type": "p",
-              "text": "Koszty zależą od implantu, złożoności zabiegu, znieczulenia, pobytu i rehabilitacji. Pacjenci z Polski, Niemiec i Czech mogą przesłać dokumentację i oryginalne cyfrowe RTG wykonane pod obciążeniem do wstępnej oceny. Ostateczny plan wymaga badania osobistego. Leczenie w bezpieczniejszych zachodnich regionach Ukrainy można rozważyć indywidualnie."
-            },
-            {
-              "type": "p",
-              "text": "Endoprotezoplastyka to tylko jeden z etapów leczenia. Wczesne uruchamianie i konsekwentne przywracanie ruchomości i siły są istotną częścią końcowego wyniku funkcjonalnego."
-            },
-            {
-              "type": "p",
-              "text": "Uruchamianie często rozpoczyna się w dniu zabiegu lub następnego dnia. Siła, wyprost, chód i schody poprawiają się przez tygodnie; pełniejszy powrót funkcji może trwać 3–12 miesięcy. Nie forsować ćwiczeń przez silny ból. Prowadzenie auta wymaga bezpiecznego hamowania."
+              "text": "Dopuszczalne obciążenie i okres używania kul zależą od sytuacji; po złożonych rekonstrukcjach mogą obowiązywać ograniczenia. Ważny jest pełny lub maksymalny wyprost oraz funkcjonalne zgięcie, a nie jeden zakres dla wszystkich. Nie należy forsować ćwiczeń przez silny ból. Dostęp subvastus nie zastępuje rehabilitacji. Do prowadzenia samochodu wraca się po odzyskaniu odpowiedniej siły, reakcji i kontroli kończyny."
             }
           ],
           "divider": false
@@ -713,31 +659,11 @@
           "body": [
             {
               "type": "p",
-              "text": "Dla pacjenta głównym celem endoprotezoplastyki nie jest sam fakt wszczepienia sztucznego stawu, lecz poprawa jakości codziennego życia."
+              "text": "Po rehabilitacji większość pacjentów odczuwa mniejszy ból i lepiej chodzi, ale sztuczne kolano nie jest pod każdym względem takie jak naturalne — może pozostać sztywność lub dyskomfort. Spacer, pływanie i rower są często odpowiednie; bieganie i sporty kontaktowe wymagają osobnego omówienia."
             },
             {
               "type": "p",
-              "text": "Po operacji i odpowiednim okresie rekonwalescencji endoprotezoplastyka może pomóc:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "istotnie zmniejszyć ból kolana",
-                "zwiększyć dystans komfortowego chodzenia",
-                "poprawić ruchomość stawu",
-                "poprawić zdolność obciążania kończyny",
-                "skorygować wyraźną deformację",
-                "ułatwić wykonywanie zwykłych codziennych czynności",
-                "stopniowo wrócić do bardziej aktywnego trybu życia"
-              ]
-            },
-            {
-              "type": "p",
-              "text": "Celem leczenia jest pomoc pacjentowi w ponownym korzystaniu z kolana w codziennym życiu przy jak najmniejszych ograniczeniach bólowych i funkcjonalnych."
-            },
-            {
-              "type": "p",
-              "text": "Dane rejestrowe wskazują, że około 93%, 90% i 82% całkowitych endoprotez nie wymagało rewizji po 15, 20 i 25 latach. Nie oznacza to gwarancji bezbolesnej funkcji (Evans i wsp., Lancet 2019)."
+              "text": "Duże badanie rejestrowe (Evans i wsp., The Lancet, 2019) wskazało brak operacji rewizyjnej u około 93% po 15 latach, 90% po 20 i 82% po 25. Są to dane o braku rewizji, a nie gwarancja bezbolesnej funkcji. Kontrole i ocena nowego bólu, obrzęku lub niestabilności są ważne nawet po wielu latach."
             }
           ],
           "divider": false
@@ -752,11 +678,11 @@
           "body": [
             {
               "type": "p",
-              "text": "Koszty zależą od implantu, złożoności zabiegu, znieczulenia, pobytu i rehabilitacji. Pacjenci z Polski, Niemiec i Czech mogą przesłać dokumentację i oryginalne cyfrowe RTG wykonane pod obciążeniem do wstępnej oceny. Ostateczny plan wymaga badania osobistego. Leczenie w bezpieczniejszych zachodnich regionach Ukrainy można rozważyć indywidualnie."
+              "text": "Całkowity koszt zależy od konstrukcji endoprotezy, trudności zabiegu, znieczulenia, badań, hospitalizacji i rehabilitacji. Standardowa operacja i złożona rekonstrukcja przy dużej deformacji lub ubytku kostnym mogą mieć inne koszty. Najdroższy implant nie musi być najwłaściwszy."
             },
             {
               "type": "p",
-              "text": "Koszt zależy od implantu, trudności zabiegu, znieczulenia, hospitalizacji i rehabilitacji. Wstępna wycena jest możliwa po analizie dokumentów, ostateczna po badaniu i ustaleniu planu."
+              "text": "Wstępny kosztorys można rozważyć po analizie dokumentacji; ostateczny po badaniu i uzgodnieniu planu leczenia. Nie publikujemy niepotwierdzonej uniwersalnej ceny."
             }
           ],
           "divider": false
@@ -766,11 +692,11 @@
           "body": [
             {
               "type": "p",
-              "text": "Koszty zależą od implantu, złożoności zabiegu, znieczulenia, pobytu i rehabilitacji. Pacjenci z Polski, Niemiec i Czech mogą przesłać dokumentację i oryginalne cyfrowe RTG wykonane pod obciążeniem do wstępnej oceny. Ostateczny plan wymaga badania osobistego. Leczenie w bezpieczniejszych zachodnich regionach Ukrainy można rozważyć indywidualnie."
+              "text": "Konsultacje i operacje są możliwe w Kijowie. Pacjenci z innych regionów Ukrainy oraz Ukraińcy mieszkający w Polsce, Niemczech, Czechach i innych krajach mogą rozpocząć od wstępnej zdalnej analizy dokumentów. Warto przesłać opis objawów, poprzedniego leczenia, chorób współistniejących oraz cyfrowe RTG kolana pod obciążeniem; zdjęcia osi kończyny, jeśli były wykonane."
             },
             {
               "type": "p",
-              "text": "Pacjenci z Polski, Niemiec i Czech mogą przesłać wyniki i oryginalne cyfrowe RTG pod obciążeniem do wstępnej oceny. Ostateczne decyzje wymagają konsultacji osobistej. Leczenie w bezpieczniejszych zachodnich regionach Ukrainy rozważa się indywidualnie."
+              "text": "Ocena zdalna pomaga zaplanować następne kroki, ale nie zastępuje badania osobistego ani nie przesądza o wskazaniach operacyjnych. W indywidualnych sytuacjach można rozważyć leczenie w bezpieczniejszych zachodnich regionach Ukrainy, zależnie od warunków klinicznych i organizacyjnych. Podróż, opiekę pooperacyjną i rehabilitację planuje się z uwzględnieniem ryzyka."
             }
           ],
           "divider": false
@@ -791,19 +717,11 @@
           "body": [
             {
               "type": "caption",
-              "text": "Zdjęcie rentgenowskie obu kolan w pozycji stojącej | Zdjęcie rentgenowskie kończyn dolnych w pełnej długości"
+              "text": "RTG kolan pod obciążeniem i osi kończyn dolnych"
             },
             {
               "type": "p",
-              "text": "Na przedstawionych zdjęciach rentgenowskich stwierdza się wyraźne zmiany zwyrodnieniowe stawów kolanowych z przeważającym zwężeniem przyśrodkowych przedziałów szpary stawowej oraz deformacją."
-            },
-            {
-              "type": "p",
-              "text": "Radiografia kończyn dolnych w pełnej długości pozwala dodatkowo ocenić oś kończyny oraz wzajemne położenie stawu biodrowego, kolanowego i skokowego."
-            },
-            {
-              "type": "p",
-              "text": "Informacja ta wykorzystywana jest podczas planowania przedoperacyjnego całkowitej endoprotezoplastyki stawu kolanowego."
+              "text": "Na zdjęciach widoczne są zaawansowane zmiany zwyrodnieniowe, przede wszystkim zwężenie przyśrodkowych szpar stawowych i deformacja. Panoramiczne RTG kończyn na stojąco ułatwia ocenę osi mechanicznej i planowanie pozycji komponentów."
             }
           ],
           "divider": false
@@ -818,19 +736,11 @@
           "body": [
             {
               "type": "caption",
-              "text": "Pooperacyjne zdjęcie rentgenowskie — projekcja przednio-tylna | Pooperacyjne zdjęcie rentgenowskie — projekcja boczna"
+              "text": "RTG pooperacyjne w projekcji przednio-tylnej i bocznej"
             },
             {
               "type": "p",
-              "text": "Zdjęcia rentgenowskie innego pacjenta po całkowitej endoprotezoplastyce stawu kolanowego przedstawiają obraz radiologiczny wszczepionych komponentów udowego i piszczelowego endoprotezy w projekcji przednio-tylnej i bocznej."
-            },
-            {
-              "type": "p",
-              "text": "Radiografia pooperacyjna wykorzystywana jest do oceny położenia komponentów endoprotezy i stanu struktur kostnych."
-            },
-            {
-              "type": "p",
-              "text": "Ważne: przedstawione obrazy są odrębnymi przypadkami klinicznymi i nie stanowią serii „przed/po” jednego pacjenta."
+              "text": "Zdjęcia innego pacjenta pokazują komponent udowy i piszczelowy endoprotezy. RTG pozwala ocenić ich położenie; wynik funkcjonalny należy także ocenić klinicznie. Ważne: to odrębne przykłady, a nie seria „przed i po” jednego pacjenta."
             }
           ],
           "divider": false
@@ -845,11 +755,7 @@
           "body": [
             {
               "type": "p",
-              "text": "Nie istnieje jeden wskaźnik, po którym endoprotezoplastyka automatycznie staje się konieczna. Ważna jest ocena nie tylko zdjęcia rentgenowskiego, ale też bólu, ruchomości, zdolności chodzenia, deformacji i wpływu choroby na Twoje życie."
-            },
-            {
-              "type": "p",
-              "text": "Jeśli z powodu kolana stale zmieniasz swoje plany, chodzisz mniej, rezygnujesz ze zwykłej aktywności, a leczenie nie przynosi już wystarczającego efektu — warto omówić możliwość endoprotezoplastyki."
+              "text": "Gdy znaczny ból i ograniczenia funkcji utrzymują się mimo właściwego leczenia zachowawczego. Sam stopień zmian w RTG nie wystarcza."
             }
           ],
           "divider": false
@@ -859,11 +765,7 @@
           "body": [
             {
               "type": "p",
-              "text": "W wielu przypadkach — tak. Na pewnych stadiach choroby mogą być stosowane leczenie farmakologiczne, fizjoterapia, zmiana obciążenia i inne metody."
-            },
-            {
-              "type": "p",
-              "text": "Zadaniem konsultacji nie jest przekonanie pacjenta o konieczności operacji, lecz ustalenie, czy możliwości leczenia zachowawczego lub oszczędzającego staw są już rzeczywiście wyczerpane."
+              "text": "We wcześniejszych stadiach pomagają ćwiczenia, modyfikacja obciążeń i leki; przy ciężkiej objawowej chorobie rozważa się endoprotezoplastykę."
             }
           ],
           "divider": false
@@ -873,7 +775,7 @@
           "body": [
             {
               "type": "p",
-              "text": "Endoproteza częściowa jest możliwa przy izolowanym uszkodzeniu i odpowiedniej stabilności."
+              "text": "Tak, przy uszkodzeniu jednego przedziału, odpowiedniej kondycji więzadeł i pozostałych struktur można rozważyć UKA."
             }
           ],
           "divider": false
@@ -883,11 +785,7 @@
           "body": [
             {
               "type": "p",
-              "text": "Przy chorobie zwyrodnieniowej stawu kolanowego często występuje deformacja szpotawa lub koślawa kończyny. Jej ocena i korekcja są ważną częścią planowania endoprotezoplastyki."
-            },
-            {
-              "type": "p",
-              "text": "Możliwy stopień korekcji ustalany jest indywidualnie w zależności od charakteru i czasu trwania deformacji, stanu kości, więzadeł i tkanek miękkich."
+              "text": "Deformację można korygować, lecz docelową oś dobiera się do anatomii i stabilności."
             }
           ],
           "divider": false
@@ -897,7 +795,7 @@
           "body": [
             {
               "type": "p",
-              "text": "Dostęp subvastus oszczędza mięsień czworogłowy, ale nie jest odpowiedni dla wszystkich."
+              "text": "Dostęp zachowuje mięsień czworogłowy i jego ścięgno, co może ułatwiać wczesne uruchamianie; nie jest odpowiedni dla wszystkich."
             }
           ],
           "divider": false
@@ -907,11 +805,7 @@
           "body": [
             {
               "type": "p",
-              "text": "W większości przypadków aktywizację rozpoczyna się we wczesnym okresie pooperacyjnym. Początkowo mogą być stosowane pomoce do chodzenia."
-            },
-            {
-              "type": "p",
-              "text": "Konkretny reżim obciążania ustala chirurg w zależności od cech operacji i stanu pacjenta."
+              "text": "Po typowej operacji często w dniu zabiegu lub następnym, z pomocą i jeśli stan pacjenta pozwala."
             }
           ],
           "divider": false
@@ -921,11 +815,7 @@
           "body": [
             {
               "type": "p",
-              "text": "Najbardziej intensywny etap rekonwalescencji przypada na pierwsze tygodnie po operacji, kiedy stopniowo przywracane są chodzenie i ruchomość kolana."
-            },
-            {
-              "type": "p",
-              "text": "Dalsza poprawa siły, wytrzymałości i funkcji może trwać przez kolejne miesiące. Tempo rekonwalescencji jest indywidualne."
+              "text": "Intensywna rehabilitacja trwa tygodnie; poprawa funkcji często postępuje 3–6 miesięcy, a nawet do roku."
             }
           ],
           "divider": false
@@ -935,7 +825,7 @@
           "body": [
             {
               "type": "p",
-              "text": "Powrót do chodzenia po schodach jest jednym z funkcjonalnych zadań rekonwalescencji. Początkowo wykonuje się to według określonej techniki i z podparciem, a w miarę przywracania siły i ruchomości możliwości stopniowo się rozszerzają."
+              "text": "Ruch rozpoczyna się wcześnie; nauka korzystania ze schodów odbywa się stopniowo, z poręczą i asekuracją."
             }
           ],
           "divider": false
@@ -945,7 +835,7 @@
           "body": [
             {
               "type": "p",
-              "text": "Termin zależy od tego, które kolano było operowane, przywrócenia kontroli nad kończyną, zaprzestania przyjmowania leków wpływających na czas reakcji oraz ogólnego przebiegu rehabilitacji. Zgoda na prowadzenie samochodu ustalana jest indywidualnie."
+              "text": "Gdy wrócą siła, reakcja i zdolność bezpiecznego hamowania, a pacjent nie przyjmuje leków pogarszających uwagę."
             }
           ],
           "divider": false
@@ -955,7 +845,7 @@
           "body": [
             {
               "type": "p",
-              "text": "Niektórzy pacjenci mogą klękać; sport o dużych obciążeniach wymaga konsultacji."
+              "text": "Niektórzy pacjenci mogą klękać; rodzaj ćwiczeń i sporty o dużym obciążeniu trzeba uzgodnić indywidualnie."
             }
           ],
           "divider": false
@@ -965,7 +855,7 @@
           "body": [
             {
               "type": "p",
-              "text": "Istotna alergia na implant występuje rzadko; należy zgłosić znane uczulenia."
+              "text": "Istotne reakcje są rzadkie. O potwierdzonej nadwrażliwości należy poinformować przed operacją; rutynowe testowanie wszystkich nie jest potrzebne."
             }
           ],
           "divider": false
@@ -975,7 +865,7 @@
           "body": [
             {
               "type": "p",
-              "text": "Możliwa jest operacja obu kolan; zabieg jednoczasowy lub etapowy wymaga oceny ryzyka."
+              "text": "Tak, ale operacja jednoczasowa i etapowa wiążą się z różnym ryzykiem, dlatego wymagana jest indywidualna ocena."
             }
           ],
           "divider": false
@@ -985,11 +875,7 @@
           "body": [
             {
               "type": "p",
-              "text": "Uniwersalnie „najlepszej” endoprotezy nie ma. Nowoczesne systemy mają różne cechy konstrukcyjne i stopnie stabilizacji."
-            },
-            {
-              "type": "p",
-              "text": "Ważna jest nie tylko marka implantu, ale prawidłowy dobór konstrukcji dla konkretnego pacjenta, planowanie przedoperacyjne i precyzja wykonania operacji."
+              "text": "Nie istnieje jedna najlepsza konstrukcja. Wiele endoprotez funkcjonuje 15–20 lat lub dłużej, ale czasu nie da się zagwarantować."
             }
           ],
           "divider": false
@@ -999,7 +885,7 @@
           "body": [
             {
               "type": "p",
-              "text": "Zakażenie, obluzowanie, niestabilność lub złamanie mogą wymagać rewizji."
+              "text": "Tak. Zakażenie, obluzowanie, niestabilność, złamanie czy inne problemy mogą wymagać rewizji."
             }
           ],
           "divider": false
@@ -1009,7 +895,7 @@
           "body": [
             {
               "type": "p",
-              "text": "Nowoczesne endoprotezy są przeznaczone do długotrwałego funkcjonowania. Okres eksploatacji zależy od wielu czynników: konstrukcji i sposobu wszczepienia implantu, wieku, masy ciała, aktywności fizycznej oraz indywidualnych cech pacjenta."
+              "text": "Zależy od implantu, trudności leczenia i hospitalizacji; indywidualny kosztorys ustala się po ocenie pacjenta."
             }
           ],
           "divider": false
@@ -1019,7 +905,7 @@
           "body": [
             {
               "type": "p",
-              "text": "Z zagranicy można przesłać dokumentację; ostateczna decyzja wymaga badania."
+              "text": "Tak. Można rozpocząć od zdalnego przeglądu dokumentacji i zdjęć, ale ostateczna decyzja wymaga badania osobistego."
             }
           ],
           "divider": false
@@ -1029,11 +915,7 @@
           "body": [
             {
               "type": "p",
-              "text": "Jeśli ból kolana już ogranicza Twoje chodzenie i codzienną aktywność, podczas konsultacji będziemy mogli ocenić stan stawu, wyniki badań i możliwe warianty leczenia."
-            },
-            {
-              "type": "p",
-              "text": "Endoprotezoplastyka nie jest potrzebna każdemu pacjentowi z chorobą zwyrodnieniową. Naszym zadaniem jest ustalenie, jaka metoda leczenia będzie optymalna właśnie w Twojej sytuacji."
+              "text": "Podczas konsultacji oceniamy objawy, badania obrazowe, oś, stabilność, alternatywy i zasadność operacji. Rejestracja przez istniejącą stronę kontaktową."
             }
           ],
           "divider": false
