@@ -325,7 +325,7 @@ function RichDetail({
               }
 
               const block = group.block;
-              const caseLayout = isRich && !!block.caseImages?.length;
+              const caseLayout = isTha && !!block.caseImages?.length;
               return (
                 <div key={i} className="mt-6 rounded-[8px] border border-hairline bg-cream/60 p-6 lg:p-7">
                   {block.heading && (isRich ? <h2 className="font-sans font-medium text-ink text-lg mb-3">{block.heading}</h2> : <h3 className="font-sans font-medium text-ink text-lg mb-3">{block.heading}</h3>)}
