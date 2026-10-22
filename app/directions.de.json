@@ -476,13 +476,15 @@
       "lead": "Knie-TEP in der Ukraine bei Gonarthrose: Teil- und Vollprothese, Subvastus-Zugang, Operationsplanung, Risiken und Rehabilitation.",
       "intro": "Wenn Knieschmerzen das Gehen einschränken, den Alltag beeinträchtigen und eine konservative Behandlung keine ausreichende Wirkung mehr zeigt, kann die Endoprothetik der nächste Behandlungsschritt sein.",
       "hero": "knee-replacement-hero.jpg",
-      "gallery": [
-        "knee-replacement-diagram.jpg",
-        "knee-replacement-what.jpg"
-      ],
+      "gallery": [],
       "blocks": [
         {
-          "heading": "Wann eine Endoprothese notwendig wird",
+          "heading": "Erkrankungen und Indikationen",
+          "body": [],
+          "divider": true
+        },
+        {
+          "heading": "Gonarthrose und andere Ursachen von Knieschmerzen",
           "body": [
             {
               "type": "p",
@@ -499,13 +501,7 @@
             {
               "type": "p",
               "text": "Die Entscheidung zur Operation wird individuell getroffen — nicht allein anhand der Röntgenaufnahme, sondern unter Berücksichtigung von Schmerz, Beweglichkeit, Deformität, Gangbild und dem Ausmaß, in dem die Erkrankung den Alltag einschränkt."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Wann Sie sich vorstellen sollten",
-          "body": [
+            },
             {
               "type": "list",
               "items": [
@@ -523,7 +519,197 @@
           "divider": false
         },
         {
-          "heading": "Was sich nach der Operation ändern kann",
+          "heading": "Wann ist eine Knieprothese sinnvoll?",
+          "body": [
+            {
+              "type": "list",
+              "items": [
+                "der Knieschmerz ist dauerhaft geworden oder nimmt allmählich zu",
+                "das Gehen gewohnter Strecken fällt zunehmend schwerer",
+                "der Schmerz tritt nicht nur unter Belastung, sondern auch in Ruhe auf",
+                "das Treppensteigen fällt schwer",
+                "das Knie lässt sich schlecht beugen oder nicht vollständig strecken",
+                "eine Beindeformität ist aufgetreten oder schreitet fort",
+                "wegen der Schmerzen muss auf gewohnte Aktivitäten verzichtet werden",
+                "die konservative Behandlung bringt keine ausreichende Linderung mehr"
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Wir beginnen mit einem Gespräch darüber, was den Patienten konkret beeinträchtigt und wie sehr das Problem sein Leben einschränkt. Wir beurteilen Beweglichkeit, Stabilität und Deformität des Kniegelenks, analysieren Röntgenaufnahmen und bei Bedarf weitere Untersuchungen."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Kontraindikationen und Vorbereitung",
+          "body": [
+            {
+              "type": "p",
+              "text": "Bei aktiver Gelenk- oder systemischer Infektion, Infektion im Operationsgebiet oder schwerer nicht kontrollierter Erkrankung muss ein elektiver Eingriff verschoben werden. Diabetes, Anämie, Ernährungszustand, Rauchen und Risiken bei Adipositas werden individuell optimiert. Ein erhöhter BMI allein schließt eine Beratung nicht aus."
+            },
+            {
+              "type": "p",
+              "text": "Bei aktiven Infektionen oder schwerer unkontrollierter Erkrankung muss die Operation verschoben werden. Diabetes, Anämie, Rauchen, Ernährung und Thromboserisiken werden individuell bewertet; der BMI allein ist kein automatischer Ausschluss."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Arten des Kniegelenkersatzes",
+          "body": [],
+          "divider": true
+        },
+        {
+          "heading": "Knie-TEP und unikondyläre Teilprothese",
+          "body": [
+            {
+              "type": "p",
+              "text": "Bei der Knie-Totalendoprothese (Knie-TEP) werden beschädigte Gelenkflächen von Femur und Tibia durch Komponenten mit Polyethylen-Inlay ersetzt. Eine unikondyläre Teilprothese eignet sich bei ausgewählten Patienten mit isoliertem Kompartimentbefall. Eine spätere Wechseloperation kann notwendig werden."
+            },
+            {
+              "type": "p",
+              "text": "Bei der Knie-TEP werden geschädigte Gelenkflächen durch Komponenten mit Polyethylen-Inlay ersetzt. Eine unikondyläre Teilprothese eignet sich für ausgewählte isolierte Schäden bei ausreichend stabilen Bändern. Beide Verfahren können später eine Revision erfordern."
+            }
+          ],
+          "divider": false,
+          "diagram": "knee-replacement-what.jpg"
+        },
+        {
+          "heading": "Auswahl der Knieendoprothese",
+          "body": [
+            {
+              "type": "p",
+              "text": "CR-, PS- und stärker gekoppelte Prothesen werden nach Bandfunktion und Stabilität ausgewählt; die Fixierung kann zementiert oder zementfrei erfolgen. Mechanisches, kinematisches, eingeschränkt kinematisches und funktionelles Alignment berücksichtigen Anatomie und Bandbalance auf unterschiedliche Weise. Keine Methode ist für alle Patienten überlegen."
+            },
+            {
+              "type": "p",
+              "text": "CR-Systeme erhalten ein funktionsfähiges hinteres Kreuzband; PS-Systeme ersetzen einen Teil seiner Funktion. Stärker gekoppelte Modelle können bei Instabilität nötig sein. Zementierte oder zementfreie Fixierung wird individuell ausgewählt."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Planung, Operation und Biomechanik",
+          "body": [],
+          "divider": true
+        },
+        {
+          "heading": "Präoperative Planung und Untersuchung",
+          "body": [
+            {
+              "type": "p",
+              "text": "Die moderne Knieendoprothetik beginnt lange vor der eigentlichen Operation."
+            },
+            {
+              "type": "p",
+              "text": "Vor dem Eingriff werden der Grad der Gelenkschädigung, die Anatomie des Knies, die Beinachse, die Art der Deformität, der Zustand des Knochengewebes, die Stabilität des Bandapparats und das Bewegungsausmaß beurteilt."
+            },
+            {
+              "type": "p",
+              "text": "Auf Grundlage dieser Daten wird die Position der Endoprothesenkomponenten geplant und die chirurgische Taktik festgelegt."
+            },
+            {
+              "type": "p",
+              "text": "Es gibt keine einzige universelle Lösung für alle Patienten. Der Endoprothesentyp und die Besonderheiten der Operation werden entsprechend der konkreten klinischen Situation gewählt."
+            },
+            {
+              "type": "p",
+              "text": "Wir beurteilen im Voraus die Anatomie des Kniegelenks und der unteren Extremität, die Art der Deformität sowie die Besonderheiten der geplanten Endoprothetik."
+            },
+            {
+              "type": "p",
+              "text": "Belastete Knieaufnahmen und gegebenenfalls Ganzbeinaufnahmen zeigen Deformität und mechanische Achse. Eine CT ist nur in ausgewählten Situationen erforderlich."
+            }
+          ],
+          "divider": false,
+          "diagram": "knee-replacement-diagram.jpg"
+        },
+        {
+          "heading": "Wie läuft die Operation ab?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Die geschädigten Gelenkflächen werden durch Komponenten der Endoprothese ersetzt, mit Wiederherstellung von Stabilität und funktioneller Biomechanik des Kniegelenks."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Subvastus-Zugang: Erhalt des Quadrizeps",
+          "body": [
+            {
+              "type": "p",
+              "text": "Wir bevorzugen den Subvastus-Zugang unter dem Musculus vastus medialis, wobei Quadrizepsmuskel und Sehne nicht durchtrennt werden. Dies kann die frühe Muskelaktivierung und Mobilisation begünstigen. Langfristige Ergebnisse sind mit dem medial-parapatellaren Zugang meist vergleichbar; bei schwieriger Anatomie kann ein anderer Zugang sicherer sein."
+            },
+            {
+              "type": "p",
+              "text": "Wir bevorzugen den Subvastus-Zugang unter dem Vastus medialis, ohne Quadrizepsmuskel oder -sehne zu durchtrennen. Dies kann die frühe Mobilisierung erleichtern; ein langfristiger Vorteil für alle Patienten ist nicht belegt. Bei schwieriger Anatomie kann ein anderer Zugang sicherer sein."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Beinachse, Bandbalance und Stabilität",
+          "body": [
+            {
+              "type": "p",
+              "text": "Wichtig ist nicht nur die Implantation der Endoprothesenkomponenten, sondern auch die Wiederherstellung von Stabilität, funktioneller Beinachse und Weichteilgleichgewicht."
+            },
+            {
+              "type": "p",
+              "text": "CR-, PS- und stärker gekoppelte Prothesen werden nach Bandfunktion und Stabilität ausgewählt; die Fixierung kann zementiert oder zementfrei erfolgen. Mechanisches, kinematisches, eingeschränkt kinematisches und funktionelles Alignment berücksichtigen Anatomie und Bandbalance auf unterschiedliche Weise. Keine Methode ist für alle Patienten überlegen."
+            },
+            {
+              "type": "p",
+              "text": "Mechanisches, kinematisches, eingeschränkt kinematisches und funktionelles Alignment berücksichtigen Anatomie und Bandbalance. Beuge- und Streckspalt, Seitenbänder und Patellalauf werden geprüft; kein Verfahren ist universell überlegen."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Sicherheit, Rehabilitation und Ergebnisse",
+          "body": [],
+          "divider": true
+        },
+        {
+          "heading": "Mögliche Risiken und Komplikationen",
+          "body": [
+            {
+              "type": "p",
+              "text": "Mögliche Komplikationen sind Infektion, Thrombose oder Lungenembolie, Blutverlust, Bewegungseinschränkung, Instabilität, persistierende Schmerzen und Lockerung; seltener Fraktur oder Nerven- und Gefäßverletzung. Frühmobilisation und individuelle Rehabilitation sind wichtig. Plötzliche Atemnot oder Brustschmerzen erfordern sofortige Notfallversorgung. Die Erholung kann 3–12 Monate dauern."
+            },
+            {
+              "type": "p",
+              "text": "Möglich sind Infektion, Thrombose oder Lungenembolie, Blutverlust, Steife, Instabilität, Lockerung und anhaltender Schmerz; seltener Frakturen oder Nerven- und Gefäßschäden. Plötzliche Atemnot oder Brustschmerzen sind Notfälle."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Rehabilitation nach Knie-TEP",
+          "body": [
+            {
+              "type": "p",
+              "text": "Nach der Operation beginnen die Mobilisation, die Wiederherstellung des Gehens und der Kniebeweglichkeit. Belastung und Rehabilitationstempo werden individuell festgelegt."
+            },
+            {
+              "type": "p",
+              "text": "Die Kosten hängen von Implantat, Aufwand, Anästhesie, Klinikaufenthalt und Rehabilitation ab. Patienten aus Deutschland, Polen und Tschechien können Befunde und digitale belastete Röntgenbilder vorab zur orientierenden Beurteilung übermitteln. Die endgültige Entscheidung erfordert eine Untersuchung vor Ort. Eine Behandlung in sichereren westlichen Regionen der Ukraine kann individuell geprüft werden."
+            },
+            {
+              "type": "p",
+              "text": "Die Endoprothetik ist nur ein Behandlungsschritt. Frühe Mobilisation und die konsequente Wiederherstellung von Beweglichkeit und Kraft sind ein wichtiger Teil des funktionellen Endergebnisses."
+            },
+            {
+              "type": "p",
+              "text": "Die Mobilisierung beginnt häufig am OP-Tag oder Folgetag. Kraft, Streckung, Gang und Treppensteigen verbessern sich über Wochen; die Erholung kann 3–12 Monate dauern. Übungen nicht unter starken Schmerzen erzwingen. Autofahren erst bei sicherer Reaktionsfähigkeit."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Ergebnisse und Haltbarkeit der Prothese",
           "body": [
             {
               "type": "p",
@@ -548,168 +734,60 @@
             {
               "type": "p",
               "text": "Ziel der Behandlung ist es, dem Patienten zu helfen, das Knie im Alltag wieder mit möglichst geringen Schmerzen und funktionellen Einschränkungen zu nutzen."
+            },
+            {
+              "type": "p",
+              "text": "Registerdaten zeigen rund 93%, 90% und 82% revisionsfreie Knie-TEP nach 15, 20 und 25 Jahren. Das ist kein Versprechen für schmerzfreie Funktion im Einzelfall (Evans et al., Lancet 2019)."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Individuelle Planung der Operation",
-          "body": [
-            {
-              "type": "p",
-              "text": "Die moderne Knieendoprothetik beginnt lange vor der eigentlichen Operation."
-            },
-            {
-              "type": "p",
-              "text": "Vor dem Eingriff werden der Grad der Gelenkschädigung, die Anatomie des Knies, die Beinachse, die Art der Deformität, der Zustand des Knochengewebes, die Stabilität des Bandapparats und das Bewegungsausmaß beurteilt."
-            },
-            {
-              "type": "p",
-              "text": "Auf Grundlage dieser Daten wird die Position der Endoprothesenkomponenten geplant und die chirurgische Taktik festgelegt."
-            },
-            {
-              "type": "p",
-              "text": "Es gibt keine einzige universelle Lösung für alle Patienten. Der Endoprothesentyp und die Besonderheiten der Operation werden entsprechend der konkreten klinischen Situation gewählt."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Worauf es bei der Knieendoprothetik ankommt",
-          "body": [
-            {
-              "type": "p",
-              "text": "Das Operationsergebnis hängt nicht allein vom Modell oder Hersteller der Endoprothese ab."
-            },
-            {
-              "type": "p",
-              "text": "Wichtig sind:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "eine präzise präoperative Planung",
-                "die korrekte Positionierung der Komponenten",
-                "die Beurteilung und Korrektur der Beindeformität (Varus-/Valgus-Fehlstellung)",
-                "die Stabilität des Kniegelenks",
-                "das Gleichgewicht von Bändern und Weichteilen",
-                "die Wiederherstellung eines funktionellen Bewegungsausmaßes",
-                "eine gut organisierte postoperative Erholung"
-              ]
-            },
-            {
-              "type": "p",
-              "text": "Ziel ist es, nicht nur eine Endoprothese zu implantieren, sondern ein stabiles und funktionsfähiges Kniegelenk zu schaffen, das dem Patienten die Rückkehr zur gewohnten Aktivität ermöglicht."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Wie die Behandlung abläuft",
+          "heading": "Praktische Informationen",
           "body": [],
           "divider": true
         },
         {
-          "heading": "01 — Beratung und Diagnostik",
+          "heading": "Kosten einer Knie-TEP",
           "body": [
             {
               "type": "p",
-              "text": "Wir beginnen mit einem Gespräch darüber, was den Patienten konkret beeinträchtigt und wie sehr das Problem sein Leben einschränkt. Wir beurteilen Beweglichkeit, Stabilität und Deformität des Kniegelenks, analysieren Röntgenaufnahmen und bei Bedarf weitere Untersuchungen."
+              "text": "Die Kosten hängen von Implantat, Aufwand, Anästhesie, Klinikaufenthalt und Rehabilitation ab. Patienten aus Deutschland, Polen und Tschechien können Befunde und digitale belastete Röntgenbilder vorab zur orientierenden Beurteilung übermitteln. Die endgültige Entscheidung erfordert eine Untersuchung vor Ort. Eine Behandlung in sichereren westlichen Regionen der Ukraine kann individuell geprüft werden."
+            },
+            {
+              "type": "p",
+              "text": "Die Kosten richten sich nach Implantat, Schwierigkeit, Anästhesie, Aufenthalt und Rehabilitation. Ein Voranschlag ist nach Unterlagenprüfung möglich; der endgültige Betrag folgt dem Behandlungsplan."
             }
           ],
           "divider": false
         },
         {
-          "heading": "02 — Präoperative Planung",
+          "heading": "Patienten aus Kyjiw, der Ukraine und dem Ausland",
           "body": [
             {
               "type": "p",
-              "text": "Wir bestimmen die anatomischen Besonderheiten und die Deformität, planen die chirurgische Taktik, die Position der Komponenten und den Endoprothesentyp."
+              "text": "Die Kosten hängen von Implantat, Aufwand, Anästhesie, Klinikaufenthalt und Rehabilitation ab. Patienten aus Deutschland, Polen und Tschechien können Befunde und digitale belastete Röntgenbilder vorab zur orientierenden Beurteilung übermitteln. Die endgültige Entscheidung erfordert eine Untersuchung vor Ort. Eine Behandlung in sichereren westlichen Regionen der Ukraine kann individuell geprüft werden."
+            },
+            {
+              "type": "p",
+              "text": "Patienten aus Deutschland, Polen oder Tschechien können Berichte und digitale belastete Röntgenaufnahmen zur Vorabbeurteilung einsenden. Eine persönliche Untersuchung bleibt notwendig. Behandlungen in sichereren westlichen Regionen der Ukraine werden individuell geprüft."
             }
           ],
           "divider": false
         },
         {
-          "heading": "03 — Endoprothetik",
-          "body": [
-            {
-              "type": "p",
-              "text": "Die geschädigten Gelenkflächen werden durch Komponenten der Endoprothese ersetzt, mit Wiederherstellung von Stabilität und funktioneller Biomechanik des Kniegelenks."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "04 — Frühe Mobilisation",
-          "body": [
-            {
-              "type": "p",
-              "text": "Nach der Operation beginnen die Mobilisation, die Wiederherstellung des Gehens und der Kniebeweglichkeit. Belastung und Rehabilitationstempo werden individuell festgelegt."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Unser Ansatz",
+          "heading": "Klinische Röntgenbeispiele",
           "body": [],
           "divider": true
         },
         {
-          "heading": "Nicht „eine Prothese für alle“, sondern eine Lösung für den konkreten Patienten",
-          "body": [
-            {
-              "type": "p",
-              "text": "Alter, Anatomie, Art der Deformität, Zustand von Bändern und Knochengewebe sowie Aktivitätsniveau sind bei jedem Patienten unterschiedlich. Deshalb wird die chirurgische Taktik individuell festgelegt."
-            }
+          "heading": "Gonarthrose und Beinachse",
+          "caseImages": [
+            "knee-replacement-case-before1.jpg",
+            "knee-replacement-case-before2.jpg",
+            "knee-replacement-case-before3.jpg"
           ],
-          "divider": false
-        },
-        {
-          "heading": "Planung vor der Operation",
-          "body": [
-            {
-              "type": "p",
-              "text": "Wir beurteilen im Voraus die Anatomie des Kniegelenks und der unteren Extremität, die Art der Deformität sowie die Besonderheiten der geplanten Endoprothetik."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Aufmerksamkeit für die Biomechanik",
-          "body": [
-            {
-              "type": "p",
-              "text": "Wichtig ist nicht nur die Implantation der Endoprothesenkomponenten, sondern auch die Wiederherstellung von Stabilität, funktioneller Beinachse und Weichteilgleichgewicht."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Von der Operation zur Rückkehr in die Aktivität",
-          "body": [
-            {
-              "type": "p",
-              "text": "Die Endoprothetik ist nur ein Behandlungsschritt. Frühe Mobilisation und die konsequente Wiederherstellung von Beweglichkeit und Kraft sind ein wichtiger Teil des funktionellen Endergebnisses."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Röntgenologische Beispiele",
-          "body": [
-            {
-              "type": "p",
-              "text": "Die Röntgendiagnostik ist ein wichtiger Bestandteil der Planung der Knieendoprothetik. Sie ermöglicht die Beurteilung des Ausmaßes degenerativer Veränderungen, der Art der Deformität, des Zustands der Gelenkflächen und der Beinachse."
-            },
-            {
-              "type": "p",
-              "text": "Bei der Operationsplanung ist es wichtig, nicht nur die geschädigten Gelenkflächen zu ersetzen, sondern auch die individuelle Anatomie, die Art der Deformität, die Position der künftigen Komponenten und die funktionelle Biomechanik der Extremität zu berücksichtigen."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Gonarthrose und Beurteilung der Beinachse",
+          "caseAspect": "landscape",
           "body": [
             {
               "type": "caption",
@@ -728,16 +806,15 @@
               "text": "Diese Informationen werden bei der präoperativen Planung der totalen Knieendoprothetik verwendet."
             }
           ],
-          "divider": false,
-          "caseImages": [
-            "knee-replacement-case-before1.jpg",
-            "knee-replacement-case-before2.jpg",
-            "knee-replacement-case-before3.jpg"
-          ],
-          "caseAspect": "landscape"
+          "divider": false
         },
         {
-          "heading": "Totale Knieendoprothetik",
+          "heading": "Röntgenaufnahmen nach Knie-TEP",
+          "caseImages": [
+            "knee-replacement-case-after1.jpg",
+            "knee-replacement-case-after2.jpg"
+          ],
+          "caseAspect": "landscape",
           "body": [
             {
               "type": "caption",
@@ -756,70 +833,6 @@
               "text": "Wichtiger Hinweis: Die gezeigten Bilder sind separate klinische Beispiele und stellen keine „Vorher/Nachher“-Serie desselben Patienten dar."
             }
           ],
-          "divider": false,
-          "caseImages": [
-            "knee-replacement-case-after1.jpg",
-            "knee-replacement-case-after2.jpg"
-          ]
-        },
-        {
-          "heading": "Kontraindikationen und Operationsvorbereitung",
-          "body": [
-            {
-              "type": "p",
-              "text": "Bei aktiver Gelenk- oder systemischer Infektion, Infektion im Operationsgebiet oder schwerer nicht kontrollierter Erkrankung muss ein elektiver Eingriff verschoben werden. Diabetes, Anämie, Ernährungszustand, Rauchen und Risiken bei Adipositas werden individuell optimiert. Ein erhöhter BMI allein schließt eine Beratung nicht aus."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Vollständiger und teilweiser Kniegelenkersatz",
-          "body": [
-            {
-              "type": "p",
-              "text": "Bei der Knie-Totalendoprothese (Knie-TEP) werden beschädigte Gelenkflächen von Femur und Tibia durch Komponenten mit Polyethylen-Inlay ersetzt. Eine unikondyläre Teilprothese eignet sich bei ausgewählten Patienten mit isoliertem Kompartimentbefall. Eine spätere Wechseloperation kann notwendig werden."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Subvastus-Zugang bei der Knie-TEP",
-          "body": [
-            {
-              "type": "p",
-              "text": "Wir bevorzugen den Subvastus-Zugang unter dem Musculus vastus medialis, wobei Quadrizepsmuskel und Sehne nicht durchtrennt werden. Dies kann die frühe Muskelaktivierung und Mobilisation begünstigen. Langfristige Ergebnisse sind mit dem medial-parapatellaren Zugang meist vergleichbar; bei schwieriger Anatomie kann ein anderer Zugang sicherer sein."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Implantatwahl und Beinachse",
-          "body": [
-            {
-              "type": "p",
-              "text": "CR-, PS- und stärker gekoppelte Prothesen werden nach Bandfunktion und Stabilität ausgewählt; die Fixierung kann zementiert oder zementfrei erfolgen. Mechanisches, kinematisches, eingeschränkt kinematisches und funktionelles Alignment berücksichtigen Anatomie und Bandbalance auf unterschiedliche Weise. Keine Methode ist für alle Patienten überlegen."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Risiken und Rehabilitation",
-          "body": [
-            {
-              "type": "p",
-              "text": "Mögliche Komplikationen sind Infektion, Thrombose oder Lungenembolie, Blutverlust, Bewegungseinschränkung, Instabilität, persistierende Schmerzen und Lockerung; seltener Fraktur oder Nerven- und Gefäßverletzung. Frühmobilisation und individuelle Rehabilitation sind wichtig. Plötzliche Atemnot oder Brustschmerzen erfordern sofortige Notfallversorgung. Die Erholung kann 3–12 Monate dauern."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Kosten und Patienten aus dem Ausland",
-          "body": [
-            {
-              "type": "p",
-              "text": "Die Kosten hängen von Implantat, Aufwand, Anästhesie, Klinikaufenthalt und Rehabilitation ab. Patienten aus Deutschland, Polen und Tschechien können Befunde und digitale belastete Röntgenbilder vorab zur orientierenden Beurteilung übermitteln. Die endgültige Entscheidung erfordert eine Untersuchung vor Ort. Eine Behandlung in sichereren westlichen Regionen der Ukraine kann individuell geprüft werden."
-            }
-          ],
           "divider": false
         },
         {
@@ -828,7 +841,7 @@
           "divider": true
         },
         {
-          "heading": "Woran erkenne ich, dass es Zeit für die Operation ist?",
+          "heading": "Wann ist die Operation notwendig?",
           "body": [
             {
               "type": "p",
@@ -842,7 +855,7 @@
           "divider": false
         },
         {
-          "heading": "Kann man es noch ohne Operation versuchen?",
+          "heading": "Kann ich eine Operation vermeiden?",
           "body": [
             {
               "type": "p",
@@ -856,7 +869,17 @@
           "divider": false
         },
         {
-          "heading": "Wird das Bein nach der Endoprothetik gerade?",
+          "heading": "Ist eine Teilprothese möglich?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Eine Teilprothese ist bei isoliertem Verschleiß und geeigneter Bandstabilität möglich."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Wird mein Bein wieder gerade?",
           "body": [
             {
               "type": "p",
@@ -870,21 +893,17 @@
           "divider": false
         },
         {
-          "heading": "Tut es nach der Operation stark weh?",
+          "heading": "Was ist das Besondere am Subvastus-Zugang?",
           "body": [
             {
               "type": "p",
-              "text": "Postoperative Schmerzen sind zu erwarten, besonders in den ersten Tagen. Zu ihrer Kontrolle wird eine multimodale Schmerztherapie eingesetzt, die eine frühe Mobilisation und schrittweise Wiederherstellung der Beweglichkeit ermöglicht."
-            },
-            {
-              "type": "p",
-              "text": "Intensität und Rückgang der Schmerzen sind bei verschiedenen Patienten unterschiedlich."
+              "text": "Der Subvastus-Zugang schont den Quadrizeps, ist jedoch nicht für jeden geeignet."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Wann kann ich wieder aufstehen und gehen?",
+          "heading": "Wann kann ich wieder stehen und gehen?",
           "body": [
             {
               "type": "p",
@@ -912,7 +931,7 @@
           "divider": false
         },
         {
-          "heading": "Werde ich wieder normal Treppen steigen können?",
+          "heading": "Kann ich das Knie beugen und Treppen steigen?",
           "body": [
             {
               "type": "p",
@@ -922,7 +941,7 @@
           "divider": false
         },
         {
-          "heading": "Wann kann ich wieder Auto fahren?",
+          "heading": "Wann kann ich Auto fahren?",
           "body": [
             {
               "type": "p",
@@ -932,7 +951,37 @@
           "divider": false
         },
         {
-          "heading": "Welche Endoprothese ist die beste?",
+          "heading": "Kann ich knien und Sport treiben?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Knien ist manchen Patienten möglich; belastungsintensiver Sport erfordert Beratung."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Ist eine Implantatallergie möglich?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Bedeutsame Implantatallergien sind selten; bekannte Unverträglichkeiten angeben."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Können beide Knie operiert werden?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Beide Knie können operiert werden; gleichzeitiges oder stufenweises Vorgehen wird individuell geprüft."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Welche Prothese ist die beste und wie lange hält sie?",
           "body": [
             {
               "type": "p",
@@ -946,7 +995,17 @@
           "divider": false
         },
         {
-          "heading": "Wie lange hält eine Knieendoprothese?",
+          "heading": "Kann eine Knieprothese gewechselt werden?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Bei Infektion, Lockerung, Instabilität oder Fraktur kann eine Revision nötig sein."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Was kostet die Operation?",
           "body": [
             {
               "type": "p",
@@ -956,7 +1015,17 @@
           "divider": false
         },
         {
-          "heading": "Benötigen Sie eine Beratung?",
+          "heading": "Kann ich mich aus dem Ausland beraten lassen?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Aus dem Ausland ist eine Vorabbeurteilung möglich; endgültige Entscheidungen erfordern eine Untersuchung."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Möchten Sie eine Beratung?",
           "body": [
             {
               "type": "p",
