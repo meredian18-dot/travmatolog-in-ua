@@ -216,7 +216,13 @@ function RichDetail({
     de: { "hip-replacement-planning.jpg": "Planung der Hüft-TEP mit Komponentenposition, Drehzentrum und Beinlänge", "hip-replacement-access.jpg": "Anatomische Darstellung des direkten vorderen Zugangs zur Hüfte", "hip-replacement-case-after.jpg": "Postoperatives Röntgenbild nach Hüftendoprothese" },
     pl: { "hip-replacement-planning.jpg": "Schemat planowania endoprotezoplastyki biodra: położenie implantów, środek obrotu i długość kończyny", "hip-replacement-access.jpg": "Ilustracja anatomiczna bezpośredniego dostępu przedniego do biodra", "hip-replacement-case-after.jpg": "Pooperacyjne zdjęcie RTG po endoprotezoplastyce stawu biodrowego" },
   };
-  const imageAlt = (file: string) => slug === "knee-replacement" ? ({
+  const kneeAlt: Record<Locale, Record<string,string>> = {
+    uk: {},
+    en: {"knee-replacement-diagram.jpg":"Knee mechanical-axis and surgical planning illustration","knee-replacement-what.jpg":"Diagram showing damaged knee joint surfaces and total knee replacement","knee-replacement-case-before1.jpg":"Standing radiograph of knees with osteoarthritis","knee-replacement-case-before2.jpg":"Knee osteoarthritis X-ray","knee-replacement-case-before3.jpg":"Full-length standing lower limb alignment X-ray","knee-replacement-case-after1.jpg":"Anteroposterior knee replacement radiograph","knee-replacement-case-after2.jpg":"Lateral knee replacement radiograph"},
+    de: {"knee-replacement-diagram.jpg":"Schema zur Planung und mechanischen Beinachse bei Knie-TEP","knee-replacement-what.jpg":"Darstellung des Kniegelenkersatzes","knee-replacement-case-before1.jpg":"Belastete Röntgenaufnahme beider Knie mit Gonarthrose","knee-replacement-case-before2.jpg":"Röntgenbild einer Kniearthrose","knee-replacement-case-before3.jpg":"Ganzbeinaufnahme zur Achsbeurteilung","knee-replacement-case-after1.jpg":"Postoperative Knie-TEP in a.p. Projektion","knee-replacement-case-after2.jpg":"Postoperative Knie-TEP in seitlicher Projektion"},
+    pl: {"knee-replacement-diagram.jpg":"Schemat planowania i osi mechanicznej kończyny przy endoprotezoplastyce kolana","knee-replacement-what.jpg":"Schemat całkowitej endoprotezoplastyki kolana","knee-replacement-case-before1.jpg":"RTG kolan pod obciążeniem z gonartrozą","knee-replacement-case-before2.jpg":"RTG choroby zwyrodnieniowej kolana","knee-replacement-case-before3.jpg":"RTG całych kończyn dolnych do oceny osi","knee-replacement-case-after1.jpg":"RTG endoprotezy kolana w projekcji przednio-tylnej","knee-replacement-case-after2.jpg":"RTG endoprotezy kolana w projekcji bocznej"}
+  };
+  const imageAlt = (file: string) => slug === "knee-replacement" ? (kneeAlt[lang][file] ?? ({
     "knee-replacement-diagram.jpg": "Схема ендопротеза колінного суглоба",
     "knee-replacement-what.jpg": "Анатомічна схема коліна й ендопротезування",
     "knee-replacement-case-before1.jpg": "Рентгенограма колінних суглобів при гонартрозі",
@@ -224,7 +230,7 @@ function RichDetail({
     "knee-replacement-case-before3.jpg": "Панорамна рентгенограма нижніх кінцівок для оцінки механічної осі",
     "knee-replacement-case-after1.jpg": "Рентгенограма колінного ендопротеза у прямій проєкції",
     "knee-replacement-case-after2.jpg": "Рентгенограма колінного ендопротеза у бічній проєкції",
-  }[file] ?? article.title) : isTha ? (imageDescriptions[lang][file] ?? article.title) : "";
+  }[file] ?? article.title)) : isTha ? (imageDescriptions[lang][file] ?? article.title) : "";
 
   const related: Record<Locale, { heading: string; links: { slug: string; label: string }[] }> = {
     uk: { heading: "Пов’язані напрямки лікування", links: [{ slug: "avn", label: "Асептичний некроз головки стегнової кістки" }, { slug: "revision-arthroplasty", label: "Ревізійне ендопротезування" }] },
