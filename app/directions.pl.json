@@ -907,6 +907,18 @@
             {
               "type": "p",
               "text": "Wskazania wynikają z nasilenia bólu, ograniczenia funkcji, zmian strukturalnych i możliwości leczenia oszczędzającego staw, a nie tylko z obrazu RTG. W złożonych złamaniach wybór pomiędzy osteosyntezą a endoprotezą zależy od możliwości rekonstrukcji i rokowania. Martwica, zapalenia stawów i wcześniejsze operacje wymagają odrębnej oceny."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Zaawansowana choroba zwyrodnieniowa barku z bólem i sztywnością",
+                "Artropatia stożka rotatorów z zaburzoną biomechaniką",
+                "Wybrane złożone złamania bliższego końca kości ramiennej",
+                "Pourazowa choroba zwyrodnieniowa i deformacje po złamaniach",
+                "Martwica głowy kości ramiennej z uszkodzeniem powierzchni",
+                "Wybrane zapalne choroby stawów ze zmianami strukturalnymi",
+                "Bolesna dysfunkcja po wcześniejszych operacjach przy ograniczonych alternatywach"
+              ]
             }
           ],
           "divider": false,
@@ -922,6 +934,16 @@
             {
               "type": "p",
               "text": "Trudności z ubieraniem się, myciem, czesaniem, brak czynnego unoszenia ręki i zaburzenia snu są ważnymi powodami konsultacji. Należy odróżnić sztywność stawu od osłabienia wynikającego z uszkodzeń ścięgien lub nerwów."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Utrzymujący się lub nasilający ból barku, zwłaszcza nocny",
+                "Trudności z unoszeniem ręki, ubieraniem i higieną",
+                "Wyraźne ograniczenie ruchów, osłabienie lub brak czynnego unoszenia",
+                "Następstwa złamań, zaawansowanej choroby zwyrodnieniowej lub martwicy",
+                "Niedostateczna poprawa po wcześniejszym leczeniu"
+              ]
             }
           ],
           "divider": false
@@ -956,6 +978,14 @@
             {
               "type": "p",
               "text": "Proteza anatomiczna opiera się na sprawnym stożku rotatorów. Trzeba ocenić rozmiar i możliwość naprawy uszkodzenia, jakość mięśni oraz podparcie kostne. Niewielki naprawialny defekt nie wyklucza automatycznie ATSA."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Zaawansowana choroba zwyrodnieniowa ze sprawnym stożkiem rotatorów",
+                "Odpowiednie podparcie kostne i możliwość odtworzenia anatomii",
+                "Wybrane przypadki zmian pourazowych lub martwicy"
+              ]
             }
           ],
           "divider": false
@@ -970,6 +1000,16 @@
             {
               "type": "p",
               "text": "RTSA może być odpowiednia przy artropatii stożka, rozległych nieodwracalnych zerwaniach, wybranym pseudoporażeniu z zachowanym ruchem biernym, złożonych złamaniach i rewizjach. Kluczowe są funkcja mięśnia naramiennego, unerwienie i stabilne zamocowanie. Poprawa unoszenia nie gwarantuje rotacji zewnętrznej, zależnej także od mięśni podgrzebieniowego i obłego mniejszego."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Artropatia stożka lub bolesne masywne nieodwracalne zerwania",
+                "Wybrane pseudoporażenie z zachowanym ruchem biernym",
+                "Złożone złamania bliższego końca kości ramiennej i następstwa",
+                "Duża deformacja lub ubytek kostny panewki",
+                "Wybrane operacje rewizyjne"
+              ]
             }
           ],
           "divider": false
@@ -984,6 +1024,15 @@
             {
               "type": "p",
               "text": "Ocenia się retrakcję ścięgien, zanik i stłuszczenie mięśni, stan mięśnia podłopatkowego i naramiennego oraz różnicę między zakresem ruchu czynnego i biernego. Samo zerwanie nie rozstrzyga o typie protezy."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Rozmiar, lokalizacja i możliwość naprawy zerwania",
+                "Retrakcja ścięgien, zanik i stłuszczenie mięśni",
+                "Funkcja mięśnia podłopatkowego i naramiennego",
+                "Ruch czynny i bierny oraz jakość kości"
+              ]
             }
           ],
           "divider": false
@@ -1003,6 +1052,15 @@
             {
               "type": "p",
               "text": "Zdjęcia RTG w odpowiednich projekcjach, także osiowej, pokazują szparę stawową, osteofity, deformację i ustawienie głowy kości ramiennej. TK jest istotna dla wersji i nachylenia panewki, ubytków kostnych, zmian pourazowych i rewizji. MRI ocenia retrakcję ścięgien, zanik oraz stłuszczenie mięśni; USG może być badaniem uzupełniającym."
+            },
+            {
+              "type": "list",
+              "items": [
+                "RTG w odpowiednich projekcjach do oceny zmian zwyrodnieniowych",
+                "TK do oceny wersji, nachylenia i ubytków panewki",
+                "MRI do oceny ścięgien, retrakcji i mięśni",
+                "USG do oceny ciągłości ścięgien według wskazań"
+              ]
             }
           ],
           "divider": false
@@ -1017,6 +1075,15 @@
             {
               "type": "p",
               "text": "Planowanie 3D na podstawie TK pomaga ocenić korekcję ustawienia panewki, rozmiar i pozycję komponentów oraz zasób kości do mocowania. Augmenty, przeszczepy kostne i indywidualne prowadnice stosuje się w wybranych przypadkach. Nie każdy pacjent potrzebuje planowania 3D."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Zaplanowanie orientacji i mocowania komponentu panewkowego",
+                "Ocena korekcji deformacji i dostępnej kości",
+                "Rozważenie augmentów, przeszczepów i specjalnych elementów",
+                "Indywidualne prowadnice w wybranych przypadkach"
+              ]
             }
           ],
           "divider": false
@@ -1045,6 +1112,16 @@
             {
               "type": "p",
               "text": "Dostęp naramienno-piersiowy przebiega w naturalnej przestrzeni między mięśniem naramiennym a piersiowym większym. Po ocenie kości i tkanek miękkich przygotowuje się powierzchnie, wszczepia komponenty oraz sprawdza stabilność i ruchy. W ATSA istotna jest ochrona lub naprawa ścięgna podłopatkowego; w RTSA położenie glenosfery, mocowanie podstawy i balans tkanek."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Uzyskanie dostępu i ocena kości oraz tkanek miękkich",
+                "Przygotowanie kości ramiennej i panewki",
+                "Wszczepienie dobranych komponentów",
+                "Kontrola stabilności i zakresu ruchów",
+                "Naprawa tkanek miękkich zgodnie ze wskazaniami"
+              ]
             }
           ],
           "divider": false
@@ -1064,6 +1141,17 @@
             {
               "type": "p",
               "text": "Zakażenie protezy barku, zwłaszcza związane z Cutibacterium acnes, może mieć skąpoobjawowy przebieg i wymagać trudnej diagnostyki, ponownego zabiegu lub wymiany elementów. Niestabilność zależy od ułożenia komponentów i tkanek. Złamania okołoprotezowe mogą wystąpić po upadku; uszkodzenie nerwu pachowego lub splotu ramiennego może upośledzać siłę i czucie."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Zakażenie protezy, także skąpoobjawowe z Cutibacterium acnes",
+                "Zwichnięcie lub niestabilność",
+                "Zużycie lub obluzowanie elementów",
+                "Złamania okołoprotezowe",
+                "Uszkodzenie nerwu pachowego lub splotu ramiennego",
+                "Krwawienie, krwiak, problemy z raną, zakrzepica, ryzyko znieczulenia i sztywność"
+              ]
             }
           ],
           "divider": false
@@ -1088,6 +1176,16 @@
             {
               "type": "p",
               "text": "Ograniczanie ryzyka wymaga właściwych wskazań, leczenia chorób współistniejących i aktywnych zakażeń, dokładnego planowania, stabilnego zamocowania komponentów, profilaktyki zakażeń, rehabilitacji i kontroli. Ryzyka nie można wyeliminować całkowicie."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Prawidłowe wskazania i leczenie chorób współistniejących",
+                "Leczenie czynnych zakażeń przed operacją",
+                "Staranne planowanie i dobór implantu",
+                "Prawidłowa pozycja i stabilne mocowanie komponentów",
+                "Zapobieganie zakażeniom, rehabilitacja i kontrole"
+              ]
             }
           ],
           "divider": false
@@ -1112,6 +1210,15 @@
             {
               "type": "p",
               "text": "Gorączka z wydzieliną z rany, nagły silny ból, deformacja, utrata funkcji lub nowe znaczne zaburzenia czucia wymagają pilnej oceny. Ból w klatce piersiowej lub duszność wymagają pomocy ratunkowej."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Gorączka, dreszcze, narastające zaczerwienienie lub wyciek z rany",
+                "Nagły silny ból, deformacja albo utrata funkcji",
+                "Nowe znaczne osłabienie lub zaburzenia czucia",
+                "Ból w klatce piersiowej lub silna duszność wymagają pomocy ratunkowej"
+              ]
             }
           ],
           "divider": false
@@ -1145,6 +1252,15 @@
             {
               "type": "p",
               "text": "Na początku unika się gwałtownych ruchów, dźwigania i podpierania na ręce. Następnie przechodzi się od ruchów wspomaganych do czynnych i kontroli łopatki, a dopiero później do stopniowego wzmacniania. Ciężka praca i sport wymagają indywidualnej zgody."
+            },
+            {
+              "type": "list",
+              "items": [
+                "0–6 tygodni: ochrona tkanek i dozwolone ruchy wspomagane",
+                "6–12 tygodni: stopniowe ruchy czynne i czynności codzienne",
+                "3–6 miesięcy: stopniowe wzmacnianie i ćwiczenia funkcjonalne",
+                "Po 6 miesiącach: dalszy rozwój siły i koordynacji"
+              ]
             }
           ],
           "divider": false
