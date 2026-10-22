@@ -891,286 +891,240 @@
       ]
     },
     "shoulder-replacement": {
-      "title": "Endoprotezoplastyka stawu barkowego",
-      "lead": "Nowoczesne leczenie chirurgiczne zmniejszające ból, przywracające ruchomość ramienia i pozwalające wrócić do codziennej aktywności.",
-      "intro": "Jeśli ból barku stał się stały, przeszkadza w spaniu, unoszeniu ręki, ubieraniu się lub wykonywaniu zwykłych czynności, a leczenie zachowawcze nie przynosi już wystarczającego efektu, jednym z wariantów leczenia może być endoprotezoplastyka stawu barkowego.",
+      "title": "Endoprotezoplastyka stawu barkowego: anatomiczna i odwrócona",
+      "lead": "Endoprotezoplastyka anatomiczna i odwrócona (ATSA/RTSA): wskazania, planowanie, zabieg, ryzyko i rehabilitacja.",
+      "intro": "Gdy utrzymujący się ból barku i ograniczenie funkcji ręki nie ustępują mimo odpowiedniego leczenia zachowawczego, można rozważyć endoprotezoplastykę. Wybór implantu zależy od stożka rotatorów, anatomii kości i potrzeb pacjenta.",
       "hero": "shoulder-replacement-hero.jpg",
       "gallery": [],
       "blocks": [
         {
-          "heading": "Kiedy endoprotezoplastyka staje się konieczna",
+          "heading": "Kiedy wskazana jest endoprotezoplastyka barku?",
           "body": [
             {
               "type": "p",
-              "text": "Staw barkowy zapewnia duży zakres ruchów ramienia, dlatego jego wyraźne uszkodzenie może istotnie wpływać nawet na proste codzienne czynności."
-            },
-            {
-              "type": "p",
-              "text": "Przy chorobie zwyrodnieniowej, następstwach powikłanych złamań, jałowej martwicy i niektórych innych patologiach stopniowo pojawiają się ból, sztywność i utrata funkcji."
-            },
-            {
-              "type": "p",
-              "text": "Odrębną grupę stanowią pacjenci z wyraźnym uszkodzeniem ścięgien mankietu rotatorów. W takich przypadkach problem może polegać nie tylko na powierzchniach stawowych, ale też na utracie prawidłowego mechanizmu pracy stawu barkowego."
-            },
-            {
-              "type": "p",
-              "text": "Gdy możliwości leczenia zachowawczego lub oszczędzającego staw przestają wystarczająco kontrolować ból i przywracać funkcję, można rozważyć endoprotezoplastykę."
+              "text": "Endoprotezoplastyka może być wskazana w zaawansowanej chorobie zwyrodnieniowej stawu ramiennego, artropatii stożka rotatorów, wybranych złożonych złamaniach bliższego końca kości ramiennej, zmianach pourazowych, martwicy głowy kości ramiennej i niektórych chorobach zapalnych. Izolowane zerwanie ścięgna nie oznacza automatycznie konieczności wymiany stawu."
             }
           ],
           "divider": false,
           "diagram": "shoulder-replacement-cuff.jpg"
         },
         {
-          "heading": "Kiedy warto się zgłosić",
+          "heading": "Kiedy zgłosić się do ortopedy?",
           "body": [
             {
-              "type": "list",
-              "items": [
-                "stały lub narastający ból barku",
-                "ból nocny, który przeszkadza w spaniu",
-                "trudność w unoszeniu ręki",
-                "trudności w ubieraniu się, czesaniu włosów lub wykonywaniu czynności higienicznych",
-                "znacznie zmniejszył się zakres ruchów w barku",
-                "ręka straciła siłę i funkcję",
-                "są następstwa złamania bliższego odcinka kości ramiennej",
-                "zdiagnozowano wyraźną chorobę zwyrodnieniową stawu barkowego",
-                "wcześniejsze leczenie nie przynosi już wystarczającego efektu"
-              ]
+              "type": "p",
+              "text": "Warto zgłosić się przy stałym lub nocnym bólu, trudności w unoszeniu ręki, ubieraniu się, utracie siły lub ograniczeniu ruchów mimo leczenia. Decyzja opiera się na objawach i badaniach."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Co może się zmienić po operacji",
-          "body": [
-            {
-              "type": "p",
-              "text": "Głównym celem endoprotezoplastyki stawu barkowego nie jest po prostu zastąpienie uszkodzonych struktur, lecz zmniejszenie bólu i przywrócenie ręce maksymalnie możliwej funkcji."
-            },
-            {
-              "type": "p",
-              "text": "Po operacji i odpowiednim okresie rekonwalescencji endoprotezoplastyka może pomóc:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "istotnie zmniejszyć ból barku",
-                "zmniejszyć lub wyeliminować ból nocny",
-                "poprawić ruchomość ręki",
-                "ułatwić samoobsługę i czynności codzienne",
-                "poprawić możliwość unoszenia i używania ręki",
-                "stopniowo wrócić do zwykłej codziennej aktywności"
-              ]
-            },
-            {
-              "type": "p",
-              "text": "Celem leczenia jest przywrócenie ręce funkcji w codziennym życiu i maksymalne zmniejszenie ograniczeń związanych z bólem i utratą ruchomości."
-            }
-          ],
-          "divider": false
+          "heading": "Endoproteza anatomiczna i odwrócona (ATSA/RTSA)",
+          "body": [],
+          "divider": true
         },
         {
-          "heading": "Jaki typ endoprotezoplastyki jest potrzebny",
+          "heading": "Jaki rodzaj protezy wybrać?",
           "body": [
             {
               "type": "p",
-              "text": "W odróżnieniu od wielu innych stawów, przy endoprotezoplastyce barku szczególnie ważny jest stan mankietu rotatorów — ścięgien zapewniających stabilność i ruchy stawu barkowego."
-            },
-            {
-              "type": "p",
-              "text": "Dlatego różni pacjenci mogą wymagać zasadniczo różnych konstrukcji endoprotezy."
+              "text": "ATSA odtwarza naturalną geometrię stawu, a RTSA odwraca układ kuli i panewki, zwiększając znaczenie mięśnia naramiennego podczas unoszenia ramienia. Istotne są stożek rotatorów, panewka łopatki i jakość kości."
             }
           ],
           "divider": false,
           "diagram": "shoulder-replacement-types.jpg"
         },
         {
-          "heading": "Endoprotezoplastyka anatomiczna",
+          "heading": "Anatomiczna endoprotezoplastyka barku (ATSA)",
           "body": [
             {
               "type": "p",
-              "text": "Endoproteza anatomiczna odtwarza naturalną budowę stawu barkowego: głowa kości ramiennej zastępowana jest sztuczną głową, a panewka stawowa — odpowiednim komponentem."
-            },
-            {
-              "type": "p",
-              "text": "Taki wariant może być stosowany, gdy anatomia stawu pozwala ją odtworzyć, a mankiet rotatorów zachowuje niezbędną funkcję."
+              "text": "ATSA polega na wymianie powierzchni głowy kości ramiennej i panewki z zachowaniem naturalnych relacji. Zwykle wymaga sprawnego stożka rotatorów i dobrego podparcia kostnego. Rozległe nieodwracalne uszkodzenia ścięgien mogą ograniczać jej zastosowanie."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Endoprotezoplastyka odwrócona (rewersyjna)",
+          "heading": "Odwrócona endoprotezoplastyka barku (RTSA)",
           "body": [
             {
               "type": "p",
-              "text": "Przy endoprotezoplastyce odwróconej geometria stawu ulega zmianie: konstrukcja tworzy inną biomechanikę, która pozwala mięśniowi naramiennemu odgrywać większą rolę w unoszeniu ręki."
-            },
-            {
-              "type": "p",
-              "text": "Ten wariant może być stosowany przy wyraźnej niewydolności mankietu rotatorów, niektórych powikłanych złamaniach i ich następstwach, a także w innych sytuacjach klinicznych, gdy endoprotezoplastyka anatomiczna nie jest optymalnym rozwiązaniem."
-            },
-            {
-              "type": "p",
-              "text": "Wybór między endoprotezoplastyką anatomiczną a odwróconą nie jest determinowany samym wiekiem pacjenta, lecz stanem stawu, tkanki kostnej, mankietu rotatorów i potrzebami funkcjonalnymi."
+              "text": "W RTSA element kulisty znajduje się po stronie łopatki, a wklęsły po stronie kości ramiennej. Wskazania obejmują artropatię stożka rotatorów, nieodwracalne rozległe zerwania, wybrane przypadki pseudoporażenia, skomplikowane złamania, deformacje panewki i niektóre rewizje. Pełny zakres ruchów nie jest gwarantowany."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Indywidualne planowanie operacji",
+          "heading": "Znaczenie stożka rotatorów",
           "body": [
             {
               "type": "p",
-              "text": "Endoprotezoplastyka stawu barkowego zaczyna się od szczegółowej oceny nie tylko kości, ale całego funkcjonalnego układu barku."
-            },
-            {
-              "type": "p",
-              "text": "Przed operacją oceniane są:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "anatomia stawu barkowego",
-                "stopień zniszczenia powierzchni stawowych",
-                "stan głowy kości ramiennej i panewki stawowej",
-                "stan tkanki kostnej",
-                "funkcja mankietu rotatorów",
-                "zakres ruchu",
-                "wcześniejsze urazy i operacje"
-              ]
-            },
-            {
-              "type": "p",
-              "text": "Oprócz radiografii, w złożonych przypadkach do planowania może być wykorzystywana tomografia komputerowa, a do oceny tkanek miękkich — inne metody obrazowania zgodnie ze wskazaniami."
-            },
-            {
-              "type": "p",
-              "text": "Na podstawie tych danych ustalane są typ endoprotezy, jej parametry i taktyka chirurgiczna."
+              "text": "Mięśnie nadgrzebieniowy, podgrzebieniowy, obły mniejszy i podłopatkowy stabilizują bark. Ocenia się uszkodzenia ścięgien, retrakcję, zanik i stłuszczenie mięśni oraz funkcję mięśnia naramiennego. Sam wiek nie przesądza o wyborze."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Co jest ważne w endoprotezoplastyce stawu barkowego",
-          "body": [
-            {
-              "type": "p",
-              "text": "Wynik operacji zależy nie tylko od modelu czy producenta endoprotezy."
-            },
-            {
-              "type": "p",
-              "text": "Ważne są:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "prawidłowe ustalenie wskazań do operacji",
-                "wybór między konstrukcją anatomiczną a odwróconą",
-                "ocena stanu mankietu rotatorów",
-                "szczegółowe planowanie przedoperacyjne",
-                "prawidłowe pozycjonowanie komponentów",
-                "stabilność endoprotezy",
-                "stan i jakość tkanki kostnej",
-                "konsekwentna rehabilitacja pooperacyjna"
-              ]
-            },
-            {
-              "type": "p",
-              "text": "Celem nie jest po prostu wszczepienie endoprotezy, lecz dobór konstrukcji i strategii chirurgicznej odpowiadających konkretnej patologii i pozwalających maksymalnie przywrócić funkcję ręki."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Jak przebiega leczenie",
+          "heading": "Diagnostyka i planowanie przedoperacyjne",
           "body": [],
           "divider": true
         },
         {
-          "heading": "01 — Konsultacja i diagnostyka",
+          "heading": "Badania przed operacją",
           "body": [
             {
               "type": "p",
-              "text": "Zaczynamy od tego, co dokładnie niepokoi pacjenta: ból, ból nocny, ograniczenie ruchów, osłabienie lub niemożność uniesienia ręki."
-            },
-            {
-              "type": "p",
-              "text": "Oceniamy ruchomość i funkcję stawu barkowego, analizujemy zdjęcia rentgenowskie i wyniki innych badań."
+              "text": "Badanie kliniczne obejmuje ból, ruchy czynne i bierne, siłę mięśni i funkcję nerwów. RTG ukazuje zwyrodnienie i deformacje. TK służy ocenie wersji i nachylenia panewki oraz ubytków kości; MRI lub USG ocenia ścięgna w razie wskazań."
             }
           ],
           "divider": false
         },
         {
-          "heading": "02 — Planowanie przedoperacyjne",
+          "heading": "Planowanie 3D na podstawie TK",
           "body": [
             {
               "type": "p",
-              "text": "Oceniamy anatomię stawu, tkankę kostną i stan mankietu rotatorów. Określamy, który typ endoprotezoplastyki najlepiej odpowiada konkretnej sytuacji klinicznej."
+              "text": "W złożonej anatomii planowanie 3D na podstawie TK pozwala przeanalizować panewkę, położenie i rozmiar implantów, mocowanie, augmenty czy przeszczepy kostne. Nie gwarantuje samo w sobie lepszego wyniku klinicznego."
             }
           ],
           "divider": false
         },
         {
-          "heading": "03 — Endoprotezoplastyka",
+          "heading": "Wybór implantu",
           "body": [
             {
               "type": "p",
-              "text": "Uszkodzone struktury stawu barkowego zastępowane są komponentami endoprotezy anatomicznej lub odwróconej zgodnie z wcześniejszym planem."
+              "text": "Dobór implantu zależy od choroby, jakości kości, anatomii kości ramiennej i panewki, stożka rotatorów i wcześniejszych zabiegów. Możliwe są komponenty trzpieniowe, beztrzpieniowe, augmenty lub rozwiązania indywidualne. Najważniejsze jest stabilne mocowanie."
             }
           ],
           "divider": false
         },
         {
-          "heading": "04 — Rekonwalescencja",
+          "heading": "Jak przebiega operacja",
           "body": [
             {
               "type": "p",
-              "text": "Po operacji rozpoczyna się etapowa rekonwalescencja. Jej tempo zależy od typu endoprotezoplastyki, stanu tkanek miękkich, charakteru wcześniejszej patologii i cech operacji."
+              "text": "Operacja odbywa się w odpowiednim znieczuleniu, często z dostępu naramienno-piersiowego. Chirurg przygotowuje kości, mocuje implant, sprawdza stabilność i odtwarza tkanki miękkie zgodnie ze wskazaniami. W ATSA istotna bywa naprawa mięśnia podłopatkowego, w RTSA ustawienie glenosfery i stabilność podstawy panewkowej."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Nasze podejście",
+          "heading": "Ryzyko i oczekiwane wyniki",
           "body": [],
           "divider": true
         },
         {
-          "heading": "Najpierw — przyczyna utraty funkcji",
+          "heading": "Możliwe powikłania",
           "body": [
             {
               "type": "p",
-              "text": "Choroba zwyrodnieniowa, uszkodzenie mankietu rotatorów, powikłane złamanie i jego następstwa mogą wymagać różnej taktyki chirurgicznej. Dlatego najpierw ważne jest zrozumienie, dlaczego bark boli i utracił funkcję."
+              "text": "Możliwe powikłania to zakażenie, także skąpoobjawowe związane z Cutibacterium acnes, niestabilność, zwichnięcie, obluzowanie komponentów, złamanie okołoprotezowe, uszkodzenie nerwów, krwiak, problemy z raną, zakrzepica i sztywność."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Nie jeden typ endoprotezy dla wszystkich",
+          "heading": "Powikłania specyficzne dla ATSA i RTSA",
           "body": [
             {
               "type": "p",
-              "text": "Konstrukcje anatomiczna i odwrócona działają według różnych zasad biomechanicznych. Wybór zależy od konkretnej patologii i stanu stawu barkowego."
+              "text": "W ATSA możliwa jest niewydolność mięśnia podłopatkowego i stożka rotatorów oraz zużycie lub obluzowanie panewki. W RTSA znaczenie mają niestabilność, złamania zmęczeniowe wyrostka barkowego i grzebienia łopatki oraz scapular notching, nie zawsze powodujący dolegliwości."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Szczegółowe planowanie przedoperacyjne",
+          "heading": "Jak ograniczać ryzyko",
           "body": [
             {
               "type": "p",
-              "text": "Ocena anatomii kostnej, panewki stawowej i tkanek miękkich pozwala zaplanować typ i położenie komponentów przed operacją."
+              "text": "Ograniczanie ryzyka wymaga właściwych wskazań, leczenia chorób współistniejących i aktywnych zakażeń, dokładnego planowania, stabilnego zamocowania komponentów, profilaktyki zakażeń, rehabilitacji i kontroli. Ryzyka nie można wyeliminować całkowicie."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Od operacji do funkcji ręki",
+          "heading": "Wyniki i trwałość endoprotezy",
           "body": [
             {
               "type": "p",
-              "text": "Endoprotezoplastyka to tylko jeden z etapów leczenia. Dalsze przywracanie ruchów i funkcji wymaga prawidłowej i konsekwentnej rehabilitacji."
+              "text": "Celem jest zmniejszenie bólu i poprawa funkcji. ATSA może przywracać bardziej naturalną biomechanikę przy sprawnym stożku; RTSA poprawia unoszenie ręki mimo jego niewydolności, ale rotacja zewnętrzna może pozostać ograniczona. Implanty działają wiele lat, bez gwarantowanego okresu trwałości."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Kiedy pilnie szukać pomocy medycznej?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Gorączka z wydzieliną z rany, nagły silny ból, deformacja, utrata funkcji lub nowe znaczne zaburzenia czucia wymagają pilnej oceny. Ból w klatce piersiowej lub duszność wymagają pomocy ratunkowej."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Powrót do sprawności i rehabilitacja",
+          "body": [],
+          "divider": true
+        },
+        {
+          "heading": "Rehabilitacja po endoprotezoplastyce barku",
+          "body": [
+            {
+              "type": "p",
+              "text": "Rehabilitacja chroni gojące się tkanki i stopniowo przywraca ruch oraz kontrolę mięśni. Początkowo stosuje się temblak, a ruchy palców i nadgarstka mogą być możliwe wcześnie. Ruchy barku zależą od protokołu operacyjnego."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Etapy powrotu do sprawności",
+          "body": [
+            {
+              "type": "p",
+              "text": "Około 0–6 tygodni: ochrona tkanek i dozwolone ruchy wspomagane. 6–12 tygodni: stopniowe ruchy czynne. 3–6 miesięcy: wzmacnianie mięśni. Poprawa może trwać 6–12 miesięcy lub dłużej; terminy są orientacyjne."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Rehabilitacja po ATSA",
+          "body": [
+            {
+              "type": "p",
+              "text": "Po ATSA naprawione ścięgno mięśnia podłopatkowego wymaga ochrony. Rotacja zewnętrzna, rotacja wewnętrzna z oporem, podpieranie, podnoszenie i rozciąganie mogą być czasowo ograniczone."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Rehabilitacja po RTSA",
+          "body": [
+            {
+              "type": "p",
+              "text": "Po RTSA rehabilitacja koncentruje się na mięśniu naramiennym i kontroli łopatki. Początkowo unika się łącznego wyprostu, przywiedzenia i rotacji wewnętrznej oraz silnego podpierania się na operowanej ręce. Złamania i rewizje wymagają modyfikacji programu."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Powrót do codziennych aktywności",
+          "body": [
+            {
+              "type": "p",
+              "text": "Do samoobsługi, prowadzenia samochodu, pracy i sportu wraca się stopniowo. Prowadzenie auta wymaga kontroli ręki, zakończenia stosowania temblaka i zgody lekarza. Duże obciążenia oraz sporty kontaktowe mogą pozostać niewskazane."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Kontrole i rehabilitacja za granicą",
+          "body": [
+            {
+              "type": "p",
+              "text": "Kontrole oceniają ból, ranę, ruchy, siłę mięśni, pozycję komponentów i RTG. Osoby wracające za granicę powinny wcześniej uzgodnić rehabilitację i miejscową opiekę. Kontakt zdalny nie zastępuje niezbędnego badania osobistego."
             }
           ],
           "divider": false
@@ -1181,27 +1135,19 @@
           "divider": true
         },
         {
-          "heading": "Endoprotezoplastyka odwrócona stawu barkowego po ciężkim urazie",
+          "heading": "Odwrócona endoproteza barku po ciężkim urazie",
           "body": [
             {
+              "type": "p",
+              "text": "Ukraiński żołnierz po ciężkim urazie rozwinął zaawansowaną pourazową chorobę zwyrodnieniową barku z bólem i utratą funkcji. W Klinice Uniwersyteckiej Narodowego Uniwersytetu Medycznego im. Bohomolca ortopeda-traumatolog Maksym Baida wykonał endoprotezoplastykę odwróconą. Celem było zmniejszenie bólu i poprawa możliwości funkcjonalnych; nie podajemy niepotwierdzonych wyników odległych."
+            },
+            {
               "type": "caption",
-              "text": "Zdjęcie rentgenowskie przed operacją | Zdjęcie rentgenowskie po operacji"
+              "text": "Zdjęcia RTG przed i po operacji"
             },
             {
-              "type": "p",
-              "text": "Pacjentem jest ukraiński żołnierz z ciężkimi zmianami pourazowymi stawu barkowego i znacznym zaburzeniem funkcji ręki."
-            },
-            {
-              "type": "p",
-              "text": "Z uwzględnieniem charakteru uszkodzenia i stanu stawu barkowego wybrano endoprotezoplastykę odwróconą. Taka konstrukcja zmienia biomechanikę stawu i pozwala mięśniowi naramiennemu odgrywać większą rolę w unoszeniu ręki."
-            },
-            {
-              "type": "p",
-              "text": "W Klinice Uniwersyteckiej NMU im. O.O. Bohomolca wykonano endoprotezoplastykę odwróconą stawu barkowego w celu zmniejszenia bólu i maksymalnie możliwego przywrócenia funkcji ręki."
-            },
-            {
-              "type": "p",
-              "text": "Ten przypadek kliniczny został przedstawiony w oficjalnej publikacji Narodowego Uniwersytetu Medycznego im. O.O. Bohomolca →",
+              "type": "link",
+              "text": "Oficjalna publikacja kliniczna NMU",
               "href": "https://nmuofficial.com/news/v-universytetskij-klinitsi-provodyat-innovatsijni-hirurgichni-operatsiyi-ukrayinskym-zahysnykam/"
             }
           ],
@@ -1214,146 +1160,106 @@
           "caseAspect": "landscape"
         },
         {
-          "heading": "Najczęściej zadawane pytania",
+          "heading": "Najczęstsze pytania",
           "body": [],
           "divider": true
         },
         {
-          "heading": "Jak zrozumieć, że już potrzebna jest endoprotezoplastyka stawu barkowego?",
+          "heading": "Kiedy potrzebna jest endoproteza barku?",
           "body": [
             {
               "type": "p",
-              "text": "Decyzja podejmowana jest nie tylko na podstawie zdjęcia rentgenowskiego."
-            },
-            {
-              "type": "p",
-              "text": "Ważne jest ocenienie natężenia bólu, bólu nocnego, ruchomości, siły oraz tego, w jakim stopniu bark utrudnia korzystanie z ręki w codziennym życiu."
-            },
-            {
-              "type": "p",
-              "text": "Jeśli ból i utrata funkcji pozostają znaczne mimo przeprowadzonego leczenia, warto omówić z ortopedą dalszą taktykę chirurgiczną."
+              "text": "Przy ciężkim uszkodzeniu stawu, utrzymującym się bólu i utracie funkcji mimo odpowiedniego leczenia; decyzja jest indywidualna."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Czy można jeszcze obejść się bez operacji?",
+          "heading": "Czy chorobę zwyrodnieniową można leczyć bez operacji?",
           "body": [
             {
               "type": "p",
-              "text": "W wielu przypadkach — tak. Możliwości leczenia zachowawczego lub oszczędzającego staw zależą od przyczyny choroby i stopnia zmian strukturalnych."
-            },
-            {
-              "type": "p",
-              "text": "Zadaniem konsultacji jest ustalenie, czy możliwości innych metod leczenia są już rzeczywiście wyczerpane i czy endoprotezoplastyka jest optymalnym rozwiązaniem."
+              "text": "Leki, fizjoterapia i modyfikacja obciążenia mogą łagodzić objawy, ale nie odbudują zniszczonych powierzchni stawowych."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Czym jest endoproteza odwrócona stawu barkowego?",
+          "heading": "Endoproteza anatomiczna czy odwrócona – co lepsze?",
           "body": [
             {
               "type": "p",
-              "text": "Jest to konstrukcja, w której zmieniona jest zwykła geometria stawu barkowego. Dzięki temu zmienia się jego biomechanika, a mięsień naramienny może skuteczniej uczestniczyć w unoszeniu ręki."
-            },
-            {
-              "type": "p",
-              "text": "Jest to szczególnie ważne w przypadkach, gdy mankiet rotatorów jest znacznie uszkodzony i nie może prawidłowo pełnić swojej funkcji."
+              "text": "Nie ma jednej najlepszej metody. Decydują stożek rotatorów, panewka i charakter schorzenia."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Co jest lepsze — endoproteza anatomiczna czy odwrócona?",
+          "heading": "Jakie badania są wymagane?",
           "body": [
             {
               "type": "p",
-              "text": "To nie jest pytanie o to, „co lepsze, a co gorsze”. To dwie różne konstrukcje dla różnych sytuacji klinicznych."
-            },
-            {
-              "type": "p",
-              "text": "Wybór zależy od stanu stawu, mankietu rotatorów, tkanki kostnej, charakteru patologii i innych indywidualnych czynników."
+              "text": "Punktem wyjścia jest RTG; TK służy ocenie panewki, MRI lub USG ocenie ścięgien według wskazań."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Czy będę mógł po operacji unosić rękę?",
+          "heading": "Czy odzyskam pełny zakres ruchów ręki?",
           "body": [
             {
               "type": "p",
-              "text": "Przywrócenie możliwości unoszenia i używania ręki jest jednym z głównych zadań funkcjonalnych operacji."
-            },
-            {
-              "type": "p",
-              "text": "Ostateczny zakres ruchów zależy od wyjściowego stanu stawu, mięśni i ścięgien, typu endoprotezoplastyki oraz przebiegu rehabilitacji."
+              "text": "Poprawa jest możliwa, ale pełnego zakresu nie można obiecać, zwłaszcza rotacji zewnętrznej po RTSA."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Czy bardzo boli po operacji?",
+          "heading": "Jak silny jest ból po operacji?",
           "body": [
             {
               "type": "p",
-              "text": "Ból pooperacyjny jest spodziewany, zwłaszcza w pierwszych dniach. Do jego kontroli stosuje się kompleksowe znieczulenie."
-            },
-            {
-              "type": "p",
-              "text": "W dalszym przebiegu ból stopniowo ustępuje, ale tempo rekonwalescencji jest indywidualne."
+              "text": "Ból w pierwszych dniach jest spodziewany i leczony indywidualnie. Nagłe pogorszenie wymaga kontroli."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Jak długo ręka będzie unieruchomiona?",
+          "heading": "Jak długo trzeba nosić temblak?",
           "body": [
             {
               "type": "p",
-              "text": "Konieczność i czas stosowania ortezy lub temblaka zależą od typu operacji, stanu tkanek miękkich i cech konkretnego przypadku."
-            },
-            {
-              "type": "p",
-              "text": "Reżim ustala chirurg po operacji."
+              "text": "Często przez kilka tygodni, zależnie od zabiegu i naprawianych tkanek."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Kiedy zaczyna się usprawnianie barku?",
+          "heading": "Kiedy zaczyna się rehabilitacja?",
           "body": [
             {
               "type": "p",
-              "text": "Program rekonwalescencji ustalany jest w zależności od typu endoprotezoplastyki i stanu tkanek."
-            },
-            {
-              "type": "p",
-              "text": "U różnych pacjentów dopuszczalne ruchy i terminy ich rozszerzania mogą się istotnie różnić, dlatego nie warto przyspieszać rehabilitacji bez uzgodnienia z chirurgiem."
+              "text": "Dozwolone ruchy ręki mogą zacząć się wcześnie; ćwiczenia barku według protokołu."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Jak długo trwa rekonwalescencja?",
+          "heading": "Ile trwa powrót do sprawności?",
           "body": [
             {
               "type": "p",
-              "text": "Przywracanie funkcji barku przebiega stopniowo przez kilka miesięcy. Tempo zależy od wyjściowej patologii, typu operacji, stanu mięśni i ścięgien oraz indywidualnej reakcji na rehabilitację."
+              "text": "Przez kilka miesięcy, czasem 6–12 miesięcy lub dłużej."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Czy po endoprotezoplastyce można uprawiać sport?",
+          "heading": "Czy można wrócić do sportu?",
           "body": [
             {
               "type": "p",
-              "text": "Po zakończeniu głównego okresu rekonwalescencji część obciążeń fizycznych może być dostępna."
-            },
-            {
-              "type": "p",
-              "text": "Dopuszczalny poziom aktywności zależy od typu endoprotezy, funkcji barku i charakteru konkretnej dyscypliny sportowej i ustalany jest indywidualnie."
+              "text": "Wybrane aktywności są możliwe, ale duże obciążenia i sporty kontaktowe mogą być niewskazane."
             }
           ],
           "divider": false
@@ -1363,7 +1269,17 @@
           "body": [
             {
               "type": "p",
-              "text": "Nowoczesne endoprotezy barku są przeznaczone do długotrwałego funkcjonowania. Okres eksploatacji zależy od konstrukcji, jakości tkanki kostnej, precyzji wszczepienia, poziomu obciążenia i innych indywidualnych czynników."
+              "text": "Implant może służyć wiele lat bez gwarancji konkretnego czasu. Ważne są kontrole."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Czy możliwa jest konsultacja z zagranicy?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Możliwa jest wstępna analiza dokumentacji zdalnie; ostateczna decyzja wymaga badania osobistego."
             }
           ],
           "divider": false
@@ -1373,11 +1289,7 @@
           "body": [
             {
               "type": "p",
-              "text": "Jeśli ból barku przeszkadza w spaniu, unoszeniu ręki lub wykonywaniu zwykłych codziennych czynności, podczas konsultacji będziemy mogli ustalić przyczynę utraty funkcji, ocenić wyniki badań i możliwe warianty leczenia."
-            },
-            {
-              "type": "p",
-              "text": "Endoprotezoplastyka nie jest potrzebna każdemu pacjentowi z bólem lub chorobą zwyrodnieniową stawu barkowego. Naszym zadaniem jest ustalenie, czy operacja jest potrzebna i jaka metoda leczenia będzie optymalna właśnie w Twojej sytuacji."
+              "text": "Dr Maksym Baida ocenia objawy, badania obrazowe, stożek rotatorów i dostępne metody leczenia. Nie każdy bolesny bark wymaga endoprotezy. Pacjenci z Kijowa, całej Ukrainy i zagranicy mogą umówić konsultację."
             }
           ],
           "divider": false
