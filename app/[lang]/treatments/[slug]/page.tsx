@@ -27,8 +27,14 @@ export async function generateMetadata({
   const dict = getDictionary(lang);
   const article = getDirections(lang).articles[slug];
   if (!article) return {};
-  if (slug === "knee-replacement" && lang === "uk") {
-    return { title: "Ендопротезування колінного суглоба в Києві | Максим Байда", description: "Заміна колінного суглоба при гонартрозі: тотальне та часткове ендопротезування, субвастус-доступ, ризики, реабілітація, вартість і консультація ортопеда.", alternates: localizedAlternates(lang, `treatments/${slug}`) };
+  if (slug === "knee-replacement") {
+    const meta: Record<string, {title: string; description: string}> = {
+      uk: {title: "Ендопротезування колінного суглоба в Києві | Максим Байда", description: "Заміна колінного суглоба при гонартрозі: тотальне та часткове ендопротезування, субвастус-доступ, ризики, реабілітація, вартість і консультація ортопеда."},
+      en: {title: "Knee Replacement Surgery in Ukraine | Dr Maksym Baida", description: "Total and partial knee replacement for osteoarthritis. Subvastus surgical approach, individual planning, rehabilitation and orthopaedic consultation in Ukraine."},
+      de: {title: "Knie-TEP & Knieprothese in der Ukraine | Dr Baida", description: "Kniegelenkersatz bei Gonarthrose: Teilprothese, Knie-TEP, Subvastus-Zugang, individuelle Planung, Rehabilitation und Beratung in der Ukraine."},
+      pl: {title: "Endoproteza kolana na Ukrainie | Dr Maksym Baida", description: "Endoprotezoplastyka kolana przy gonartrozie: całkowita i częściowa wymiana stawu, dostęp subvastus, rehabilitacja i konsultacja ortopedyczna."}
+    };
+    return {...meta[lang], alternates: localizedAlternates(lang, `treatments/${slug}`)};
   }
   if (slug === "hip-replacement") {
     const meta: Record<string, { title: string; description: string }> = {
