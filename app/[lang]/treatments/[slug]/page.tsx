@@ -11,6 +11,7 @@ import HalluxInternationalUk from "@/components/HalluxInternationalUk";
 import ShoulderInternationalUk from "@/components/ShoulderInternationalUk";
 import HipInternationalUk from "@/components/HipInternationalUk";
 import KneeInternationalUk from "@/components/KneeInternationalUk";
+import ArthroplastyInternational from "@/components/ArthroplastyInternational";
 import HalluxInternational from "@/components/HalluxInternational";
 import { getDirections, type Article, type Block } from "@/app/directions";
 
@@ -416,6 +417,7 @@ function RichDetail({
           {slug === "shoulder-replacement" && lang === "uk" && <ShoulderInternationalUk />}
           {slug === "hip-replacement" && lang === "uk" && <HipInternationalUk />}
           {slug === "knee-replacement" && lang === "uk" && <KneeInternationalUk />}
+          {(slug === "hip-replacement" || slug === "knee-replacement") && lang !== "uk" && <ArthroplastyInternational lang={lang} joint={slug === "hip-replacement" ? "hip" : "knee"} />}
 
           <div className="mt-14 pt-10 border-t border-hairline">
             <a
