@@ -27,6 +27,9 @@ export async function generateMetadata({
   const dict = getDictionary(lang);
   const article = getDirections(lang).articles[slug];
   if (!article) return {};
+  if (slug === "knee-replacement" && lang === "uk") {
+    return { title: "Ендопротезування колінного суглоба в Києві | Максим Байда", description: "Заміна колінного суглоба при гонартрозі: тотальне та часткове ендопротезування, субвастус-доступ, ризики, реабілітація, вартість і консультація ортопеда.", alternates: localizedAlternates(lang, `treatments/${slug}`) };
+  }
   if (slug === "hip-replacement") {
     const meta: Record<string, { title: string; description: string }> = {
       uk: { title: "Ендопротезування кульшового суглоба в Києві | Максим Байда", description: "Заміна кульшового (тазостегнового) суглоба при коксартрозі, асептичному некрозі та наслідках травм. Операція, реабілітація та консультація ортопеда в Києві." },
@@ -66,11 +69,11 @@ export default async function TreatmentDetail({
 
   const article = getDirections(loc).articles[slug];
   if (!article) notFound();
-  const schema = slug === "hip-replacement" ? {
+  const schema = (slug === "hip-replacement" || slug === "knee-replacement") ? {
     "@context": "https://schema.org",
     "@type": "MedicalWebPage",
-    "@id": `https://travmatolog.in.ua/${loc}/treatments/hip-replacement/#medicalwebpage`,
-    url: `https://travmatolog.in.ua/${loc}/treatments/hip-replacement/`,
+    "@id": `https://travmatolog.in.ua/${loc}/treatments/${slug}/#medicalwebpage`,
+    url: `https://travmatolog.in.ua/${loc}/treatments/${slug}/`,
     name: article.title,
     description: article.lead,
     inLanguage: loc === "uk" ? "uk-UA" : loc === "en" ? "en" : loc === "de" ? "de-DE" : "pl-PL",
@@ -200,13 +203,22 @@ function RichDetail({
 }) {
   const t = dict.treatments;
   const isTha = slug === "hip-replacement";
+  const isRich = isTha || slug === "knee-replacement";
   const imageDescriptions: Record<Locale, Record<string, string>> = {
     uk: { "hip-replacement-planning.jpg": "Інфографіка планування ендопротезування кульшового суглоба: положення компонентів, центр ротації та довжина кінцівки", "hip-replacement-access.jpg": "Анатомічна ілюстрація прямого переднього доступу до кульшового суглоба", "hip-replacement-case-after.jpg": "Післяопераційна рентгенограма кульшового суглоба після ендопротезування" },
     en: { "hip-replacement-planning.jpg": "Total hip replacement planning diagram with component position, hip centre and leg length", "hip-replacement-access.jpg": "Anatomical illustration of the direct anterior approach to the hip", "hip-replacement-case-after.jpg": "Postoperative hip replacement radiograph" },
     de: { "hip-replacement-planning.jpg": "Planung der Hüft-TEP mit Komponentenposition, Drehzentrum und Beinlänge", "hip-replacement-access.jpg": "Anatomische Darstellung des direkten vorderen Zugangs zur Hüfte", "hip-replacement-case-after.jpg": "Postoperatives Röntgenbild nach Hüftendoprothese" },
     pl: { "hip-replacement-planning.jpg": "Schemat planowania endoprotezoplastyki biodra: położenie implantów, środek obrotu i długość kończyny", "hip-replacement-access.jpg": "Ilustracja anatomiczna bezpośredniego dostępu przedniego do biodra", "hip-replacement-case-after.jpg": "Pooperacyjne zdjęcie RTG po endoprotezoplastyce stawu biodrowego" },
   };
-  const imageAlt = (file: string) => isTha ? (imageDescriptions[lang][file] ?? article.title) : "";
+  const imageAlt = (file: string) => slug === "knee-replacement" ? ({
+    "knee-replacement-diagram.jpg": "Схема ендопротеза колінного суглоба",
+    "knee-replacement-what.jpg": "Анатомічна схема коліна й ендопротезування",
+    "knee-replacement-case-before1.jpg": "Рентгенограма колінних суглобів при гонартрозі",
+    "knee-replacement-case-before2.jpg": "Доопераційна рентгенограма при гонартрозі та деформації коліна",
+    "knee-replacement-case-before3.jpg": "Панорамна рентгенограма нижніх кінцівок для оцінки механічної осі",
+    "knee-replacement-case-after1.jpg": "Рентгенограма колінного ендопротеза у прямій проєкції",
+    "knee-replacement-case-after2.jpg": "Рентгенограма колінного ендопротеза у бічній проєкції",
+  }[file] ?? article.title) : isTha ? (imageDescriptions[lang][file] ?? article.title) : "";
 
   const related: Record<Locale, { heading: string; links: { slug: string; label: string }[] }> = {
     uk: { heading: "Пов’язані напрямки лікування", links: [{ slug: "avn", label: "Асептичний некроз головки стегнової кістки" }, { slug: "revision-arthroplasty", label: "Ревізійне ендопротезування" }] },
@@ -260,6 +272,7 @@ function RichDetail({
               <div className="min-w-0">
                 <ImageLightbox
                   images={article.gallery.map((img) => `${BASE}/directions/${localizedTreatmentImage(img, slug, lang)}`)}
+                  altTexts={article.gallery.map(imageAlt)}
                   className={`grid gap-3 ${article.gallery.length > 1 ? "grid-cols-2" : "grid-cols-1"}`}
                   aspect="aspect-[3/2]"
                   fit="contain"
@@ -312,10 +325,10 @@ function RichDetail({
               }
 
               const block = group.block;
-              const caseLayout = slug === "hip-replacement" && !!block.caseImages?.length;
+              const caseLayout = isRich && !!block.caseImages?.length;
               return (
                 <div key={i} className="mt-6 rounded-[8px] border border-hairline bg-cream/60 p-6 lg:p-7">
-                  {block.heading && (isTha ? <h2 className="font-sans font-medium text-ink text-lg mb-3">{block.heading}</h2> : <h3 className="font-sans font-medium text-ink text-lg mb-3">{block.heading}</h3>)}
+                  {block.heading && (isRich ? <h2 className="font-sans font-medium text-ink text-lg mb-3">{block.heading}</h2> : <h3 className="font-sans font-medium text-ink text-lg mb-3">{block.heading}</h3>)}
                   {caseLayout ? (
                     <div className="grid grid-cols-1 lg:grid-cols-2 gap-7 lg:gap-10 items-start">
                       <div className="min-w-0">
