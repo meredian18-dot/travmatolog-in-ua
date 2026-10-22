@@ -891,286 +891,240 @@
       ]
     },
     "shoulder-replacement": {
-      "title": "Shoulder Replacement",
-      "lead": "Modern surgical treatment to reduce pain, restore arm mobility, and return to everyday activity.",
-      "intro": "When shoulder pain has become constant, interferes with sleep, raising your arm, getting dressed, or performing everyday tasks, and conservative treatment no longer provides sufficient relief, shoulder replacement may be one of the treatment options.",
+      "title": "Shoulder Replacement (Anatomic and Reverse Arthroplasty)",
+      "lead": "Anatomic and reverse shoulder replacement (ATSA/RTSA): indications, planning, surgery, risks and rehabilitation.",
+      "intro": "Shoulder replacement may be an option when persistent pain and impaired arm function do not improve sufficiently with appropriate non-surgical treatment. Implant selection is individual and depends on the rotator cuff, bone anatomy and functional needs.",
       "hero": "shoulder-replacement-hero.jpg",
       "gallery": [],
       "blocks": [
         {
-          "heading": "When shoulder replacement becomes necessary",
+          "heading": "When is shoulder replacement indicated?",
           "body": [
             {
               "type": "p",
-              "text": "The shoulder joint provides a wide range of arm motion, so significant damage to it can substantially affect even simple everyday tasks."
-            },
-            {
-              "type": "p",
-              "text": "In osteoarthritis, the aftermath of complex fractures, avascular necrosis, and some other conditions, pain, stiffness, and loss of function develop gradually."
-            },
-            {
-              "type": "p",
-              "text": "A separate group of patients are those with significant damage to the rotator cuff tendons. In these cases, the problem may lie not only in the joint surfaces, but also in the loss of the shoulder's normal working mechanism."
-            },
-            {
-              "type": "p",
-              "text": "When conservative or joint-preserving treatment options no longer provide adequate pain control and functional recovery, shoulder replacement may be considered."
+              "text": "Shoulder replacement is considered for severe glenohumeral osteoarthritis, cuff tear arthropathy, selected complex proximal humerus fractures, post-traumatic arthritis, humeral head osteonecrosis and selected inflammatory conditions. Surgery is not automatically necessary for an isolated cuff tear."
             }
           ],
           "divider": false,
           "diagram": "shoulder-replacement-cuff.jpg"
         },
         {
-          "heading": "When it's time to see a specialist",
+          "heading": "When should you see an orthopaedic specialist?",
           "body": [
             {
-              "type": "list",
-              "items": [
-                "constant or progressive shoulder pain",
-                "night pain that interferes with sleep",
-                "raising the arm has become difficult",
-                "difficulty getting dressed, brushing your hair, or performing hygiene tasks",
-                "shoulder range of motion has significantly decreased",
-                "the arm has lost strength and function",
-                "there is a history of a proximal humerus fracture",
-                "advanced shoulder osteoarthritis has been diagnosed",
-                "previous treatment no longer provides adequate results"
-              ]
+              "type": "p",
+              "text": "Consult if pain is persistent, particularly at night, arm elevation or self-care is difficult, or movement and strength deteriorate despite treatment. Clinical symptoms and imaging inform the decision."
             }
           ],
           "divider": false
         },
         {
-          "heading": "What can change after surgery",
-          "body": [
-            {
-              "type": "p",
-              "text": "The main goal of shoulder replacement is not simply to replace damaged structures, but to reduce pain and restore as much arm function as possible."
-            },
-            {
-              "type": "p",
-              "text": "After surgery and an appropriate recovery period, shoulder replacement can help:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "significantly reduce shoulder pain",
-                "reduce or eliminate night pain",
-                "improve arm mobility",
-                "make self-care and everyday tasks easier",
-                "improve the ability to raise and use the arm",
-                "gradually return to familiar everyday activity"
-              ]
-            },
-            {
-              "type": "p",
-              "text": "The goal of treatment is to make the arm functional again in everyday life and reduce as much as possible the limitations caused by pain and loss of mobility."
-            }
-          ],
-          "divider": false
+          "heading": "Anatomic and reverse shoulder replacement (ATSA/RTSA)",
+          "body": [],
+          "divider": true
         },
         {
-          "heading": "Which type of replacement is needed",
+          "heading": "Which implant is appropriate?",
           "body": [
             {
               "type": "p",
-              "text": "Unlike many other joints, the condition of the rotator cuff — the tendons that provide shoulder stability and movement — is especially important in shoulder replacement."
-            },
-            {
-              "type": "p",
-              "text": "This is why fundamentally different implant designs may be needed for different patients."
+              "text": "ATSA restores near-natural joint geometry; RTSA reverses the ball-and-socket configuration to enable the deltoid to contribute more effectively to arm elevation. Rotator cuff function, glenoid bone stock and patient needs guide the selection."
             }
           ],
           "divider": false,
           "diagram": "shoulder-replacement-types.jpg"
         },
         {
-          "heading": "Anatomic shoulder replacement",
+          "heading": "Anatomic total shoulder arthroplasty (ATSA)",
           "body": [
             {
               "type": "p",
-              "text": "An anatomic implant reproduces the shoulder's natural structure: the head of the humerus is replaced with an artificial head, and the glenoid is replaced with a matching component."
-            },
-            {
-              "type": "p",
-              "text": "This option may be used when the joint's anatomy allows it to be restored and the rotator cuff retains the necessary function."
+              "text": "ATSA replaces the humeral head and glenoid articular surface while retaining anatomical relationships. It generally requires an adequately functioning rotator cuff and stable bone support. Massive irreparable cuff damage may limit its suitability."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Reverse shoulder replacement",
+          "heading": "Reverse total shoulder arthroplasty (RTSA)",
           "body": [
             {
               "type": "p",
-              "text": "In reverse shoulder replacement, the joint's geometry is changed: the design creates a different biomechanics that allows the deltoid muscle to play a greater role in raising the arm."
-            },
-            {
-              "type": "p",
-              "text": "This option may be used for significant rotator cuff insufficiency, certain complex fractures and their aftermath, and other clinical situations where anatomic replacement is not the optimal solution."
-            },
-            {
-              "type": "p",
-              "text": "The choice between anatomic and reverse replacement is determined not by the patient's age alone, but by the condition of the joint, bone quality, the rotator cuff, and functional needs."
+              "text": "RTSA attaches the spherical component to the glenoid and the concave socket to the humerus. Indications include cuff tear arthropathy, painful irreparable cuff tears, selected pseudoparalysis, complex fractures, major glenoid deformity and some revisions. Full motion, especially external rotation, cannot be promised."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Individualized surgical planning",
+          "heading": "The importance of the rotator cuff",
           "body": [
             {
               "type": "p",
-              "text": "Shoulder replacement begins with a detailed assessment not only of the bones, but of the entire functional shoulder system."
-            },
-            {
-              "type": "p",
-              "text": "Before surgery, we assess:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "shoulder joint anatomy",
-                "the degree of joint surface damage",
-                "the condition of the humeral head and glenoid",
-                "bone quality",
-                "rotator cuff function",
-                "range of motion",
-                "previous injuries and operations"
-              ]
-            },
-            {
-              "type": "p",
-              "text": "In addition to X-rays, CT imaging may be used for planning in complex cases, and other imaging methods for assessing soft tissue as indicated."
-            },
-            {
-              "type": "p",
-              "text": "Based on this data, we determine the type of implant, its parameters, and the surgical approach."
+              "text": "The supraspinatus, infraspinatus, teres minor and subscapularis stabilise the shoulder. Evaluation covers tendon integrity, retraction, atrophy, fatty degeneration and deltoid function. Age alone does not determine ATSA versus RTSA."
             }
           ],
           "divider": false
         },
         {
-          "heading": "What matters most in shoulder replacement",
-          "body": [
-            {
-              "type": "p",
-              "text": "The outcome of the operation does not depend on the implant model or manufacturer alone."
-            },
-            {
-              "type": "p",
-              "text": "What matters most:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "correctly determining the indications for surgery",
-                "choosing between an anatomic and a reverse design",
-                "assessing the condition of the rotator cuff",
-                "detailed preoperative planning",
-                "correct positioning of the components",
-                "implant stability",
-                "bone condition and quality",
-                "consistent postoperative recovery"
-              ]
-            },
-            {
-              "type": "p",
-              "text": "The goal is not simply to place an implant, but to choose the design and surgical strategy that match the specific condition and allow the greatest possible recovery of arm function."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "How treatment proceeds",
+          "heading": "Preoperative assessment and planning",
           "body": [],
           "divider": true
         },
         {
-          "heading": "01 — Consultation and diagnosis",
+          "heading": "Investigations before surgery",
           "body": [
             {
               "type": "p",
-              "text": "We start with what is troubling the patient: pain, night pain, restricted movement, weakness, or an inability to raise the arm."
-            },
-            {
-              "type": "p",
-              "text": "We assess shoulder mobility and function, and review X-rays and the results of other studies."
+              "text": "Examination assesses pain, active and passive movement, cuff strength, deltoid and nerve function. Radiographs assess arthritis, deformity and prior injuries. CT provides detail on glenoid version, inclination, erosion and bone defects. MRI or ultrasound may be used for tendons and muscles."
             }
           ],
           "divider": false
         },
         {
-          "heading": "02 — Preoperative planning",
+          "heading": "CT-based 3D planning",
           "body": [
             {
               "type": "p",
-              "text": "We assess joint anatomy, bone quality, and the condition of the rotator cuff. We determine which type of shoulder replacement best fits the specific clinical situation."
+              "text": "In complex anatomy, CT-based three-dimensional planning helps evaluate glenoid shape, implant size and orientation, fixation, potential bone grafts, augments or patient-specific guides. This does not guarantee improved clinical results."
             }
           ],
           "divider": false
         },
         {
-          "heading": "03 — Shoulder replacement",
+          "heading": "Implant selection",
           "body": [
             {
               "type": "p",
-              "text": "The damaged structures of the shoulder joint are replaced with components of an anatomic or reverse implant according to the preoperative plan."
+              "text": "Implant selection considers cuff function, bone quality, humeral and glenoid anatomy, defects and prior operations. Stemmed, stemless and augmented components may be appropriate in different cases; stable fixation is more important than brand."
             }
           ],
           "divider": false
         },
         {
-          "heading": "04 — Recovery",
+          "heading": "How the operation is performed",
           "body": [
             {
               "type": "p",
-              "text": "After surgery, a staged recovery process begins. Its pace depends on the type of replacement, the condition of the soft tissues, the nature of the underlying condition, and the specifics of the operation."
+              "text": "Surgery is performed with appropriate anaesthesia, commonly through a deltopectoral approach. Components are prepared, positioned and tested for stability. Subscapularis repair may matter in ATSA; glenosphere placement, baseplate fixation and soft-tissue balance matter in RTSA."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Our approach",
+          "heading": "Risks and expected results",
           "body": [],
           "divider": true
         },
         {
-          "heading": "First — the cause of lost function",
+          "heading": "Possible complications",
           "body": [
             {
               "type": "p",
-              "text": "Osteoarthritis, rotator cuff damage, and a complex fracture and its aftermath can each require a different surgical approach. That's why it's important, first of all, to understand why the shoulder hurts and has lost function."
+              "text": "Potential complications include infection (including indolent Cutibacterium acnes infection), instability or dislocation, component loosening, periprosthetic fracture, nerve injury, haematoma, wound problems, thromboembolism and stiffness."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Not one implant type for everyone",
+          "heading": "Complications specific to ATSA and RTSA",
           "body": [
             {
               "type": "p",
-              "text": "Anatomic and reverse designs work on different biomechanical principles. The choice is determined by the specific condition and the state of the shoulder joint."
+              "text": "ATSA-specific concerns include subscapularis or other rotator cuff failure and glenoid wear or loosening. RTSA-specific issues include instability, acromial or scapular spine stress fractures and scapular notching, which does not always cause symptoms."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Detailed preoperative planning",
+          "heading": "Reducing surgical risks",
           "body": [
             {
               "type": "p",
-              "text": "Assessing bone anatomy, the glenoid, and soft tissues allows us to plan the implant type and component position before surgery."
+              "text": "Risk reduction involves correct indications, management of comorbidities and active infections, surgical planning, component fixation, infection prevention, individual rehabilitation and follow-up. Risks cannot be completely removed."
             }
           ],
           "divider": false
         },
         {
-          "heading": "From surgery to arm function",
+          "heading": "Expected outcomes and implant longevity",
           "body": [
             {
               "type": "p",
-              "text": "Shoulder replacement is only one stage of treatment. Further recovery of movement and function requires proper, consistent rehabilitation."
+              "text": "Pain relief and improved function are primary goals. ATSA can preserve near-natural mechanics with a competent cuff; RTSA may improve elevation with cuff deficiency but external rotation may stay restricted. Implants can last many years without a guaranteed lifespan."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "When to seek emergency care",
+          "body": [
+            {
+              "type": "p",
+              "text": "Seek urgent advice for fever and wound drainage, sudden severe pain or deformity, abrupt functional decline or new marked numbness. Chest pain or significant shortness of breath requires emergency care."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Recovery and rehabilitation",
+          "body": [],
+          "divider": true
+        },
+        {
+          "heading": "Rehabilitation after shoulder replacement",
+          "body": [
+            {
+              "type": "p",
+              "text": "Recovery protects healing tissues and gradually restores arm control. A sling may be used initially, with hand and wrist movement early and shoulder exercise only as allowed by the surgical protocol."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Stages of recovery",
+          "body": [
+            {
+              "type": "p",
+              "text": "Approximately 0–6 weeks: tissue protection and allowed assisted movement. At 6–12 weeks: progressive active movement. At 3–6 months: gradual muscle strengthening. Functional improvements may continue for 6–12 months or longer; timelines are individual."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Rehabilitation after ATSA",
+          "body": [
+            {
+              "type": "p",
+              "text": "Following ATSA, a repaired subscapularis may require restrictions on external rotation, resisted internal rotation, pushing, lifting and stretching during early healing."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Rehabilitation after RTSA",
+          "body": [
+            {
+              "type": "p",
+              "text": "Following RTSA, rehabilitation focuses on deltoid and scapular control. Early combined extension, adduction and internal rotation or pushing up from a chair may risk instability. Fracture and revision cases often require modified protocols."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Returning to everyday activities",
+          "body": [
+            {
+              "type": "p",
+              "text": "Return to self-care, driving, work and sport is gradual. Driving requires adequate control, no sling and clinician approval. Heavy lifting, contact sports and high-impact activity may remain unsuitable."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Follow-up and recovery abroad",
+          "body": [
+            {
+              "type": "p",
+              "text": "Review pain, wound, motion, strength, component position and radiographs at follow-up. Patients returning abroad should arrange local rehabilitation and visits before surgery; remote advice cannot replace in-person care."
             }
           ],
           "divider": false
@@ -1181,27 +1135,19 @@
           "divider": true
         },
         {
-          "heading": "Reverse shoulder replacement after severe trauma",
+          "heading": "Reverse shoulder replacement following severe trauma",
           "body": [
             {
+              "type": "p",
+              "text": "An Ukrainian serviceman experienced severe post-traumatic shoulder arthritis with persistent pain and functional loss. Reverse shoulder replacement was performed at Bogomolets National Medical University University Clinic by orthopaedic trauma surgeon Maksym Baida. Its purpose was pain relief and improved potential function; no unverified individual long-term result is claimed."
+            },
+            {
               "type": "caption",
-              "text": "X-ray before surgery | X-ray after surgery"
+              "text": "Preoperative and postoperative radiographs"
             },
             {
-              "type": "p",
-              "text": "The patient is a Ukrainian service member with severe post-traumatic changes in the shoulder joint and significant loss of arm function."
-            },
-            {
-              "type": "p",
-              "text": "Given the nature of the injury and the condition of the shoulder joint, reverse shoulder replacement was chosen. This design changes the joint's biomechanics and allows the deltoid muscle to play a greater role in raising the arm."
-            },
-            {
-              "type": "p",
-              "text": "At the O.O. Bohomolets National Medical University Clinic, reverse shoulder replacement was performed with the goal of reducing pain and restoring as much arm function as possible."
-            },
-            {
-              "type": "p",
-              "text": "This clinical case is featured in an official publication by the O.O. Bohomolets National Medical University →",
+              "type": "link",
+              "text": "Official NMU clinical case publication",
               "href": "https://nmuofficial.com/news/v-universytetskij-klinitsi-provodyat-innovatsijni-hirurgichni-operatsiyi-ukrayinskym-zahysnykam/"
             }
           ],
@@ -1219,117 +1165,81 @@
           "divider": true
         },
         {
-          "heading": "How do I know shoulder replacement is already needed?",
+          "heading": "When is shoulder replacement necessary?",
           "body": [
             {
               "type": "p",
-              "text": "The decision is not made from an X-ray alone."
-            },
-            {
-              "type": "p",
-              "text": "It's important to assess pain intensity, night pain, mobility, strength, and how much the shoulder is interfering with using your arm in everyday life."
-            },
-            {
-              "type": "p",
-              "text": "If pain and loss of function remain significant despite treatment, it's worth discussing next surgical steps with an orthopedic surgeon."
+              "text": "When marked joint damage causes persistent pain and impaired function despite appropriate treatment; assessment is individual."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Is it still possible to avoid surgery?",
+          "heading": "Can arthritis be managed without surgery?",
           "body": [
             {
               "type": "p",
-              "text": "In many cases, yes. The options for conservative or joint-preserving treatment depend on the cause of the condition and the degree of structural change."
-            },
-            {
-              "type": "p",
-              "text": "The purpose of a consultation is to determine whether other treatment options have genuinely been exhausted and whether shoulder replacement is the optimal solution."
+              "text": "Medication, exercise and activity adjustment can help symptoms in some patients, but cannot restore severely damaged articular surfaces."
             }
           ],
           "divider": false
         },
         {
-          "heading": "What is a reverse shoulder implant?",
+          "heading": "Anatomic or reverse shoulder replacement: which is better?",
           "body": [
             {
               "type": "p",
-              "text": "This is a design in which the shoulder's usual geometry is altered. As a result, its biomechanics change, and the deltoid muscle can more effectively help raise the arm."
-            },
-            {
-              "type": "p",
-              "text": "This is especially important in cases where the rotator cuff is significantly damaged and cannot perform its function normally."
+              "text": "Neither is universally superior. Rotator cuff function, glenoid anatomy and the underlying condition determine the choice."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Which is better — anatomic or reverse implant?",
+          "heading": "What investigations are needed?",
           "body": [
             {
               "type": "p",
-              "text": "This isn't a matter of \"better or worse.\" These are two different designs for different clinical situations."
-            },
-            {
-              "type": "p",
-              "text": "The choice depends on the condition of the joint, the rotator cuff, bone quality, the nature of the pathology, and other individual factors."
+              "text": "X-rays are essential; CT assesses glenoid anatomy and MRI or ultrasound may evaluate tendons when indicated."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Will I be able to raise my arm after surgery?",
+          "heading": "Will I regain full arm movement?",
           "body": [
             {
               "type": "p",
-              "text": "Restoring the ability to raise and use the arm is one of the main functional goals of the operation."
-            },
-            {
-              "type": "p",
-              "text": "The final range of motion depends on the initial condition of the joint, muscles, and tendons, the type of replacement, and the course of rehabilitation."
+              "text": "Improvement is possible but normal shoulder motion cannot be guaranteed, particularly external rotation after RTSA."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Does it hurt a lot after surgery?",
+          "heading": "How painful is recovery?",
           "body": [
             {
               "type": "p",
-              "text": "Postoperative pain is expected, especially in the first few days. It is managed with a comprehensive pain control protocol."
-            },
-            {
-              "type": "p",
-              "text": "Afterward, pain gradually decreases, but the pace of recovery varies from patient to patient."
+              "text": "Pain is expected initially and treated with an individual pain-control plan; unexpected worsening warrants review."
             }
           ],
           "divider": false
         },
         {
-          "heading": "How long will my arm be in a sling?",
+          "heading": "How long must I wear a sling?",
           "body": [
             {
               "type": "p",
-              "text": "The need for and duration of a brace or sling depend on the type of operation, the condition of the soft tissues, and the specifics of the individual case."
-            },
-            {
-              "type": "p",
-              "text": "The regimen is determined by the surgeon after the operation."
+              "text": "Often several weeks, depending on the operation and repaired tissues. Follow your surgeon's protocol."
             }
           ],
           "divider": false
         },
         {
-          "heading": "When does shoulder rehabilitation start?",
+          "heading": "When does rehabilitation start?",
           "body": [
             {
               "type": "p",
-              "text": "The recovery program is determined by the type of replacement and the condition of the tissues."
-            },
-            {
-              "type": "p",
-              "text": "The permitted movements and the timeline for expanding them can vary significantly between patients, so rehabilitation should never be rushed without the surgeon's guidance."
+              "text": "Hand and permitted elbow movements start early; shoulder movement follows individual instructions."
             }
           ],
           "divider": false
@@ -1339,21 +1249,17 @@
           "body": [
             {
               "type": "p",
-              "text": "Recovery of shoulder function happens gradually over several months. The pace depends on the underlying condition, the type of operation, the state of the muscles and tendons, and how the individual responds to rehabilitation."
+              "text": "Recovery continues over months, sometimes 6–12 months or longer."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Can I do sports after shoulder replacement?",
+          "heading": "Can I return to sport?",
           "body": [
             {
               "type": "p",
-              "text": "Once the main recovery period is complete, some physical activities may become available."
-            },
-            {
-              "type": "p",
-              "text": "The acceptable level of activity depends on the type of implant, shoulder function, and the nature of the specific sport, and is determined on an individual basis."
+              "text": "Some activities can resume after rehabilitation; heavy or contact sports may be discouraged."
             }
           ],
           "divider": false
@@ -1363,7 +1269,17 @@
           "body": [
             {
               "type": "p",
-              "text": "Modern shoulder implants are designed for long-term function. Their lifespan depends on the design, bone quality, precision of placement, activity level, and other individual factors."
+              "text": "It can function many years, but no individual lifespan is guaranteed. Regular reviews matter."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Can I consult from abroad?",
+          "body": [
+            {
+              "type": "p",
+              "text": "An initial remote review of medical documents may be possible, but definitive decisions need an appropriate clinical examination."
             }
           ],
           "divider": false
@@ -1373,11 +1289,7 @@
           "body": [
             {
               "type": "p",
-              "text": "If shoulder pain is interfering with sleep, raising your arm, or performing everyday tasks, during a consultation we can identify the cause of lost function, review your test results, and discuss possible treatment options."
-            },
-            {
-              "type": "p",
-              "text": "Not every patient with shoulder pain or osteoarthritis needs a joint replacement. Our task is to determine whether surgery is needed and which treatment approach will be optimal for your specific situation."
+              "text": "Dr Maksym Baida assesses shoulder symptoms, imaging, rotator cuff and treatment options. Not every painful shoulder requires replacement. Patients from Kyiv, other regions and abroad may request a consultation."
             }
           ],
           "divider": false
