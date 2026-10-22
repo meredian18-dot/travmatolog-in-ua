@@ -283,24 +283,6 @@
           "caseAspect": "landscape"
         },
         {
-          "heading": "Consultations for international patients",
-          "body": [
-            {
-              "type": "p",
-              "text": "Patients living abroad may request an initial remote review of X-rays, reports and medical history. Definitive surgical planning requires an in-person clinical assessment. Treatment arrangements in Kyiv or in safer western regions of Ukraine may be discussed individually."
-            },
-            {
-              "type": "p",
-              "text": "For an initial remote review, please prepare recent X-rays, reports, a brief medical history and a summary of previous treatment."
-            },
-            {
-              "type": "p",
-              "text": "After reviewing the records, we can discuss additional tests, an in-person consultation and practical arrangements. Remote assessment does not replace a clinical examination."
-            }
-          ],
-          "divider": false
-        },
-        {
           "heading": "Frequently asked questions",
           "body": [],
           "divider": true
@@ -683,20 +665,6 @@
             {
               "type": "p",
               "text": "A preliminary estimate may be provided after a review of available documents; the final quotation follows an examination and an agreed treatment plan. We do not publish an unverified universal price."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Patients from Kyiv, Ukraine and abroad",
-          "body": [
-            {
-              "type": "p",
-              "text": "Consultations and surgery are possible in Kyiv. Patients elsewhere in Ukraine and Ukrainians living in Poland, Germany, Czechia or other countries may request a preliminary remote review. It helps to provide symptoms, previous treatment, medical conditions, reports and original digital weight-bearing X-rays; standing alignment images if available."
-            },
-            {
-              "type": "p",
-              "text": "Remote review can inform next steps but cannot replace an in-person assessment or confirm an operative indication. Depending on clinical and organisational conditions, treatment in safer western regions of Ukraine may be considered individually, without naming a facility in advance. Travel, follow-up and rehabilitation should account for medical risks."
             }
           ],
           "divider": false
