@@ -126,6 +126,7 @@ function groupBlocks(blocks: Block[]): BlockGroup[] {
 }
 
 function localizedTreatmentImage(file: string, slug: string, lang: Locale): string {
+  if (slug === "knee-replacement" && lang !== "uk" && (file === "knee-replacement-what.jpg" || file === "knee-replacement-diagram.jpg")) return file.replace(".jpg", `-${lang}.svg`);
   if (slug === "hip-replacement" && lang !== "uk" &&
       (file === "hip-replacement-planning.jpg" || file === "hip-replacement-access.jpg")) {
     return file.replace(".jpg", `-${lang}.svg`);
