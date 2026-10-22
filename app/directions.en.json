@@ -919,6 +919,10 @@
                 "Selected inflammatory arthritides with structural joint damage",
                 "Painful dysfunction following earlier surgery when reconstructive options are limited"
               ]
+            },
+            {
+              "type": "p",
+              "text": "Replacement is not the default solution for every shoulder condition. The decision is based on pain, loss of function, imaging, failed appropriate treatment and patient priorities; each indication must be assessed individually."
             }
           ],
           "divider": false,
@@ -986,6 +990,10 @@
                 "Adequate bone support and restorable joint anatomy",
                 "Selected cases of post-traumatic arthritis or osteonecrosis"
               ]
+            },
+            {
+              "type": "p",
+              "text": "The advantage of ATSA is the possibility of restoring biomechanics close to normal. Its success depends on cuff integrity and the ability to reconstruct stable anatomic relationships."
             }
           ],
           "divider": false
@@ -1010,6 +1018,10 @@
                 "Advanced arthritis with severe glenoid deformity or bone deficiency",
                 "Selected revision shoulder arthroplasty procedures"
               ]
+            },
+            {
+              "type": "p",
+              "text": "Reverse arthroplasty does not heal irreparable tendons and cannot guarantee full range of motion. Both active elevation and external rotation remain dependent on the deltoid, residual cuff muscles and their innervation."
             }
           ],
           "divider": false
@@ -1061,6 +1073,10 @@
                 "MRI evaluates tendon damage, retraction and muscle degeneration",
                 "Ultrasound can assess tendon integrity when appropriate"
               ]
+            },
+            {
+              "type": "p",
+              "text": "Not every patient requires CT, MRI and ultrasound. The diagnostic strategy is tailored to what must be clarified for selecting and positioning the prosthesis."
             }
           ],
           "divider": false
@@ -1084,6 +1100,10 @@
                 "Assess augments, bone grafts or specialised components",
                 "Consider patient-specific guides when indicated"
               ]
+            },
+            {
+              "type": "p",
+              "text": "A three-dimensional model can guide implant size, version, inclination and correction of bone deficiency. Computer planning supports surgical judgement rather than substituting for it."
             }
           ],
           "divider": false
@@ -1098,6 +1118,10 @@
             {
               "type": "p",
               "text": "Humeral components may be stemmed or stemless, depending on proximal humeral anatomy and bone support. Glenoid fixation needs adequate bone stock. Major defects may require augments, structural grafts or specialist reconstructive solutions."
+            },
+            {
+              "type": "p",
+              "text": "Implant brand is not the principal selection criterion. Matching implant design to bone stock and achieving stable component fixation are more important than marketing claims."
             }
           ],
           "divider": false
@@ -1152,6 +1176,10 @@
                 "Axillary nerve or brachial plexus injury",
                 "Bleeding, haematoma, wound complications, thromboembolism, anaesthesia risks and stiffness"
               ]
+            },
+            {
+              "type": "p",
+              "text": "The likelihood of complications depends on health conditions, the underlying disorder, bone quality, implant type, complexity and prior surgery. Even with proper planning and treatment, absence of complications cannot be guaranteed."
             }
           ],
           "divider": false
@@ -1200,6 +1228,10 @@
             {
               "type": "p",
               "text": "Expectations depend on baseline motion, disease duration, muscle condition and previous procedures. RTSA may improve active elevation without restoring external rotation or complex movements. Radiographic reviews remain worthwhile even without symptoms because loosening or bone changes may develop silently."
+            },
+            {
+              "type": "p",
+              "text": "Pain relief, improved sleep and easier self-care are the primary expectations. Long-term function depends on component positioning, bone support, loading and complications; asymptomatic patients still benefit from clinical and radiographic surveillance."
             }
           ],
           "divider": false
@@ -1238,6 +1270,10 @@
             {
               "type": "p",
               "text": "Early care focuses on analgesia, wound assessment, tissue healing and prevention of complications. Sling duration and the timing of passive or assisted shoulder motion depend on the surgical approach and any tendon repair; the surgeon's protocol takes priority."
+            },
+            {
+              "type": "p",
+              "text": "Recovery after fracture or revision procedures may be slower and require additional restrictions. Early exercises for fingers and wrist do not mean that unrestricted shoulder movement is allowed."
             }
           ],
           "divider": false
@@ -1261,6 +1297,10 @@
                 "3–6 months: graded strengthening and functional training",
                 "After 6 months: continued gains in strength and coordination"
               ]
+            },
+            {
+              "type": "p",
+              "text": "These recovery periods are approximate guidance only, not automatic authorisation to progress to the next exercise stage. The operating surgeon's protocol takes precedence."
             }
           ],
           "divider": false
@@ -1275,6 +1315,10 @@
             {
               "type": "p",
               "text": "If the subscapularis tendon has been detached and repaired, early loading may compromise healing. Limits on external rotation, resisted internal rotation and stretching vary according to tendon quality and repair technique."
+            },
+            {
+              "type": "p",
+              "text": "The precise limits depend on whether the subscapularis was detached, the quality of its repair and other soft-tissue reconstruction performed during ATSA."
             }
           ],
           "divider": false
@@ -1289,6 +1333,10 @@
             {
               "type": "p",
               "text": "After RTSA avoid prematurely reaching far behind the back or pushing up forcefully from a chair. Following fracture reconstruction, healing of the tuberosities also guides progression; revision procedures require additional individual restrictions."
+            },
+            {
+              "type": "p",
+              "text": "RTSA recovery emphasises deltoid adaptation and scapular control. Excessive early loading may also stress the acromion and scapular spine."
             }
           ],
           "divider": false
@@ -1303,6 +1351,10 @@
             {
               "type": "p",
               "text": "Driving requires safe arm control, discontinuation of the sling and medical clearance. Office work and physically demanding jobs have different recovery requirements; heavy resistance and contact activities may need lasting restrictions."
+            },
+            {
+              "type": "p",
+              "text": "Do not independently remove the sling, force range of motion, lean heavily on the operated arm or resume resistance training without clearance."
             }
           ],
           "divider": false
@@ -1317,6 +1369,10 @@
             {
               "type": "p",
               "text": "Patients travelling from other regions or abroad should agree on hospital stay, rehabilitation arrangements, radiographic follow-up and access to urgent medical care before surgery. Remote advice cannot replace a necessary physical examination."
+            },
+            {
+              "type": "p",
+              "text": "For patients living in Poland, Germany, Czechia or elsewhere, the care pathway should cover where rehabilitation and radiographs will be obtained and how complications will be assessed locally."
             }
           ],
           "divider": false
@@ -1345,6 +1401,10 @@
             {
               "type": "p",
               "text": "The published case concerns an Ukrainian serviceman with substantial post-traumatic arthritis, pain and disability. Reverse replacement was performed at the University Clinic of Bogomolets NMU to improve the prospect of pain relief and function. No verified long-term outcome measurements are available."
+            },
+            {
+              "type": "p",
+              "text": "The clinical images comprise a radiograph before surgery and postoperative views of the reverse shoulder prosthesis. Their presence does not establish a measured long-term functional result."
             }
           ],
           "divider": false,
@@ -1486,6 +1546,10 @@
             {
               "type": "p",
               "text": "Dr Maksym Baida assesses shoulder symptoms, imaging, rotator cuff and treatment options. Not every painful shoulder requires replacement. Patients from Kyiv, other regions and abroad may request a consultation."
+            },
+            {
+              "type": "p",
+              "text": "The consultation considers alternatives to surgery, implant choice where indicated and realistic individual expectations; the purpose is clinical decision-making, not to recommend replacement automatically."
             }
           ],
           "divider": false
