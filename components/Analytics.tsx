@@ -61,7 +61,7 @@ export default function Analytics() {
 function gtag(){dataLayer.push(arguments);}
 window.gtag = gtag;
 gtag('js', new Date());
-gtag('config', '${ID}', { send_page_view: true });`}
+gtag('config', '${ID}', { send_page_view: true, page_language: window.location.pathname.split('/')[1] || 'unknown' });`}
           </Script>
         </>
       )}
