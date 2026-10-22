@@ -476,13 +476,15 @@
       "lead": "Knee replacement for osteoarthritis: total and partial implants, the subvastus approach, planning, risks and recovery in Ukraine.",
       "intro": "When knee pain limits walking, interferes with daily life, and conservative treatment no longer provides sufficient relief, joint replacement may be the next step in treatment.",
       "hero": "knee-replacement-hero.jpg",
-      "gallery": [
-        "knee-replacement-diagram.jpg",
-        "knee-replacement-what.jpg"
-      ],
+      "gallery": [],
       "blocks": [
         {
-          "heading": "When knee replacement becomes necessary",
+          "heading": "Conditions and indications",
+          "body": [],
+          "divider": true
+        },
+        {
+          "heading": "Knee osteoarthritis and other causes of pain",
           "body": [
             {
               "type": "p",
@@ -499,13 +501,7 @@
             {
               "type": "p",
               "text": "The decision to operate is made on an individual basis — not from X-rays alone, but taking into account pain, mobility, deformity, gait, and how much the condition limits everyday life."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "When it's time to see a specialist",
-          "body": [
+            },
             {
               "type": "list",
               "items": [
@@ -523,7 +519,197 @@
           "divider": false
         },
         {
-          "heading": "What can change after surgery",
+          "heading": "When should knee replacement be considered?",
+          "body": [
+            {
+              "type": "list",
+              "items": [
+                "knee pain has become constant or is gradually worsening",
+                "walking familiar distances is getting harder",
+                "pain occurs not only during activity, but also at rest",
+                "it's difficult to go up or down stairs",
+                "the knee bends poorly or won't fully straighten",
+                "a leg deformity has appeared or is progressing",
+                "pain forces you to give up activities you used to enjoy",
+                "conservative treatment no longer provides adequate relief"
+              ]
+            },
+            {
+              "type": "p",
+              "text": "We start with a conversation about exactly what is troubling the patient and how much the problem limits their life. We assess knee mobility, stability, and deformity, and review X-rays and other studies as indicated."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Contraindications and preparation",
+          "body": [
+            {
+              "type": "p",
+              "text": "Active joint or systemic infection, infection at the operative site or severe uncontrolled medical illness may delay elective surgery. Diabetes, anaemia, malnutrition, smoking and obesity-related risks should be assessed and optimised; elevated BMI alone is not an automatic reason to deny consultation."
+            },
+            {
+              "type": "p",
+              "text": "Active infection or decompensated disease may make elective surgery unsafe. Diabetes, anaemia, smoking, nutrition and thrombosis risks are reviewed and optimised individually; BMI alone is not an automatic exclusion."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Types of knee replacement",
+          "body": [],
+          "divider": true
+        },
+        {
+          "heading": "Total and partial knee replacement",
+          "body": [
+            {
+              "type": "p",
+              "text": "Total knee arthroplasty (TKA) resurfaces damaged femoral and tibial surfaces with implants and a polyethylene insert. Partial or unicompartmental replacement (UKA) treats one affected compartment in appropriately selected patients; it may support faster early recovery but is unsuitable for widespread damage and may later require revision."
+            },
+            {
+              "type": "p",
+              "text": "TKA replaces affected femoral and tibial surfaces with implant components and a polyethylene insert. UKA can treat one isolated compartment when ligaments and remaining joint surfaces permit; both approaches have specific revision risks."
+            }
+          ],
+          "divider": false,
+          "diagram": "knee-replacement-what.jpg"
+        },
+        {
+          "heading": "Choosing a knee implant",
+          "body": [
+            {
+              "type": "p",
+              "text": "Cruciate-retaining (CR), posterior-stabilised (PS) and more constrained implants serve different ligament and stability requirements. Cemented and cementless fixation are selected individually. Mechanical, kinematic, restricted kinematic and functional alignment approaches consider different aspects of anatomy and soft-tissue balance; none is universally best."
+            },
+            {
+              "type": "p",
+              "text": "CR designs preserve a functional posterior cruciate ligament; PS systems substitute part of its function. More constrained designs address complex instability. Cemented or cementless fixation is selected according to bone and patient needs."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Planning, surgery and biomechanics",
+          "body": [],
+          "divider": true
+        },
+        {
+          "heading": "Preoperative planning and examination",
+          "body": [
+            {
+              "type": "p",
+              "text": "Modern knee replacement begins long before the operation itself."
+            },
+            {
+              "type": "p",
+              "text": "Before the procedure, we assess the degree of joint damage, knee anatomy, lower limb alignment, the nature of the deformity, bone quality, ligament stability, and range of motion."
+            },
+            {
+              "type": "p",
+              "text": "Based on this data, we plan the position of the implant components and determine the surgical approach."
+            },
+            {
+              "type": "p",
+              "text": "There is no single universal solution for every patient. The type of implant and the specifics of the operation are chosen according to the individual clinical situation."
+            },
+            {
+              "type": "p",
+              "text": "We assess the anatomy of the knee joint and lower limb in advance, along with the nature of the deformity and the specifics of the planned knee replacement."
+            },
+            {
+              "type": "p",
+              "text": "Weight-bearing X-rays and, when indicated, a standing full-leg image help assess deformity, mechanical axis and planning. CT is selective, not routinely required."
+            }
+          ],
+          "divider": false,
+          "diagram": "knee-replacement-diagram.jpg"
+        },
+        {
+          "heading": "How is surgery performed?",
+          "body": [
+            {
+              "type": "p",
+              "text": "The damaged joint surfaces are replaced with implant components, restoring stability and functional biomechanics of the knee."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Subvastus surgical approach: preserving the quadriceps",
+          "body": [
+            {
+              "type": "p",
+              "text": "We preferentially use a subvastus approach beneath the vastus medialis, avoiding division of the quadriceps muscle and tendon. In selected patients it may improve early muscle activation and mobilisation. Long-term results are broadly comparable with the medial parapatellar approach; a different access may be safer with severe deformity or difficult anatomy."
+            },
+            {
+              "type": "p",
+              "text": "Our preferred subvastus approach enters below vastus medialis without dividing the quadriceps muscle or tendon. It may ease early pain and activation in some patients, without proven universal long-term superiority. Difficult anatomy may require another approach."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Mechanical axis, ligament balance and stability",
+          "body": [
+            {
+              "type": "p",
+              "text": "What matters isn't just placing the implant components — it's also restoring stability, the functional axis of the limb, and soft-tissue balance."
+            },
+            {
+              "type": "p",
+              "text": "Cruciate-retaining (CR), posterior-stabilised (PS) and more constrained implants serve different ligament and stability requirements. Cemented and cementless fixation are selected individually. Mechanical, kinematic, restricted kinematic and functional alignment approaches consider different aspects of anatomy and soft-tissue balance; none is universally best."
+            },
+            {
+              "type": "p",
+              "text": "Mechanical, kinematic, restricted kinematic and functional alignment strategies balance component positioning and patient anatomy. Flexion and extension gaps, collateral ligament tension and patellar tracking are checked throughout motion; no one method is universally superior."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Safety, rehabilitation and outcomes",
+          "body": [],
+          "divider": true
+        },
+        {
+          "heading": "Possible risks and complications",
+          "body": [
+            {
+              "type": "p",
+              "text": "Possible complications include infection, thromboembolism, bleeding, stiffness, instability, persistent pain, loosening and occasionally periprosthetic fracture or nerve and vessel injury. Early mobilisation, prevention measures and rehabilitation are important. Sudden chest pain or breathlessness require emergency care. Recovery can continue for 3–12 months."
+            },
+            {
+              "type": "p",
+              "text": "Infection, venous thrombosis or pulmonary embolism, bleeding, stiffness, instability, loosening and persistent pain are possible; fracture and neurovascular injury are rarer. Sudden chest pain or breathlessness requires emergency care."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Rehabilitation after knee replacement",
+          "body": [
+            {
+              "type": "p",
+              "text": "After surgery, mobilization begins, along with restoring walking and knee movement. The level of exertion and pace of rehabilitation are determined individually."
+            },
+            {
+              "type": "p",
+              "text": "Treatment costs depend on implant, complexity, anaesthesia, hospital stay and rehabilitation; an estimate requires medical review. Patients in Poland, Germany, Czechia or elsewhere can request an initial remote review of medical reports and original digital weight-bearing radiographs. Final planning requires an in-person assessment. Treatment in safer western regions of Ukraine may be considered individually when appropriate."
+            },
+            {
+              "type": "p",
+              "text": "Knee replacement is only one stage of treatment. Early mobilization and consistent recovery of mobility and strength are an important part of the final functional outcome."
+            },
+            {
+              "type": "p",
+              "text": "Mobilisation often begins on the day of surgery or the next day. Strength, extension, gait and stairs improve over weeks; recovery can continue 3–12 months. Avoid forcing painful exercises. Driving requires safe emergency braking and no impairing medication."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Results and implant lifespan",
           "body": [
             {
               "type": "p",
@@ -548,168 +734,60 @@
             {
               "type": "p",
               "text": "The goal of treatment is to help the patient use their knee again in everyday life, with the least possible pain and functional limitation."
+            },
+            {
+              "type": "p",
+              "text": "Registry data suggest approximately 93%, 90% and 82% of total knee implants remain unrevised after 15, 20 and 25 years. These are population estimates, not guarantees of pain-free function (Evans et al., Lancet 2019)."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Individualized surgical planning",
-          "body": [
-            {
-              "type": "p",
-              "text": "Modern knee replacement begins long before the operation itself."
-            },
-            {
-              "type": "p",
-              "text": "Before the procedure, we assess the degree of joint damage, knee anatomy, lower limb alignment, the nature of the deformity, bone quality, ligament stability, and range of motion."
-            },
-            {
-              "type": "p",
-              "text": "Based on this data, we plan the position of the implant components and determine the surgical approach."
-            },
-            {
-              "type": "p",
-              "text": "There is no single universal solution for every patient. The type of implant and the specifics of the operation are chosen according to the individual clinical situation."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "What matters most in knee replacement",
-          "body": [
-            {
-              "type": "p",
-              "text": "The outcome of the operation does not depend on the implant model or manufacturer alone."
-            },
-            {
-              "type": "p",
-              "text": "What matters most:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "precise preoperative planning",
-                "correct positioning of the components",
-                "assessing and correcting limb deformity",
-                "knee joint stability",
-                "ligament and soft-tissue balance",
-                "restoring a functional range of motion",
-                "well-organized postoperative recovery"
-              ]
-            },
-            {
-              "type": "p",
-              "text": "The goal is not simply to place an implant, but to create a stable, functional knee joint that lets the patient return to their usual activities."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "How treatment proceeds",
+          "heading": "Practical information",
           "body": [],
           "divider": true
         },
         {
-          "heading": "01 — Consultation and diagnosis",
+          "heading": "Cost of knee replacement",
           "body": [
             {
               "type": "p",
-              "text": "We start with a conversation about exactly what is troubling the patient and how much the problem limits their life. We assess knee mobility, stability, and deformity, and review X-rays and other studies as indicated."
+              "text": "Treatment costs depend on implant, complexity, anaesthesia, hospital stay and rehabilitation; an estimate requires medical review. Patients in Poland, Germany, Czechia or elsewhere can request an initial remote review of medical reports and original digital weight-bearing radiographs. Final planning requires an in-person assessment. Treatment in safer western regions of Ukraine may be considered individually when appropriate."
+            },
+            {
+              "type": "p",
+              "text": "Cost depends on implant choice, complexity, anaesthesia, hospitalisation and rehabilitation. A preliminary estimate can follow document review; the final quotation needs a clinical plan."
             }
           ],
           "divider": false
         },
         {
-          "heading": "02 — Preoperative planning",
+          "heading": "Patients from Kyiv, Ukraine and abroad",
           "body": [
             {
               "type": "p",
-              "text": "We identify the specifics of the anatomy and deformity, and plan the surgical approach, component positioning, and implant type."
+              "text": "Treatment costs depend on implant, complexity, anaesthesia, hospital stay and rehabilitation; an estimate requires medical review. Patients in Poland, Germany, Czechia or elsewhere can request an initial remote review of medical reports and original digital weight-bearing radiographs. Final planning requires an in-person assessment. Treatment in safer western regions of Ukraine may be considered individually when appropriate."
+            },
+            {
+              "type": "p",
+              "text": "Patients in Poland, Germany, Czechia and elsewhere can submit clinical records and original digital weight-bearing X-rays for preliminary remote assessment. In-person examination remains necessary. Care in safer western regions of Ukraine is considered individually when feasible."
             }
           ],
           "divider": false
         },
         {
-          "heading": "03 — Knee replacement",
-          "body": [
-            {
-              "type": "p",
-              "text": "The damaged joint surfaces are replaced with implant components, restoring stability and functional biomechanics of the knee."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "04 — Early recovery",
-          "body": [
-            {
-              "type": "p",
-              "text": "After surgery, mobilization begins, along with restoring walking and knee movement. The level of exertion and pace of rehabilitation are determined individually."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Our approach",
+          "heading": "Clinical radiographic examples",
           "body": [],
           "divider": true
         },
         {
-          "heading": "Not \"one implant for everyone\", but a solution for each patient",
-          "body": [
-            {
-              "type": "p",
-              "text": "Age, anatomy, the nature of the deformity, and the condition of the ligaments, bone, and activity level differ from patient to patient. That's why the surgical approach is determined individually."
-            }
+          "heading": "Osteoarthritis and lower limb alignment",
+          "caseImages": [
+            "knee-replacement-case-before1.jpg",
+            "knee-replacement-case-before2.jpg",
+            "knee-replacement-case-before3.jpg"
           ],
-          "divider": false
-        },
-        {
-          "heading": "Planning before surgery",
-          "body": [
-            {
-              "type": "p",
-              "text": "We assess the anatomy of the knee joint and lower limb in advance, along with the nature of the deformity and the specifics of the planned knee replacement."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Attention to biomechanics",
-          "body": [
-            {
-              "type": "p",
-              "text": "What matters isn't just placing the implant components — it's also restoring stability, the functional axis of the limb, and soft-tissue balance."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "From surgery to a return to activity",
-          "body": [
-            {
-              "type": "p",
-              "text": "Knee replacement is only one stage of treatment. Early mobilization and consistent recovery of mobility and strength are an important part of the final functional outcome."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Radiographic examples",
-          "body": [
-            {
-              "type": "p",
-              "text": "X-ray imaging is an important part of planning knee replacement. It allows us to assess the degree of degenerative change, the nature of the deformity, the condition of the joint surfaces, and the alignment of the lower limb."
-            },
-            {
-              "type": "p",
-              "text": "When planning surgery, it's important not only to replace the damaged joint surfaces, but also to take into account the individual patient's anatomy, the nature of the deformity, the position of the future components, and the limb's functional biomechanics."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Knee osteoarthritis and assessment of lower limb alignment",
+          "caseAspect": "landscape",
           "body": [
             {
               "type": "caption",
@@ -728,16 +806,15 @@
               "text": "This information is used during preoperative planning for total knee replacement."
             }
           ],
-          "divider": false,
-          "caseImages": [
-            "knee-replacement-case-before1.jpg",
-            "knee-replacement-case-before2.jpg",
-            "knee-replacement-case-before3.jpg"
-          ],
-          "caseAspect": "landscape"
+          "divider": false
         },
         {
-          "heading": "Total knee replacement",
+          "heading": "Postoperative total knee replacement X-rays",
+          "caseImages": [
+            "knee-replacement-case-after1.jpg",
+            "knee-replacement-case-after2.jpg"
+          ],
+          "caseAspect": "landscape",
           "body": [
             {
               "type": "caption",
@@ -756,70 +833,6 @@
               "text": "Please note: the images shown are separate clinical examples and do not represent a \"before/after\" series from the same patient."
             }
           ],
-          "divider": false,
-          "caseImages": [
-            "knee-replacement-case-after1.jpg",
-            "knee-replacement-case-after2.jpg"
-          ]
-        },
-        {
-          "heading": "Contraindications and surgical preparation",
-          "body": [
-            {
-              "type": "p",
-              "text": "Active joint or systemic infection, infection at the operative site or severe uncontrolled medical illness may delay elective surgery. Diabetes, anaemia, malnutrition, smoking and obesity-related risks should be assessed and optimised; elevated BMI alone is not an automatic reason to deny consultation."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Total versus partial knee replacement",
-          "body": [
-            {
-              "type": "p",
-              "text": "Total knee arthroplasty (TKA) resurfaces damaged femoral and tibial surfaces with implants and a polyethylene insert. Partial or unicompartmental replacement (UKA) treats one affected compartment in appropriately selected patients; it may support faster early recovery but is unsuitable for widespread damage and may later require revision."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "The subvastus surgical approach",
-          "body": [
-            {
-              "type": "p",
-              "text": "We preferentially use a subvastus approach beneath the vastus medialis, avoiding division of the quadriceps muscle and tendon. In selected patients it may improve early muscle activation and mobilisation. Long-term results are broadly comparable with the medial parapatellar approach; a different access may be safer with severe deformity or difficult anatomy."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Implant selection and alignment principles",
-          "body": [
-            {
-              "type": "p",
-              "text": "Cruciate-retaining (CR), posterior-stabilised (PS) and more constrained implants serve different ligament and stability requirements. Cemented and cementless fixation are selected individually. Mechanical, kinematic, restricted kinematic and functional alignment approaches consider different aspects of anatomy and soft-tissue balance; none is universally best."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Risks and recovery",
-          "body": [
-            {
-              "type": "p",
-              "text": "Possible complications include infection, thromboembolism, bleeding, stiffness, instability, persistent pain, loosening and occasionally periprosthetic fracture or nerve and vessel injury. Early mobilisation, prevention measures and rehabilitation are important. Sudden chest pain or breathlessness require emergency care. Recovery can continue for 3–12 months."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Cost and care for patients abroad",
-          "body": [
-            {
-              "type": "p",
-              "text": "Treatment costs depend on implant, complexity, anaesthesia, hospital stay and rehabilitation; an estimate requires medical review. Patients in Poland, Germany, Czechia or elsewhere can request an initial remote review of medical reports and original digital weight-bearing radiographs. Final planning requires an in-person assessment. Treatment in safer western regions of Ukraine may be considered individually when appropriate."
-            }
-          ],
           "divider": false
         },
         {
@@ -828,7 +841,7 @@
           "divider": true
         },
         {
-          "heading": "How do I know it's already time for surgery?",
+          "heading": "When is an operation necessary?",
           "body": [
             {
               "type": "p",
@@ -842,7 +855,7 @@
           "divider": false
         },
         {
-          "heading": "Is it still possible to avoid surgery?",
+          "heading": "Can I avoid surgery?",
           "body": [
             {
               "type": "p",
@@ -856,7 +869,17 @@
           "divider": false
         },
         {
-          "heading": "Will my leg straighten after knee replacement?",
+          "heading": "Can only part of the knee be replaced?",
+          "body": [
+            {
+              "type": "p",
+              "text": "A partial replacement is possible for isolated compartment disease with suitable ligaments."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Will my leg be straightened?",
           "body": [
             {
               "type": "p",
@@ -870,21 +893,17 @@
           "divider": false
         },
         {
-          "heading": "Does it hurt a lot after surgery?",
+          "heading": "What makes the subvastus approach different?",
           "body": [
             {
               "type": "p",
-              "text": "Postoperative pain is expected, especially in the first few days. It is managed with a comprehensive pain control protocol that allows early mobilization and gradual restoration of movement to begin."
-            },
-            {
-              "type": "p",
-              "text": "The intensity of pain and how quickly it subsides vary from patient to patient."
+              "text": "The subvastus approach preserves the quadriceps and tendon but is not ideal for everyone."
             }
           ],
           "divider": false
         },
         {
-          "heading": "When will I be able to stand and walk?",
+          "heading": "When can I stand and walk?",
           "body": [
             {
               "type": "p",
@@ -912,7 +931,7 @@
           "divider": false
         },
         {
-          "heading": "Will I be able to manage stairs normally?",
+          "heading": "Can I bend the knee and climb stairs?",
           "body": [
             {
               "type": "p",
@@ -922,7 +941,7 @@
           "divider": false
         },
         {
-          "heading": "When can I drive a car?",
+          "heading": "When can I drive?",
           "body": [
             {
               "type": "p",
@@ -932,7 +951,37 @@
           "divider": false
         },
         {
-          "heading": "Which implant is the best?",
+          "heading": "Can I kneel and do sports?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Some patients can kneel; return to higher-impact sport needs individual advice."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Can I have an allergy to the implant?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Clinically important implant allergy is uncommon; report confirmed sensitivities."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Can both knees be replaced?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Both knees can be operated on, but simultaneous versus staged surgery requires risk assessment."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Which implant is best, and how long will it last?",
           "body": [
             {
               "type": "p",
@@ -946,11 +995,31 @@
           "divider": false
         },
         {
-          "heading": "How long does a knee implant last?",
+          "heading": "Can a knee replacement be revised?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Revision may be necessary for infection, loosening, instability or fracture."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "What does the operation cost?",
           "body": [
             {
               "type": "p",
               "text": "Modern implants are designed for long-term function. Their lifespan depends on many factors: the design and placement of the implant, the patient's age, body weight, physical activity, and other individual characteristics."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Can I request a consultation from abroad?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Patients abroad can request a preliminary record review; final decisions require examination."
             }
           ],
           "divider": false
