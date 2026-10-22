@@ -283,24 +283,6 @@
           "caseAspect": "landscape"
         },
         {
-          "heading": "Beratung für Patienten aus dem Ausland",
-          "body": [
-            {
-              "type": "p",
-              "text": "Patienten aus dem Ausland können zunächst eine Fernbeurteilung medizinischer Unterlagen und Bildgebung anfragen. Die endgültige Planung setzt eine persönliche Untersuchung voraus. Möglichkeiten in Kyjiw oder in sichereren westlichen Regionen der Ukraine werden individuell besprochen."
-            },
-            {
-              "type": "p",
-              "text": "Für eine erste Fernbeurteilung sind aktuelle Röntgenbilder, Befunde, eine kurze Krankengeschichte und Angaben zu bisherigen Behandlungen hilfreich."
-            },
-            {
-              "type": "p",
-              "text": "Danach können weitere Diagnostik, die persönliche Untersuchung und organisatorische Fragen besprochen werden. Eine Fernbeurteilung ersetzt keine klinische Untersuchung."
-            }
-          ],
-          "divider": false
-        },
-        {
           "heading": "Häufig gestellte Fragen",
           "body": [],
           "divider": true
@@ -683,20 +665,6 @@
             {
               "type": "p",
               "text": "Nach Sichtung der Unterlagen ist gegebenenfalls eine vorläufige Schätzung möglich; der verbindliche Behandlungsplan und Kostenvoranschlag folgen der persönlichen Untersuchung. Wir nennen keinen unbestätigten Einheitspreis."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Patienten aus Kyjiw, der Ukraine und dem Ausland",
-          "body": [
-            {
-              "type": "p",
-              "text": "Beratung und Operation sind in Kyjiw möglich. Patienten aus anderen Regionen der Ukraine sowie Ukrainer in Deutschland, Polen, Tschechien und weiteren Ländern können eine erste Fernbeurteilung medizinischer Unterlagen anfragen. Hilfreich sind Beschwerden, bisherige Therapie, Vorerkrankungen, Berichte und originale digitale belastete Knieaufnahmen; Ganzbeinaufnahmen, falls vorhanden."
-            },
-            {
-              "type": "p",
-              "text": "Eine Fernbeurteilung unterstützt die Planung, ersetzt aber keine persönliche Untersuchung und legt keine Operationsindikation verbindlich fest. Je nach klinischen und organisatorischen Möglichkeiten kann eine Behandlung in sichereren westlichen Regionen der Ukraine individuell geprüft werden. Reise, Nachsorge und Rehabilitation sollen medizinische Risiken berücksichtigen."
             }
           ],
           "divider": false
