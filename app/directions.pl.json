@@ -903,6 +903,10 @@
             {
               "type": "p",
               "text": "Endoprotezoplastyka może być wskazana w zaawansowanej chorobie zwyrodnieniowej stawu ramiennego, artropatii stożka rotatorów, wybranych złożonych złamaniach bliższego końca kości ramiennej, zmianach pourazowych, martwicy głowy kości ramiennej i niektórych chorobach zapalnych. Izolowane zerwanie ścięgna nie oznacza automatycznie konieczności wymiany stawu."
+            },
+            {
+              "type": "p",
+              "text": "Wskazania wynikają z nasilenia bólu, ograniczenia funkcji, zmian strukturalnych i możliwości leczenia oszczędzającego staw, a nie tylko z obrazu RTG. W złożonych złamaniach wybór pomiędzy osteosyntezą a endoprotezą zależy od możliwości rekonstrukcji i rokowania. Martwica, zapalenia stawów i wcześniejsze operacje wymagają odrębnej oceny."
             }
           ],
           "divider": false,
@@ -914,6 +918,10 @@
             {
               "type": "p",
               "text": "Warto zgłosić się przy stałym lub nocnym bólu, trudności w unoszeniu ręki, ubieraniu się, utracie siły lub ograniczeniu ruchów mimo leczenia. Decyzja opiera się na objawach i badaniach."
+            },
+            {
+              "type": "p",
+              "text": "Trudności z ubieraniem się, myciem, czesaniem, brak czynnego unoszenia ręki i zaburzenia snu są ważnymi powodami konsultacji. Należy odróżnić sztywność stawu od osłabienia wynikającego z uszkodzeń ścięgien lub nerwów."
             }
           ],
           "divider": false
@@ -929,6 +937,10 @@
             {
               "type": "p",
               "text": "ATSA odtwarza naturalną geometrię stawu, a RTSA odwraca układ kuli i panewki, zwiększając znaczenie mięśnia naramiennego podczas unoszenia ramienia. Istotne są stożek rotatorów, panewka łopatki i jakość kości."
+            },
+            {
+              "type": "p",
+              "text": "Wybór implantu dotyczy nie tylko wymiany zniszczonych powierzchni, lecz także mechaniki mięśni. Przy dużej deformacji lub ubytku panewki proteza odwrócona może być rozważana nawet przy zachowanym stożku rotatorów."
             }
           ],
           "divider": false,
@@ -940,6 +952,10 @@
             {
               "type": "p",
               "text": "ATSA polega na wymianie powierzchni głowy kości ramiennej i panewki z zachowaniem naturalnych relacji. Zwykle wymaga sprawnego stożka rotatorów i dobrego podparcia kostnego. Rozległe nieodwracalne uszkodzenia ścięgien mogą ograniczać jej zastosowanie."
+            },
+            {
+              "type": "p",
+              "text": "Proteza anatomiczna opiera się na sprawnym stożku rotatorów. Trzeba ocenić rozmiar i możliwość naprawy uszkodzenia, jakość mięśni oraz podparcie kostne. Niewielki naprawialny defekt nie wyklucza automatycznie ATSA."
             }
           ],
           "divider": false
@@ -950,6 +966,10 @@
             {
               "type": "p",
               "text": "W RTSA element kulisty znajduje się po stronie łopatki, a wklęsły po stronie kości ramiennej. Wskazania obejmują artropatię stożka rotatorów, nieodwracalne rozległe zerwania, wybrane przypadki pseudoporażenia, skomplikowane złamania, deformacje panewki i niektóre rewizje. Pełny zakres ruchów nie jest gwarantowany."
+            },
+            {
+              "type": "p",
+              "text": "RTSA może być odpowiednia przy artropatii stożka, rozległych nieodwracalnych zerwaniach, wybranym pseudoporażeniu z zachowanym ruchem biernym, złożonych złamaniach i rewizjach. Kluczowe są funkcja mięśnia naramiennego, unerwienie i stabilne zamocowanie. Poprawa unoszenia nie gwarantuje rotacji zewnętrznej, zależnej także od mięśni podgrzebieniowego i obłego mniejszego."
             }
           ],
           "divider": false
@@ -960,6 +980,10 @@
             {
               "type": "p",
               "text": "Mięśnie nadgrzebieniowy, podgrzebieniowy, obły mniejszy i podłopatkowy stabilizują bark. Ocenia się uszkodzenia ścięgien, retrakcję, zanik i stłuszczenie mięśni oraz funkcję mięśnia naramiennego. Sam wiek nie przesądza o wyborze."
+            },
+            {
+              "type": "p",
+              "text": "Ocenia się retrakcję ścięgien, zanik i stłuszczenie mięśni, stan mięśnia podłopatkowego i naramiennego oraz różnicę między zakresem ruchu czynnego i biernego. Samo zerwanie nie rozstrzyga o typie protezy."
             }
           ],
           "divider": false
@@ -975,6 +999,10 @@
             {
               "type": "p",
               "text": "Badanie kliniczne obejmuje ból, ruchy czynne i bierne, siłę mięśni i funkcję nerwów. RTG ukazuje zwyrodnienie i deformacje. TK służy ocenie wersji i nachylenia panewki oraz ubytków kości; MRI lub USG ocenia ścięgna w razie wskazań."
+            },
+            {
+              "type": "p",
+              "text": "Zdjęcia RTG w odpowiednich projekcjach, także osiowej, pokazują szparę stawową, osteofity, deformację i ustawienie głowy kości ramiennej. TK jest istotna dla wersji i nachylenia panewki, ubytków kostnych, zmian pourazowych i rewizji. MRI ocenia retrakcję ścięgien, zanik oraz stłuszczenie mięśni; USG może być badaniem uzupełniającym."
             }
           ],
           "divider": false
@@ -985,6 +1013,10 @@
             {
               "type": "p",
               "text": "W złożonej anatomii planowanie 3D na podstawie TK pozwala przeanalizować panewkę, położenie i rozmiar implantów, mocowanie, augmenty czy przeszczepy kostne. Nie gwarantuje samo w sobie lepszego wyniku klinicznego."
+            },
+            {
+              "type": "p",
+              "text": "Planowanie 3D na podstawie TK pomaga ocenić korekcję ustawienia panewki, rozmiar i pozycję komponentów oraz zasób kości do mocowania. Augmenty, przeszczepy kostne i indywidualne prowadnice stosuje się w wybranych przypadkach. Nie każdy pacjent potrzebuje planowania 3D."
             }
           ],
           "divider": false
@@ -995,6 +1027,10 @@
             {
               "type": "p",
               "text": "Dobór implantu zależy od choroby, jakości kości, anatomii kości ramiennej i panewki, stożka rotatorów i wcześniejszych zabiegów. Możliwe są komponenty trzpieniowe, beztrzpieniowe, augmenty lub rozwiązania indywidualne. Najważniejsze jest stabilne mocowanie."
+            },
+            {
+              "type": "p",
+              "text": "Komponent ramienny może mieć trzpień lub konstrukcję beztrzpieniową, zależnie od anatomii i jakości kości. Stabilne zamocowanie elementu panewkowego wymaga odpowiedniego podparcia. Przy dużych ubytkach można rozważyć augmenty, przeszczepy lub specjalne rekonstrukcje."
             }
           ],
           "divider": false
@@ -1005,6 +1041,10 @@
             {
               "type": "p",
               "text": "Operacja odbywa się w odpowiednim znieczuleniu, często z dostępu naramienno-piersiowego. Chirurg przygotowuje kości, mocuje implant, sprawdza stabilność i odtwarza tkanki miękkie zgodnie ze wskazaniami. W ATSA istotna bywa naprawa mięśnia podłopatkowego, w RTSA ustawienie glenosfery i stabilność podstawy panewkowej."
+            },
+            {
+              "type": "p",
+              "text": "Dostęp naramienno-piersiowy przebiega w naturalnej przestrzeni między mięśniem naramiennym a piersiowym większym. Po ocenie kości i tkanek miękkich przygotowuje się powierzchnie, wszczepia komponenty oraz sprawdza stabilność i ruchy. W ATSA istotna jest ochrona lub naprawa ścięgna podłopatkowego; w RTSA położenie glenosfery, mocowanie podstawy i balans tkanek."
             }
           ],
           "divider": false
@@ -1020,6 +1060,10 @@
             {
               "type": "p",
               "text": "Możliwe powikłania to zakażenie, także skąpoobjawowe związane z Cutibacterium acnes, niestabilność, zwichnięcie, obluzowanie komponentów, złamanie okołoprotezowe, uszkodzenie nerwów, krwiak, problemy z raną, zakrzepica i sztywność."
+            },
+            {
+              "type": "p",
+              "text": "Zakażenie protezy barku, zwłaszcza związane z Cutibacterium acnes, może mieć skąpoobjawowy przebieg i wymagać trudnej diagnostyki, ponownego zabiegu lub wymiany elementów. Niestabilność zależy od ułożenia komponentów i tkanek. Złamania okołoprotezowe mogą wystąpić po upadku; uszkodzenie nerwu pachowego lub splotu ramiennego może upośledzać siłę i czucie."
             }
           ],
           "divider": false
@@ -1030,6 +1074,10 @@
             {
               "type": "p",
               "text": "W ATSA możliwa jest niewydolność mięśnia podłopatkowego i stożka rotatorów oraz zużycie lub obluzowanie panewki. W RTSA znaczenie mają niestabilność, złamania zmęczeniowe wyrostka barkowego i grzebienia łopatki oraz scapular notching, nie zawsze powodujący dolegliwości."
+            },
+            {
+              "type": "p",
+              "text": "W ATSA niewydolność mięśnia podłopatkowego lub dalsze zerwania stożka mogą wywołać ból, osłabienie i niestabilność. W RTSA zmienione obciążenie mięśnia naramiennego wiąże się ze złamaniami zmęczeniowymi wyrostka barkowego lub grzebienia łopatki. Scapular notching to nadżerka kostna szyjki łopatki wskutek kontaktu mechanicznego, nie zawsze objawowa."
             }
           ],
           "divider": false
@@ -1050,6 +1098,10 @@
             {
               "type": "p",
               "text": "Celem jest zmniejszenie bólu i poprawa funkcji. ATSA może przywracać bardziej naturalną biomechanikę przy sprawnym stożku; RTSA poprawia unoszenie ręki mimo jego niewydolności, ale rotacja zewnętrzna może pozostać ograniczona. Implanty działają wiele lat, bez gwarantowanego okresu trwałości."
+            },
+            {
+              "type": "p",
+              "text": "Oczekiwany wynik zależy od wyjściowej ruchomości, czasu trwania choroby, mięśni i wcześniejszych operacji. RTSA może poprawić czynne unoszenie bez pełnego przywrócenia rotacji zewnętrznej i ruchów złożonych. Kontrole RTG są istotne nawet bez dolegliwości, gdyż zmiany mogą rozwijać się bezobjawowo."
             }
           ],
           "divider": false
@@ -1075,6 +1127,10 @@
             {
               "type": "p",
               "text": "Rehabilitacja chroni gojące się tkanki i stopniowo przywraca ruch oraz kontrolę mięśni. Początkowo stosuje się temblak, a ruchy palców i nadgarstka mogą być możliwe wcześnie. Ruchy barku zależą od protokołu operacyjnego."
+            },
+            {
+              "type": "p",
+              "text": "W pierwszych dniach najważniejsze są leczenie bólu, kontrola rany, ochrona gojących się tkanek i zapobieganie powikłaniom. Długość stosowania temblaka oraz początek ruchów biernych i wspomaganych ustala chirurg zależnie od zabiegu i naprawionych ścięgien."
             }
           ],
           "divider": false
@@ -1085,6 +1141,10 @@
             {
               "type": "p",
               "text": "Około 0–6 tygodni: ochrona tkanek i dozwolone ruchy wspomagane. 6–12 tygodni: stopniowe ruchy czynne. 3–6 miesięcy: wzmacnianie mięśni. Poprawa może trwać 6–12 miesięcy lub dłużej; terminy są orientacyjne."
+            },
+            {
+              "type": "p",
+              "text": "Na początku unika się gwałtownych ruchów, dźwigania i podpierania na ręce. Następnie przechodzi się od ruchów wspomaganych do czynnych i kontroli łopatki, a dopiero później do stopniowego wzmacniania. Ciężka praca i sport wymagają indywidualnej zgody."
             }
           ],
           "divider": false
@@ -1095,6 +1155,10 @@
             {
               "type": "p",
               "text": "Po ATSA naprawione ścięgno mięśnia podłopatkowego wymaga ochrony. Rotacja zewnętrzna, rotacja wewnętrzna z oporem, podpieranie, podnoszenie i rozciąganie mogą być czasowo ograniczone."
+            },
+            {
+              "type": "p",
+              "text": "Jeżeli ścięgno mięśnia podłopatkowego zostało odłączone i naprawione, zbyt wczesne obciążenie zagraża gojeniu. Ograniczenia rotacji zewnętrznej, rotacji wewnętrznej z oporem i rozciągania zależą od techniki naprawy."
             }
           ],
           "divider": false
@@ -1105,6 +1169,10 @@
             {
               "type": "p",
               "text": "Po RTSA rehabilitacja koncentruje się na mięśniu naramiennym i kontroli łopatki. Początkowo unika się łącznego wyprostu, przywiedzenia i rotacji wewnętrznej oraz silnego podpierania się na operowanej ręce. Złamania i rewizje wymagają modyfikacji programu."
+            },
+            {
+              "type": "p",
+              "text": "Po RTSA nie należy przedwcześnie sięgać daleko za plecy ani mocno odpychać się ręką od krzesła. Po leczeniu złamania ważne jest gojenie guzków kości ramiennej, a po rewizji często konieczne są dodatkowe ograniczenia."
             }
           ],
           "divider": false
@@ -1115,6 +1183,10 @@
             {
               "type": "p",
               "text": "Do samoobsługi, prowadzenia samochodu, pracy i sportu wraca się stopniowo. Prowadzenie auta wymaga kontroli ręki, zakończenia stosowania temblaka i zgody lekarza. Duże obciążenia oraz sporty kontaktowe mogą pozostać niewskazane."
+            },
+            {
+              "type": "p",
+              "text": "Do prowadzenia samochodu potrzebna jest bezpieczna kontrola ręki, zakończenie stosowania temblaka i zgoda lekarza. Praca biurowa i fizyczna mają różne wymagania. Duże obciążenia i sporty kontaktowe mogą pozostać ograniczone."
             }
           ],
           "divider": false
@@ -1125,6 +1197,10 @@
             {
               "type": "p",
               "text": "Kontrole oceniają ból, ranę, ruchy, siłę mięśni, pozycję komponentów i RTG. Osoby wracające za granicę powinny wcześniej uzgodnić rehabilitację i miejscową opiekę. Kontakt zdalny nie zastępuje niezbędnego badania osobistego."
+            },
+            {
+              "type": "p",
+              "text": "Pacjenci z innych regionów i krajów powinni wcześniej uzgodnić czas pobytu, rehabilitację, kontrolne RTG i sposób uzyskania pomocy w razie objawów alarmowych. Porady zdalne nie zastępują wymaganych badań osobistych."
             }
           ],
           "divider": false
@@ -1149,6 +1225,10 @@
               "type": "link",
               "text": "Oficjalna publikacja kliniczna NMU",
               "href": "https://nmuofficial.com/news/v-universytetskij-klinitsi-provodyat-innovatsijni-hirurgichni-operatsiyi-ukrayinskym-zahysnykam/"
+            },
+            {
+              "type": "p",
+              "text": "Opublikowany przypadek dotyczy ukraińskiego żołnierza z ciężką pourazową chorobą zwyrodnieniową barku, bólem i ograniczeniem funkcji. W Klinice Uniwersyteckiej NMU wykonano RTSA w celu poprawy szans na zmniejszenie bólu i odzyskanie sprawności. Brak potwierdzonych pomiarów wyników odległych."
             }
           ],
           "divider": false,
