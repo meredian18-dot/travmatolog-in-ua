@@ -919,6 +919,10 @@
                 "Ausgewählte entzündliche Arthritiden mit Gelenkschaden",
                 "Schmerzhafte Funktionsstörung nach Voroperationen bei eingeschränkten Alternativen"
               ]
+            },
+            {
+              "type": "p",
+              "text": "Eine Endoprothese ist keine Standardlösung für jede Schultererkrankung. Beschwerden, Funktion, Bildgebung, bisherige Behandlung und individuelle Bedürfnisse bestimmen die Indikation."
             }
           ],
           "divider": false,
@@ -986,6 +990,10 @@
                 "Ausreichendes Knochenlager und rekonstruierbare Gelenkanatomie",
                 "Ausgewählte posttraumatische Arthrose oder Humeruskopfnekrose"
               ]
+            },
+            {
+              "type": "p",
+              "text": "Der Vorteil von ATSA liegt in der Möglichkeit, eine der natürlichen Schulter ähnliche Biomechanik wiederherzustellen. Entscheidend sind die Manschettenfunktion und stabile anatomische Gelenkverhältnisse."
             }
           ],
           "divider": false
@@ -1010,6 +1018,10 @@
                 "Schwere Glenoiddeformität oder Knochenmangel",
                 "Ausgewählte Revisionsoperationen"
               ]
+            },
+            {
+              "type": "p",
+              "text": "Die inverse Endoprothese heilt irreparabel geschädigte Sehnen nicht und garantiert keine vollständige Beweglichkeit. Armhebung und Außenrotation hängen von Deltamuskel, verbliebener Manschettenfunktion und Innervation ab."
             }
           ],
           "divider": false
@@ -1061,6 +1073,10 @@
                 "MRT für Sehnen, Retraktion und Muskeln",
                 "Ultraschall für die Sehnenintegrität nach Indikation"
               ]
+            },
+            {
+              "type": "p",
+              "text": "Nicht jeder Patient benötigt CT, MRT und Ultraschall. Umfang und Reihenfolge der Bildgebung werden nach klinischen Fragen und der geplanten Operation bestimmt."
             }
           ],
           "divider": false
@@ -1084,6 +1100,10 @@
                 "Augmente, Knochentransplantate und Spezialkomponenten prüfen",
                 "Patientenspezifische Instrumente bei Indikation erwägen"
               ]
+            },
+            {
+              "type": "p",
+              "text": "Das 3D-Modell kann die Wahl von Implantatgröße und Ausrichtung, die Korrektur von Version und Inklination und die Behandlung von Knochendefekten unterstützen. Die digitale Planung ersetzt keine klinische Entscheidung."
             }
           ],
           "divider": false
@@ -1098,6 +1118,10 @@
             {
               "type": "p",
               "text": "Humeruskomponenten gibt es mit Schaft oder schaftfrei, abhängig von Anatomie und Knochenqualität. Für die Glenoidfixation muss ausreichend Knochen verfügbar sein. Größere Defekte können Augmente, Knochentransplantation oder spezielle Rekonstruktionen erfordern."
+            },
+            {
+              "type": "p",
+              "text": "Nicht die Implantatmarke, sondern die Eignung für individuelle Knochenverhältnisse und die stabile Fixation sind maßgeblich."
             }
           ],
           "divider": false
@@ -1152,6 +1176,10 @@
                 "Schädigung von Axillarisnerv oder Plexus brachialis",
                 "Blutung, Hämatom, Wundprobleme, Thromboembolie, Narkoserisiken und Steifigkeit"
               ]
+            },
+            {
+              "type": "p",
+              "text": "Das Komplikationsrisiko hängt von Begleiterkrankungen, Grunderkrankung, Knochenqualität, Implantat, Operationskomplexität und Voroperationen ab. Eine vollständige Risikofreiheit ist nicht möglich."
             }
           ],
           "divider": false
@@ -1200,6 +1228,10 @@
             {
               "type": "p",
               "text": "Das Ergebnis hängt von Ausgangsbeweglichkeit, Krankheitsdauer, Muskelfunktion und Voroperationen ab. RTSA kann die Armhebung verbessern, ohne Außenrotation oder kombinierte Bewegungen vollständig wiederherzustellen. Auch Beschwerdefreie brauchen Verlaufskontrollen, da Veränderungen lange stumm bleiben können."
+            },
+            {
+              "type": "p",
+              "text": "Hauptziele sind weniger Schmerzen, besserer Schlaf und leichtere Selbstversorgung. Die Langzeitfunktion hängt unter anderem von Fixation, Knochenlager, Belastung und Komplikationen ab; auch ohne Beschwerden sind Kontrollen sinnvoll."
             }
           ],
           "divider": false
@@ -1238,6 +1270,10 @@
             {
               "type": "p",
               "text": "Zu Beginn stehen Schmerzbehandlung, Wundkontrolle, Gewebeschutz und Komplikationsprävention im Vordergrund. Dauer der Armschlinge und Beginn passiver oder assistierter Schulterbewegungen hängen vom Eingriff und rekonstruierten Sehnen ab."
+            },
+            {
+              "type": "p",
+              "text": "Nach Fraktur- und Revisionsoperationen kann die Rehabilitation länger dauern und zusätzliche Einschränkungen enthalten. Frühe Finger- und Handbewegungen bedeuten nicht, dass die Schulter frei bewegt werden darf."
             }
           ],
           "divider": false
@@ -1261,6 +1297,10 @@
                 "3–6 Monate: dosierte Kräftigung und Funktionstraining",
                 "Nach 6 Monaten: weiterer Aufbau von Kraft und Koordination"
               ]
+            },
+            {
+              "type": "p",
+              "text": "Diese Zeitabschnitte sind nur Richtwerte und keine automatische Freigabe für die nächste Belastungsstufe. Das individuelle Operations- und Rehabilitationsprotokoll hat Vorrang."
             }
           ],
           "divider": false
@@ -1275,6 +1315,10 @@
             {
               "type": "p",
               "text": "Wurde die Subscapularissehne abgelöst und wieder fixiert, kann zu frühe Belastung die Heilung gefährden. Außenrotation, Innenrotation gegen Widerstand und Dehnung werden je nach Rekonstruktionsmethode zeitweilig begrenzt."
+            },
+            {
+              "type": "p",
+              "text": "Die konkreten Grenzen hängen davon ab, ob die Subscapularissehne abgelöst und wiederhergestellt wurde, und wie belastbar die Rekonstruktion ist."
             }
           ],
           "divider": false
@@ -1289,6 +1333,10 @@
             {
               "type": "p",
               "text": "Nach RTSA sollte man nicht vorzeitig weit hinter den Rücken greifen oder sich kräftig aus einem Stuhl hochdrücken. Nach Frakturversorgung beeinflusst die Heilung der Tuberkula das Training; nach Revision sind zusätzliche Einschränkungen möglich."
+            },
+            {
+              "type": "p",
+              "text": "Bei RTSA stehen die Anpassung des Deltamuskels und die Kontrolle des Schulterblatts im Mittelpunkt. Zu frühe Belastung kann auch Akromion und Spina scapulae überlasten."
             }
           ],
           "divider": false
@@ -1303,6 +1351,10 @@
             {
               "type": "p",
               "text": "Autofahren setzt sichere Armkontrolle, das Ablegen der Schlinge und ärztliche Zustimmung voraus. Büroarbeit und körperlich schwere Tätigkeiten haben unterschiedliche Voraussetzungen. Schwere Lasten oder Kontaktsport können dauerhaft eingeschränkt bleiben."
+            },
+            {
+              "type": "p",
+              "text": "Schlinge nicht eigenständig ablegen, Bewegungen nicht erzwingen und schweres Abstützen oder Krafttraining nicht ohne Freigabe beginnen."
             }
           ],
           "divider": false
@@ -1317,6 +1369,10 @@
             {
               "type": "p",
               "text": "Patienten aus anderen Regionen und Ländern sollten Aufenthaltsdauer, Reha, Röntgenkontrollen und Notfallversorgung vor der Operation planen. Eine Fernberatung ersetzt erforderliche persönliche Untersuchungen nicht."
+            },
+            {
+              "type": "p",
+              "text": "Für Patienten aus Polen, Deutschland, Tschechien oder anderen Ländern sollten Reha, Röntgenkontrollen und die Versorgung bei möglichen Komplikationen am Wohnort vorab geplant werden."
             }
           ],
           "divider": false
@@ -1345,6 +1401,10 @@
             {
               "type": "p",
               "text": "Der publizierte Fall betrifft einen ukrainischen Soldaten mit ausgeprägter posttraumatischer Omarthrose, Schmerzen und Funktionsverlust. Die inverse Schulterprothese wurde an der Universitätsklinik der NMU mit dem Ziel von Schmerzlinderung und Funktionsverbesserung eingesetzt. Verifizierte Langzeitergebnisse liegen nicht vor."
+            },
+            {
+              "type": "p",
+              "text": "Die Abbildungen zeigen die Situation vor und nach der inversen Schulterendoprothese. Aus den Bildern allein darf kein gemessener Langzeiterfolg abgeleitet werden."
             }
           ],
           "divider": false,
@@ -1486,6 +1546,10 @@
             {
               "type": "p",
               "text": "Dr. Maksym Baida beurteilt Symptome, Bildgebung, Rotatorenmanschette und Behandlungsmöglichkeiten. Nicht jeder Schulterschmerz erfordert eine Prothese. Anfragen aus Kyjiw, der Ukraine und dem Ausland sind möglich."
+            },
+            {
+              "type": "p",
+              "text": "Die Beratung behandelt auch nichtoperative Alternativen, Implantatwahl bei Indikation und realistische Erwartungen. Ziel ist eine fundierte Entscheidung, nicht automatisch die Empfehlung einer Prothese."
             }
           ],
           "divider": false
