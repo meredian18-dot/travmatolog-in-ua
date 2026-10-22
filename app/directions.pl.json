@@ -919,6 +919,10 @@
                 "Wybrane zapalne choroby stawów ze zmianami strukturalnymi",
                 "Bolesna dysfunkcja po wcześniejszych operacjach przy ograniczonych alternatywach"
               ]
+            },
+            {
+              "type": "p",
+              "text": "Endoproteza nie jest standardowym rozwiązaniem dla każdego schorzenia barku. Wskazania zależą od bólu, utraty funkcji, badań obrazowych, skuteczności wcześniejszego leczenia oraz celów pacjenta."
             }
           ],
           "divider": false,
@@ -986,6 +990,10 @@
                 "Odpowiednie podparcie kostne i możliwość odtworzenia anatomii",
                 "Wybrane przypadki zmian pourazowych lub martwicy"
               ]
+            },
+            {
+              "type": "p",
+              "text": "Zaletą ATSA jest możliwość odtworzenia biomechaniki zbliżonej do naturalnej. Ważne są sprawny stożek rotatorów i możliwość stabilnego odtworzenia anatomii stawu."
             }
           ],
           "divider": false
@@ -1010,6 +1018,10 @@
                 "Duża deformacja lub ubytek kostny panewki",
                 "Wybrane operacje rewizyjne"
               ]
+            },
+            {
+              "type": "p",
+              "text": "Endoproteza odwrócona nie naprawia nieodwracalnie uszkodzonych ścięgien ani nie gwarantuje pełnego zakresu ruchu. Unoszenie i rotacja zewnętrzna zależą od mięśnia naramiennego, pozostałej funkcji stożka i unerwienia."
             }
           ],
           "divider": false
@@ -1061,6 +1073,10 @@
                 "MRI do oceny ścięgien, retrakcji i mięśni",
                 "USG do oceny ciągłości ścięgien według wskazań"
               ]
+            },
+            {
+              "type": "p",
+              "text": "Nie każdy pacjent potrzebuje TK, MRI i USG. Zakres diagnostyki ustala się indywidualnie zgodnie z problemem klinicznym i planem operacji."
             }
           ],
           "divider": false
@@ -1084,6 +1100,10 @@
                 "Rozważenie augmentów, przeszczepów i specjalnych elementów",
                 "Indywidualne prowadnice w wybranych przypadkach"
               ]
+            },
+            {
+              "type": "p",
+              "text": "Model 3D pomaga planować rozmiar, ustawienie i orientację implantu oraz sposób korekcji ubytków kości. Planowanie komputerowe nie zastępuje oceny klinicznej chirurga."
             }
           ],
           "divider": false
@@ -1098,6 +1118,10 @@
             {
               "type": "p",
               "text": "Komponent ramienny może mieć trzpień lub konstrukcję beztrzpieniową, zależnie od anatomii i jakości kości. Stabilne zamocowanie elementu panewkowego wymaga odpowiedniego podparcia. Przy dużych ubytkach można rozważyć augmenty, przeszczepy lub specjalne rekonstrukcje."
+            },
+            {
+              "type": "p",
+              "text": "Marka implantu nie jest najważniejszym kryterium. Liczą się dopasowanie konstrukcji do warunków kostnych i możliwość uzyskania stabilnego mocowania."
             }
           ],
           "divider": false
@@ -1152,6 +1176,10 @@
                 "Uszkodzenie nerwu pachowego lub splotu ramiennego",
                 "Krwawienie, krwiak, problemy z raną, zakrzepica, ryzyko znieczulenia i sztywność"
               ]
+            },
+            {
+              "type": "p",
+              "text": "Ryzyko powikłań zależy od chorób współistniejących, podstawowej patologii, jakości kości, implantu, złożoności zabiegu i wcześniejszych operacji. Nie można obiecać całkowitego braku komplikacji."
             }
           ],
           "divider": false
@@ -1200,6 +1228,10 @@
             {
               "type": "p",
               "text": "Oczekiwany wynik zależy od wyjściowej ruchomości, czasu trwania choroby, mięśni i wcześniejszych operacji. RTSA może poprawić czynne unoszenie bez pełnego przywrócenia rotacji zewnętrznej i ruchów złożonych. Kontrole RTG są istotne nawet bez dolegliwości, gdyż zmiany mogą rozwijać się bezobjawowo."
+            },
+            {
+              "type": "p",
+              "text": "Główne cele to zmniejszenie bólu, poprawa snu i łatwiejsze wykonywanie codziennych czynności. Długotrwała funkcja zależy między innymi od stabilności implantu, kości, obciążeń i powikłań; kontrole są potrzebne nawet bez dolegliwości."
             }
           ],
           "divider": false
@@ -1238,6 +1270,10 @@
             {
               "type": "p",
               "text": "W pierwszych dniach najważniejsze są leczenie bólu, kontrola rany, ochrona gojących się tkanek i zapobieganie powikłaniom. Długość stosowania temblaka oraz początek ruchów biernych i wspomaganych ustala chirurg zależnie od zabiegu i naprawionych ścięgien."
+            },
+            {
+              "type": "p",
+              "text": "Po leczeniu złamań lub operacjach rewizyjnych rehabilitacja może wymagać wolniejszego tempa i dodatkowych ograniczeń. Wczesne ruchy palców i nadgarstka nie oznaczają swobodnych ruchów barku."
             }
           ],
           "divider": false
@@ -1261,6 +1297,10 @@
                 "3–6 miesięcy: stopniowe wzmacnianie i ćwiczenia funkcjonalne",
                 "Po 6 miesiącach: dalszy rozwój siły i koordynacji"
               ]
+            },
+            {
+              "type": "p",
+              "text": "Podane okresy są orientacyjne i nie stanowią automatycznej zgody na zwiększanie obciążeń. Najważniejszy jest indywidualny protokół chirurga."
             }
           ],
           "divider": false
@@ -1275,6 +1315,10 @@
             {
               "type": "p",
               "text": "Jeżeli ścięgno mięśnia podłopatkowego zostało odłączone i naprawione, zbyt wczesne obciążenie zagraża gojeniu. Ograniczenia rotacji zewnętrznej, rotacji wewnętrznej z oporem i rozciągania zależą od techniki naprawy."
+            },
+            {
+              "type": "p",
+              "text": "Ograniczenia zależą od tego, czy ścięgno mięśnia podłopatkowego odłączano i naprawiano, jakości naprawy oraz innych rekonstruowanych tkanek."
             }
           ],
           "divider": false
@@ -1289,6 +1333,10 @@
             {
               "type": "p",
               "text": "Po RTSA nie należy przedwcześnie sięgać daleko za plecy ani mocno odpychać się ręką od krzesła. Po leczeniu złamania ważne jest gojenie guzków kości ramiennej, a po rewizji często konieczne są dodatkowe ograniczenia."
+            },
+            {
+              "type": "p",
+              "text": "Rehabilitacja po RTSA obejmuje adaptację mięśnia naramiennego i kontrolę łopatki. Zbyt wczesne przeciążenie może również nadmiernie obciążać wyrostek barkowy i grzebień łopatki."
             }
           ],
           "divider": false
@@ -1303,6 +1351,10 @@
             {
               "type": "p",
               "text": "Do prowadzenia samochodu potrzebna jest bezpieczna kontrola ręki, zakończenie stosowania temblaka i zgoda lekarza. Praca biurowa i fizyczna mają różne wymagania. Duże obciążenia i sporty kontaktowe mogą pozostać ograniczone."
+            },
+            {
+              "type": "p",
+              "text": "Nie należy samodzielnie zdejmować temblaka, wymuszać ruchów, mocno podpierać się operowaną ręką ani zaczynać ćwiczeń siłowych bez zgody lekarza."
             }
           ],
           "divider": false
@@ -1317,6 +1369,10 @@
             {
               "type": "p",
               "text": "Pacjenci z innych regionów i krajów powinni wcześniej uzgodnić czas pobytu, rehabilitację, kontrolne RTG i sposób uzyskania pomocy w razie objawów alarmowych. Porady zdalne nie zastępują wymaganych badań osobistych."
+            },
+            {
+              "type": "p",
+              "text": "Pacjenci z Polski, Niemiec, Czech i innych krajów powinni wcześniej zaplanować rehabilitację, kontrolne RTG i dostęp do pomocy medycznej w razie powikłań po powrocie."
             }
           ],
           "divider": false
@@ -1345,6 +1401,10 @@
             {
               "type": "p",
               "text": "Opublikowany przypadek dotyczy ukraińskiego żołnierza z ciężką pourazową chorobą zwyrodnieniową barku, bólem i ograniczeniem funkcji. W Klinice Uniwersyteckiej NMU wykonano RTSA w celu poprawy szans na zmniejszenie bólu i odzyskanie sprawności. Brak potwierdzonych pomiarów wyników odległych."
+            },
+            {
+              "type": "p",
+              "text": "Zdjęcia przedstawiają stan przed operacją i po wszczepieniu protezy odwróconej. Same radiogramy nie potwierdzają określonego odległego wyniku funkcjonalnego."
             }
           ],
           "divider": false,
@@ -1486,6 +1546,10 @@
             {
               "type": "p",
               "text": "Dr Maksym Baida ocenia objawy, badania obrazowe, stożek rotatorów i dostępne metody leczenia. Nie każdy bolesny bark wymaga endoprotezy. Pacjenci z Kijowa, całej Ukrainy i zagranicy mogą umówić konsultację."
+            },
+            {
+              "type": "p",
+              "text": "Konsultacja obejmuje również alternatywy dla operacji, wybór implantu w razie wskazań i realistyczne oczekiwania. Celem jest trafna decyzja kliniczna, a nie automatyczne zalecanie endoprotezy."
             }
           ],
           "divider": false
