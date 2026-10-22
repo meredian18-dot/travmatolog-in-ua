@@ -907,6 +907,18 @@
             {
               "type": "p",
               "text": "Indications require more than an imaging diagnosis: pain severity, functional limitation, structural damage and the expected benefit of joint-preserving options must be assessed together. For a complex proximal humerus fracture, fixation versus replacement depends on reconstructability, vascularity and prognosis. Osteonecrosis, inflammatory disease and previous surgery require separate evaluation."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Advanced shoulder osteoarthritis with pain and stiffness",
+                "Cuff tear arthropathy with altered shoulder biomechanics",
+                "Selected complex proximal humeral fractures with poor reconstruction prognosis",
+                "Post-traumatic arthritis and malunion deformities",
+                "Humeral head osteonecrosis with articular collapse",
+                "Selected inflammatory arthritides with structural joint damage",
+                "Painful dysfunction following earlier surgery when reconstructive options are limited"
+              ]
             }
           ],
           "divider": false,
@@ -922,6 +934,16 @@
             {
               "type": "p",
               "text": "Difficulty dressing, washing or combing hair, inability to actively elevate the arm and poor sleep are important reasons to seek assessment. Examination distinguishes true stiffness from weakness caused by tendon or nerve dysfunction."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Persistent or worsening shoulder pain, especially at night",
+                "Difficulty lifting the arm, dressing or attending to personal hygiene",
+                "Substantial loss of motion, weakness or inability to actively elevate the arm",
+                "Consequences of fractures, advanced arthritis or osteonecrosis",
+                "Inadequate relief from previous treatment"
+              ]
             }
           ],
           "divider": false
@@ -956,6 +978,14 @@
             {
               "type": "p",
               "text": "Anatomic replacement relies on cuff-centred joint mechanics. Tear size, tendon repairability, muscle quality and bone support must be assessed; a small repairable cuff lesion does not automatically rule out ATSA."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Advanced arthritis with a competent or reconstructable rotator cuff",
+                "Adequate bone support and restorable joint anatomy",
+                "Selected cases of post-traumatic arthritis or osteonecrosis"
+              ]
             }
           ],
           "divider": false
@@ -970,6 +1000,16 @@
             {
               "type": "p",
               "text": "RTSA can be appropriate for cuff tear arthropathy, massive irreparable tears, selected pseudoparalysis with preserved passive movement, fractures and revisions. Adequate deltoid function, innervation and stable fixation are vital. Improvements in elevation do not automatically restore external rotation, which also depends on the infraspinatus and teres minor."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Cuff tear arthropathy or painful massive irreparable tendon tears",
+                "Selected pseudoparalysis with preserved passive movement",
+                "Complex proximal humeral fractures and their sequelae",
+                "Advanced arthritis with severe glenoid deformity or bone deficiency",
+                "Selected revision shoulder arthroplasty procedures"
+              ]
             }
           ],
           "divider": false
@@ -984,6 +1024,15 @@
             {
               "type": "p",
               "text": "Cuff assessment includes tendon retraction, muscle atrophy and fatty degeneration, the subscapularis, deltoid function, and differences between active and passive range of motion. The presence of a tendon tear alone is not sufficient to choose an implant."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Tear size, location and reparability",
+                "Tendon retraction, muscle atrophy and fatty degeneration",
+                "Subscapularis and deltoid function",
+                "Active versus passive motion and bone quality"
+              ]
             }
           ],
           "divider": false
@@ -1003,6 +1052,15 @@
             {
               "type": "p",
               "text": "Standard radiographs, including scapular-plane and axillary views, demonstrate joint-space loss, osteophytes, deformity and joint alignment. CT is particularly valuable for glenoid version, inclination, bone loss, complex post-traumatic deformity and revisions. MRI evaluates tendon retraction and muscle degeneration; ultrasound can assess tendon continuity when appropriate."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Radiographs in suitable projections assess arthritis and deformity",
+                "CT assesses glenoid version, inclination, erosion and bone defects",
+                "MRI evaluates tendon damage, retraction and muscle degeneration",
+                "Ultrasound can assess tendon integrity when appropriate"
+              ]
             }
           ],
           "divider": false
@@ -1017,6 +1075,15 @@
             {
               "type": "p",
               "text": "CT-based 3D planning can estimate correction of glenoid version and inclination, component position and the bone available for fixation. Augmented components, bone grafting and patient-specific guides are considered selectively. Three-dimensional planning is not required for every patient."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Plan glenoid component orientation and fixation",
+                "Estimate deformity correction and remaining bone support",
+                "Assess augments, bone grafts or specialised components",
+                "Consider patient-specific guides when indicated"
+              ]
             }
           ],
           "divider": false
@@ -1045,6 +1112,16 @@
             {
               "type": "p",
               "text": "The deltopectoral approach follows the interval between the deltoid and pectoralis major. The surgeon evaluates bone and soft tissues, prepares both sides of the joint, implants components and verifies stability and motion. ATSA may involve subscapularis takedown and repair; RTSA requires careful glenosphere orientation, baseplate anchorage, soft-tissue tension and deltoid balance."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Expose the joint and assess bone and soft tissues",
+                "Prepare the humerus and glenoid",
+                "Place the selected implant components",
+                "Assess stability and range of motion",
+                "Repair relevant soft tissues when indicated"
+              ]
             }
           ],
           "divider": false
@@ -1064,6 +1141,17 @@
             {
               "type": "p",
               "text": "Shoulder prosthetic infection can be subtle, particularly with Cutibacterium acnes; diagnosis may be difficult and management can require repeat surgery or component exchange. Instability depends on component orientation and soft tissues. Periprosthetic fractures may follow surgery or falls. Axillary nerve or brachial plexus injury can impair strength and sensation."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Prosthetic joint infection, sometimes indolent with Cutibacterium acnes",
+                "Dislocation or instability",
+                "Wear or loosening of prosthetic components",
+                "Periprosthetic fractures during or after surgery",
+                "Axillary nerve or brachial plexus injury",
+                "Bleeding, haematoma, wound complications, thromboembolism, anaesthesia risks and stiffness"
+              ]
             }
           ],
           "divider": false
@@ -1088,6 +1176,16 @@
             {
               "type": "p",
               "text": "Risk reduction involves correct indications, management of comorbidities and active infections, surgical planning, component fixation, infection prevention, individual rehabilitation and follow-up. Risks cannot be completely removed."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Correct indication and optimisation of other health conditions",
+                "Treatment of active infections before elective surgery",
+                "Careful implant selection and surgical planning",
+                "Accurate positioning and stable fixation",
+                "Infection prevention, tailored rehabilitation and ongoing reviews"
+              ]
             }
           ],
           "divider": false
@@ -1112,6 +1210,15 @@
             {
               "type": "p",
               "text": "Seek urgent advice for fever and wound drainage, sudden severe pain or deformity, abrupt functional decline or new marked numbness. Chest pain or significant shortness of breath requires emergency care."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Fever, chills, increasing redness or wound discharge",
+                "Sudden severe pain, deformity or abrupt loss of function",
+                "New marked weakness or altered sensation",
+                "Sudden chest pain or shortness of breath requires emergency care"
+              ]
             }
           ],
           "divider": false
@@ -1145,6 +1252,15 @@
             {
               "type": "p",
               "text": "During early protection avoid abrupt movements, lifting and weight-bearing through the arm. Later stages progress from assisted to active movement and scapular control before graduated strengthening and endurance work. Heavy manual work and sport require individual assessment."
+            },
+            {
+              "type": "list",
+              "items": [
+                "0–6 weeks: tissue protection, pain control, allowed assisted motion",
+                "6–12 weeks: gradual active movement and simple self-care",
+                "3–6 months: graded strengthening and functional training",
+                "After 6 months: continued gains in strength and coordination"
+              ]
             }
           ],
           "divider": false
