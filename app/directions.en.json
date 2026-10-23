@@ -4804,424 +4804,14 @@
       ]
     },
     "limb-lengthening": {
-      "title": "Height Increase and Aesthetic Limb Lengthening",
-      "lead": "Surgical height increase with individualized planning of body proportions, controlled bone lengthening, and staged functional recovery.",
-      "intro": "Aesthetic limb lengthening allows an increase in height through the gradual lengthening of the thigh bones and/or shin bones.",
+      "title": "Cosmetic Height Increase — Surgical Lower Limb Lengthening",
+      "lead": "Individualised femoral or tibial lengthening requires careful selection, prolonged bone healing, physiotherapy and monitoring. Significant complications are possible.",
+      "intro": "Cosmetic limb lengthening uses the body's ability to form new bone during gradual distraction. It is a prolonged elective orthopaedic treatment—not a quick cosmetic procedure—and a patient's safety and function must take priority over centimetres.",
       "hero": "limb-lengthening-hero.jpg",
       "gallery": [],
       "blocks": [
         {
-          "heading": null,
-          "body": [
-            {
-              "type": "p",
-              "text": "This is not a routine cosmetic procedure. The process requires orthopedic planning, surgery, gradual bone lengthening, regular monitoring, and subsequent recovery of limb function."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Can height be increased surgically?",
-          "body": [
-            {
-              "type": "p",
-              "text": "Yes."
-            },
-            {
-              "type": "p",
-              "text": "The method is based on the ability of bone tissue to form new bone when it is gradually and controllably lengthened."
-            },
-            {
-              "type": "p",
-              "text": "During surgery, a controlled osteotomy separates the bone, and a system is installed that allows the distance between the bone fragments to be gradually increased afterward."
-            },
-            {
-              "type": "p",
-              "text": "New bone tissue gradually forms in the resulting gap."
-            },
-            {
-              "type": "p",
-              "text": "In this way, limb length is increased not by inserting a \"longer bone\" or an implant, but through the gradual formation of the patient's own new bone tissue."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "How many centimeters can be added to height?",
-          "body": [
-            {
-              "type": "p",
-              "text": "This is one of the first questions that comes up when planning aesthetic limb lengthening."
-            },
-            {
-              "type": "p",
-              "text": "But proper planning does not start with the maximum possible number of centimeters."
-            },
-            {
-              "type": "p",
-              "text": "Before determining the target lengthening, it is necessary to assess:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "baseline height",
-                "length of the thighs and shins",
-                "proportions of the lower limbs and torso",
-                "limb axis",
-                "condition of the hip, knee, and ankle joints",
-                "condition of the bone tissue",
-                "joint mobility",
-                "the ability of the muscles and other soft tissues to adapt to lengthening",
-                "patient expectations"
-              ]
-            },
-            {
-              "type": "p",
-              "text": "The goal is not to achieve the maximum number of centimeters at any cost, but to determine a well-founded lengthening that accounts for anatomy, proportions, and safety."
-            }
-          ],
-          "divider": false,
-          "diagram": "limb-lengthening-planning.jpg"
-        },
-        {
-          "heading": "Thigh or shin?",
-          "body": [
-            {
-              "type": "p",
-              "text": "Height increase can be achieved by lengthening the thigh bones (femurs) or the shin bones (tibias)."
-            },
-            {
-              "type": "p",
-              "text": "This is not simply a choice of where to operate."
-            },
-            {
-              "type": "p",
-              "text": "The thigh and shin have different anatomy, are surrounded by different muscle groups, affect limb proportions differently, and each has its own recovery characteristics."
-            },
-            {
-              "type": "p",
-              "text": "That is why planning considers not only the desired number of centimeters, but also how lengthening a particular segment will change the body's overall proportions."
-            },
-            {
-              "type": "p",
-              "text": "In some cases the goal can be achieved by lengthening a single segment. A greater increase in height may require a different strategy and, under the appropriate conditions, separate stages of treatment."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "How height increase works",
-          "body": [
-            {
-              "type": "p",
-              "text": "The process consists of several consecutive stages."
-            }
-          ],
-          "divider": false,
-          "diagram": "limb-lengthening-stages.jpg"
-        },
-        {
-          "heading": "01 — Planning",
-          "body": [
-            {
-              "type": "p",
-              "text": "We assess the anatomy, segment lengths, lower-limb axis, joint condition, and body proportions."
-            },
-            {
-              "type": "p",
-              "text": "We discuss the desired outcome and define a realistic, individualized goal."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "02 — Surgery",
-          "body": [
-            {
-              "type": "p",
-              "text": "A controlled osteotomy of the bone is performed, and a system is installed for its subsequent gradual lengthening."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "03 — Lengthening period",
-          "body": [
-            {
-              "type": "p",
-              "text": "After the initial postoperative period, the gradual lengthening of the bone begins."
-            },
-            {
-              "type": "p",
-              "text": "The process proceeds in small increments and is monitored with regular check-ups and X-rays."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "04 — New bone formation",
-          "body": [
-            {
-              "type": "p",
-              "text": "Once the planned length has been reached, lengthening is stopped."
-            },
-            {
-              "type": "p",
-              "text": "The newly formed bone tissue gradually matures and gains sufficient strength."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "05 — Functional recovery",
-          "body": [
-            {
-              "type": "p",
-              "text": "Throughout the entire process, it is important to maintain joint mobility and muscle function."
-            },
-            {
-              "type": "p",
-              "text": "After lengthening is complete, the gradual restoration of strength, walking, and physical activity continues."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Internal lengthening nail or external fixator?",
-          "body": [
-            {
-              "type": "p",
-              "text": "Various technologies exist for bone lengthening."
-            },
-            {
-              "type": "p",
-              "text": "External fixators have traditionally been used. A modern alternative in certain cases is internal intramedullary lengthening systems, which are placed inside the bone."
-            },
-            {
-              "type": "p",
-              "text": "The choice of technology depends on:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "the segment planned for lengthening",
-                "bone anatomy",
-                "the planned amount of lengthening",
-                "the capabilities of the specific system",
-                "previous surgeries",
-                "individual patient characteristics"
-              ]
-            },
-            {
-              "type": "p",
-              "text": "The technology should be selected to fit the treatment plan, not the other way around."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Proportions matter",
-          "body": [
-            {
-              "type": "p",
-              "text": "In aesthetic limb lengthening, the final height number is not the only thing that matters."
-            },
-            {
-              "type": "p",
-              "text": "Changing the length of the thigh or shin changes the ratio between the lower-limb segments and the body's overall proportions."
-            },
-            {
-              "type": "p",
-              "text": "That is why, even before surgery, it is important to assess how the planned lengthening will affect the patient's appearance and proportions."
-            },
-            {
-              "type": "p",
-              "text": "In appropriate cases, digital planning allows different lengthening options to be modeled in advance and discussed with the patient."
-            },
-            {
-              "type": "p",
-              "text": "An aesthetic result is not only about becoming taller, but also about preserving a natural sense of body proportions."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "What happens to the muscles and soft tissues?",
-          "body": [
-            {
-              "type": "p",
-              "text": "It is not only the bone that is lengthened."
-            },
-            {
-              "type": "p",
-              "text": "As the segment increases in length, the muscles, tendons, blood vessels, nerves, and other soft tissues gradually adapt."
-            },
-            {
-              "type": "p",
-              "text": "It is precisely their ability to adapt that is one of the factors determining the acceptable pace and extent of lengthening."
-            },
-            {
-              "type": "p",
-              "text": "That is why, during treatment, the following are monitored:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "joint mobility",
-                "muscle balance",
-                "neurological status",
-                "new bone tissue formation",
-                "overall limb function"
-              ]
-            },
-            {
-              "type": "p",
-              "text": "If necessary, the pace of lengthening can be adjusted."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Rehabilitation is part of the treatment itself",
-          "body": [
-            {
-              "type": "p",
-              "text": "In aesthetic limb lengthening, rehabilitation does not begin after treatment is finished."
-            },
-            {
-              "type": "p",
-              "text": "It is part of the treatment from the very start."
-            },
-            {
-              "type": "p",
-              "text": "During the lengthening process, it is especially important to maintain mobility of the hip, knee, and ankle joints and to prevent the formation of contractures."
-            },
-            {
-              "type": "p",
-              "text": "The recovery program changes according to the stage of treatment and includes controlled exercises, work on mobility and muscle function, and a gradual increase in load."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "How long does the entire process take?",
-          "body": [
-            {
-              "type": "p",
-              "text": "Aesthetic limb lengthening is not a procedure with results in a few weeks."
-            },
-            {
-              "type": "p",
-              "text": "The full path includes:"
-            },
-            {
-              "type": "p",
-              "text": "preparation → surgery → gradual lengthening → formation and maturation of new bone → functional recovery."
-            },
-            {
-              "type": "p",
-              "text": "The duration depends on the amount of lengthening, the segment chosen, the technology used, the speed of new bone tissue formation, and the individual course of recovery."
-            },
-            {
-              "type": "p",
-              "text": "That is why, even before making a decision, the patient should understand not only the expected change in height, but also the time and personal involvement the entire process will require."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Our approach",
-          "body": [],
-          "divider": true
-        },
-        {
-          "heading": "We don't start with centimeters",
-          "body": [
-            {
-              "type": "p",
-              "text": "We first assess the anatomy, proportions, and condition of the bones and joints. Only after that do we define a well-founded lengthening goal."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "We plan for proportions",
-          "body": [
-            {
-              "type": "p",
-              "text": "Height increase should be evaluated not in isolation, but in the context of the ratio between thigh, shin, and torso length."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "We monitor the entire process",
-          "body": [
-            {
-              "type": "p",
-              "text": "Surgery is only the beginning. New bone formation, the condition of soft tissues, joint mobility, and function are monitored throughout the entire lengthening period."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Safety matters more than the maximum number",
-          "body": [
-            {
-              "type": "p",
-              "text": "The desire to gain more centimeters is understandable, but increasing the target lengthening simultaneously increases the demands placed on the bone, muscles, nerves, joints, and rehabilitation process."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Aesthetic goal + orthopedic principles",
-          "body": [
-            {
-              "type": "p",
-              "text": "The patient's motivation may be aesthetic. But the way the result is achieved remains a full-fledged orthopedic reconstructive procedure."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Risks and limitations",
-          "body": [
-            {
-              "type": "p",
-              "text": "Aesthetic limb lengthening is a serious surgical treatment and carries potential risks."
-            },
-            {
-              "type": "p",
-              "text": "These may include:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "delayed new bone tissue formation",
-                "restricted joint movement",
-                "muscle contractures",
-                "pain",
-                "sensory disturbances or other neurological symptoms",
-                "problems with the fixation device",
-                "infectious complications",
-                "the need for additional surgical interventions",
-                "recovery taking longer than expected"
-              ]
-            },
-            {
-              "type": "p",
-              "text": "The risk of complications depends on the amount of lengthening, the method chosen, anatomy, and the individual response of the body."
-            },
-            {
-              "type": "p",
-              "text": "The decision to undergo aesthetic limb lengthening should be made only after a detailed discussion not only of the desired result, but of the entire process, its limitations, and its possible risks."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "International patients: planning the full treatment journey",
+          "heading": "What is surgical height increase?",
           "divider": true,
           "body": []
         },
@@ -5231,198 +4821,704 @@
           "body": [
             {
               "type": "p",
-              "text": "Patients living outside Ukraine can start with a remote discussion of their health history, existing radiographs, expected height increase and practical ability to remain close to the treatment centre. A remote review cannot replace an in-person assessment of joints, gait, nerve function and bone anatomy before surgery."
+              "text": "Cosmetic limb lengthening is an orthopaedic procedure that gradually increases the length of the femur or tibia. Following a controlled osteotomy, distraction osteogenesis produces the patient's own new bone between the fragments. The procedure is not an instant stretching of an existing bone."
             },
             {
               "type": "p",
-              "text": "Cosmetic limb lengthening is not a short surgical trip. The plan must cover the distraction phase, regular imaging, physiotherapy, restricted weight bearing, accommodation, assistance with daily activities and access to urgent medical care."
+              "text": "Muscles, tendons, nerves, blood vessels and skin must adapt as the bone becomes longer. Their tolerance and joint function may limit lengthening even when the regenerate looks satisfactory on radiographs."
             },
             {
               "type": "p",
-              "text": "Depending on confirmed clinical capacity and organisational circumstances, treatment may be considered in Kyiv or in relatively safer western regions of Ukraine. No location in Ukraine can guarantee complete safety; travel advisories and current conditions must be considered."
+              "text": "Therapeutic limb lengthening addresses true limb shortening, congenital conditions and post-traumatic deformity. Cosmetic height increase is performed in individuals without pathological shortening and is generally not medically necessary."
             },
             {
               "type": "p",
-              "text": "Before returning to Poland, Germany, Czechia or another country, the patient and surgical team should agree on a local orthopaedic clinician, a physiotherapist, radiographic follow-up and a plan for complications. Remote communication supplements but does not replace required in-person examinations."
+              "text": "This is a lengthy treatment pathway—assessment, surgery, distraction, consolidation and rehabilitation—not an ordinary cosmetic operation. Pain, reduced mobility, contractures, nerve injury, infection and further surgery remain possible."
+            },
+            {
+              "type": "p",
+              "text": "The goal is an individually justified improvement in height, not the greatest number of centimetres at the expense of safety or limb function."
             }
           ]
         },
         {
-          "heading": "Frequently asked questions",
-          "body": [],
-          "divider": true
+          "heading": "Who may be considered for surgery?",
+          "divider": true,
+          "body": []
         },
         {
-          "heading": "How many centimeters can I realistically gain in height?",
+          "heading": null,
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "There are technical possibilities for bone lengthening, but there is no universal safe figure for every patient."
+              "text": "Cosmetic lengthening may be considered in adults with completed skeletal growth, suitable general and orthopaedic health, realistic expectations and the resources to undergo prolonged treatment. Wanting to be taller alone does not establish suitability."
             },
             {
               "type": "p",
-              "text": "The target is determined individually, taking into account the segment, proportions, condition of the soft tissues and joints, and other factors."
+              "text": "Skeletal maturity and closure of relevant growth plates must be confirmed where necessary. Assessment includes bone lengths and alignment, hip/knee/ankle range of motion, muscle strength and flexibility, sensation, peripheral circulation and gait."
+            },
+            {
+              "type": "p",
+              "text": "Medical history must address chronic illness, medications, previous surgery, infection, thrombosis and conditions affecting bone healing or anaesthetic risk. Treatable conditions may require optimisation before any decision."
+            },
+            {
+              "type": "p",
+              "text": "A structured psychological assessment is advisable, with mental health referral when indicated. The patient should understand that surgery cannot guarantee improved self-esteem, relationships or quality of life."
+            },
+            {
+              "type": "p",
+              "text": "Regular imaging, physiotherapy, restrictions on weight bearing, mobility aids, domestic support and financial provision for complications must be realistic. No universally accepted minimum height is an automatic indication; unusually short stature may need investigation of its cause."
+            },
+            {
+              "type": "p",
+              "text": "The consultation is an opportunity to decide not to proceed. Meeting initial criteria never guarantees a recommendation for surgery."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Can I simply say, \"I want +10 cm\"?",
+          "heading": "When is surgery not recommended?",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "This can be stated as a desired goal, but it should not automatically become the surgical plan."
+              "text": "Because the operation is elective and usually not medically necessary, the threshold for acceptable risk should be especially demanding. Technical feasibility alone does not justify proceeding."
             },
             {
               "type": "p",
-              "text": "It must first be assessed whether this amount of lengthening is well-founded for the specific anatomy, and by what path it could potentially be achieved."
+              "text": "Surgery should not proceed with open growth plates, absent valid informed consent or decision-making capacity, unacceptable operative or anaesthetic risk, or without reliable access to monitoring and rehabilitation."
+            },
+            {
+              "type": "p",
+              "text": "Severe peripheral vascular disease, metabolic bone disorders, marked osteoporosis, poorly controlled systemic illness, high thromboembolic risk, neuropathy and major established joint contractures may make elective lengthening inappropriate. Each condition requires individual evaluation rather than a simplistic blanket rule."
+            },
+            {
+              "type": "p",
+              "text": "Active infection, uncontrolled diabetes, nutritional deficiency, correctable disturbances in bone metabolism, current nicotine use and incomplete recovery from recent illness or surgery generally warrant postponement and optimisation."
+            },
+            {
+              "type": "p",
+              "text": "Age and body weight require individual assessment; there is no single upper-age cut-off or body mass index that alone determines suitability. Bone quality, muscle status and implant-specific load limits matter."
+            },
+            {
+              "type": "p",
+              "text": "Unrealistic expectations, coercion, body dysmorphic symptoms and uncontrolled psychiatric illness require careful specialist evaluation. A psychiatric diagnosis alone is not invariably an absolute contraindication; current capacity, stability and anticipated cooperation are relevant."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Which is better to lengthen — the thighs or the shins?",
+          "heading": "How bone lengthening works",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
+          "diagram": "limb-lengthening-stages.jpg",
           "body": [
             {
               "type": "p",
-              "text": "There is no universal answer."
+              "text": "Distraction osteogenesis applies the tension–stress principle associated with Gavriil Ilizarov. After a carefully planned osteotomy, gradually separating stabilised fragments allows vascularised new tissue—the bone regenerate—to form and mineralise."
             },
             {
               "type": "p",
-              "text": "The choice depends on the baseline proportions, anatomy, the desired amount of height increase, and the capabilities of the specific technology."
+              "text": "Treatment comprises the osteotomy and early healing, a latency phase (often around five to seven days in adults), active distraction, consolidation and longer-term remodelling. Timing depends on the bone, fixation and clinical circumstances."
+            },
+            {
+              "type": "p",
+              "text": "A traditional starting rate is approximately 1 mm per day, often divided into several increments. This is not a universal prescription. Excessively fast distraction may impair regeneration and strain nerves and muscles; excessively slow distraction may allow premature union."
+            },
+            {
+              "type": "p",
+              "text": "Radiographs assess regenerate density, shape, alignment and fixation. Examination also monitors joint motion, strength, pain, sensation and circulation. The rate may need adjustment, interruption or termination based on findings."
+            },
+            {
+              "type": "p",
+              "text": "Stable fixation is necessary, but mechanical conditions must suit the phase of healing. Nutrition, treatment of deficiencies and avoiding nicotine support healing; no supplement can guarantee quicker bone formation."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Can both the thighs and the shins be lengthened?",
+          "heading": "How many centimetres can height be increased?",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "There are strategies that involve lengthening different segments, but the necessity, sequence, and permissible extent of such procedures require separate planning."
+              "text": "There is no universally safe number of centimetres. The limit depends on original bone length, body proportions, soft-tissue adaptability, joint mobility, nerve function, bone quality and the selected device."
+            },
+            {
+              "type": "p",
+              "text": "Systematic reviews of cosmetic stature lengthening reported average gains of approximately 6.7 cm in the studied cohorts. An average from heterogeneous clinical series is not a safe target, a recommendation or a prediction for an individual."
+            },
+            {
+              "type": "p",
+              "text": "A range around 5–8 cm for one segment may arise in clinical discussions, but it is not a universal safe range; a smaller target may be more appropriate. Larger gains increase the burden of regeneration, contracture prevention and functional recovery."
+            },
+            {
+              "type": "p",
+              "text": "Relative lengthening matters: five centimetres is 10% of a 50-cm bone but about 14.3% of a 35-cm bone. Percentage alone cannot predict complications, but helps contextualise the change."
+            },
+            {
+              "type": "p",
+              "text": "A request for +10 cm does not justify forcing one segment beyond reasonable limits. Staged femoral and tibial operations may sometimes be discussed, with additional time, cost, operations and cumulative risk."
+            },
+            {
+              "type": "p",
+              "text": "Goals can be revised during distraction because of pain, neurological changes, contractures, poor regenerate, deformity or mechanical problems. After proper union, the additional bone length is generally retained, but functional recovery is a separate outcome."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Is the lengthening process painful?",
+          "heading": "Femoral or tibial lengthening?",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
+          "diagram": "limb-lengthening-planning.jpg",
           "body": [
             {
               "type": "p",
-              "text": "The surgery and the gradual lengthening process can be accompanied by pain and discomfort."
+              "text": "Both operations rely on distraction osteogenesis but expose different anatomical structures to strain. No segment is best or safest for everyone."
             },
             {
               "type": "p",
-              "text": "The intensity of sensations changes at different stages and varies between patients. Pain management and adjusting the treatment pace are part of the medical care provided."
+              "text": "Femoral lengthening may affect hip extension, knee flexion and the quadriceps, hamstring and adductor muscle groups. Contractures, pain, altered alignment, neurological complaints and gait changes require active surveillance."
+            },
+            {
+              "type": "p",
+              "text": "Tibial lengthening must take account of the fibula and its relationship to the knee and ankle. Depending on the technique, additional procedures and stabilisation may be required to maintain alignment and prevent adverse changes at the tibiofibular joints."
+            },
+            {
+              "type": "p",
+              "text": "The calf muscles, Achilles tendon, ankle dorsiflexion, foot position and common peroneal nerve are especially relevant during tibial distraction. Equinus contracture and neurological symptoms may limit progression."
+            },
+            {
+              "type": "p",
+              "text": "Lengthening either segment alters the ratio of legs to trunk; lengthening only the thighs or only the shins also changes femur-to-tibia proportions. There is no single ideal proportion that applies to everyone."
+            },
+            {
+              "type": "p",
+              "text": "Rehabilitation is tailored accordingly: hip and knee mobility are central after femoral lengthening, while ankle and foot function and equinus prevention receive particular emphasis after tibial lengthening."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Will I be able to walk during lengthening?",
+          "heading": "Can the femurs and tibias be lengthened in stages?",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "The ability to walk and the permissible level of weight-bearing depend on the device used, the segment, the stage of treatment, and how new bone formation is progressing."
+              "text": "For selected patients, staged treatment might involve bilateral femoral lengthening followed—after sufficient healing and functional recovery—by bilateral tibial lengthening, or a different individually justified order."
             },
             {
               "type": "p",
-              "text": "The walking regimen is determined individually and may change over the course of treatment."
+              "text": "Splitting the gain across segments does not make a large total gain automatically safe. It adds surgery, another period of restricted mobility, rehabilitation, costs and potential complications."
+            },
+            {
+              "type": "p",
+              "text": "Before considering another operation, reassess regenerate union, gait, joint range of motion, muscle strength, neurological status, pain, residual contracture and psychological readiness. There is no universally appropriate calendar interval."
+            },
+            {
+              "type": "p",
+              "text": "Simultaneous multisegment lengthening has been described, but four-segment distraction is especially demanding and should not be presented as standard cosmetic treatment."
+            },
+            {
+              "type": "p",
+              "text": "Total gains of 10 cm or more need particularly careful justification. Figures near 15 cm must never be presented as routine or guaranteed achievements."
+            },
+            {
+              "type": "p",
+              "text": "An initially planned second stage may be deferred or abandoned altogether if the first stage leaves significant functional limitations or changes the balance of benefits and risks."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Will scars remain?",
+          "heading": "Which lengthening systems are used?",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Any surgical procedure leaves postoperative scars."
+              "text": "Options include external fixation, fully implantable telescopic intramedullary nails, and combined external–internal methods. The system must both control distraction and maintain alignment while new bone forms."
             },
             {
               "type": "p",
-              "text": "Their number and location depend on the technology chosen. Scars change over time, but it is impossible to guarantee they will become completely unnoticeable."
+              "text": "Ring, monolateral and hexapod external fixators attach to bone through wires or pins crossing skin. Their capacity for multiplanar correction can be valuable, but prolonged wear, pin-site inflammation or infection, pain, scars and daily-care difficulties are important disadvantages."
+            },
+            {
+              "type": "p",
+              "text": "Intramedullary telescopic nails are placed within the medullary canal; some models are activated by an external magnetic controller. They avoid permanent transcutaneous pin sites, but do not eliminate pain, contractures, nerve complications, infection or impaired regenerate formation."
+            },
+            {
+              "type": "p",
+              "text": "Bone length and canal diameter, axis, locking options, nail stroke, device-specific weight-bearing limits and the patient's body mass determine eligibility. Mechanical malfunction, nail bending, breakage or failed distraction may require revision. An internal nail does not automatically permit full weight bearing."
+            },
+            {
+              "type": "p",
+              "text": "Combined methods such as lengthening over a nail (LON) or lengthening and then nailing (LATN) may reduce time in a frame but add operative procedures and infection-related concerns."
+            },
+            {
+              "type": "p",
+              "text": "Comparisons between implants and frames come from heterogeneous populations and techniques: one system's reported advantage is not a personal guarantee. Planned nail removal, when indicated, is another operation and must be considered at the outset."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "When can I return to work?",
+          "heading": "Preoperative assessment and planning",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "This depends on the nature of the work, the lengthening method used, and the stage of treatment."
+              "text": "Planning determines whether cosmetic lengthening is justified, which bone to treat, what gain may be reasonable, which fixation system is anatomically suitable and how to ensure follow-up and rehabilitation."
             },
             {
               "type": "p",
-              "text": "Remote or sedentary work and physically demanding professional activity require fundamentally different return timelines."
+              "text": "The first consultation explores previous injury or surgery, pain, chronic illness, medications, infections, thromboses, nicotine use, physical activity, employment and capacity for a prolonged stay near the treatment centre."
+            },
+            {
+              "type": "p",
+              "text": "Examination measures segment lengths, mechanical axis and deformities; hip, knee and ankle movement; muscle strength and flexibility; peripheral sensation and circulation; and gait."
+            },
+            {
+              "type": "p",
+              "text": "Standardised calibrated standing full-length radiographs of both lower limbs are central to measuring lengths, mechanical alignment and joint lines. Additional radiographs or CT may be useful for complex deformity or rotation, but CT is not mandatory for everyone."
+            },
+            {
+              "type": "p",
+              "text": "Body proportions include leg-to-trunk and femur-to-tibia relationships without imposing a single aesthetic ideal. The proposed target must account for relative lengthening, soft tissues, mechanical axis, implant properties and rehabilitation access."
+            },
+            {
+              "type": "p",
+              "text": "General assessment and blood tests are individualised: blood count, kidney function/electrolytes, glucose or HbA1c, coagulation tests and bone metabolism investigations are selected when indicated. Anaesthesia and venous thromboembolism risks require assessment; unnecessary routine testing is not inherently safer."
+            },
+            {
+              "type": "p",
+              "text": "The patient should receive an individualised plan covering the possible gain, risks, follow-up imaging, physiotherapy, permitted loading, costs and contingencies—or a recommendation not to proceed."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "When can I return to sports?",
+          "heading": "Psychological readiness and realistic expectations",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "A return to sports activity follows sufficient maturation of the new bone tissue and restoration of limb strength, mobility, and control."
+              "text": "Wanting to be taller is not in itself a psychological disorder. A respectful discussion should explore how long this wish has been present, why it matters and what the person hopes will change."
             },
             {
               "type": "p",
-              "text": "This is one of the later stages of recovery."
+              "text": "Patients need to understand that the planned gain is not assured; pain, restricted mobility, dependence on help and disruption to work may last months. Further procedures and enduring functional limitations remain possible."
+            },
+            {
+              "type": "p",
+              "text": "An increase in height does not guarantee improvements in confidence, relationships, employment or quality of life. Published satisfaction studies frequently have small samples, inconsistent methods and insufficient validated long-term measures."
+            },
+            {
+              "type": "p",
+              "text": "Structured assessment can explore expectations, external pressure, coping with setbacks, possible body dysmorphic symptoms and mental-health concerns. Referral to an appropriate professional should be offered where indicated without stigmatising the patient."
+            },
+            {
+              "type": "p",
+              "text": "Practical readiness means arranging accessible accommodation, helpers, regular physiotherapy, transport and contingency funds. Patients remain free to decline surgery after assessment."
+            },
+            {
+              "type": "p",
+              "text": "If major expectations remain unrealistic or the treatment pathway cannot be completed safely, postponement is appropriate. Once osteotomy has been performed, stopping distraction does not end the need for fixation and bone healing."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Will my gait change?",
+          "heading": "How the operation is performed",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "During the lengthening process itself, gait temporarily changes."
+              "text": "Before surgery the team confirms the anatomical segment, amount and method of planned lengthening, fixation details, anaesthesia, infection and thrombosis prevention, mobility restrictions and rehabilitation."
             },
             {
               "type": "p",
-              "text": "One of the goals of rehabilitation after treatment is complete is to restore a normal walking pattern and adapt to the new limb length."
+              "text": "General or suitable regional anaesthesia is selected by the anaesthetist. Postoperative pain management is planned beforehand."
+            },
+            {
+              "type": "p",
+              "text": "For internal lengthening, a telescopic nail is placed in the femoral or tibial canal and locked under imaging guidance. For external fixation, wires or pins connect the bone to a frame. Technical sequence varies by device and anatomy."
+            },
+            {
+              "type": "p",
+              "text": "A controlled osteotomy creates the site of regeneration while minimising damage to periosteum, blood supply and surrounding tissues. Tibial procedures require additional consideration of the fibula and its stabilisation where indicated."
+            },
+            {
+              "type": "p",
+              "text": "The surgeon assesses alignment in frontal, sagittal and rotational planes, implant position and stability. Both legs are commonly considered for symmetrical cosmetic height gain, but simultaneous bilateral procedures are not mandatory for every person."
+            },
+            {
+              "type": "p",
+              "text": "After surgery, pain, wounds, circulation, foot movement and sensation are monitored. Imaging, prevention of complications and early assisted mobilisation follow. The discharge plan specifies wound care, loading restrictions, distraction training, imaging and warning symptoms."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Can I first simply find out what result is possible in my case?",
+          "heading": "Distraction: gradual bone lengthening",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Yes."
+              "text": "Active distraction usually starts after an individual latency interval, often five to seven days in adults. A commonly cited starting point is around 1 mm/day, modified to suit the regenerate, tissues and symptoms."
             },
             {
               "type": "p",
-              "text": "A consultation does not mean committing to surgery."
+              "text": "External systems are adjusted mechanically or electronically; some internal nails use an external controller. Patients must be trained and should document adjustments. Never change the prescribed rhythm without medical approval."
             },
             {
               "type": "p",
-              "text": "Its purpose is to assess your anatomy and proportions, discuss the desired result, possible technologies, the approximate treatment path, and determine whether aesthetic limb lengthening is a suitable option for you."
+              "text": "At a theoretical 1 mm/day, 5 cm would require about 50 days of active distraction. This is arithmetic, not a prediction: slower rates, pauses and early completion may change the course."
+            },
+            {
+              "type": "p",
+              "text": "Regular clinical examinations and radiographs—often approximately every one to two weeks during active distraction, or more frequently when indicated—evaluate regenerate, actual gain, mechanical axis, fixation, joint range, strength, pain and nerve function."
+            },
+            {
+              "type": "p",
+              "text": "Physiotherapy limits contracture risk. Hip and knee mobility matter especially for femoral cases; ankle dorsiflexion, Achilles tendon tension, foot position and peroneal nerve function are priorities during tibial lengthening."
+            },
+            {
+              "type": "p",
+              "text": "Mobility and weight bearing depend on device design and regenerate strength. The absence of pain does not authorise full loading."
+            },
+            {
+              "type": "p",
+              "text": "Rapidly increasing pain, tense swelling, new weakness or numbness, a cold or pale foot, fever with wound changes or device malfunction require urgent assessment. Sudden breathlessness, chest pain or suspected acute limb ischaemia require emergency care; remote messages are not a substitute."
+            },
+            {
+              "type": "p",
+              "text": "Lengthening may be slowed, stopped or ended early for poor regenerate, premature union, contractures, neurological symptoms, deformity or mechanical problems. Consolidation and rehabilitation continue afterwards."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Want to find out how much your height could be increased?",
+          "heading": "Consolidation: developing strong bone",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "The first step is not surgery, but individualized planning."
+              "text": "After distraction ends, new regenerate remains mechanically immature. During consolidation it mineralises, forms cortical structure and progressively gains strength; remodelling continues after apparent union."
             },
             {
               "type": "p",
-              "text": "During a consultation, we can assess the proportions of your body and lower limbs, discuss the desired change in height, possible segments for lengthening, technology, treatment duration, and the main limitations."
+              "text": "Serial radiographs assess regenerate shape, density, cortical bridging, alignment and fixation. Some protocols consider bridging in at least three of four cortices, but this criterion alone cannot authorise full weight bearing or hardware removal."
             },
             {
               "type": "p",
-              "text": "The goal of the consultation is to determine not the maximum number of centimeters, but a realistic and well-founded height-increase option for your specific anatomy."
+              "text": "Walking capacity depends on the specific device and the actual state of the bone. Some internal nails have strict loading limits even when the patient feels comfortable. Increasing loading without approval risks bending or breaking an implant, deforming regenerate or losing correction."
+            },
+            {
+              "type": "p",
+              "text": "Healing is influenced by vascularity, fixation, length gained, age, nutritional status, metabolic health, nicotine use and complications. No medication or supplement reliably guarantees faster consolidation."
+            },
+            {
+              "type": "p",
+              "text": "Slow mineralisation, delayed union, nonunion, fracture or deformity can require longer protection, reassessment or further surgery. Premature removal of a frame or nail can compromise the result."
+            },
+            {
+              "type": "p",
+              "text": "Consolidation may take several months or longer. Final loading and removal decisions rely on clinical and imaging findings, not a fixed calendar."
             }
-          ],
-          "divider": false
+          ]
+        },
+        {
+          "heading": "Rehabilitation and recovery of walking",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Physiotherapy is part of treatment from preparation through distraction, consolidation and functional recovery—not an optional add-on once the bone has healed."
+            },
+            {
+              "type": "p",
+              "text": "Before surgery, clinicians document joint movement, strength and gait, and teach safe use of crutches or a walker. Early postoperative work includes suitable exercises and assisted transfers and mobility."
+            },
+            {
+              "type": "p",
+              "text": "During distraction, the priority is to preserve joint motion and muscle activity without forcing painful or unsafe manoeuvres. Following femoral lengthening, hip and knee mobility require particular attention; following tibial lengthening, ankle dorsiflexion and equinus prevention are priorities."
+            },
+            {
+              "type": "p",
+              "text": "Recovery progresses through assisted walking, controlled weight bearing and eventual independent mobility. Assessment considers gait symmetry, pelvic control, knee and ankle mechanics, balance, fatigue and pain."
+            },
+            {
+              "type": "p",
+              "text": "Muscle strength and a normal gait pattern may lag behind radiographic healing. Desk-based work may sometimes resume before physically demanding work. Driving requires safe pedal control and absence of medication effects that impair reaction time."
+            },
+            {
+              "type": "p",
+              "text": "Running, jumping, contact sport and heavy resistance activity require adequate union and functional readiness. Return to the original sporting level cannot be guaranteed."
+            }
+          ]
+        },
+        {
+          "heading": "Risks and possible complications",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Cosmetic lengthening is elective but can cause serious harm. Modern fixation cannot guarantee an uncomplicated course, the planned gain or full restoration of preoperative function."
+            },
+            {
+              "type": "p",
+              "text": "Paley's original terminology distinguishes problems managed without another operation, obstacles requiring intervention but resolved before treatment completion, and complications with persisting adverse effects. Definitions differ between studies; percentages are not directly interchangeable."
+            },
+            {
+              "type": "p",
+              "text": "Joint stiffness and muscle–tendon contractures can restrict knee and hip motion after femoral lengthening or ankle dorsiflexion after tibial lengthening. Sometimes additional surgery is needed."
+            },
+            {
+              "type": "p",
+              "text": "Gradual nerve tension may cause tingling, burning, pain, sensory loss, foot weakness or more persistent neurological injury, including dysfunction of the common peroneal nerve. Progressive signs demand prompt review."
+            },
+            {
+              "type": "p",
+              "text": "Regenerate disorders include poor formation, delayed union, nonunion, premature consolidation, fracture or deformity. Mechanical-axis deviation and rotational deformity can also compromise gait and require corrective treatment."
+            },
+            {
+              "type": "p",
+              "text": "External pins may become infected; internal implants can also develop deep infection. Loss of fixation, mechanical nail failure, deformation, broken components or inability to distract may necessitate revision."
+            },
+            {
+              "type": "p",
+              "text": "Other serious risks include deep venous thrombosis, pulmonary embolism, vascular injury and acute compartment syndrome. Sudden breathlessness or chest pain, signs of acute ischaemia, or severe disproportionate pain with tense swelling require emergency assessment."
+            },
+            {
+              "type": "p",
+              "text": "Chronic pain, residual contracture, weakness, abnormal gait and psychological distress may persist; rarely function can be worse than before surgery. Planned hardware removal is distinct from unplanned surgery due to a complication."
+            },
+            {
+              "type": "p",
+              "text": "Published event rates vary by anatomy, method, achieved length, classification and follow-up. Individual risk cannot be inferred from one headline percentage. Careful selection, monitoring, physiotherapy and timely response can reduce but never eliminate risk."
+            }
+          ]
+        },
+        {
+          "heading": "How long does the entire process take?",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "The pathway comprises preoperative preparation, surgery, latency, active distraction, consolidation and functional recovery. Reaching the planned centimetres is not the end of treatment."
+            },
+            {
+              "type": "p",
+              "text": "Assessment and optimisation may take weeks or months. The hospital stay depends on the procedure, pain control, mobility and general medical condition."
+            },
+            {
+              "type": "p",
+              "text": "Latency in adults is often around five to seven days. At a purely illustrative 1 mm/day, 5 cm requires approximately 50 days and 7 cm about 70 days of distraction. The true rate and duration can change."
+            },
+            {
+              "type": "p",
+              "text": "Consolidation commonly lasts several months and may be prolonged by healing problems. Gait, joint mobility and strength have different recovery timelines; functional rehabilitation can last twelve months or longer for some patients."
+            },
+            {
+              "type": "p",
+              "text": "External, internal and combined systems differ in their loading rules, timing of frame removal and need for further surgery. An internal nail does not make bone biology faster."
+            },
+            {
+              "type": "p",
+              "text": "Desk work may be possible before physical work. Driving requires safe leg control, while sport requires sufficient union, strength and coordination. No exact return date should be promised."
+            },
+            {
+              "type": "p",
+              "text": "International patients must plan for a substantial stay near the centre and arranged follow-up at home; travelling simply because active distraction has ended may be unsafe."
+            }
+          ]
+        },
+        {
+          "heading": "Results and long-term outcomes",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Results should be judged by achieved height together with union, alignment, joint movement, strength, gait, pain, daily function and patient satisfaction."
+            },
+            {
+              "type": "p",
+              "text": "Systematic reviews report average gains of about 6.7 cm in selected published cohorts. Once the regenerate is fully consolidated, the extra bone length is generally permanent, but fracture, deformity or loss of correction may affect it."
+            },
+            {
+              "type": "p",
+              "text": "Walking often changes during treatment because of restricted loading, pain and muscle weakness. Some patients recover a satisfactory gait while others retain deficits in range, coordination or endurance."
+            },
+            {
+              "type": "p",
+              "text": "Return to sport depends on function and bone healing, and previous high-impact performance is not assured. Lengthening changes leg-to-trunk and femur-to-tibia proportions, not arm or trunk length."
+            },
+            {
+              "type": "p",
+              "text": "Some reports describe high satisfaction, but the evidence is limited by selection, retrospective designs, small cohorts and inconsistent validated outcome measures. Surgery cannot promise psychological well-being or social benefits."
+            },
+            {
+              "type": "p",
+              "text": "Late effects can include chronic pain, contracture, weakness, nerve symptoms, deformity and further operations. The long-term effect of major cosmetic lengthening on joint health remains insufficiently understood."
+            },
+            {
+              "type": "p",
+              "text": "Follow-up after the main treatment should assess regenerate and alignment, joint function, gait, activity, pain, quality of life and whether planned hardware removal is indicated."
+            }
+          ]
+        },
+        {
+          "heading": "Costs and the full treatment budget",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "The price of surgery is not the total cost of cosmetic height lengthening. Costs vary by anatomical segment, unilateral or bilateral operation, fixation device, complexity and treatment setting."
+            },
+            {
+              "type": "p",
+              "text": "A full budget should consider consultations, radiographs, laboratory tests, anaesthesia, implants, hospitalisation, medication, serial imaging, orthopaedic follow-up, physiotherapy, mobility aids, accommodation and transport."
+            },
+            {
+              "type": "p",
+              "text": "Potential additional costs include elective implant removal, longer rehabilitation, treatment of delayed union or infection, mechanical failure and unplanned revision procedures."
+            },
+            {
+              "type": "p",
+              "text": "Physiotherapy may or may not be included in a quoted surgical package. Cosmetic procedures are frequently excluded from insurance coverage, and treatment of complications may be subject to separate conditions."
+            },
+            {
+              "type": "p",
+              "text": "For patients travelling internationally, accessible housing, help with daily living and the possibility of an extended stay are particularly important. A contingency reserve is advisable."
+            },
+            {
+              "type": "p",
+              "text": "A responsible individual estimate follows clinical examination, imaging, determination of the segment and fixation method, and agreement on the postoperative pathway. An unverified flat fee should not be advertised."
+            }
+          ]
+        },
+        {
+          "heading": "Non-surgical alternatives",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "After the growth plates have closed, exercises, stretching, nutritional supplements and lengthening devices cannot permanently lengthen the femur or tibia."
+            },
+            {
+              "type": "p",
+              "text": "Better posture and appropriate footwear may change apparent height without altering bone length. These alternatives may be preferable for people who do not want prolonged surgery and rehabilitation."
+            },
+            {
+              "type": "p",
+              "text": "Growth hormone does not lengthen mature long bones after growth plate closure. Unsupervised hormone use for cosmetic height gain poses health risks."
+            },
+            {
+              "type": "p",
+              "text": "Short stature is not, by itself, a disease or a reason to recommend surgery. If disproportion or a growth disorder is suspected, its cause should be assessed before discussing cosmetic intervention."
+            }
+          ]
+        },
+        {
+          "heading": "Scientific background and limitations",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Ilizarov GA. The tension-stress effect on the genesis and growth of tissues. Clinical Orthopaedics and Related Research (1989), parts I–II."
+            },
+            {
+              "type": "p",
+              "text": "Systematic review of cosmetic stature lengthening outcomes and complications (2020): eleven studies, 795 patients and a reported mean lengthening of approximately 6.7 cm."
+            },
+            {
+              "type": "p",
+              "text": "More recent systematic reviews of cosmetic lengthening (2025) report heterogeneous methods, complication classifications and patient-reported measures. Aggregate figures cannot predict an individual's outcome."
+            },
+            {
+              "type": "p",
+              "text": "Evidence for long-term quality of life, return to high-impact sport and late joint effects remains limited. Decisions require individual clinical assessment."
+            }
+          ]
         }
       ]
     },
