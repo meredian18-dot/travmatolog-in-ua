@@ -271,7 +271,7 @@ function RichDetail({
     de: {"limb-lengthening-planning.jpg":"Planung der Oberschenkel- und Unterschenkelverlängerung","limb-lengthening-stages.jpg":"Phasen der Distraktionsosteogenese und Knochenkonsolidierung"},
     pl: {"limb-lengthening-planning.jpg":"Planowanie wydłużania kości udowych i piszczelowych oraz proporcji ciała","limb-lengthening-stages.jpg":"Etapy osteogenezy dystrakcyjnej i konsolidacji kości"}
   };
-  const imageAlt = (file: string) => slug === "limb-lengthening" ? (lengtheningAlt[lang][file.replace(/-(en|de|pl)\\.png$/, ".jpg")] ?? article.title) : slug === "knee-replacement" ? (kneeAlt[lang][file] ?? ({
+  const imageAlt = (file: string) => slug === "limb-lengthening" ? (lengtheningAlt[lang][file.replace(/-(en|de|pl)\.png$/, ".jpg")] ?? article.title) : slug === "knee-replacement" ? (kneeAlt[lang][file] ?? ({
     "knee-replacement-diagram.jpg": "Схема ендопротеза колінного суглоба",
     "knee-replacement-what.jpg": "Анатомічна схема коліна й ендопротезування",
     "knee-replacement-case-before1.jpg": "Рентгенограма колінних суглобів при гонартрозі",
