@@ -4804,424 +4804,14 @@
       ]
     },
     "limb-lengthening": {
-      "title": "Körpergrößenzunahme und ästhetische Extremitätenverlängerung",
-      "lead": "Chirurgische Körpergrößenzunahme mit individueller Planung der Körperproportionen, kontrollierter Knochenverlängerung und stufenweiser funktioneller Erholung.",
-      "intro": "Die ästhetische Extremitätenverlängerung ermöglicht eine Körpergrößenzunahme durch schrittweise Verlängerung von Oberschenkel- und/oder Schienbeinknochen.",
+      "title": "Kosmetische Körpergrößenzunahme durch Beinverlängerung",
+      "lead": "Individuell geplante Oberschenkel- oder Unterschenkelverlängerung erfordert sorgfältige Auswahl, lange Knochenheilung, Physiotherapie und engmaschige Kontrolle. Schwerwiegende Komplikationen sind möglich.",
+      "intro": "Die kosmetische Beinverlängerung nutzt die Bildung neuen körpereigenen Knochens durch schrittweise Distraktion. Sie ist eine langwierige elektive orthopädische Behandlung, kein kurzer kosmetischer Eingriff. Sicherheit und Funktion gehen vor Zentimetern.",
       "hero": "limb-lengthening-hero.jpg",
       "gallery": [],
       "blocks": [
         {
-          "heading": null,
-          "body": [
-            {
-              "type": "p",
-              "text": "Das ist keine gewöhnliche kosmetische Operation. Der Prozess erfordert orthopädische Planung, einen chirurgischen Eingriff, eine schrittweise Knochenverlängerung, regelmäßige Kontrollen und eine anschließende funktionelle Erholung der Extremitäten."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Kann die Körpergröße chirurgisch erhöht werden?",
-          "body": [
-            {
-              "type": "p",
-              "text": "Ja."
-            },
-            {
-              "type": "p",
-              "text": "Grundlage der Methode ist die Fähigkeit des Knochengewebes, bei schrittweiser kontrollierter Verlängerung neuen Knochen zu bilden."
-            },
-            {
-              "type": "p",
-              "text": "Während der Operation wird eine kontrollierte Osteotomie des Knochens durchgeführt und ein System implantiert, das anschließend eine schrittweise Vergrößerung des Abstands zwischen den Fragmenten ermöglicht."
-            },
-            {
-              "type": "p",
-              "text": "Im entstehenden Zwischenraum bildet sich schrittweise neues Knochengewebe."
-            },
-            {
-              "type": "p",
-              "text": "Die Verlängerung der Extremitäten erfolgt also nicht durch Einsetzen eines „längeren Knochens“ oder Implantats, sondern durch die schrittweise Bildung neuen körpereigenen Knochengewebes."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Wie viele Zentimeter kann man an Körpergröße gewinnen?",
-          "body": [
-            {
-              "type": "p",
-              "text": "Das ist eine der ersten Fragen, die bei der Planung einer ästhetischen Verlängerung auftritt."
-            },
-            {
-              "type": "p",
-              "text": "Die richtige Planung beginnt jedoch nicht mit der maximal möglichen Zentimeterzahl."
-            },
-            {
-              "type": "p",
-              "text": "Vor der Festlegung der Ziellänge müssen beurteilt werden:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "die Ausgangskörpergröße",
-                "die Länge von Oberschenkeln und Unterschenkeln",
-                "die Proportionen zwischen unteren Extremitäten und Rumpf",
-                "die Beinachse",
-                "der Zustand von Hüft-, Knie- und Sprunggelenk",
-                "der Zustand des Knochengewebes",
-                "die Beweglichkeit der Gelenke",
-                "die Fähigkeit von Muskeln und anderen Weichteilen, sich an die Verlängerung anzupassen",
-                "die Erwartungen des Patienten"
-              ]
-            },
-            {
-              "type": "p",
-              "text": "Ziel ist es nicht, um jeden Preis die maximale Zentimeterzahl zu erreichen, sondern eine begründete Verlängerung unter Berücksichtigung von Anatomie, Proportionen und Sicherheit festzulegen."
-            }
-          ],
-          "divider": false,
-          "diagram": "limb-lengthening-planning.jpg"
-        },
-        {
-          "heading": "Oberschenkel oder Unterschenkel?",
-          "body": [
-            {
-              "type": "p",
-              "text": "Die Körpergrößenzunahme kann durch Verlängerung des Oberschenkel- oder des Schienbeinknochens erfolgen."
-            },
-            {
-              "type": "p",
-              "text": "Das ist nicht nur die Wahl des Operationsorts."
-            },
-            {
-              "type": "p",
-              "text": "Oberschenkel und Unterschenkel haben unterschiedliche Anatomie, sind von unterschiedlichen Muskelgruppen umgeben, beeinflussen die Proportionen der Extremität unterschiedlich und weisen eigene Besonderheiten der Erholung auf."
-            },
-            {
-              "type": "p",
-              "text": "Bei der Planung wird deshalb nicht nur die gewünschte Zentimeterzahl beurteilt, sondern auch, wie die Verlängerung eines bestimmten Segments die Gesamtproportionen des Körpers verändert."
-            },
-            {
-              "type": "p",
-              "text": "In einem Teil der Fälle kann das Ziel durch die Verlängerung eines einzigen Segments erreicht werden. Eine größere Körpergrößenzunahme kann eine andere Strategie und gegebenenfalls separate Behandlungsschritte erfordern."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Wie die Körpergrößenzunahme abläuft",
-          "body": [
-            {
-              "type": "p",
-              "text": "Der Prozess besteht aus mehreren aufeinanderfolgenden Schritten."
-            }
-          ],
-          "divider": false,
-          "diagram": "limb-lengthening-stages.jpg"
-        },
-        {
-          "heading": "01 — Planung",
-          "body": [
-            {
-              "type": "p",
-              "text": "Wir beurteilen Anatomie, Segmentlängen, Achse der unteren Extremitäten, Gelenkzustand und Körperproportionen."
-            },
-            {
-              "type": "p",
-              "text": "Wir besprechen das gewünschte Ergebnis und legen ein realistisches individuelles Ziel fest."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "02 — Operation",
-          "body": [
-            {
-              "type": "p",
-              "text": "Es wird eine kontrollierte Osteotomie des Knochens durchgeführt und ein System zur schrittweisen Verlängerung implantiert."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "03 — Verlängerungsphase",
-          "body": [
-            {
-              "type": "p",
-              "text": "Nach der ersten postoperativen Phase beginnt die schrittweise Verlängerung des Knochens."
-            },
-            {
-              "type": "p",
-              "text": "Der Prozess erfolgt in kleinen Schritten und wird durch regelmäßige Kontrolluntersuchungen und Röntgenaufnahmen überwacht."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "04 — Bildung des neuen Knochens",
-          "body": [
-            {
-              "type": "p",
-              "text": "Nach Erreichen der geplanten Länge wird die Verlängerung gestoppt."
-            },
-            {
-              "type": "p",
-              "text": "Das neu gebildete Knochengewebe reift schrittweise und gewinnt ausreichende Festigkeit."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "05 — Funktionelle Erholung",
-          "body": [
-            {
-              "type": "p",
-              "text": "Während des gesamten Prozesses ist es wichtig, Gelenkbeweglichkeit und Muskelfunktion zu erhalten."
-            },
-            {
-              "type": "p",
-              "text": "Nach Abschluss der Verlängerung setzt sich die schrittweise Wiederherstellung von Kraft, Gehfähigkeit und körperlicher Aktivität fort."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Interner Verlängerungsnagel oder externe Fixation?",
-          "body": [
-            {
-              "type": "p",
-              "text": "Für die Knochenverlängerung gibt es verschiedene Technologien."
-            },
-            {
-              "type": "p",
-              "text": "Traditionell werden Fixateur-externe-Systeme eingesetzt. Eine moderne Alternative sind in bestimmten Fällen interne intramedulläre Verlängerungssysteme, die im Knocheninneren platziert werden."
-            },
-            {
-              "type": "p",
-              "text": "Die Technologiewahl hängt ab von:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "dem zu verlängernden Segment",
-                "der Knochenanatomie",
-                "dem Ausmaß der geplanten Verlängerung",
-                "den Möglichkeiten des konkreten Systems",
-                "vorangegangenen Operationen",
-                "individuellen Besonderheiten des Patienten"
-              ]
-            },
-            {
-              "type": "p",
-              "text": "Die Technologie sollte dem Behandlungsplan angepasst werden, nicht ihn bestimmen."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Proportionen zählen",
-          "body": [
-            {
-              "type": "p",
-              "text": "Bei der ästhetischen Verlängerung ist nicht nur die Größenzahl nach der Operation wichtig."
-            },
-            {
-              "type": "p",
-              "text": "Die Veränderung der Länge von Oberschenkel oder Unterschenkel verändert das Verhältnis zwischen den Segmenten der unteren Extremitäten und die Gesamtproportionen des Körpers."
-            },
-            {
-              "type": "p",
-              "text": "Deshalb ist es bereits vor der Operation wichtig zu beurteilen, wie sich die geplante Verlängerung auf das äußere Erscheinungsbild und die Proportionen des Patienten auswirkt."
-            },
-            {
-              "type": "p",
-              "text": "In entsprechenden Fällen ermöglicht digitale Planung eine vorherige Modellierung verschiedener Verlängerungsvarianten und deren Besprechung mit dem Patienten."
-            },
-            {
-              "type": "p",
-              "text": "Das ästhetische Ergebnis bedeutet nicht nur, größer zu werden, sondern auch die natürliche Wahrnehmung der Körperproportionen zu bewahren."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Was passiert mit Muskeln und Weichteilen?",
-          "body": [
-            {
-              "type": "p",
-              "text": "Nicht nur der Knochen wird verlängert."
-            },
-            {
-              "type": "p",
-              "text": "Mit der Verlängerung des Segments passen sich schrittweise Muskeln, Sehnen, Gefäße, Nerven und andere Weichteile an."
-            },
-            {
-              "type": "p",
-              "text": "Genau ihre Anpassungsfähigkeit ist einer der Faktoren, die Tempo und Ausmaß der zulässigen Verlängerung bestimmen."
-            },
-            {
-              "type": "p",
-              "text": "Deshalb werden während der Behandlung kontrolliert:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "die Gelenkbeweglichkeit",
-                "das Muskelgleichgewicht",
-                "der neurologische Zustand",
-                "die Bildung des neuen Knochengewebes",
-                "die Gesamtfunktion der Extremitäten"
-              ]
-            },
-            {
-              "type": "p",
-              "text": "Bei Bedarf kann das Verlängerungstempo angepasst werden."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Rehabilitation — Teil der Behandlung selbst",
-          "body": [
-            {
-              "type": "p",
-              "text": "Bei der ästhetischen Verlängerung beginnt die Rehabilitation nicht erst nach Abschluss der Behandlung."
-            },
-            {
-              "type": "p",
-              "text": "Sie ist von Anfang an ein Teil davon."
-            },
-            {
-              "type": "p",
-              "text": "Während der Verlängerung ist es besonders wichtig, die Beweglichkeit von Hüft-, Knie- und Sprunggelenk zu erhalten und der Bildung von Kontrakturen vorzubeugen."
-            },
-            {
-              "type": "p",
-              "text": "Das Erholungsprogramm passt sich der jeweiligen Behandlungsphase an und umfasst kontrollierte Übungen, Arbeit an Beweglichkeit und Muskelfunktion sowie eine schrittweise Erweiterung der Belastung."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Wie lange dauert der gesamte Prozess?",
-          "body": [
-            {
-              "type": "p",
-              "text": "Die ästhetische Verlängerung ist keine Operation mit Ergebnis nach wenigen Wochen."
-            },
-            {
-              "type": "p",
-              "text": "Der vollständige Weg umfasst:"
-            },
-            {
-              "type": "p",
-              "text": "Vorbereitung → Operation → schrittweise Verlängerung → Bildung und Reifung des neuen Knochens → funktionelle Erholung."
-            },
-            {
-              "type": "p",
-              "text": "Die Dauer hängt vom Ausmaß der Verlängerung, dem gewählten Segment, der Technologie, der Geschwindigkeit der Knochenneubildung und dem individuellen Erholungsverlauf ab."
-            },
-            {
-              "type": "p",
-              "text": "Deshalb sollte der Patient bereits vor der Entscheidung nicht nur die erwartete Größenänderung verstehen, sondern auch die Zeit und den persönlichen Einsatz, den der gesamte Prozess erfordert."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Unser Ansatz",
-          "body": [],
-          "divider": true
-        },
-        {
-          "heading": "Wir beginnen nicht mit den Zentimetern",
-          "body": [
-            {
-              "type": "p",
-              "text": "Zunächst beurteilen wir Anatomie, Proportionen und den Zustand von Knochen und Gelenken. Erst danach legen wir ein begründetes Verlängerungsziel fest."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Wir planen Proportionen",
-          "body": [
-            {
-              "type": "p",
-              "text": "Die Körpergrößenzunahme sollte nicht isoliert beurteilt werden, sondern im Zusammenhang mit dem Verhältnis von Oberschenkel-, Unterschenkel- und Rumpflänge."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Wir kontrollieren den gesamten Prozess",
-          "body": [
-            {
-              "type": "p",
-              "text": "Die Operation ist nur der Anfang. Bildung des neuen Knochens, Weichteilzustand, Gelenkbeweglichkeit und Funktion werden während der gesamten Verlängerungsphase kontrolliert."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Sicherheit ist wichtiger als die maximale Zahl",
-          "body": [
-            {
-              "type": "p",
-              "text": "Der Wunsch nach mehr Zentimetern ist verständlich, doch eine größere Zielverlängerung erhöht gleichzeitig die Anforderungen an Knochen, Muskeln, Nerven, Gelenke und Rehabilitation."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Ästhetisches Ziel + orthopädische Prinzipien",
-          "body": [
-            {
-              "type": "p",
-              "text": "Die Motivation des Patienten kann ästhetisch sein. Der Weg zum Ergebnis bleibt jedoch eine vollwertige orthopädisch-rekonstruktive Prozedur."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Risiken und Einschränkungen",
-          "body": [
-            {
-              "type": "p",
-              "text": "Die ästhetische Extremitätenverlängerung ist eine ernsthafte chirurgische Behandlung mit potenziellen Risiken."
-            },
-            {
-              "type": "p",
-              "text": "Dazu können gehören:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "verzögerte Bildung des neuen Knochengewebes",
-                "Bewegungseinschränkung in den Gelenken",
-                "Muskelkontrakturen",
-                "Schmerzen",
-                "Empfindungsstörungen oder andere neurologische Symptome",
-                "Probleme mit der Fixationskonstruktion",
-                "infektiöse Komplikationen",
-                "die Notwendigkeit zusätzlicher chirurgischer Eingriffe",
-                "eine länger als erwartet dauernde Erholung"
-              ]
-            },
-            {
-              "type": "p",
-              "text": "Das Komplikationsrisiko hängt vom Ausmaß der Verlängerung, der gewählten Methode, der Anatomie und der individuellen Reaktion des Organismus ab."
-            },
-            {
-              "type": "p",
-              "text": "Die Entscheidung zur ästhetischen Verlängerung sollte nach ausführlicher Besprechung nicht nur des gewünschten Ergebnisses, sondern des gesamten Prozesses, seiner Einschränkungen und möglicher Risiken getroffen werden."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Internationale Patienten: Planung des gesamten Behandlungswegs",
+          "heading": "Was bedeutet chirurgische Körpergrößenzunahme?",
           "divider": true,
           "body": []
         },
@@ -5231,198 +4821,704 @@
           "body": [
             {
               "type": "p",
-              "text": "Patienten aus dem Ausland können zunächst ihre Krankengeschichte, vorhandene Röntgenbilder, Erwartungen und die Möglichkeit eines längeren Aufenthalts fernmündlich oder online besprechen. Eine Fernbeurteilung ersetzt jedoch nicht die persönliche Untersuchung von Gelenken, Gangbild, Nervenfunktion und Knochenanatomie."
+              "text": "Bei der kosmetischen Beinverlängerung werden Oberschenkel- oder Schienbeinknochen schrittweise verlängert. Nach einer kontrollierten Osteotomie bildet der Körper im auseinanderbewegten Knochenspalt eigenes neues Knochengewebe. Dieser Prozess heißt Distraktionsosteogenese."
             },
             {
               "type": "p",
-              "text": "Die kosmetische Beinverlängerung ist keine kurze Reise nur für eine Operation. Bereits vorher müssen Distraktionsphase, regelmäßige Bildgebung, Physiotherapie, Belastungsgrenzen, barrierearme Unterkunft und Zugang zu medizinischer Notfallversorgung geplant werden."
+              "text": "Neben dem Knochen müssen sich Muskeln, Sehnen, Nerven, Gefäße und Haut anpassen. Ihre Belastbarkeit und die Gelenkfunktion können die Verlängerung auch dann begrenzen, wenn sich der Knochenregenerat zufriedenstellend entwickelt."
             },
             {
               "type": "p",
-              "text": "Abhängig von nachweislich verfügbaren klinischen und organisatorischen Kapazitäten kann eine Behandlung in Kyjiw oder in relativ sichereren westlichen Regionen der Ukraine erwogen werden. Kein Standort garantiert vollständige Sicherheit; aktuelle Reisehinweise und die Sicherheitslage sind zu beachten."
+              "text": "Die medizinisch begründete Verlängerung behandelt echte Längendifferenzen, angeborene Störungen oder posttraumatische Fehlstellungen. Die kosmetische Körpergrößenzunahme betrifft Menschen ohne krankhafte Verkürzung und ist meist medizinisch nicht notwendig."
             },
             {
               "type": "p",
-              "text": "Vor der Rückkehr nach Deutschland, Polen, Tschechien oder in ein anderes Land sollten orthopädische Nachsorge, Physiotherapie, Röntgenkontrollen und das Vorgehen bei Komplikationen verbindlich abgestimmt werden. Fernkontakte ersetzen keine notwendigen persönlichen Untersuchungen."
+              "text": "Es handelt sich nicht um eine kurze Schönheitsoperation, sondern um Untersuchung, Operation, Distraktion, Konsolidierung und langwierige Rehabilitation. Schmerzen, Bewegungseinschränkungen, Kontrakturen, Nervenschäden, Infektionen und weitere Eingriffe bleiben möglich."
+            },
+            {
+              "type": "p",
+              "text": "Das Ziel ist ein individuell vertretbarer Größengewinn bei größtmöglichem Erhalt von Sicherheit und Beinfunktion, nicht eine maximale Zentimeterzahl um jeden Preis."
             }
           ]
         },
         {
-          "heading": "Häufig gestellte Fragen",
-          "body": [],
-          "divider": true
+          "heading": "Für wen kommt die Operation infrage?",
+          "divider": true,
+          "body": []
         },
         {
-          "heading": "Um wie viele Zentimeter kann man realistisch größer werden?",
+          "heading": null,
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Es gibt technische Möglichkeiten zur Knochenverlängerung, aber keine universelle, für alle Patienten sichere Zahl."
+              "text": "Eine kosmetische Verlängerung kann bei volljährigen Personen mit abgeschlossenem Skelettwachstum, geeignetem Gesundheitszustand und realistischen Erwartungen erwogen werden. Allein der Wunsch, größer zu werden, reicht nicht aus."
             },
             {
               "type": "p",
-              "text": "Das Ziel wird individuell festgelegt, unter Berücksichtigung von Segment, Proportionen, Weichteilzustand, Gelenken und weiteren Faktoren."
+              "text": "Die geschlossenen Wachstumsfugen werden bei Bedarf bestätigt. Untersucht werden Knochenlängen, Beinachse, Hüft-, Knie- und Sprunggelenkbeweglichkeit, Muskelkraft und Dehnbarkeit, Empfindung, Durchblutung und Gangbild."
+            },
+            {
+              "type": "p",
+              "text": "Zur Anamnese gehören Vorerkrankungen, Medikamente, Operationen, Infektionen, Thrombosen und Faktoren, die Knochenheilung oder Narkoserisiko beeinflussen. Behandelbare Erkrankungen sind gegebenenfalls vorher zu stabilisieren."
+            },
+            {
+              "type": "p",
+              "text": "Eine strukturierte psychologische Einschätzung ist sinnvoll; bei Bedarf wird ein Facharzt hinzugezogen. Mehr Körpergröße garantiert weder ein besseres Selbstwertgefühl noch bessere Beziehungen oder Lebensqualität."
+            },
+            {
+              "type": "p",
+              "text": "Der Patient muss regelmäßige Röntgenkontrollen, Physiotherapie, Belastungsbeschränkungen, Gehhilfen, Unterstützung im Alltag sowie mögliche zusätzliche Kosten organisieren können."
+            },
+            {
+              "type": "p",
+              "text": "Es gibt keine allgemeingültige Mindestkörpergröße als automatische Indikation. Bei ausgeprägtem Kleinwuchs kann eine Ursachenabklärung erforderlich sein. Die Beratung verpflichtet nicht zur Operation."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Kann ich einfach sagen: „Ich möchte +10 cm“?",
+          "heading": "Wann ist die Operation nicht zu empfehlen?",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Das kann als Wunschziel formuliert werden, sollte aber nicht automatisch zum Operationsplan werden."
+              "text": "Bei einem elektiven, meist medizinisch nicht notwendigen Eingriff müssen die Anforderungen an die Sicherheit besonders hoch sein. Eine technisch mögliche Verlängerung ist nicht zwangsläufig sinnvoll."
             },
             {
               "type": "p",
-              "text": "Zunächst muss beurteilt werden, ob ein solches Verlängerungsausmaß für die konkrete Anatomie begründet ist und auf welchem Weg es potenziell erreichbar wäre."
+              "text": "Nicht operiert werden sollte bei offenen Wachstumsfugen, fehlender wirksamer informierter Einwilligung, erheblich eingeschränkter Entscheidungsfähigkeit, nicht vertretbarem Operations- oder Narkoserisiko oder fehlender Nachsorge."
+            },
+            {
+              "type": "p",
+              "text": "Schwere Durchblutungsstörungen, ausgeprägte Osteoporose oder Stoffwechselknochenerkrankungen, unkontrollierte systemische Erkrankungen, hohes Thromboserisiko, Neuropathien und Gelenkkontrakturen können gegen einen kosmetischen Eingriff sprechen."
+            },
+            {
+              "type": "p",
+              "text": "Bei akuten Infektionen, unzureichend eingestelltem Diabetes, Mangelernährung, behandelbaren Knochenstoffwechselstörungen, Nikotinkonsum oder noch nicht abgeschlossener Genesung sollte der Eingriff verschoben und die Situation erneut beurteilt werden."
+            },
+            {
+              "type": "p",
+              "text": "Alter und Körpergewicht sind individuell zu bewerten. Ein einziges Höchstalter oder ein BMI-Grenzwert entscheidet nicht allein; Knochenqualität, Muskelstatus und Implantat-Belastungsgrenzen sind ebenfalls relevant."
+            },
+            {
+              "type": "p",
+              "text": "Unrealistische Erwartungen, äußerer Druck, Verdacht auf körperdysmorphe Symptome oder schlecht kontrollierte psychische Erkrankungen erfordern eine gezielte fachliche Abklärung. Eine psychiatrische Diagnose ist nicht automatisch ein absolutes Ausschlusskriterium."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Was ist besser zu verlängern — Oberschenkel oder Unterschenkel?",
+          "heading": "Wie funktioniert die Distraktionsosteogenese?",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
+          "diagram": "limb-lengthening-stages.jpg",
           "body": [
             {
               "type": "p",
-              "text": "Eine universelle Antwort gibt es nicht."
+              "text": "Die Distraktionsosteogenese beruht auf dem von Gawriil Ilisarow beschriebenen Zug-Spannungs-Prinzip. Nach einer kontrollierten Osteotomie ermöglicht das langsame Auseinanderführen stabilisierter Knochenfragmente die Bildung durchbluteten Regeneratgewebes."
             },
             {
               "type": "p",
-              "text": "Die Wahl hängt von den Ausgangsproportionen, der Anatomie, dem gewünschten Ausmaß der Körpergrößenzunahme und den Möglichkeiten der konkreten Technologie ab."
+              "text": "Die Phasen sind Osteotomie und frühe Heilung, Latenz (bei Erwachsenen oft ungefähr fünf bis sieben Tage), aktive Distraktion, Konsolidierung und nachfolgender Knochenumbau."
+            },
+            {
+              "type": "p",
+              "text": "Als klassischer Orientierungswert gilt etwa 1 mm täglich, häufig auf mehrere kleine Schritte aufgeteilt. Dies ist keine universelle Vorschrift. Zu schnelle Distraktion kann Regeneration und Weichteile schädigen; zu langsame kann eine vorzeitige knöcherne Überbrückung begünstigen."
+            },
+            {
+              "type": "p",
+              "text": "Röntgenbilder kontrollieren Regeneratdichte, Form, Achse und Fixateur. Gleichzeitig werden Gelenkbeweglichkeit, Muskelkraft, Schmerzen, Sensibilität und Durchblutung überprüft. Das Tempo kann verlangsamt, pausiert oder beendet werden."
+            },
+            {
+              "type": "p",
+              "text": "Die Fixierung muss geeignete mechanische Bedingungen schaffen. Ausreichende Ernährung, Korrektur von Defiziten und Nikotinverzicht unterstützen die Heilung; kein Nahrungsergänzungsmittel garantiert eine beschleunigte Knochenbildung."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Können Oberschenkel und Unterschenkel gleichzeitig verlängert werden?",
+          "heading": "Wie viele Zentimeter sind möglich?",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Es gibt Strategien, die eine Verlängerung mehrerer Segmente vorsehen, doch Notwendigkeit, Reihenfolge und zulässiger Umfang solcher Eingriffe erfordern eine gesonderte Planung."
+              "text": "Es gibt keine allgemeingültig sichere Verlängerungsstrecke. Entscheidend sind die ursprüngliche Knochenlänge, Proportionen, Beweglichkeit, Muskeln und Nerven, Knochenqualität und das ausgewählte Fixationssystem."
+            },
+            {
+              "type": "p",
+              "text": "Systematische Übersichtsarbeiten berichten über durchschnittliche Verlängerungen von ungefähr 6,7 cm in untersuchten Patientengruppen. Dieser Durchschnitt ist weder eine Empfehlung noch eine Sicherheitsgrenze oder eine persönliche Zusage."
+            },
+            {
+              "type": "p",
+              "text": "Im Beratungsgespräch können etwa 5–8 cm pro Segment zur Sprache kommen, aber dieser Bereich ist kein allgemeiner Sicherheitsstandard. Im Einzelfall kann eine deutlich geringere Zielstrecke angemessen sein."
+            },
+            {
+              "type": "p",
+              "text": "Auch die relative Verlängerung zählt: 5 cm entsprechen 10% eines 50 cm langen Knochens, aber etwa 14,3% bei 35 cm Ausgangslänge. Der Prozentwert allein sagt Komplikationen nicht zuverlässig voraus."
+            },
+            {
+              "type": "p",
+              "text": "Ein Wunsch nach +10 cm rechtfertigt keine Überdehnung eines Segments. Mehrstufige Eingriffe an Oberschenkeln und Unterschenkeln können gegebenenfalls besprochen werden, mit zusätzlichen Risiken, Kosten und Rehabilitationsphasen."
+            },
+            {
+              "type": "p",
+              "text": "Bei Kontrakturen, Nervensymptomen, starken Schmerzen, unzureichendem Regenerat oder Achsabweichung kann das Ziel während der Distraktion reduziert werden. Nach guter Konsolidierung bleibt der knöcherne Längengewinn meist erhalten; die Funktion ist getrennt zu beurteilen."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Ist die Verlängerung schmerzhaft?",
+          "heading": "Oberschenkel oder Unterschenkel verlängern?",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
+          "diagram": "limb-lengthening-planning.jpg",
           "body": [
             {
               "type": "p",
-              "text": "Die Operation und der schrittweise Verlängerungsprozess können mit Schmerzen und Beschwerden einhergehen."
+              "text": "Beide Verfahren nutzen denselben biologischen Prozess, unterscheiden sich jedoch anatomisch und funktionell. Kein Segment ist für alle Menschen grundsätzlich sicherer oder geeigneter."
             },
             {
               "type": "p",
-              "text": "Die Intensität der Empfindungen verändert sich in den verschiedenen Phasen und ist bei unterschiedlichen Patienten verschieden. Schmerztherapie und Anpassung des Behandlungstempos sind Teil der medizinischen Begleitung."
+              "text": "Bei der Oberschenkelverlängerung können Hüftstreckung, Kniebeugung sowie Quadrizeps, ischiokrurale und Adduktorenmuskeln beeinträchtigt werden. Kontrakturen, Schmerzen, Achsabweichungen, Nervenbeschwerden und Gangveränderungen sind zu überwachen."
+            },
+            {
+              "type": "p",
+              "text": "Bei der Schienbeinverlängerung müssen Wadenbein und seine Stellung zum Knie- und Sprunggelenk berücksichtigt werden. Abhängig von der Technik sind zusätzliche Eingriffe oder Stabilisierung zur Wahrung der tibiofibularen Verhältnisse notwendig."
+            },
+            {
+              "type": "p",
+              "text": "Besonders wichtig sind Wadenmuskulatur, Achillessehne, Dorsalflexion des Sprunggelenks, Fußstellung und Nervus peroneus. Eine Spitzfußkontraktur oder neurologische Symptome können die Verlängerung begrenzen."
+            },
+            {
+              "type": "p",
+              "text": "Die Verlängerung verändert das Verhältnis zwischen Beinen und Rumpf und bei einer einzigen Knochenregion auch das Verhältnis von Oberschenkel zu Unterschenkel. Eine für alle geltende Idealproportion gibt es nicht."
+            },
+            {
+              "type": "p",
+              "text": "Die Rehabilitation konzentriert sich beim Oberschenkel insbesondere auf Hüfte und Knie, beim Unterschenkel auf Fuß, Sprunggelenk und Vorbeugung einer Spitzfußstellung."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Kann ich während der Verlängerung gehen?",
+          "heading": "Kann man Oberschenkel und Unterschenkel nacheinander verlängern?",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Möglichkeit und zulässiges Belastungsniveau hängen von der Konstruktion, dem Segment, der Behandlungsphase und dem Verlauf der Knochenbildung ab."
+              "text": "Bei sorgfältig ausgewählten Patienten kann zuerst eine beidseitige Oberschenkelverlängerung und erst nach ausreichender Heilung und funktioneller Erholung eine beidseitige Unterschenkelverlängerung besprochen werden; auch eine andere Reihenfolge kann begründet sein."
             },
             {
               "type": "p",
-              "text": "Das Gehregime wird individuell festgelegt und kann sich im Laufe der Behandlung ändern."
+              "text": "Die Aufteilung auf zwei Segmente macht einen großen Gesamtgewinn nicht automatisch sicher. Eine zweite Operation bedeutet neue Risiken, Kosten, Einschränkungen und Rehabilitation."
+            },
+            {
+              "type": "p",
+              "text": "Vor dem nächsten Eingriff werden Konsolidierung, Gangbild, Gelenkbeweglichkeit, Muskelkraft, Nervenfunktion, Schmerzen, Kontrakturen und psychische Bereitschaft erneut beurteilt. Einen verbindlichen Mindestabstand in Monaten gibt es nicht."
+            },
+            {
+              "type": "p",
+              "text": "Eine gleichzeitige Verlängerung mehrerer Segmente ist technisch beschrieben, aber die Behandlung von vier Segmenten ist besonders belastend und kein übliches kosmetisches Standardverfahren."
+            },
+            {
+              "type": "p",
+              "text": "Gesamtverlängerungen ab 10 cm verlangen eine besonders kritische Nutzen-Risiko-Abwägung. Werte um 15 cm dürfen keinesfalls als typische oder garantierte Resultate dargestellt werden."
+            },
+            {
+              "type": "p",
+              "text": "Auch nach erfolgreichem ersten Eingriff besteht keine Zusage für den zweiten: anhaltende Funktionseinschränkungen können zu einer Verschiebung oder Absage führen."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Bleiben Narben zurück?",
+          "heading": "Welche Fixationssysteme werden verwendet?",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Jeder chirurgische Eingriff hinterlässt postoperative Narben."
+              "text": "Es gibt externe Fixateure, vollständig implantierbare teleskopische Marknägel und kombinierte externe-interne Verfahren. Jede Konstruktion muss die Distraktion kontrollieren und die Achse während der Regeneratbildung stabilisieren."
             },
             {
               "type": "p",
-              "text": "Ihre Anzahl und Lage hängen von der gewählten Technologie ab. Mit der Zeit verändern sich Narben, ihre vollständige Unsichtbarkeit lässt sich jedoch nicht garantieren."
+              "text": "Ring-, einseitige und Hexapod-Fixateure werden über Drähte oder Pins durch die Haut am Knochen befestigt. Sie können auch komplexe Achskorrekturen ermöglichen, verlangen aber längeres Tragen, Pin-Pflege und bringen Risiken wie Infektionen, Schmerzen, Narben und Gelenksteife mit sich."
+            },
+            {
+              "type": "p",
+              "text": "Teleskopische Marknägel liegen im Markraum; einige Modelle lassen sich mittels eines externen Magnetgeräts steuern. Dauerdurchtrittsstellen für Pins entfallen, doch Kontrakturen, Nervenprobleme, Infektionen und gestörte Regeneration bleiben möglich."
+            },
+            {
+              "type": "p",
+              "text": "Markraumdurchmesser, Knochenform und -achse, Verriegelungsmöglichkeiten, maximaler Hub, Patientengewicht und modellabhängige Belastungsgrenzen müssen passen. Mechanisches Versagen, Verbiegung, Bruch oder ausbleibende Distraktion können eine Revision erfordern. Ein Marknagel erlaubt nicht automatisch Vollbelastung."
+            },
+            {
+              "type": "p",
+              "text": "Kombinierte Methoden wie Lengthening Over Nail (LON) oder Lengthening And Then Nailing (LATN) können die Zeit im externen Fixateur verkürzen, setzen aber zusätzliche Operationen voraus und haben spezifische Infektionsrisiken."
+            },
+            {
+              "type": "p",
+              "text": "Vergleichsstudien sind methodisch heterogen. Aussagen zu bestimmten Produkten dürfen nicht als garantierter Vorteil für den Einzelnen dargestellt werden. Eine spätere geplante Implantatentfernung muss bei der Gesamtplanung berücksichtigt werden."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Wann kann ich wieder arbeiten?",
+          "heading": "Untersuchungen und Operationsplanung",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Das hängt von der Art der Arbeit, der Verlängerungsmethode und der Behandlungsphase ab."
+              "text": "Die Planung klärt zunächst, ob eine kosmetische Verlängerung sinnvoll ist, welches Segment und welches Implantat passen, welche Strecke vertretbar sein könnte und ob Rehabilitation und Nachsorge durchführbar sind."
             },
             {
               "type": "p",
-              "text": "Für Fernarbeit oder wenig bewegungsintensive Tätigkeiten sowie körperlich anspruchsvolle Berufe gelten grundsätzlich unterschiedliche Rückkehrzeiten."
+              "text": "In der Erstberatung werden Verletzungen, frühere Operationen, Schmerzen, chronische Krankheiten, Medikamente, Thrombosen, Infektionen, Nikotinkonsum, Arbeit, Aktivitätsniveau und die Möglichkeit eines längeren Aufenthalts erhoben."
+            },
+            {
+              "type": "p",
+              "text": "Die Untersuchung erfasst Segmentlängen, mechanische Beinachse, Fehlstellungen, Beweglichkeit von Hüfte, Knie und Sprunggelenk, Muskelkraft und Dehnbarkeit, Empfindung, Durchblutung und Gangbild."
+            },
+            {
+              "type": "p",
+              "text": "Standardisierte kalibrierte Ganzbeinstandaufnahmen sind zentral, um Knochenlängen, Achsen und Gelenklinien zu beurteilen. Zusätzliche Aufnahmen oder CT können bei komplexen Fehlstellungen oder Rotationsfragen sinnvoll sein; CT ist nicht für jeden erforderlich."
+            },
+            {
+              "type": "p",
+              "text": "Die Bein-Rumpf- und Oberschenkel-Unterschenkel-Proportionen werden individuell ohne künstlichen Idealwert berücksichtigt. Das Ziel hängt auch von der relativen Verlängerung, Weichteilen, Fixateur-Eigenschaften und dem Rehabilitationsangebot ab."
+            },
+            {
+              "type": "p",
+              "text": "Labor- und internistische Untersuchungen erfolgen entsprechend der Vorgeschichte und dem Risiko, etwa Blutbild, Nierenfunktion, Elektrolyte, Glukose/HbA1c, Gerinnung oder Knochenstoffwechsel nach Indikation. Narkose- und Thromboserisiken werden gezielt bewertet."
+            },
+            {
+              "type": "p",
+              "text": "Das Ergebnis ist ein individueller Plan mit Ziel, Technik, Belastung, Kontrollen, Physiotherapie, Risiken, Zeit und Kosten—oder eine begründete Empfehlung gegen die Operation."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Wann kann ich wieder Sport treiben?",
+          "heading": "Psychische Bereitschaft und realistische Erwartungen",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Zu sportlicher Belastung kehrt man zurück, nachdem der neue Knochen ausreichend gereift ist und Kraft, Beweglichkeit und Kontrolle der Extremitäten wiederhergestellt sind."
+              "text": "Der Wunsch, größer zu sein, ist für sich genommen keine psychische Erkrankung. Die Beweggründe, Dauer des Wunsches und erhofften Veränderungen sollten offen und wertfrei besprochen werden."
             },
             {
               "type": "p",
-              "text": "Das ist einer der späteren Erholungsschritte."
+              "text": "Eine vorgegebene Zentimeterzahl ist nicht garantiert. Schmerzen, Gehhilfen, längere Abhängigkeit von Unterstützung, Berufsausfall, erneute Operationen oder bleibende Einschränkungen sind mögliche Bestandteile des Behandlungsverlaufs."
+            },
+            {
+              "type": "p",
+              "text": "Mehr Körpergröße garantiert weder mehr Selbstwert noch bessere Beziehungen, beruflichen Erfolg oder Lebensqualität. Viele Veröffentlichungen zur Patientenzufriedenheit beruhen auf kleinen, retrospektiven Stichproben und uneinheitlichen, teilweise nicht validierten Instrumenten."
+            },
+            {
+              "type": "p",
+              "text": "Eine strukturierte psychologische Abklärung prüft Erwartungen, äußeren Druck, Bewältigungsressourcen und Hinweise auf körperdysmorphe Symptome. Bei Bedarf wird ein geeigneter Spezialist hinzugezogen."
+            },
+            {
+              "type": "p",
+              "text": "Vor dem Eingriff müssen Unterkunft, Unterstützung im Alltag, Physiotherapie, Arbeitsunterbrechung und finanzielle Reserven organisiert werden. Die Einwilligung kann bis zum Eingriff jederzeit zurückgezogen werden."
+            },
+            {
+              "type": "p",
+              "text": "Bei stark unrealistischen Erwartungen oder ungeklärten Belastungen ist eine Verschiebung sinnvoll. Nach erfolgter Osteotomie erfordert selbst der Abbruch der Distraktion weiterhin eine gesicherte Heilung."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Wird sich mein Gangbild verändern?",
+          "heading": "Wie läuft die Operation ab?",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Während des eigentlichen Verlängerungsprozesses verändert sich das Gangbild vorübergehend."
+              "text": "Vor dem Eingriff bestätigt das Team Segment, Länge, Fixationsmethode, Umfang einer möglichen beidseitigen Operation, Anästhesie, Infektions- und Thromboseprophylaxe, Belastungsgrenzen und Rehabilitation."
             },
             {
               "type": "p",
-              "text": "Eine der Rehabilitationsaufgaben nach Abschluss der Behandlung ist die Wiederherstellung eines normalen Gangmusters und die Anpassung an die neue Extremitätenlänge."
+              "text": "Je nach Situation kommt eine Allgemein- oder geeignete Regionalanästhesie infrage. Die postoperative Schmerztherapie wird mitgeplant."
+            },
+            {
+              "type": "p",
+              "text": "Ein interner Teleskopnagel wird unter Bildkontrolle in den Knochenmarkraum eingebracht und verriegelt. Für externe Fixation werden Drähte oder Pins mit einem äußeren Rahmen verbunden. Die Reihenfolge technischer Schritte hängt vom System ab."
+            },
+            {
+              "type": "p",
+              "text": "Durch eine kontrollierte Osteotomie wird die Regenerationsstelle geschaffen. Weichteile, Periost und Blutversorgung werden möglichst geschont. Am Unterschenkel ist die Planung der Fibula und ihrer gegebenenfalls nötigen Stabilisierung besonders wichtig."
+            },
+            {
+              "type": "p",
+              "text": "Achse, Rotation, Stellung und Stabilität der Fragmente sowie die Implantatfunktion werden überprüft. Eine beidseitige Operation kann für symmetrische Zunahme sinnvoll sein, ist aber nicht für alle zwingend."
+            },
+            {
+              "type": "p",
+              "text": "Nach dem Eingriff überwacht man Schmerzen, Wunden, Fußbewegungen, Sensibilität und Durchblutung. Bildgebung, Mobilisation und prophylaktische Maßnahmen folgen. Vor Entlassung müssen Patienten Pflege, Belastungsgrenzen, Gerätesteuerung und Warnsymptome kennen."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Kann ich erst einmal nur erfahren, welches Ergebnis in meinem Fall möglich ist?",
+          "heading": "Distraktionsphase: die schrittweise Verlängerung",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Ja."
+              "text": "Nach der individuell festgelegten Latenzzeit—bei Erwachsenen oft ungefähr fünf bis sieben Tage—beginnt die aktive Distraktion. Etwa 1 mm pro Tag dient häufig als Ausgangspunkt, ist aber individuell anzupassen."
             },
             {
               "type": "p",
-              "text": "Die Beratung bedeutet nicht die Entscheidung für eine Operation."
+              "text": "Äußere Apparate werden mechanisch oder elektronisch eingestellt; manche Marknägel verwenden ein externes Steuergerät. Patienten werden eingewiesen und dokumentieren die Durchführung. Eine eigenmächtige Veränderung des Tempos ist unzulässig."
             },
             {
               "type": "p",
-              "text": "Ihr Ziel ist es, Anatomie und Proportionen zu beurteilen, das gewünschte Ergebnis, mögliche Technologien, den ungefähren Behandlungsweg zu besprechen und festzustellen, ob eine ästhetische Verlängerung für Sie eine geeignete Option ist."
+              "text": "Rein rechnerisch benötigen 5 cm bei konstant 1 mm/Tag ungefähr 50 Tage. Dies ist keine Zusage; Pausen, langsamere Schritte oder vorzeitige Beendigung können nötig sein."
+            },
+            {
+              "type": "p",
+              "text": "Regelmäßige klinische und röntgenologische Kontrollen—während der aktiven Phase oft etwa alle ein bis zwei Wochen, bei Bedarf häufiger—beurteilen Regenerat, erreichte Länge, Achse, Implantat, Gelenke, Kraft, Schmerzen und Nerven."
+            },
+            {
+              "type": "p",
+              "text": "Physiotherapie soll Kontrakturen verhindern. Nach Oberschenkeloperationen sind Hüfte und Knie, nach Unterschenkeloperationen Sprunggelenk, Achillessehne, Fuß und Nervus peroneus besonders zu kontrollieren."
+            },
+            {
+              "type": "p",
+              "text": "Mobilisation und Belastung richten sich nach dem Implantat und der Knochenheilung. Schmerzfreiheit ist keine Erlaubnis zur Vollbelastung."
+            },
+            {
+              "type": "p",
+              "text": "Rasch zunehmende Schmerzen, gespannte Schwellung, neue Lähmungs- oder Gefühlsstörungen, ein kalter oder blasser Fuß, Fieber mit Wundzeichen oder Implantatprobleme verlangen dringende Untersuchung. Plötzliche Atemnot, Brustschmerz und Zeichen einer akuten Ischämie sind Notfälle."
+            },
+            {
+              "type": "p",
+              "text": "Bei mangelhaftem Regenerat, vorzeitiger Überbrückung, Kontrakturen, neurologischen Symptomen oder Achs- und Implantatproblemen kann die Distraktion verlangsamt, unterbrochen oder beendet werden. Danach folgen Konsolidierung und Rehabilitation."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Möchten Sie erfahren, wie stark Ihre Körpergröße zunehmen kann?",
+          "heading": "Konsolidierung: wie der neue Knochen fest wird",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Der erste Schritt ist nicht die Operation, sondern die individuelle Planung."
+              "text": "Nach Ende der Distraktion ist das Regenerat zunächst mechanisch noch nicht ausgereift. Bei der Konsolidierung mineralisiert es und bildet tragfähige kortikale Strukturen; der Umbau setzt sich weiter fort."
             },
             {
               "type": "p",
-              "text": "Während der Beratung können wir die Körper- und Beinproportionen beurteilen, die gewünschte Größenänderung besprechen, mögliche Verlängerungssegmente, Technologie, Behandlungsdauer und wesentliche Einschränkungen erörtern."
+              "text": "Röntgenaufnahmen beurteilen Dichte, Form, kortikale Überbrückung, Achse und Fixation. In einigen Protokollen werden mindestens drei von vier Kortikalisseiten als Anhaltspunkt genutzt; allein reicht dies nicht für eine generelle Freigabe zur Vollbelastung."
             },
             {
               "type": "p",
-              "text": "Ziel der Beratung ist es, nicht die maximale Zentimeterzahl, sondern eine realistische und begründete Körpergrößenzunahme für Ihre Anatomie festzulegen."
+              "text": "Gehen und Belastung hängen vom konkreten Implantat und der Heilung ab. Insbesondere manche interne Systeme haben strenge Belastungsgrenzen. Eigenmächtige Vollbelastung kann Nägel beschädigen, das Regenerat verformen oder die Korrektur gefährden."
+            },
+            {
+              "type": "p",
+              "text": "Blutversorgung, Fixationsstabilität, Verlängerungsstrecke, Alter, Ernährung, Stoffwechselgesundheit, Nikotin und Komplikationen beeinflussen die Heilung. Kein Präparat garantiert eine schnelle Konsolidierung."
+            },
+            {
+              "type": "p",
+              "text": "Verzögerte Heilung, Pseudarthrose, Fehlstellung oder Fraktur des Regenerats können längere Fixation, Diagnostik oder einen erneuten Eingriff erfordern. Vorzeitige Materialentfernung kann die Heilung gefährden."
+            },
+            {
+              "type": "p",
+              "text": "Die Konsolidierung kann mehrere Monate oder länger dauern. Belastung und Entfernung der Konstruktion richten sich nach klinischer und radiologischer Beurteilung, nicht nur nach einem Kalenderdatum."
             }
-          ],
-          "divider": false
+          ]
+        },
+        {
+          "heading": "Rehabilitation und Wiederherstellung des Gehens",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Physiotherapie gehört vom Vorbereitungsstadium bis zur funktionellen Erholung zur Behandlung. Sie ist nicht erst nach dem knöchernen Zusammenwachsen notwendig."
+            },
+            {
+              "type": "p",
+              "text": "Vor der Operation werden Kraft, Beweglichkeit und Gang dokumentiert; der Umgang mit Krücken oder Gehwagen wird eingeübt. Früh nach der Operation beginnen geeignete Mobilisation und Übungen entsprechend der ärztlichen Freigabe."
+            },
+            {
+              "type": "p",
+              "text": "Während der Distraktion stehen Erhalt von Gelenkbeweglichkeit und Muskelaktivität im Vordergrund. Übermäßig schmerzhafte oder riskante Dehnmanöver sind zu vermeiden. Am Oberschenkel sind Hüfte und Knie, am Unterschenkel insbesondere die Dorsalflexion und Spitzfußprophylaxe wichtig."
+            },
+            {
+              "type": "p",
+              "text": "Der Weg zur normalen Mobilität umfasst Gehen mit Hilfsmitteln, stufenweise zugelassene Belastung und selbständiges Gehen. Beurteilt werden Symmetrie, Becken- und Gelenkkontrolle, Gleichgewicht, Ermüdung und Schmerzen."
+            },
+            {
+              "type": "p",
+              "text": "Kraft und Gangbild können länger zur Erholung benötigen als die Knochenkonsolidierung. Schreibtischarbeit ist manchmal früher möglich als körperliche Arbeit. Autofahren setzt sichere Pedalbedienung und keine beeinträchtigende Medikamentenwirkung voraus."
+            },
+            {
+              "type": "p",
+              "text": "Laufen, Springen, Kontaktsport und schwere Belastungen setzen hinreichende Heilung und funktionelle Vorbereitung voraus. Eine vollständige Rückkehr zum früheren sportlichen Niveau kann nicht garantiert werden."
+            }
+          ]
+        },
+        {
+          "heading": "Risiken und mögliche Komplikationen",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Die kosmetische Verlängerung ist ein elektiver Eingriff mit potenziell schweren Komplikationen. Keine Fixationsmethode garantiert den geplanten Gewinn oder die vollständige Wiederherstellung der ursprünglichen Funktion."
+            },
+            {
+              "type": "p",
+              "text": "Die ursprüngliche Paley-Klassifikation unterscheidet ohne Operation lösbare Probleme, operativ zu überwindende Hindernisse und bleibende Komplikationen. Andere Studien verwenden abweichende Definitionen, weshalb Komplikationsraten nicht unmittelbar vergleichbar sind."
+            },
+            {
+              "type": "p",
+              "text": "Muskeln und Sehnen können sich unzureichend anpassen. Gelenkkontrakturen begrenzen Hüft- oder Kniebewegung nach Oberschenkelverlängerung oder Sprunggelenk-Dorsalflexion nach Unterschenkelverlängerung und können weitere Eingriffe erfordern."
+            },
+            {
+              "type": "p",
+              "text": "Nervenspannung kann Kribbeln, Brennen, Schmerzen, Sensibilitätsverlust oder Muskelschwäche auslösen, unter anderem im Bereich des Nervus peroneus. Fortschreitende Ausfälle müssen dringend untersucht werden."
+            },
+            {
+              "type": "p",
+              "text": "Störungen des Regenerats reichen von unzureichender Bildung und verzögerter Heilung über vorzeitige Konsolidierung bis zu Pseudarthrose, Fraktur und Fehlstellung. Achsabweichungen oder Rotationsfehler können das Gehen beeinträchtigen."
+            },
+            {
+              "type": "p",
+              "text": "Bei externen Fixateuren sind Infektionen der Draht- oder Pin-Stellen typisch; auch interne Implantate können tiefe Infektionen entwickeln. Mechanisches Versagen, Nagelbruch, Lockerung oder ausbleibende Distraktion können Revisionsoperationen notwendig machen."
+            },
+            {
+              "type": "p",
+              "text": "Weitere schwere Risiken sind tiefe Venenthrombose, Lungenembolie, Gefäßverletzungen und akutes Kompartmentsyndrom. Plötzliche Atemnot oder Brustschmerz, akute Durchblutungsstörung und unverhältnismäßig starke Schmerzen mit gespannter Schwellung erfordern Notfallversorgung."
+            },
+            {
+              "type": "p",
+              "text": "Chronische Schmerzen, bleibende Kontrakturen, Schwäche, neurologische Störungen, Gangveränderungen und psychische Belastungen sind möglich. Im ungünstigsten Fall kann die Funktion schlechter sein als vor der Operation. Geplante Implantatentfernung ist von ungeplanter Revisionschirurgie zu unterscheiden."
+            },
+            {
+              "type": "p",
+              "text": "Die Häufigkeit gemeldeter Ereignisse schwankt nach Segment, Verfahren, Länge, Nachbeobachtung und Definition. Eine einzelne Prozentzahl ist keine individuelle Prognose. Auswahl, Verlaufskontrollen, Physiotherapie und frühzeitige Behandlung können Risiken reduzieren, nicht beseitigen."
+            }
+          ]
+        },
+        {
+          "heading": "Wie lange dauert die gesamte Behandlung?",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Die Behandlung umfasst Vorbereitung, Operation, Latenz, Distraktion, Konsolidierung und funktionelle Erholung. Das Erreichen der gewünschten Zentimeter bedeutet nicht, dass die Therapie abgeschlossen ist."
+            },
+            {
+              "type": "p",
+              "text": "Die Voruntersuchung kann Wochen bis Monate dauern. Der stationäre Aufenthalt hängt von Eingriff, Schmerzen, Mobilität und Gesundheitszustand ab."
+            },
+            {
+              "type": "p",
+              "text": "Bei Erwachsenen beträgt die Latenz häufig ungefähr fünf bis sieben Tage. Rein rechnerisch ergeben 1 mm pro Tag für 5 cm ungefähr 50 Tage und für 7 cm ungefähr 70 Tage Distraktion. Dies ist kein individueller Zeitplan."
+            },
+            {
+              "type": "p",
+              "text": "Die Konsolidierung dauert oft Monate und kann durch Heilungsstörungen verlängert werden. Gelenkbeweglichkeit, Muskelkraft und normales Gehen erholen sich unterschiedlich; Rehabilitation kann in einzelnen Fällen zwölf Monate oder länger dauern."
+            },
+            {
+              "type": "p",
+              "text": "Externe, interne und kombinierte Verfahren unterscheiden sich bei Belastungsregeln, Zeitpunkten der Materialentfernung und weiteren Eingriffen. Ein interner Nagel beschleunigt die biologische Heilung nicht automatisch."
+            },
+            {
+              "type": "p",
+              "text": "Büroarbeit kann vor körperlicher Arbeit möglich werden. Autofahren verlangt sichere Beinfunktion, Sport genügend Knochenheilung und koordinative Bereitschaft. Garantierte Rückkehrdaten gibt es nicht."
+            },
+            {
+              "type": "p",
+              "text": "Internationale Patienten müssen eine ausreichend lange Betreuung vor Ort und die Nachsorge im Heimatland vereinbaren. Allein das Ende der aktiven Distraktion macht eine lange Reise nicht automatisch sicher."
+            }
+          ]
+        },
+        {
+          "heading": "Ergebnisse und langfristige Folgen",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Das Ergebnis umfasst neben gewonnenen Zentimetern auch knöcherne Heilung, Achse, Beweglichkeit, Kraft, Gang, Schmerzen, Alltagsfunktion und Patientenzufriedenheit."
+            },
+            {
+              "type": "p",
+              "text": "Systematische Übersichten berichten mittlere Längengewinne von ungefähr 6,7 cm in ausgewählten Gruppen. Nach guter Konsolidierung bleibt die neue Knochenlänge meist erhalten; Brüche, Fehlstellungen oder Korrekturverlust können sie beeinträchtigen."
+            },
+            {
+              "type": "p",
+              "text": "Während der Behandlung verändern Schmerzen, eingeschränkte Belastung und Muskelschwäche das Gangbild. Manche Patienten erholen sich gut, bei anderen bleiben Defizite der Beweglichkeit, Koordination oder Belastbarkeit."
+            },
+            {
+              "type": "p",
+              "text": "Sportliche Belastbarkeit kehrt unterschiedlich zurück; das frühere Leistungsniveau besonders bei Sprung- und Kontaktsport ist nicht garantiert. Die Proportionen von Beinen, Rumpf und den beiden Beinsegmenten verändern sich."
+            },
+            {
+              "type": "p",
+              "text": "Einige Studien zeigen hohe Zufriedenheitswerte, doch kleine retrospektive Gruppen, heterogene Messmethoden und wenig validierte Langzeitergebnisse beschränken die Aussagekraft. Psychisches Wohlbefinden oder soziale Vorteile lassen sich nicht garantieren."
+            },
+            {
+              "type": "p",
+              "text": "Spätfolgen können Schmerzen, Kontrakturen, Schwäche, Nervensymptome, Fehlstellungen und zusätzliche Operationen sein. Der langfristige Einfluss großer Verlängerungsstrecken auf die Gelenke ist nicht ausreichend geklärt."
+            },
+            {
+              "type": "p",
+              "text": "Nachkontrollen sollen Achse und Regenerat, Gelenkfunktion, Gang, Aktivität, Schmerzen, Lebensqualität und die mögliche Indikation zur Implantatentfernung erfassen."
+            }
+          ]
+        },
+        {
+          "heading": "Kosten und vollständiges Behandlungsbudget",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Die Operationsrechnung ist nicht gleich den Gesamtkosten einer kosmetischen Beinverlängerung. Segment, ein- oder beidseitiger Eingriff, Implantat, Komplexität und Behandlungsort beeinflussen den Preis."
+            },
+            {
+              "type": "p",
+              "text": "Zum Gesamtbudget gehören gegebenenfalls Beratung, Röntgen, Labor, Anästhesie, Implantate, Klinikaufenthalt, Medikamente, wiederholte Kontrollen, Physiotherapie, Gehhilfen, Wohnen und Transport."
+            },
+            {
+              "type": "p",
+              "text": "Zusätzliche Ausgaben können durch Materialentfernung, längere Rehabilitation, verspätete Heilung, Infektionen, mechanische Probleme oder unvorhergesehene Revisionsoperationen entstehen."
+            },
+            {
+              "type": "p",
+              "text": "Physiotherapie ist nicht in jedem Operationspaket enthalten. Kosmetische Eingriffe sind häufig von Versicherungsleistungen ausgeschlossen; die Übernahme der Behandlung von Komplikationen muss gesondert geklärt werden."
+            },
+            {
+              "type": "p",
+              "text": "Für Patienten aus dem Ausland sind barrierearme Unterkunft, Hilfe im Alltag und die Möglichkeit eines verlängerten Aufenthalts zu berücksichtigen. Eine finanzielle Reserve ist sinnvoll."
+            },
+            {
+              "type": "p",
+              "text": "Ein belastbarer individueller Kostenvoranschlag ist erst nach klinischer Untersuchung, Bildgebung und Festlegung von Methode und Nachsorgekonzept möglich. Pauschalpreise ohne bestätigte Grundlage wären irreführend."
+            }
+          ]
+        },
+        {
+          "heading": "Alternativen ohne Operation",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Nach dem Schluss der Wachstumsfugen können Gymnastik, Dehnübungen, Nahrungsergänzung und spezielle Geräte die langen Knochen dauerhaft nicht verlängern."
+            },
+            {
+              "type": "p",
+              "text": "Eine bessere Körperhaltung oder geeignetes Schuhwerk kann den wahrgenommenen oder vorübergehend gemessenen Größeneindruck verändern, ohne die Knochenlänge zu erhöhen."
+            },
+            {
+              "type": "p",
+              "text": "Wachstumshormon verlängert nach Abschluss des Skelettwachstums keine reifen Oberschenkel- oder Schienbeinknochen. Eine eigenmächtige Hormonbehandlung zu kosmetischen Zwecken kann gesundheitsschädlich sein."
+            },
+            {
+              "type": "p",
+              "text": "Geringe Körpergröße ist allein keine Krankheit und keine Operationsindikation. Bei Verdacht auf Wachstumsstörung oder Skelettdysplasie sollte zunächst eine medizinische Abklärung erfolgen."
+            }
+          ]
+        },
+        {
+          "heading": "Wissenschaftliche Grundlagen und Grenzen der Daten",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Ilizarov GA. The tension-stress effect on the genesis and growth of tissues. Clinical Orthopaedics and Related Research (1989), Teil I–II."
+            },
+            {
+              "type": "p",
+              "text": "Systematische Übersicht zur kosmetischen Körpergrößenverlängerung (2020): elf Studien, 795 Patienten und eine mittlere Verlängerung von etwa 6,7 cm."
+            },
+            {
+              "type": "p",
+              "text": "Neuere systematische Übersichten (2025) beschreiben unterschiedliche Methoden, Komplikationsklassifikationen und Instrumente der patientenberichteten Ergebnismessung. Durchschnittswerte sind keine persönlichen Vorhersagen."
+            },
+            {
+              "type": "p",
+              "text": "Die Datenlage zu langfristiger Lebensqualität, Rückkehr zu intensivem Sport und späten Gelenkfolgen bleibt begrenzt; eine individuelle ärztliche Beurteilung ist unerlässlich."
+            }
+          ]
         }
       ]
     },
