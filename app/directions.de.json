@@ -5221,6 +5221,33 @@
           "divider": false
         },
         {
+          "heading": "Internationale Patienten: Planung des gesamten Behandlungswegs",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Patienten aus dem Ausland können zunächst ihre Krankengeschichte, vorhandene Röntgenbilder, Erwartungen und die Möglichkeit eines längeren Aufenthalts fernmündlich oder online besprechen. Eine Fernbeurteilung ersetzt jedoch nicht die persönliche Untersuchung von Gelenken, Gangbild, Nervenfunktion und Knochenanatomie."
+            },
+            {
+              "type": "p",
+              "text": "Die kosmetische Beinverlängerung ist keine kurze Reise nur für eine Operation. Bereits vorher müssen Distraktionsphase, regelmäßige Bildgebung, Physiotherapie, Belastungsgrenzen, barrierearme Unterkunft und Zugang zu medizinischer Notfallversorgung geplant werden."
+            },
+            {
+              "type": "p",
+              "text": "Abhängig von nachweislich verfügbaren klinischen und organisatorischen Kapazitäten kann eine Behandlung in Kyjiw oder in relativ sichereren westlichen Regionen der Ukraine erwogen werden. Kein Standort garantiert vollständige Sicherheit; aktuelle Reisehinweise und die Sicherheitslage sind zu beachten."
+            },
+            {
+              "type": "p",
+              "text": "Vor der Rückkehr nach Deutschland, Polen, Tschechien oder in ein anderes Land sollten orthopädische Nachsorge, Physiotherapie, Röntgenkontrollen und das Vorgehen bei Komplikationen verbindlich abgestimmt werden. Fernkontakte ersetzen keine notwendigen persönlichen Untersuchungen."
+            }
+          ]
+        },
+        {
           "heading": "Häufig gestellte Fragen",
           "body": [],
           "divider": true
