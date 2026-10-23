@@ -32,6 +32,15 @@ export async function generateMetadata({
   const dict = getDictionary(lang);
   const article = getDirections(lang).articles[slug];
   if (!article) return {};
+  if (slug === "limb-lengthening") {
+    const meta: Record<string, {title:string; description:string}> = {
+      uk: {title:"Збільшення зросту — подовження ніг | Максим Байда", description:"Хірургічне збільшення зросту: подовження стегон і гомілок, відбір пацієнтів, методики, ризики, реабілітація та індивідуальна консультація."},
+      en: {title:"Cosmetic Limb Lengthening in Ukraine | Dr Maksym Baida", description:"Cosmetic height lengthening surgery: femur and tibia options, internal nails and external fixation, risks, recovery and individual assessment."},
+      de: {title:"Beinverlängerung zur Körpergrößenzunahme | Dr. Baida", description:"Kosmetische Beinverlängerung: Oberschenkel und Unterschenkel, Implantate, Risiken, Rehabilitation und individuelle Beratung in der Ukraine."},
+      pl: {title:"Operacja zwiększenia wzrostu | Dr Maksym Baida", description:"Wydłużanie nóg dla zwiększenia wzrostu: uda i podudzia, metody operacyjne, ryzyko, rehabilitacja oraz indywidualna konsultacja."}
+    };
+    return {...meta[lang], alternates: localizedAlternates(lang, `treatments/${slug}`), openGraph:{type:"article", url:`https://travmatolog.in.ua/${lang}/treatments/${slug}/`, title:meta[lang].title, description:meta[lang].description, siteName:"travmatolog.in.ua", images:[{url:"https://travmatolog.in.ua/directions/limb-lengthening-hero.jpg",alt:article.title}]}};
+  }
   if (slug === "shoulder-replacement") {
     const meta: Record<string, {title:string; description:string}> = {
       uk:{title:"Ендопротезування плечового суглоба в Києві | Максим Байда",description:"Анатомічне та реверсивне ендопротезування плечового суглоба (ATSA/RTSA): показання, планування, операція, ризики, реабілітація та консультація."},
@@ -89,7 +98,7 @@ export default async function TreatmentDetail({
 
   const article = getDirections(loc).articles[slug];
   if (!article) notFound();
-  const schema = (slug === "hip-replacement" || slug === "knee-replacement" || slug === "shoulder-replacement") ? {
+  const schema = (slug === "hip-replacement" || slug === "knee-replacement" || slug === "shoulder-replacement" || slug === "limb-lengthening") ? {
     "@context": "https://schema.org",
     "@type": "MedicalWebPage",
     "@id": `https://travmatolog.in.ua/${loc}/treatments/${slug}/#medicalwebpage`,
@@ -101,7 +110,7 @@ export default async function TreatmentDetail({
     author: { "@type": "Person", name: "Maksym Baida", jobTitle: "Orthopaedic trauma surgeon", url: `https://travmatolog.in.ua/${loc}/#about-doctor` },
     publisher: { "@type": "Organization", name: "travmatolog.in.ua", url: "https://travmatolog.in.ua/" },
   } : null;
-  const crumbs = (slug === "knee-replacement" || slug === "shoulder-replacement") ? {
+  const crumbs = (slug === "knee-replacement" || slug === "shoulder-replacement" || slug === "limb-lengthening") ? {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     itemListElement: [
@@ -237,7 +246,7 @@ function RichDetail({
 }) {
   const t = dict.treatments;
   const isTha = slug === "hip-replacement";
-  const isRich = isTha || slug === "knee-replacement" || slug === "shoulder-replacement";
+  const isRich = isTha || slug === "knee-replacement" || slug === "shoulder-replacement" || slug === "limb-lengthening";
   // International TKA shares the same accessible image and semantic heading framework.
   const imageDescriptions: Record<Locale, Record<string, string>> = {
     uk: { "hip-replacement-planning.jpg": "Інфографіка планування ендопротезування кульшового суглоба: положення компонентів, центр ротації та довжина кінцівки", "hip-replacement-access.jpg": "Анатомічна ілюстрація прямого переднього доступу до кульшового суглоба", "hip-replacement-case-after.jpg": "Післяопераційна рентгенограма кульшового суглоба після ендопротезування" },
@@ -252,7 +261,13 @@ function RichDetail({
     pl: {"knee-replacement-diagram.jpg":"Schemat planowania i osi mechanicznej kończyny przy endoprotezoplastyce kolana","knee-replacement-what.jpg":"Schemat całkowitej endoprotezoplastyki kolana","knee-replacement-case-before1.jpg":"RTG kolan pod obciążeniem z gonartrozą","knee-replacement-case-before2.jpg":"RTG choroby zwyrodnieniowej kolana","knee-replacement-case-before3.jpg":"RTG całych kończyn dolnych do oceny osi","knee-replacement-case-after1.jpg":"RTG endoprotezy kolana w projekcji przednio-tylnej","knee-replacement-case-after2.jpg":"RTG endoprotezy kolana w projekcji bocznej"}
   };
   const shoulderAlt: Record<Locale, Record<string,string>> = {"uk":{"shoulder-replacement-cuff.jpg":"Стан ротаторної манжети та вибір анатомічного чи реверсивного ендопротеза плеча","shoulder-replacement-types.jpg":"Порівняння анатомічного та реверсивного ендопротезування плечового суглоба","shoulder-replacement-case-before.jpg":"Доопераційна рентгенограма плеча після тяжкої травми","shoulder-replacement-case-after1.jpg":"Післяопераційна рентгенограма реверсивного ендопротеза плеча, перша проєкція","shoulder-replacement-case-after2.jpg":"Післяопераційна рентгенограма реверсивного ендопротеза плеча, друга проєкція"},"en":{"shoulder-replacement-rotator-cuff-en.png":"Rotator cuff function and selection of anatomic or reverse shoulder replacement","shoulder-replacement-types-en.png":"Comparison of anatomic and reverse shoulder replacement implants","shoulder-replacement-case-before.jpg":"Preoperative shoulder radiograph following severe trauma","shoulder-replacement-case-after1.jpg":"Postoperative reverse shoulder replacement X-ray, first view","shoulder-replacement-case-after2.jpg":"Postoperative reverse shoulder replacement X-ray, second view"},"de":{"shoulder-replacement-rotator-cuff-de.png":"Rotatorenmanschette und Wahl zwischen anatomischer und inverser Schulterprothese","shoulder-replacement-types-de.png":"Vergleich anatomischer und inverser Schulterendoprothesen","shoulder-replacement-case-before.jpg":"Präoperatives Schulter-Röntgenbild nach schwerem Trauma","shoulder-replacement-case-after1.jpg":"Postoperatives Röntgenbild der inversen Schulterprothese, erste Aufnahme","shoulder-replacement-case-after2.jpg":"Postoperatives Röntgenbild der inversen Schulterprothese, zweite Aufnahme"},"pl":{"shoulder-replacement-rotator-cuff-pl.png":"Stożek rotatorów a wybór endoprotezy anatomicznej lub odwróconej","shoulder-replacement-types-pl.png":"Porównanie endoprotezy anatomicznej i odwróconej barku","shoulder-replacement-case-before.jpg":"Przedoperacyjne RTG barku po ciężkim urazie","shoulder-replacement-case-after1.jpg":"Pooperacyjne RTG odwróconej endoprotezy barku, pierwsza projekcja","shoulder-replacement-case-after2.jpg":"Pooperacyjne RTG odwróconej endoprotezy barku, druga projekcja"}};
-  const imageAlt = (file: string) => slug === "knee-replacement" ? (kneeAlt[lang][file] ?? ({
+  const lengtheningAlt: Record<Locale, Record<string,string>> = {
+    uk: {"limb-lengthening-planning.jpg":"Планування подовження стегон і гомілок із урахуванням пропорцій тіла","limb-lengthening-stages.jpg":"Етапи дистракційного остеогенезу та консолідації регенерату"},
+    en: {"limb-lengthening-planning.jpg":"Planning femoral and tibial lengthening and body proportions","limb-lengthening-stages.jpg":"Distraction osteogenesis and bone consolidation stages"},
+    de: {"limb-lengthening-planning.jpg":"Planung der Oberschenkel- und Unterschenkelverlängerung","limb-lengthening-stages.jpg":"Phasen der Distraktionsosteogenese und Knochenkonsolidierung"},
+    pl: {"limb-lengthening-planning.jpg":"Planowanie wydłużania kości udowych i piszczelowych oraz proporcji ciała","limb-lengthening-stages.jpg":"Etapy osteogenezy dystrakcyjnej i konsolidacji kości"}
+  };
+  const imageAlt = (file: string) => slug === "limb-lengthening" ? (lengtheningAlt[lang][file] ?? article.title) : slug === "knee-replacement" ? (kneeAlt[lang][file] ?? ({
     "knee-replacement-diagram.jpg": "Схема ендопротеза колінного суглоба",
     "knee-replacement-what.jpg": "Анатомічна схема коліна й ендопротезування",
     "knee-replacement-case-before1.jpg": "Рентгенограма колінних суглобів при гонартрозі",
