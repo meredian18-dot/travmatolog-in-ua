@@ -11,6 +11,7 @@ import HalluxInternationalUk from "@/components/HalluxInternationalUk";
 import ShoulderInternationalUk from "@/components/ShoulderInternationalUk";
 import ShoulderInternational from "@/components/ShoulderInternational";
 import HipInternationalUk from "@/components/HipInternationalUk";
+import { LengtheningFaqUk, LengtheningInternationalUk } from "@/components/LengtheningPatientUk";
 import KneeInternationalUk from "@/components/KneeInternationalUk";
 import ArthroplastyInternational from "@/components/ArthroplastyInternational";
 import HalluxInternational from "@/components/HalluxInternational";
@@ -446,6 +447,7 @@ function RichDetail({
               </ul>
             </nav>
           )}
+          {slug === "limb-lengthening" && lang === "uk" && <><LengtheningInternationalUk /><LengtheningFaqUk /></>}
           {slug === "hallux-valgus" && (lang === "uk" ? <HalluxInternationalUk /> : <HalluxInternational lang={lang} />)}
           {slug === "shoulder-replacement" && (lang === "uk" ? <ShoulderInternationalUk /> : <ShoulderInternational lang={lang} />)}
           {slug === "hip-replacement" && lang === "uk" && <HipInternationalUk />}
