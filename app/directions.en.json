@@ -5221,6 +5221,33 @@
           "divider": false
         },
         {
+          "heading": "International patients: planning the full treatment journey",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Patients living outside Ukraine can start with a remote discussion of their health history, existing radiographs, expected height increase and practical ability to remain close to the treatment centre. A remote review cannot replace an in-person assessment of joints, gait, nerve function and bone anatomy before surgery."
+            },
+            {
+              "type": "p",
+              "text": "Cosmetic limb lengthening is not a short surgical trip. The plan must cover the distraction phase, regular imaging, physiotherapy, restricted weight bearing, accommodation, assistance with daily activities and access to urgent medical care."
+            },
+            {
+              "type": "p",
+              "text": "Depending on confirmed clinical capacity and organisational circumstances, treatment may be considered in Kyiv or in relatively safer western regions of Ukraine. No location in Ukraine can guarantee complete safety; travel advisories and current conditions must be considered."
+            },
+            {
+              "type": "p",
+              "text": "Before returning to Poland, Germany, Czechia or another country, the patient and surgical team should agree on a local orthopaedic clinician, a physiotherapist, radiographic follow-up and a plan for complications. Remote communication supplements but does not replace required in-person examinations."
+            }
+          ]
+        },
+        {
           "heading": "Frequently asked questions",
           "body": [],
           "divider": true
