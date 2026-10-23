@@ -12,6 +12,7 @@ import ShoulderInternationalUk from "@/components/ShoulderInternationalUk";
 import ShoulderInternational from "@/components/ShoulderInternational";
 import HipInternationalUk from "@/components/HipInternationalUk";
 import { LengtheningFaqUk, LengtheningInternationalUk, LengtheningEssentialsUk } from "@/components/LengtheningPatientUk";
+import LengtheningPatientInternational from "@/components/LengtheningPatientInternational";
 import KneeInternationalUk from "@/components/KneeInternationalUk";
 import ArthroplastyInternational from "@/components/ArthroplastyInternational";
 import HalluxInternational from "@/components/HalluxInternational";
@@ -168,7 +169,7 @@ function localizedTreatmentImage(file: string, slug: string, lang: Locale): stri
       (file === "hip-replacement-planning.jpg" || file === "hip-replacement-access.jpg")) {
     return file.replace(".jpg", `-${lang}.svg`);
   }
-  // International limb-lengthening diagrams remain shared until translated graphic assets are approved.
+  if (slug === "limb-lengthening" && lang !== "uk" && (file === "limb-lengthening-planning.jpg" || file === "limb-lengthening-stages.jpg")) return file.replace(".jpg", `-${lang}.svg`);
   if (slug === "hallux-valgus" && lang !== "uk" &&
       (file === "hallux-valgus-diagram1.jpg" || file === "hallux-valgus-diagram2.jpg")) {
     return file.replace(".jpg", `-${lang}.webp`);
@@ -449,6 +450,7 @@ function RichDetail({
             </nav>
           )}
           {slug === "limb-lengthening" && lang === "uk" && <><LengtheningEssentialsUk /><LengtheningInternationalUk /><LengtheningFaqUk /></>}
+          {slug === "limb-lengthening" && lang !== "uk" && <LengtheningPatientInternational lang={lang} />}
           {slug === "hallux-valgus" && (lang === "uk" ? <HalluxInternationalUk /> : <HalluxInternational lang={lang} />)}
           {slug === "shoulder-replacement" && (lang === "uk" ? <ShoulderInternationalUk /> : <ShoulderInternational lang={lang} />)}
           {slug === "hip-replacement" && lang === "uk" && <HipInternationalUk />}
