@@ -5221,6 +5221,33 @@
           "divider": false
         },
         {
+          "heading": "Pacjenci z zagranicy: planowanie całego procesu leczenia",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Pacjenci mieszkający poza Ukrainą mogą rozpocząć od zdalnej konsultacji dotyczącej stanu zdrowia, dostępnych zdjęć RTG, oczekiwanego zwiększenia wzrostu oraz możliwości dłuższego pobytu w pobliżu ośrodka. Ocena zdalna nie zastępuje osobistego badania stawów, chodu, nerwów i anatomii kości."
+            },
+            {
+              "type": "p",
+              "text": "Kosmetyczne wydłużanie kończyn nie jest krótkim wyjazdem wyłącznie na operację. Plan musi obejmować okres dystrakcji, regularne badania obrazowe, fizjoterapię, ograniczenia obciążania, dostępne mieszkanie, pomoc w codziennym życiu i możliwość uzyskania pilnej pomocy medycznej."
+            },
+            {
+              "type": "p",
+              "text": "W zależności od rzeczywistych warunków klinicznych i organizacyjnych leczenie można rozważać w Kijowie lub w relatywnie bezpieczniejszych zachodnich regionach Ukrainy. Żadna lokalizacja nie gwarantuje pełnego bezpieczeństwa; należy brać pod uwagę bieżące ostrzeżenia dotyczące podróży."
+            },
+            {
+              "type": "p",
+              "text": "Przed powrotem do Polski, Niemiec, Czech lub innego kraju należy uzgodnić opiekę miejscowego ortopedy, fizjoterapię, badania RTG oraz postępowanie w razie powikłań. Kontakt zdalny uzupełnia, ale nie zastępuje niezbędnych badań osobistych."
+            }
+          ]
+        },
+        {
           "heading": "Najczęściej zadawane pytania",
           "body": [],
           "divider": true
