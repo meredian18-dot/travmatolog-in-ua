@@ -41,7 +41,7 @@ export async function generateMetadata({
       de: {title:"Beinverlängerung zur Körpergrößenzunahme | Dr. Baida", description:"Kosmetische Beinverlängerung: Oberschenkel und Unterschenkel, Implantate, Risiken, Rehabilitation und individuelle Beratung in der Ukraine."},
       pl: {title:"Operacja zwiększenia wzrostu | Dr Maksym Baida", description:"Wydłużanie nóg dla zwiększenia wzrostu: uda i podudzia, metody operacyjne, ryzyko, rehabilitacja oraz indywidualna konsultacja."}
     };
-    return {...meta[lang], alternates: localizedAlternates(lang, `treatments/${slug}`), openGraph:{type:"article", url:`https://travmatolog.in.ua/${lang}/treatments/${slug}/`, title:meta[lang].title, description:meta[lang].description, siteName:"travmatolog.in.ua", images:[{url:"https://travmatolog.in.ua/directions/limb-lengthening-hero.jpg",alt:article.title}]}};
+    return {...meta[lang], alternates: localizedAlternates(lang, `treatments/${slug}`), openGraph:{type:"article", url:`https://travmatolog.in.ua/${lang}/treatments/${slug}/`, title:meta[lang].title, description:meta[lang].description, siteName:"travmatolog.in.ua", locale: lang === "uk" ? "uk_UA" : lang === "de" ? "de_DE" : lang === "pl" ? "pl_PL" : "en_US", images:[{url:"https://travmatolog.in.ua/directions/limb-lengthening-hero.jpg",alt:article.title}]}, twitter:{card:"summary_large_image",title:meta[lang].title,description:meta[lang].description,images:["https://travmatolog.in.ua/directions/limb-lengthening-hero.jpg"]}};
   }
   if (slug === "shoulder-replacement") {
     const meta: Record<string, {title:string; description:string}> = {
@@ -109,6 +109,7 @@ export default async function TreatmentDetail({
     description: article.lead,
     inLanguage: loc === "uk" ? "uk-UA" : loc === "en" ? "en" : loc === "de" ? "de-DE" : "pl-PL",
     about: { "@type": "MedicalProcedure", name: article.title, procedureType: "Surgical" },
+    ...(slug === "limb-lengthening" ? { mainEntity: { "@type": "MedicalProcedure", name: article.title, procedureType: "Surgical" }, isAccessibleForFree: true } : {}),
     author: { "@type": "Person", name: "Maksym Baida", jobTitle: "Orthopaedic trauma surgeon", url: `https://travmatolog.in.ua/${loc}/#about-doctor` },
     publisher: { "@type": "Organization", name: "travmatolog.in.ua", url: "https://travmatolog.in.ua/" },
   } : null;
@@ -270,7 +271,7 @@ function RichDetail({
     de: {"limb-lengthening-planning.jpg":"Planung der Oberschenkel- und Unterschenkelverlängerung","limb-lengthening-stages.jpg":"Phasen der Distraktionsosteogenese und Knochenkonsolidierung"},
     pl: {"limb-lengthening-planning.jpg":"Planowanie wydłużania kości udowych i piszczelowych oraz proporcji ciała","limb-lengthening-stages.jpg":"Etapy osteogenezy dystrakcyjnej i konsolidacji kości"}
   };
-  const imageAlt = (file: string) => slug === "limb-lengthening" ? (lengtheningAlt[lang][file] ?? article.title) : slug === "knee-replacement" ? (kneeAlt[lang][file] ?? ({
+  const imageAlt = (file: string) => slug === "limb-lengthening" ? (lengtheningAlt[lang][file.replace(/-(en|de|pl)\\.png$/, ".jpg")] ?? article.title) : slug === "knee-replacement" ? (kneeAlt[lang][file] ?? ({
     "knee-replacement-diagram.jpg": "Схема ендопротеза колінного суглоба",
     "knee-replacement-what.jpg": "Анатомічна схема коліна й ендопротезування",
     "knee-replacement-case-before1.jpg": "Рентгенограма колінних суглобів при гонартрозі",
