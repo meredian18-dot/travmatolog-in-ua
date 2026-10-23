@@ -169,7 +169,7 @@ function localizedTreatmentImage(file: string, slug: string, lang: Locale): stri
       (file === "hip-replacement-planning.jpg" || file === "hip-replacement-access.jpg")) {
     return file.replace(".jpg", `-${lang}.svg`);
   }
-  if (slug === "limb-lengthening" && lang !== "uk" && (file === "limb-lengthening-planning.jpg" || file === "limb-lengthening-stages.jpg")) return file.replace(".jpg", `-${lang}.svg`);
+  if (slug === "limb-lengthening" && lang !== "uk" && (file === "limb-lengthening-planning.jpg" || file === "limb-lengthening-stages.jpg")) return file.replace(".jpg", `-${lang}.png`);
   if (slug === "hallux-valgus" && lang !== "uk" &&
       (file === "hallux-valgus-diagram1.jpg" || file === "hallux-valgus-diagram2.jpg")) {
     return file.replace(".jpg", `-${lang}.webp`);
