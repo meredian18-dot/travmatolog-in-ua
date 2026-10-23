@@ -47,6 +47,25 @@ export function LengtheningInternationalUk() {
     <Accordion items={internationalQuestions}/>
   </section>;
 }
+export function LengtheningEssentialsUk() {
+  const points = [
+    ["01", "Не всім підходить", "Рішення приймають після оцінки здоров’я, пропорцій тіла, суглобів і очікувань."],
+    ["02", "Лікування триває місяцями", "Операція — лише початок. Далі потрібні поступове подовження, зрощення та контроль."],
+    ["03", "Реабілітація обов’язкова", "Рухливість суглобів, сила м’язів і безпечна хода потребують регулярної роботи."],
+    ["04", "Безпека важливіша за сантиметри", "План подовження можуть змінити або припинити, якщо виникають небезпечні симптоми."]
+  ];
+  return <section aria-labelledby="length-essentials" className="mt-10 rounded-[8px] border border-hairline bg-cream p-6 sm:p-9">
+    <p className="label-caps text-ink-muted mb-4">ПЕРЕД ТИМ ЯК ПРИЙНЯТИ РІШЕННЯ</p>
+    <h2 id="length-essentials" className="font-light text-2xl sm:text-3xl text-ink mb-6">Чотири речі, які важливо знати</h2>
+    <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+      {points.map(([num,title,detail])=><div key={num} className="rounded-[8px] bg-white border border-hairline p-5">
+        <p className="text-tan-dark text-xs font-semibold tracking-widest mb-3">{num}</p>
+        <h3 className="text-ink text-lg font-medium mb-2">{title}</h3>
+        <p className="text-ink leading-relaxed">{detail}</p>
+      </div>)}
+    </div>
+  </section>;
+}
 export function LengtheningFaqUk(){
  return <section className="mt-14" aria-labelledby="length-faq">
    <h2 id="length-faq" className="label-caps text-ink-muted text-[12px] font-semibold pb-4 border-b border-hairline">ЧАСТІ ЗАПИТАННЯ</h2>
