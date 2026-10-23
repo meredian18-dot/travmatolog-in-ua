@@ -4804,424 +4804,14 @@
       ]
     },
     "limb-lengthening": {
-      "title": "Zwiększenie wzrostu i estetyczne wydłużanie kończyn",
-      "lead": "Chirurgiczne zwiększenie wzrostu z indywidualnym planowaniem proporcji ciała, kontrolowanym wydłużaniem kości i etapowym usprawnianiem czynnościowym.",
-      "intro": "Estetyczne wydłużanie kończyn pozwala zwiększyć wzrost poprzez stopniowe wydłużanie kości udowych i/lub piszczelowych.",
+      "title": "Zwiększenie wzrostu — chirurgiczne wydłużanie kończyn dolnych",
+      "lead": "Indywidualnie planowane wydłużanie ud lub podudzi wymaga starannej kwalifikacji, wielomiesięcznego gojenia kości, rehabilitacji i kontroli. Możliwe są poważne powikłania.",
+      "intro": "Kosmetyczne wydłużanie kończyn wykorzystuje zdolność organizmu do tworzenia nowej kości podczas stopniowej dystrakcji. To długie planowe leczenie ortopedyczne, a nie krótki zabieg estetyczny. Bezpieczeństwo i sprawność są ważniejsze niż centymetry.",
       "hero": "limb-lengthening-hero.jpg",
       "gallery": [],
       "blocks": [
         {
-          "heading": null,
-          "body": [
-            {
-              "type": "p",
-              "text": "To nie jest zwykła operacja kosmetyczna. Proces wymaga planowania ortopedycznego, interwencji chirurgicznej, stopniowego wydłużania kości, regularnej kontroli i dalszego przywracania funkcji kończyn."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Czy można chirurgicznie zwiększyć wzrost?",
-          "body": [
-            {
-              "type": "p",
-              "text": "Tak."
-            },
-            {
-              "type": "p",
-              "text": "Podstawą metody jest zdolność tkanki kostnej do tworzenia nowej kości przy jej stopniowym, kontrolowanym wydłużaniu."
-            },
-            {
-              "type": "p",
-              "text": "Podczas operacji wykonuje się kontrolowane przecięcie kości (osteotomię) i wszczepia system, który pozwala następnie stopniowo zwiększać odległość między jej fragmentami."
-            },
-            {
-              "type": "p",
-              "text": "W utworzonej przestrzeni stopniowo powstaje nowa tkanka kostna."
-            },
-            {
-              "type": "p",
-              "text": "W ten sposób zwiększenie długości kończyn odbywa się nie poprzez wszczepienie „dłuższej kości” czy implantu, lecz dzięki stopniowemu tworzeniu własnej nowej tkanki kostnej."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Ile centymetrów można dodać do wzrostu?",
-          "body": [
-            {
-              "type": "p",
-              "text": "To jedno z pierwszych pytań, które pojawia się przy planowaniu wydłużania estetycznego."
-            },
-            {
-              "type": "p",
-              "text": "Ale prawidłowe planowanie zaczyna się nie od maksymalnie możliwej liczby centymetrów."
-            },
-            {
-              "type": "p",
-              "text": "Przed ustaleniem docelowego wydłużenia konieczna jest ocena:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "wyjściowego wzrostu",
-                "długości ud i podudzi",
-                "proporcji kończyn dolnych i tułowia",
-                "osi kończyn",
-                "stanu stawów biodrowych, kolanowych i skokowych",
-                "stanu tkanki kostnej",
-                "ruchomości stawów",
-                "możliwości adaptacyjnych mięśni i innych tkanek miękkich",
-                "oczekiwań pacjenta"
-              ]
-            },
-            {
-              "type": "p",
-              "text": "Celem nie jest uzyskanie maksymalnej liczby centymetrów za wszelką cenę, lecz ustalenie uzasadnionego wydłużenia z uwzględnieniem anatomii, proporcji i bezpieczeństwa."
-            }
-          ],
-          "divider": false,
-          "diagram": "limb-lengthening-planning.jpg"
-        },
-        {
-          "heading": "Udo czy podudzie?",
-          "body": [
-            {
-              "type": "p",
-              "text": "Zwiększenie wzrostu można wykonać poprzez wydłużanie kości udowych lub piszczelowych."
-            },
-            {
-              "type": "p",
-              "text": "To nie jest po prostu wybór miejsca operacji."
-            },
-            {
-              "type": "p",
-              "text": "Udo i podudzie mają różną anatomię, otoczone są różnymi grupami mięśniowymi, różnie wpływają na proporcje kończyny i mają swoje cechy rekonwalescencji."
-            },
-            {
-              "type": "p",
-              "text": "Dlatego przy planowaniu ocenia się nie tylko pożądaną liczbę centymetrów, ale też to, jak wydłużenie konkretnego segmentu zmieni ogólne proporcje ciała."
-            },
-            {
-              "type": "p",
-              "text": "W części przypadków cel można osiągnąć wydłużeniem jednego segmentu. Większe zwiększenie wzrostu może wymagać innej strategii i, przy odpowiednich warunkach, odrębnych etapów leczenia."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Jak przebiega zwiększanie wzrostu",
-          "body": [
-            {
-              "type": "p",
-              "text": "Proces składa się z kilku kolejnych etapów."
-            }
-          ],
-          "divider": false,
-          "diagram": "limb-lengthening-stages.jpg"
-        },
-        {
-          "heading": "01 — Planowanie",
-          "body": [
-            {
-              "type": "p",
-              "text": "Oceniamy anatomię, długość segmentów, oś kończyn dolnych, stan stawów i proporcje ciała."
-            },
-            {
-              "type": "p",
-              "text": "Omawiamy pożądany wynik i ustalamy realistyczny, indywidualny cel."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "02 — Operacja",
-          "body": [
-            {
-              "type": "p",
-              "text": "Wykonuje się kontrolowaną osteotomię kości oraz wszczepia system do jej dalszego, stopniowego wydłużania."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "03 — Okres wydłużania",
-          "body": [
-            {
-              "type": "p",
-              "text": "Po początkowym okresie pooperacyjnym rozpoczyna się stopniowe zwiększanie długości kości."
-            },
-            {
-              "type": "p",
-              "text": "Proces przebiega niewielkimi krokami i jest kontrolowany za pomocą regularnych badań i radiografii."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "04 — Formowanie nowej kości",
-          "body": [
-            {
-              "type": "p",
-              "text": "Po osiągnięciu zaplanowanej długości wydłużanie zostaje zatrzymane."
-            },
-            {
-              "type": "p",
-              "text": "Nowo powstała tkanka kostna stopniowo dojrzewa i nabiera odpowiedniej wytrzymałości."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "05 — Przywracanie funkcji",
-          "body": [
-            {
-              "type": "p",
-              "text": "Przez cały proces ważne jest utrzymanie ruchomości stawów i funkcji mięśni."
-            },
-            {
-              "type": "p",
-              "text": "Po zakończeniu wydłużania kontynuowane jest stopniowe przywracanie siły, chodu i aktywności fizycznej."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Wewnętrzny gwóźdź wydłużający czy fiksacja zewnętrzna?",
-          "body": [
-            {
-              "type": "p",
-              "text": "Do wydłużania kości istnieją różne technologie."
-            },
-            {
-              "type": "p",
-              "text": "Tradycyjnie stosowane są systemy fiksacji zewnętrznej. Nowoczesną alternatywą w niektórych przypadkach są wewnętrzne systemy śródszpikowe wydłużające, umieszczane wewnątrz kości."
-            },
-            {
-              "type": "p",
-              "text": "Wybór technologii zależy od:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "segmentu, który planuje się wydłużać",
-                "anatomii kości",
-                "wielkości planowanego wydłużenia",
-                "możliwości konkretnego systemu",
-                "wcześniejszych operacji",
-                "indywidualnych cech pacjenta"
-              ]
-            },
-            {
-              "type": "p",
-              "text": "Technologię należy dobierać pod plan leczenia, a nie odwrotnie."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Proporcje mają znaczenie",
-          "body": [
-            {
-              "type": "p",
-              "text": "Przy wydłużaniu estetycznym ważna jest nie tylko liczba określająca wzrost po operacji."
-            },
-            {
-              "type": "p",
-              "text": "Zmiana długości uda lub podudzia zmienia relacje między segmentami kończyn dolnych i ogólne proporcje ciała."
-            },
-            {
-              "type": "p",
-              "text": "Dlatego jeszcze przed operacją ważne jest ocenienie, jak planowane wydłużenie wpłynie na wygląd zewnętrzny i proporcje pacjenta."
-            },
-            {
-              "type": "p",
-              "text": "W odpowiednich przypadkach planowanie cyfrowe pozwala wstępnie modelować różne warianty wydłużenia i omawiać je z pacjentem."
-            },
-            {
-              "type": "p",
-              "text": "Wynik estetyczny to nie tylko stanie się wyższym, ale też zachowanie naturalnego postrzegania proporcji ciała."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Co dzieje się z mięśniami i tkankami miękkimi?",
-          "body": [
-            {
-              "type": "p",
-              "text": "Wydłuża się nie tylko kość."
-            },
-            {
-              "type": "p",
-              "text": "Wraz ze zwiększaniem długości segmentu stopniowo adaptują się mięśnie, ścięgna, naczynia, nerwy i inne tkanki miękkie."
-            },
-            {
-              "type": "p",
-              "text": "Ich zdolność adaptacyjna jest jednym z czynników determinujących dopuszczalne tempo i wielkość wydłużenia."
-            },
-            {
-              "type": "p",
-              "text": "Dlatego w trakcie leczenia kontrolowane są:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "ruchomość stawów",
-                "równowaga mięśniowa",
-                "stan neurologiczny",
-                "formowanie nowej tkanki kostnej",
-                "ogólna funkcja kończyn"
-              ]
-            },
-            {
-              "type": "p",
-              "text": "W razie potrzeby tempo wydłużania można korygować."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Rehabilitacja — część samego leczenia",
-          "body": [
-            {
-              "type": "p",
-              "text": "Przy wydłużaniu estetycznym rehabilitacja nie zaczyna się po zakończeniu leczenia."
-            },
-            {
-              "type": "p",
-              "text": "Jest jego częścią od samego początku."
-            },
-            {
-              "type": "p",
-              "text": "W procesie wydłużania szczególnie ważne jest utrzymywanie ruchomości stawów biodrowych, kolanowych i skokowych oraz zapobieganie powstawaniu przykurczów."
-            },
-            {
-              "type": "p",
-              "text": "Program rekonwalescencji zmienia się odpowiednio do etapu leczenia i obejmuje kontrolowane ćwiczenia, pracę nad ruchomością, funkcją mięśni oraz stopniowe rozszerzanie obciążenia."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Ile trwa cały proces?",
-          "body": [
-            {
-              "type": "p",
-              "text": "Wydłużanie estetyczne to nie operacja z wynikiem po kilku tygodniach."
-            },
-            {
-              "type": "p",
-              "text": "Pełna droga obejmuje:"
-            },
-            {
-              "type": "p",
-              "text": "przygotowanie → operację → stopniowe wydłużanie → formowanie i dojrzewanie nowej kości → przywracanie funkcji."
-            },
-            {
-              "type": "p",
-              "text": "Czas trwania zależy od wielkości wydłużenia, wybranego segmentu, technologii, tempa formowania nowej tkanki kostnej i indywidualnego przebiegu rekonwalescencji."
-            },
-            {
-              "type": "p",
-              "text": "Dlatego jeszcze przed podjęciem decyzji pacjent powinien rozumieć nie tylko oczekiwaną zmianę wzrostu, ale też czas i osobiste zaangażowanie, jakich będzie wymagał cały proces."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Nasze podejście",
-          "body": [],
-          "divider": true
-        },
-        {
-          "heading": "Nie zaczynamy od centymetrów",
-          "body": [
-            {
-              "type": "p",
-              "text": "Najpierw oceniamy anatomię, proporcje, stan kości i stawów. Dopiero po tym ustalamy uzasadniony cel wydłużenia."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Planujemy proporcje",
-          "body": [
-            {
-              "type": "p",
-              "text": "Zwiększenie wzrostu powinno być oceniane nie w oderwaniu, lecz w kontekście relacji długości ud, podudzi i tułowia."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Kontrolujemy cały proces",
-          "body": [
-            {
-              "type": "p",
-              "text": "Operacja to tylko początek. Formowanie nowej kości, stan tkanek miękkich, ruchomość stawów i funkcja są kontrolowane przez cały okres wydłużania."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Bezpieczeństwo ważniejsze niż maksymalna liczba",
-          "body": [
-            {
-              "type": "p",
-              "text": "Chęć uzyskania większej liczby centymetrów jest zrozumiała, ale zwiększenie docelowego wydłużenia jednocześnie zwiększa wymagania wobec kości, mięśni, nerwów, stawów i rehabilitacji."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Cel estetyczny + zasady ortopedyczne",
-          "body": [
-            {
-              "type": "p",
-              "text": "Motywacja pacjenta może być estetyczna. Ale sposób osiągnięcia wyniku pozostaje pełnowartościową procedurą rekonstrukcyjną ortopedyczną."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Ryzyka i ograniczenia",
-          "body": [
-            {
-              "type": "p",
-              "text": "Estetyczne wydłużanie kończyn jest poważnym leczeniem chirurgicznym i wiąże się z potencjalnym ryzykiem."
-            },
-            {
-              "type": "p",
-              "text": "Wśród nich mogą być:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "spowolnione formowanie nowej tkanki kostnej",
-                "ograniczenie ruchów w stawach",
-                "przykurcze mięśniowe",
-                "ból",
-                "zaburzenia czucia lub inne objawy neurologiczne",
-                "problemy z konstrukcją mocującą",
-                "powikłania infekcyjne",
-                "konieczność dodatkowych interwencji chirurgicznych",
-                "dłuższa niż oczekiwano rekonwalescencja"
-              ]
-            },
-            {
-              "type": "p",
-              "text": "Ryzyko powikłań zależy od wielkości wydłużenia, wybranej metody, anatomii i indywidualnej reakcji organizmu."
-            },
-            {
-              "type": "p",
-              "text": "Decyzja o wydłużeniu estetycznym powinna być podejmowana po szczegółowym omówieniu nie tylko oczekiwanego wyniku, ale też całego procesu, jego ograniczeń i możliwego ryzyka."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Pacjenci z zagranicy: planowanie całego procesu leczenia",
+          "heading": "Czym jest chirurgiczne zwiększenie wzrostu?",
           "divider": true,
           "body": []
         },
@@ -5231,198 +4821,704 @@
           "body": [
             {
               "type": "p",
-              "text": "Pacjenci mieszkający poza Ukrainą mogą rozpocząć od zdalnej konsultacji dotyczącej stanu zdrowia, dostępnych zdjęć RTG, oczekiwanego zwiększenia wzrostu oraz możliwości dłuższego pobytu w pobliżu ośrodka. Ocena zdalna nie zastępuje osobistego badania stawów, chodu, nerwów i anatomii kości."
+              "text": "Kosmetyczne wydłużanie kończyn to zabieg ortopedyczny polegający na stopniowym zwiększaniu długości kości udowych lub piszczelowych. Po kontrolowanej osteotomii organizm wytwarza własną nową tkankę kostną między fragmentami. Proces ten nazywa się osteogenezą dystrakcyjną."
             },
             {
               "type": "p",
-              "text": "Kosmetyczne wydłużanie kończyn nie jest krótkim wyjazdem wyłącznie na operację. Plan musi obejmować okres dystrakcji, regularne badania obrazowe, fizjoterapię, ograniczenia obciążania, dostępne mieszkanie, pomoc w codziennym życiu i możliwość uzyskania pilnej pomocy medycznej."
+              "text": "Wraz z kością muszą przystosować się mięśnie, ścięgna, nerwy, naczynia i skóra. Ich zdolność adaptacji oraz sprawność stawów mogą ograniczać wydłużanie nawet przy prawidłowym obrazie regeneratu."
             },
             {
               "type": "p",
-              "text": "W zależności od rzeczywistych warunków klinicznych i organizacyjnych leczenie można rozważać w Kijowie lub w relatywnie bezpieczniejszych zachodnich regionach Ukrainy. Żadna lokalizacja nie gwarantuje pełnego bezpieczeństwa; należy brać pod uwagę bieżące ostrzeżenia dotyczące podróży."
+              "text": "Lecznicze wydłużanie dotyczy rzeczywistego skrócenia kończyny, wad wrodzonych i deformacji pourazowych. Kosmetyczne zwiększenie wzrostu jest wykonywane bez patologicznego skrócenia i zwykle nie stanowi konieczności medycznej."
             },
             {
               "type": "p",
-              "text": "Przed powrotem do Polski, Niemiec, Czech lub innego kraju należy uzgodnić opiekę miejscowego ortopedy, fizjoterapię, badania RTG oraz postępowanie w razie powikłań. Kontakt zdalny uzupełnia, ale nie zastępuje niezbędnych badań osobistych."
+              "text": "Nie jest to krótki zabieg estetyczny, lecz długi proces obejmujący kwalifikację, operację, dystrakcję, konsolidację i rehabilitację. Nadal możliwe są ból, ograniczenie ruchu, przykurcze, uszkodzenia nerwów, zakażenia oraz kolejne operacje."
+            },
+            {
+              "type": "p",
+              "text": "Priorytetem jest indywidualnie uzasadniona poprawa wzrostu przy zachowaniu bezpieczeństwa i możliwie dobrej funkcji kończyn, a nie maksymalna liczba centymetrów."
             }
           ]
         },
         {
-          "heading": "Najczęściej zadawane pytania",
-          "body": [],
-          "divider": true
+          "heading": "Kto może rozważać operację?",
+          "divider": true,
+          "body": []
         },
         {
-          "heading": "O ile centymetrów realnie można stać się wyższym?",
+          "heading": null,
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Istnieją techniczne możliwości wydłużania kości, ale uniwersalnej bezpiecznej liczby dla wszystkich pacjentów nie ma."
+              "text": "Kosmetyczne wydłużanie można rozważać u dorosłych z zakończonym wzrostem szkieletu, odpowiednim stanem zdrowia, realistycznymi oczekiwaniami i możliwością uczestnictwa w wielomiesięcznym leczeniu. Samo pragnienie bycia wyższym nie wystarcza."
             },
             {
               "type": "p",
-              "text": "Cel ustalany jest indywidualnie z uwzględnieniem segmentu, proporcji, stanu tkanek miękkich, stawów i innych czynników."
+              "text": "W razie potrzeby należy potwierdzić zamknięcie chrząstek wzrostowych. Ocenia się długość kości, oś kończyn, ruchomość bioder, kolan i stawów skokowych, siłę i elastyczność mięśni, czucie, krążenie oraz chód."
+            },
+            {
+              "type": "p",
+              "text": "Wywiad obejmuje choroby przewlekłe, leki, wcześniejsze operacje, zakażenia, zakrzepicę i czynniki utrudniające gojenie kości lub zwiększające ryzyko znieczulenia. Stany możliwe do leczenia wymagają wcześniejszej optymalizacji."
+            },
+            {
+              "type": "p",
+              "text": "Wskazana jest ustrukturyzowana ocena psychologiczna, a w razie potrzeby konsultacja specjalisty zdrowia psychicznego. Operacja nie gwarantuje wzrostu samooceny, poprawy relacji czy jakości życia."
+            },
+            {
+              "type": "p",
+              "text": "Trzeba zapewnić regularne RTG, fizjoterapię, przestrzeganie ograniczeń obciążania, pomoce do chodzenia, wsparcie w domu i rezerwę finansową na możliwe komplikacje."
+            },
+            {
+              "type": "p",
+              "text": "Nie istnieje uniwersalny minimalny wzrost automatycznie kwalifikujący do zabiegu. Przy wyraźnej niskorosłości należy wyjaśnić przyczynę. Konsultacja nie zobowiązuje do operacji."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Czy można od razu powiedzieć: „chcę +10 cm”?",
+          "heading": "Kiedy operacja nie jest zalecana?",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Można to sformułować jako pożądany cel, ale nie powinien on automatycznie stawać się planem operacji."
+              "text": "Ponieważ jest to planowy zabieg, zwykle bez konieczności medycznej, akceptowany poziom ryzyka powinien być szczególnie niski. Sama możliwość techniczna nie oznacza zasadności operacji."
             },
             {
               "type": "p",
-              "text": "Najpierw trzeba ocenić, czy taka wielkość wydłużenia jest uzasadniona dla konkretnej anatomii i jaką drogą potencjalnie można ją osiągnąć."
+              "text": "Nie należy operować przy otwartych chrząstkach wzrostowych, braku świadomej dobrowolnej zgody, istotnej niezdolności do podjęcia decyzji, nieakceptowalnym ryzyku operacyjnym lub braku możliwości kontroli i rehabilitacji."
+            },
+            {
+              "type": "p",
+              "text": "Zaawansowane zaburzenia krążenia, znaczna osteoporoza, choroby metaboliczne kości, niewyrównane choroby ogólne, wysokie ryzyko zakrzepowo-zatorowe, neuropatie i duże przykurcze mogą przemawiać przeciw kosmetycznemu wydłużaniu."
+            },
+            {
+              "type": "p",
+              "text": "Aktywne zakażenie, niekontrolowana cukrzyca, niedożywienie, zaburzenia metabolizmu kostnego, stosowanie nikotyny i niezakończone gojenie po wcześniejszym leczeniu są zwykle powodem odroczenia i ponownej oceny."
+            },
+            {
+              "type": "p",
+              "text": "Wiek i masa ciała wymagają indywidualnej analizy. Jeden górny limit wieku ani wartość BMI nie rozstrzyga o kwalifikacji; ważne są jakość kości, mięśnie i dopuszczalne obciążenie implantu."
+            },
+            {
+              "type": "p",
+              "text": "Nierealistyczne oczekiwania, presja otoczenia, podejrzenie dysmorfofobii lub niestabilne zaburzenia psychiczne wymagają specjalistycznej oceny. Sama diagnoza psychiatryczna nie zawsze jest bezwzględnym przeciwwskazaniem."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Co lepiej wydłużać — uda czy podudzia?",
+          "heading": "Jak przebiega osteogeneza dystrakcyjna?",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
+          "diagram": "limb-lengthening-stages.jpg",
           "body": [
             {
               "type": "p",
-              "text": "Uniwersalnej odpowiedzi nie ma."
+              "text": "Metoda opiera się na zasadzie stopniowego napięcia tkanek opisanej przez Gawriła Ilizarowa. Po osteotomii powolne rozdzielanie stabilizowanych fragmentów umożliwia powstawanie unaczynionego regeneratu kostnego."
             },
             {
               "type": "p",
-              "text": "Wybór zależy od wyjściowych proporcji, anatomii, pożądanej wielkości zwiększenia wzrostu i możliwości konkretnej technologii."
+              "text": "Kolejne fazy obejmują osteotomię i wczesne gojenie, okres utajenia (u dorosłych często około 5–7 dni), dystrakcję, konsolidację i późniejszą przebudowę kości."
+            },
+            {
+              "type": "p",
+              "text": "Klasycznym punktem odniesienia jest około 1 mm na dobę, często w kilku etapach. Nie jest to uniwersalny schemat. Zbyt szybka dystrakcja grozi zaburzeniem regeneracji i nadmiernym napięciem tkanek; zbyt wolna może sprzyjać przedwczesnemu zrostowi."
+            },
+            {
+              "type": "p",
+              "text": "RTG pozwala oceniać jakość regeneratu, jego kształt, oś i stabilizację. Równocześnie monitoruje się ruchomość stawów, siłę, ból, czucie i ukrwienie. Tempo wydłużania można zmienić, przerwać lub zakończyć."
+            },
+            {
+              "type": "p",
+              "text": "Stabilność zespolenia jest konieczna, lecz warunki mechaniczne powinny odpowiadać fazie gojenia. Prawidłowe odżywianie, korekta niedoborów i rezygnacja z nikotyny wspierają zrost; żadna suplementacja nie gwarantuje szybszej regeneracji."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Czy można wydłużyć i uda, i podudzia?",
+          "heading": "O ile centymetrów można zwiększyć wzrost?",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Istnieją strategie przewidujące wydłużanie różnych segmentów, ale konieczność, kolejność i dopuszczalny zakres takich interwencji wymagają odrębnego planowania."
+              "text": "Nie ma jednej bezpiecznej liczby centymetrów dla wszystkich. Zakres zależy od wyjściowej długości kości, proporcji, ruchomości stawów, elastyczności mięśni, stanu nerwów, jakości kości i wybranej konstrukcji."
+            },
+            {
+              "type": "p",
+              "text": "Przeglądy systematyczne opisują średnie wydłużenie około 6,7 cm w badanych grupach. Średnia z różnych serii klinicznych nie jest zalecanym celem, bezpieczną normą ani indywidualną obietnicą."
+            },
+            {
+              "type": "p",
+              "text": "W rozmowie klinicznej może pojawić się orientacyjny zakres 5–8 cm dla jednego segmentu, ale nie jest to uniwersalny bezpieczny przedział. Dla danego pacjenta uzasadniony cel może być wyraźnie mniejszy."
+            },
+            {
+              "type": "p",
+              "text": "Znaczenie ma również odsetek wydłużenia: 5 cm to 10% kości długości 50 cm, ale około 14,3% kości długości 35 cm. Sam procent nie przewiduje komplikacji, lecz pomaga ocenić skalę zmiany."
+            },
+            {
+              "type": "p",
+              "text": "Życzenie uzyskania +10 cm nie uzasadnia nadmiernego wydłużania jednego segmentu. W wybranych przypadkach można omówić etapowe leczenie uda i podudzia, z dodatkowymi operacjami, kosztami i ryzykiem."
+            },
+            {
+              "type": "p",
+              "text": "Cel może zostać zmniejszony przy przykurczach, bólu, objawach neurologicznych, słabym regeneracie, deformacji lub problemach technicznych. Po prawidłowej konsolidacji przyrost długości kości zwykle pozostaje, ale funkcję ocenia się osobno."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Czy wydłużanie boli?",
+          "heading": "Uda czy podudzia — co wydłużać?",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
+          "diagram": "limb-lengthening-planning.jpg",
           "body": [
             {
               "type": "p",
-              "text": "Operacja i proces stopniowego wydłużania mogą wiązać się z bólem i dyskomfortem."
+              "text": "Obie metody opierają się na osteogenezie dystrakcyjnej, jednak różnią się anatomią i funkcjonalnymi ograniczeniami. Żaden segment nie jest najlepszy dla wszystkich."
             },
             {
               "type": "p",
-              "text": "Natężenie odczuć zmienia się na różnych etapach i różni się u poszczególnych pacjentów. Znieczulenie i korekta tempa leczenia są częścią opieki medycznej."
+              "text": "Przy wydłużaniu kości udowych szczególnie ważne są biodra, kolana, mięsień czworogłowy, mięśnie kulszowo-goleniowe i przywodziciele. Mogą wystąpić przykurcze, ograniczenie zginania kolana lub wyprostu biodra, ból, zmiany osi i chodu."
+            },
+            {
+              "type": "p",
+              "text": "Przy wydłużaniu piszczeli trzeba uwzględnić strzałkę oraz jej relację ze stawami kolanowym i skokowym. W zależności od techniki mogą być potrzebne dodatkowe zabiegi i stabilizacja."
+            },
+            {
+              "type": "p",
+              "text": "Mięśnie łydki, ścięgno Achillesa, zgięcie grzbietowe stopy, ustawienie stopy i nerw strzałkowy są szczególnie ważne przy wydłużaniu podudzia. Przykurcz koński i zaburzenia neurologiczne mogą ograniczać leczenie."
+            },
+            {
+              "type": "p",
+              "text": "Zmienia się stosunek długości nóg do tułowia oraz uda do podudzia. Nie istnieje jedna idealna proporcja dla wszystkich; plan uwzględnia anatomię i funkcję, a nie sztuczny wzorzec estetyczny."
+            },
+            {
+              "type": "p",
+              "text": "Rehabilitacja uda skupia się zwłaszcza na biodrze i kolanie, a podudzia — na stawie skokowym, stopie i zapobieganiu przykurczowi końskiemu."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Czy będę mógł chodzić podczas wydłużania?",
+          "heading": "Czy można etapowo wydłużyć uda i podudzia?",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Możliwość i dopuszczalny poziom obciążenia zależą od konstrukcji, segmentu, etapu leczenia i przebiegu formowania tkanki kostnej."
+              "text": "U wybranych pacjentów można rozważać najpierw obustronne wydłużenie ud, a po odpowiednim zroście i odzyskaniu funkcji — obustronne wydłużenie podudzi. Inna kolejność wymaga indywidualnego uzasadnienia."
             },
             {
               "type": "p",
-              "text": "Reżim chodzenia ustalany jest indywidualnie i może się zmieniać w trakcie leczenia."
+              "text": "Rozłożenie zysku na dwa segmenty nie czyni dużego całkowitego wydłużenia automatycznie bezpiecznym. Oznacza kolejne operacje, ograniczenia mobilności, rehabilitację, koszty i ryzyko."
+            },
+            {
+              "type": "p",
+              "text": "Przed drugim etapem ponownie ocenia się zrost, chód, ruchomość stawów, siłę mięśni, nerwy, ból, przykurcze i gotowość psychiczną. Nie ma jednego obowiązującego odstępu czasowego."
+            },
+            {
+              "type": "p",
+              "text": "Jednoczesne wydłużanie kilku segmentów jest opisane, lecz dystrakcja czterech segmentów stanowi szczególnie złożoną strategię i nie powinna być przedstawiana jako standard kosmetyczny."
+            },
+            {
+              "type": "p",
+              "text": "Całkowite wydłużenie o 10 cm lub więcej wymaga wyjątkowo starannego uzasadnienia. Wartości rzędu 15 cm nie należy przedstawiać jako typowego ani gwarantowanego wyniku."
+            },
+            {
+              "type": "p",
+              "text": "Po pierwszym etapie drugi nie jest zagwarantowany. Pozostałe ograniczenia funkcji lub powikłania mogą prowadzić do odroczenia lub rezygnacji."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Czy zostaną blizny?",
+          "heading": "Jakie systemy stosuje się do wydłużania?",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Każda interwencja chirurgiczna pozostawia blizny pooperacyjne."
+              "text": "Dostępne są stabilizatory zewnętrzne, implantowane gwoździe śródszpikowe teleskopowe i techniki łączone. Każdy system musi umożliwiać kontrolowaną dystrakcję i utrzymywać ustawienie kości."
             },
             {
               "type": "p",
-              "text": "Ich liczba i umiejscowienie zależą od wybranej technologii. Z czasem blizny się zmieniają, ale nie można zagwarantować ich pełnej niewidoczności."
+              "text": "Stabilizatory pierścieniowe, jednostronne i heksapodowe łączą się z kością przez druty lub pręty przechodzące przez skórę. Mogą umożliwiać korekcję wielopłaszczyznową, ale wymagają długiego noszenia, pielęgnacji i wiążą się z infekcjami kanałów, bólem, bliznami i sztywnością."
+            },
+            {
+              "type": "p",
+              "text": "Gwoździe teleskopowe umieszcza się w kanale szpikowym; niektóre modele uruchamia zewnętrzne urządzenie magnetyczne. Brak trwałych przejść przez skórę nie wyklucza zakażenia, przykurczów, neuropatii ani problemów z regeneratem."
+            },
+            {
+              "type": "p",
+              "text": "Znaczenie mają średnica kanału, geometria kości, oś, blokowanie, maksymalny skok gwoździa, masa ciała i specyficzne ograniczenia obciążenia. Awaria, wygięcie, złamanie implantu lub brak wydłużania mogą wymagać rewizji. Gwóźdź nie oznacza automatycznie możliwości pełnego obciążania."
+            },
+            {
+              "type": "p",
+              "text": "Techniki łączone, takie jak LON i LATN, mogą skrócić czas noszenia aparatu, ale wymagają dodatkowych procedur i wiążą się ze szczególnymi zagrożeniami zakażenia."
+            },
+            {
+              "type": "p",
+              "text": "Badania porównawcze obejmują różne grupy i konstrukcje. Nie można gwarantować przewagi konkretnego urządzenia. Planowe usunięcie implantu po wygojeniu jest osobnym zabiegiem, który trzeba uwzględnić."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Kiedy można wrócić do pracy?",
+          "heading": "Badania i planowanie przedoperacyjne",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Zależy to od charakteru pracy, metody wydłużania i etapu leczenia."
+              "text": "Planowanie ma ustalić zasadność operacji, wybór uda lub podudzia, możliwą wielkość wydłużenia, system stabilizacji i realność prowadzenia kontroli oraz rehabilitacji."
             },
             {
               "type": "p",
-              "text": "Praca zdalna lub siedząca oraz praca fizycznie ciężka wymagają zasadniczo różnych terminów powrotu."
+              "text": "Podczas pierwszej konsultacji omawia się poprzednie urazy, operacje, ból, choroby przewlekłe, leki, zakrzepicę, zakażenia, nikotynę, aktywność, pracę i możliwość długiego pobytu blisko ośrodka."
+            },
+            {
+              "type": "p",
+              "text": "Badanie obejmuje długości segmentów, oś mechaniczną, deformacje, zakres ruchu bioder, kolan i stawów skokowych, siłę i elastyczność mięśni, czucie, krążenie i chód."
+            },
+            {
+              "type": "p",
+              "text": "Podstawą obrazowania są standaryzowane, skalibrowane zdjęcia RTG całych kończyn dolnych na stojąco. Dodatkowe projekcje lub TK mogą pomóc przy deformacjach i ocenie rotacji, lecz TK nie jest obowiązkowa u każdego."
+            },
+            {
+              "type": "p",
+              "text": "Analizuje się proporcje kończyn względem tułowia i uda względem podudzia, bez narzucania jednego ideału. Cel musi uwzględniać względne wydłużenie, tkanki miękkie, oś, urządzenie i dostęp do rehabilitacji."
+            },
+            {
+              "type": "p",
+              "text": "Badania ogólne dobiera się do ryzyka: morfologia, funkcja nerek, elektrolity, glikemia/HbA1c, krzepnięcie czy metabolizm kostny według wskazań. Ocenia się także bezpieczeństwo znieczulenia i profilaktykę zakrzepową."
+            },
+            {
+              "type": "p",
+              "text": "Rezultatem powinien być indywidualny plan zawierający cel, technikę, obciążanie, kontrole, fizjoterapię, koszty i postępowanie w razie powikłań — albo uzasadnione odstąpienie od zabiegu."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Kiedy można wrócić do sportu?",
+          "heading": "Przygotowanie psychiczne i realistyczne oczekiwania",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Do obciążeń sportowych wraca się po wystarczającym dojrzewaniu nowej tkanki kostnej i przywróceniu siły, ruchomości i kontroli kończyn."
+              "text": "Chęć bycia wyższym sama w sobie nie jest chorobą psychiczną. Należy bez osądzania omówić motywację, długość trwania tego pragnienia i oczekiwane zmiany w życiu."
             },
             {
               "type": "p",
-              "text": "Jest to jeden z późniejszych etapów rekonwalescencji."
+              "text": "Nie można zagwarantować planowanych centymetrów. Ból, ograniczona samodzielność, pomoc innych osób, przerwa w pracy, dodatkowe operacje i trwałe ograniczenia są realnymi możliwościami."
+            },
+            {
+              "type": "p",
+              "text": "Zwiększenie wzrostu nie gwarantuje poprawy samooceny, relacji, kariery ani jakości życia. Publikacje o satysfakcji często mają małe próby, retrospektywny charakter i niejednorodne, czasem niewalidowane narzędzia."
+            },
+            {
+              "type": "p",
+              "text": "Ustrukturyzowana ocena psychologiczna pomaga wychwycić nacisk otoczenia, nierealistyczne cele, objawy dysmorficzne i problemy zdrowia psychicznego. W razie potrzeby konieczna jest konsultacja odpowiedniego specjalisty."
+            },
+            {
+              "type": "p",
+              "text": "Trzeba wcześniej zorganizować dostępne mieszkanie, wsparcie, fizjoterapię, transport, zmianę obowiązków zawodowych i rezerwę finansową. Pacjent może wycofać zgodę przed zabiegiem."
+            },
+            {
+              "type": "p",
+              "text": "Gdy oczekiwania lub warunki leczenia są nieodpowiednie, rozsądne jest odroczenie operacji. Po wykonanej osteotomii nawet przerwanie dystrakcji nie zwalnia z dalszego zabezpieczenia i gojenia kości."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Czy zmieni się mój chód?",
+          "heading": "Jak przebiega operacja?",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Podczas samego procesu wydłużania charakter chodzenia tymczasowo się zmienia."
+              "text": "Przed zabiegiem zespół potwierdza segment, cel, system mocowania, zakres ewentualnej operacji obustronnej, znieczulenie, profilaktykę zakażeń i zakrzepicy, zasady obciążania i rehabilitację."
             },
             {
               "type": "p",
-              "text": "Jednym z zadań rehabilitacji po zakończeniu leczenia jest przywrócenie prawidłowego wzorca chodu i adaptacja do nowej długości kończyn."
+              "text": "Anestezjolog dobiera znieczulenie ogólne lub odpowiednie regionalne. Planuje się również leczenie bólu po operacji."
+            },
+            {
+              "type": "p",
+              "text": "Gwóźdź teleskopowy wprowadza się do kanału szpikowego i blokuje pod kontrolą obrazowania. Przy stabilizacji zewnętrznej druty lub pręty mocują kość do konstrukcji na zewnątrz. Sekwencja czynności zależy od systemu."
+            },
+            {
+              "type": "p",
+              "text": "Kontrolowana osteotomia tworzy miejsce regeneracji z dbałością o okostną, unaczynienie i otaczające tkanki. Przy wydłużaniu piszczeli trzeba zaplanować postępowanie dotyczące strzałki i jej stabilizacji według wskazań."
+            },
+            {
+              "type": "p",
+              "text": "Kontroluje się oś w płaszczyźnie czołowej, strzałkowej i rotacyjnej, położenie implantów oraz stabilność. Obustronna operacja może zapewniać symetrię, ale jednoczasowość nie jest obowiązkowa u wszystkich."
+            },
+            {
+              "type": "p",
+              "text": "Po zabiegu obserwuje się ból, rany, ruchy i czucie stóp oraz krążenie. Następnie wykonuje się badania kontrolne, profilaktykę powikłań i wczesną mobilizację. Przed wypisem pacjent powinien znać zasady pielęgnacji, obciążania, dystrakcji oraz objawy alarmowe."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Czy można najpierw po prostu dowiedzieć się, jaki wynik jest możliwy w moim przypadku?",
+          "heading": "Dystrakcja — stopniowe wydłużanie",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Tak."
+              "text": "Aktywna dystrakcja rozpoczyna się po indywidualnym okresie utajenia, u dorosłych często około 5–7 dni. Orientacyjny rytm wynosi około 1 mm dziennie, ale jest modyfikowany według regeneratu, stawów i objawów."
             },
             {
               "type": "p",
-              "text": "Konsultacja nie oznacza podjęcia decyzji o operacji."
+              "text": "Stabilizatory zewnętrzne reguluje się mechanicznie lub elektronicznie; część gwoździ wewnętrznych uruchamia sterownik zewnętrzny. Pacjent jest szkolony i zapisuje wykonane zmiany; nie wolno samodzielnie zwiększać tempa."
             },
             {
               "type": "p",
-              "text": "Jej celem jest ocena anatomii i proporcji, omówienie pożądanego wyniku, możliwych technologii, przybliżonej drogi leczenia oraz ustalenie, czy wydłużanie estetyczne jest odpowiednim wariantem właśnie dla Ciebie."
+              "text": "Przy teoretycznie stałym tempie 1 mm dziennie 5 cm wymaga około 50 dni. To przykład matematyczny, a nie prognoza: możliwe są przerwy, spowolnienie i wcześniejsze zakończenie."
+            },
+            {
+              "type": "p",
+              "text": "Regularne badania kliniczne i RTG — podczas aktywnej dystrakcji często co 1–2 tygodnie, w razie potrzeby częściej — oceniają regenerat, długość, oś, stabilizację, zakres ruchu, siłę, ból i nerwy."
+            },
+            {
+              "type": "p",
+              "text": "Fizjoterapia ogranicza ryzyko przykurczów. Przy udach kontroluje się przede wszystkim biodra i kolana, przy podudziach stawy skokowe, ścięgno Achillesa, ustawienie stopy i nerw strzałkowy."
+            },
+            {
+              "type": "p",
+              "text": "Chodzenie i obciążanie zależą od konstrukcji oraz stanu kości. Brak bólu nie jest zgodą na pełne obciążanie."
+            },
+            {
+              "type": "p",
+              "text": "Silny narastający ból, napięty obrzęk, nowa słabość lub drętwienie, zimna lub blada stopa, gorączka z objawami zakażenia albo awaria urządzenia wymagają pilnej konsultacji. Nagła duszność, ból w klatce piersiowej i objawy ostrego niedokrwienia wymagają pomocy ratunkowej."
+            },
+            {
+              "type": "p",
+              "text": "W razie słabego regeneratu, przedwczesnego zrostu, przykurczów, neuropatii, deformacji czy problemów z konstrukcją dystrakcję można zwolnić, wstrzymać lub zakończyć. Konsolidacja i rehabilitacja trwają dalej."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Chcesz dowiedzieć się, o ile można zwiększyć Twój wzrost?",
+          "heading": "Konsolidacja — wzmacnianie nowej kości",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Pierwszym etapem nie jest operacja, lecz indywidualne planowanie."
+              "text": "Po zakończeniu dystrakcji regenerat nie jest jeszcze w pełni wytrzymałą kością. Podczas konsolidacji zwiększa się mineralizacja, tworzą się struktury korowe, a przebudowa trwa również po uzyskaniu zrostu."
             },
             {
               "type": "p",
-              "text": "Podczas konsultacji można ocenić proporcje ciała i kończyn dolnych, omówić pożądaną zmianę wzrostu, możliwe segmenty wydłużenia, technologię, czas trwania leczenia i główne ograniczenia."
+              "text": "RTG ocenia gęstość, kształt, mostkowanie korowe, oś i stabilizację. W niektórych protokołach uwzględnia się mostkowanie trzech z czterech kor, ale samo kryterium nie jest uniwersalną zgodą na pełne obciążanie."
             },
             {
               "type": "p",
-              "text": "Celem konsultacji jest ustalenie nie maksymalnej liczby centymetrów, lecz realistycznego i uzasadnionego wariantu zwiększenia wzrostu właśnie dla Twojej anatomii."
+              "text": "Możliwość chodzenia zależy od konkretnego urządzenia i wygojenia. Niektóre gwoździe mają ścisłe ograniczenia obciążenia. Samowolne chodzenie bez pomocy może spowodować uszkodzenie implantu, deformację regeneratu lub utratę korekcji."
+            },
+            {
+              "type": "p",
+              "text": "Na zrost wpływają ukrwienie, stabilizacja, długość wydłużenia, wiek, stan odżywienia, zaburzenia metaboliczne, nikotyna i powikłania. Żaden preparat nie gwarantuje szybkiej konsolidacji."
+            },
+            {
+              "type": "p",
+              "text": "Opóźnienie zrostu, staw rzekomy, deformacja lub złamanie regeneratu mogą wymagać dłuższego zabezpieczenia i dodatkowej operacji. Zbyt wczesne usunięcie konstrukcji zagraża wynikowi."
+            },
+            {
+              "type": "p",
+              "text": "Konsolidacja może trwać wiele miesięcy. Decyzję o zwiększaniu obciążenia i usunięciu stabilizacji podejmuje się na podstawie badań klinicznych i obrazowych, nie samego kalendarza."
             }
-          ],
-          "divider": false
+          ]
+        },
+        {
+          "heading": "Rehabilitacja i odzyskiwanie chodu",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Fizjoterapia stanowi część całego procesu, od przygotowania przedoperacyjnego aż do odzyskiwania siły, ruchomości i sprawności. Nie rozpoczyna się dopiero po zroście kości."
+            },
+            {
+              "type": "p",
+              "text": "Przed zabiegiem ocenia się siłę, zakres ruchów i chód oraz uczy korzystania z kul lub chodzika. W pierwszych dniach po operacji stosuje się dostosowane ćwiczenia i bezpieczną mobilizację."
+            },
+            {
+              "type": "p",
+              "text": "W okresie dystrakcji najważniejsze jest utrzymanie ruchomości i aktywności mięśni bez bolesnych, agresywnych manipulacji. Przy udach koncentrujemy się na biodrze i kolanie, przy podudziach na zgięciu grzbietowym stopy i zapobieganiu przykurczowi końskiemu."
+            },
+            {
+              "type": "p",
+              "text": "Odzyskiwanie chodu odbywa się stopniowo: z pomocą, z dozwolonym obciążaniem, a następnie samodzielnie. Kontroluje się symetrię kroków, ustawienie miednicy, pracę stawów, równowagę, ból i zmęczenie."
+            },
+            {
+              "type": "p",
+              "text": "Siła mięśni i prawidłowy wzorzec chodu mogą wracać wolniej niż goi się kość. Praca siedząca bywa możliwa wcześniej niż ciężka praca fizyczna; prowadzenie samochodu wymaga bezpiecznego operowania pedałami i braku upośledzenia reakcji przez leki."
+            },
+            {
+              "type": "p",
+              "text": "Bieganie, skakanie, sporty kontaktowe i ciężkie obciążenia wymagają zrostu oraz sprawności funkcjonalnej. Powrót do wcześniejszego poziomu sportowego nie jest gwarantowany."
+            }
+          ]
+        },
+        {
+          "heading": "Ryzyko i możliwe powikłania",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Kosmetyczne wydłużanie jest planowym zabiegiem z możliwością poważnych powikłań. Żadna metoda nie gwarantuje zaplanowanych centymetrów, braku komplikacji ani pełnego odzyskania funkcji."
+            },
+            {
+              "type": "p",
+              "text": "Pierwotna klasyfikacja Paleya wyróżnia problemy rozwiązane bez dodatkowego zabiegu, przeszkody wymagające operacji lecz opanowane podczas leczenia oraz utrwalone powikłania. Badania stosują też inne definicje, dlatego podawanych procentów nie można bezpośrednio zestawiać."
+            },
+            {
+              "type": "p",
+              "text": "Przykurcze mięśniowo-ścięgniste mogą ograniczać ruch biodra i kolana po wydłużaniu uda albo zgięcie grzbietowe stopy po wydłużaniu podudzia. Czasem potrzebna jest dodatkowa operacja."
+            },
+            {
+              "type": "p",
+              "text": "Napięcie nerwów może powodować mrowienie, pieczenie, ból, utratę czucia, osłabienie stopy lub trwałe zaburzenia neurologiczne, w tym nerwu strzałkowego. Postępujące objawy wymagają pilnego badania."
+            },
+            {
+              "type": "p",
+              "text": "Zaburzenia regeneratu obejmują niedostateczne tworzenie kości, opóźniony zrost, staw rzekomy, przedwczesny zrost, złamanie i deformację. Błędy osi mechanicznej lub rotacji mogą upośledzać chód."
+            },
+            {
+              "type": "p",
+              "text": "Przy aparatach zewnętrznych możliwe są zakażenia kanałów drutów i prętów. Implanty śródszpikowe również mogą ulec głębokiemu zakażeniu. Awaria, wygięcie lub złamanie gwoździa, utrata stabilizacji i niepowodzenie dystrakcji mogą wymagać rewizji."
+            },
+            {
+              "type": "p",
+              "text": "Poważne zagrożenia to także zakrzepica żył głębokich, zatorowość płucna, uszkodzenie naczyń oraz ostry zespół ciasnoty przedziałów powięziowych. Nagła duszność, ból w klatce piersiowej, ostre niedokrwienie czy bardzo silny ból z napiętym obrzękiem wymagają natychmiastowej pomocy."
+            },
+            {
+              "type": "p",
+              "text": "Mogą pozostać ból przewlekły, przykurcze, słabość, zaburzenia neurologiczne, zmiany chodu lub trudności psychiczne; w ciężkich przypadkach funkcja może być gorsza niż przed operacją. Planowe usunięcie implantu to nie to samo co nieplanowana operacja z powodu powikłania."
+            },
+            {
+              "type": "p",
+              "text": "Częstość zdarzeń różni się między badaniami, metodami, segmentami i definicjami. Jednego odsetka nie można traktować jako osobistego ryzyka. Właściwa kwalifikacja, kontrola, fizjoterapia i szybkie leczenie obniżają ryzyko, lecz go nie eliminują."
+            }
+          ]
+        },
+        {
+          "heading": "Ile trwa cały proces leczenia?",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Leczenie obejmuje przygotowanie, operację, okres utajenia, dystrakcję, konsolidację i odzyskiwanie funkcji. Uzyskanie zaplanowanych centymetrów nie jest jego końcem."
+            },
+            {
+              "type": "p",
+              "text": "Ocena i optymalizacja mogą trwać tygodnie lub miesiące. Długość hospitalizacji zależy od zabiegu, bólu, mobilności i stanu ogólnego."
+            },
+            {
+              "type": "p",
+              "text": "U dorosłych okres utajenia często trwa około 5–7 dni. Przy czysto przykładowym tempie 1 mm dziennie 5 cm wymaga około 50 dni, a 7 cm około 70 dni dystrakcji. Nie jest to indywidualna obietnica."
+            },
+            {
+              "type": "p",
+              "text": "Konsolidacja trwa zwykle miesiącami i może wydłużać się wskutek powikłań. Chód, siła i ruchomość wracają w różnym czasie; u niektórych rehabilitacja może trwać 12 miesięcy lub dłużej."
+            },
+            {
+              "type": "p",
+              "text": "Aparaty zewnętrzne, gwoździe wewnętrzne i metody łączone różnią się ograniczeniami obciążania i potrzebą kolejnych zabiegów. Gwóźdź wewnętrzny sam w sobie nie przyspiesza biologicznego gojenia."
+            },
+            {
+              "type": "p",
+              "text": "Powrót do pracy siedzącej może być wcześniejszy niż do fizycznej. Prowadzenie samochodu wymaga kontroli nóg; sport odpowiedniego zrostu, siły i koordynacji. Nie da się zagwarantować konkretnej daty."
+            },
+            {
+              "type": "p",
+              "text": "Osoby przyjeżdżające z zagranicy powinny zaplanować pobyt blisko ośrodka oraz dalsze kontrole w kraju zamieszkania. Sam koniec dystrakcji nie oznacza bezpiecznego powrotu."
+            }
+          ]
+        },
+        {
+          "heading": "Wyniki i następstwa odległe",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Wynik ocenia się nie tylko centymetrami, ale także zrostem, osią kończyn, ruchomością, siłą, chodem, bólem, codzienną aktywnością i satysfakcją pacjenta."
+            },
+            {
+              "type": "p",
+              "text": "Przeglądy systematyczne opisują średnie wydłużenie około 6,7 cm w wybranych grupach. Po dobrej konsolidacji nowa długość kości zwykle pozostaje, choć złamanie, deformacja lub utrata korekcji mogą ją zmienić."
+            },
+            {
+              "type": "p",
+              "text": "Podczas leczenia ból, ograniczone obciążanie i osłabienie mięśni zmieniają chód. Część osób wraca do dobrej sprawności, inne mogą mieć utrzymujące się ograniczenia ruchu, koordynacji czy wytrzymałości."
+            },
+            {
+              "type": "p",
+              "text": "Powrót do sportu zależy od funkcji i gojenia, a wcześniejszy poziom sportów wysokoudarowych nie jest pewny. Wydłużenie zmienia proporcje nóg względem tułowia oraz uda względem podudzia, ale nie długość rąk czy tułowia."
+            },
+            {
+              "type": "p",
+              "text": "W części badań zadowolenie pacjentów było wysokie, ale ograniczenia obejmują małe retrospektywne próby, krótki okres obserwacji i brak jednolitych zwalidowanych miar. Nie można zagwarantować poprawy samopoczucia psychicznego ani życia społecznego."
+            },
+            {
+              "type": "p",
+              "text": "Odległe następstwa mogą obejmować ból, przykurcze, osłabienie, neuropatie, deformacje i dalsze operacje. Długofalowy wpływ znacznego wydłużenia na stawy jest nadal słabo poznany."
+            },
+            {
+              "type": "p",
+              "text": "Kontrole po zakończeniu głównego leczenia powinny obejmować regenerat, oś, stawy, chód, ból, aktywność, jakość życia i ewentualne planowe usunięcie implantu."
+            }
+          ]
+        },
+        {
+          "heading": "Koszt operacji i całego leczenia",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Cena samej operacji nie jest równoznaczna z kosztem całego kosmetycznego wydłużania. Znaczenie mają segment, operacja jedno- lub obustronna, urządzenie, złożoność i warunki placówki."
+            },
+            {
+              "type": "p",
+              "text": "Budżet powinien uwzględniać konsultacje, RTG, badania laboratoryjne, znieczulenie, implanty, szpital, leki, kolejne badania, fizjoterapię, pomoce do chodzenia, zakwaterowanie i transport."
+            },
+            {
+              "type": "p",
+              "text": "Dodatkowe wydatki mogą wynikać z planowego usunięcia materiału, dłuższej rehabilitacji, opóźnionego zrostu, zakażenia, awarii lub nieplanowanej operacji rewizyjnej."
+            },
+            {
+              "type": "p",
+              "text": "Fizjoterapia bywa częścią pakietu albo jest rozliczana osobno. Zabiegi kosmetyczne często nie są refundowane przez ubezpieczenie; zasady pokrywania leczenia powikłań trzeba sprawdzić oddzielnie."
+            },
+            {
+              "type": "p",
+              "text": "Dla pacjentów z zagranicy ważne są dostępne mieszkanie, pomoc w codziennych czynnościach i możliwość wydłużenia pobytu. Warto przewidzieć rezerwę finansową."
+            },
+            {
+              "type": "p",
+              "text": "Rzetelną indywidualną wycenę można przygotować po badaniu klinicznym, obrazowaniu, ustaleniu segmentu, metody i planu dalszego leczenia. Nie należy obiecywać niesprawdzonej stałej ceny."
+            }
+          ]
+        },
+        {
+          "heading": "Alternatywy bez operacji",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Po zamknięciu chrząstek wzrostowych ćwiczenia, rozciąganie, suplementy i specjalne urządzenia nie wydłużają trwale kości udowych ani piszczelowych."
+            },
+            {
+              "type": "p",
+              "text": "Poprawa postawy i odpowiednie obuwie mogą zmienić widoczny wzrost bez zmiany anatomii kości. Takie rozwiązania można rozważać, jeśli pacjent nie chce ryzyka i długiej rehabilitacji."
+            },
+            {
+              "type": "p",
+              "text": "Hormon wzrostu po zakończeniu rozwoju szkieletu nie wydłuża dojrzałych kości długich. Samodzielne stosowanie hormonów z powodów kosmetycznych może być niebezpieczne."
+            },
+            {
+              "type": "p",
+              "text": "Niski wzrost sam w sobie nie jest chorobą ani wskazaniem do operacji. Podejrzenie zaburzeń wzrastania lub dysplazji szkieletowej wymaga odrębnej diagnostyki."
+            }
+          ]
+        },
+        {
+          "heading": "Podstawy naukowe i ograniczenia dowodów",
+          "divider": true,
+          "body": []
+        },
+        {
+          "heading": null,
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Ilizarov GA. The tension-stress effect on the genesis and growth of tissues. Clinical Orthopaedics and Related Research (1989), części I–II."
+            },
+            {
+              "type": "p",
+              "text": "Przegląd systematyczny kosmetycznego wydłużania (2020): jedenaście badań, 795 pacjentów i średnie wydłużenie około 6,7 cm."
+            },
+            {
+              "type": "p",
+              "text": "Nowsze przeglądy systematyczne (2025) wskazują na różne metody, klasyfikacje powikłań i narzędzia oceny wyników zgłaszanych przez pacjentów. Dane zbiorcze nie przewidują indywidualnego wyniku."
+            },
+            {
+              "type": "p",
+              "text": "Dowody dotyczące długoterminowej jakości życia, powrotu do intensywnego sportu i odległych następstw stawowych są ograniczone. Niezbędna jest indywidualna ocena kliniczna."
+            }
+          ]
         }
       ]
     },
