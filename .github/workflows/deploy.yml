@@ -1,5 +1,5 @@
 name: Deploy to GitHub Pages
-# Redeploy 2026-10-25: rebuild 29-section osteosynthesis Ukrainian page and SEO metadata.
+# SEO shoulder deployment refresh 2026-10-22: publish localized social metadata and image alt text.
 # Uses the configured GitHub Actions Pages source; no DNS changes.
 # Redeploy trigger: refresh published site after hip/knee regional guidance.
 
