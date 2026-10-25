@@ -34,6 +34,21 @@ export async function generateMetadata({
   const dict = getDictionary(lang);
   const article = getDirections(lang).articles[slug];
   if (!article) return {};
+  if (slug === "osteosynthesis") {
+    const meta: Record<string, { title: string; description: string }> = {
+      uk: { title: "Лікування переломів та остеосинтез у Києві | Максим Байда", description: "Лікування переломів у Києві: інтрамедулярний остеосинтез, пластини, складні переломи, показання до операції, ризики та реабілітація. Консультація травматолога." },
+      en: { title: "Fracture Treatment & Osteosynthesis | Dr Maksym Baida", description: "Fracture treatment and osteosynthesis: intramedullary nails, plates, external fixation, surgical indications, risks, recovery and second opinion in Ukraine." },
+      de: { title: "Frakturbehandlung & Osteosynthese | Dr. Maksym Baida", description: "Frakturbehandlung und Osteosynthese: Marknägel, Platten, Fixateur externe, Indikationen, Risiken, Rehabilitation und ärztliche Beratung." },
+      pl: { title: "Leczenie złamań i osteosynteza | Dr Maksym Baida", description: "Leczenie złamań i osteosynteza: gwoździe śródszpikowe, płytki, stabilizacja zewnętrzna, wskazania, ryzyko, rehabilitacja i konsultacja." }
+    };
+    const selected = meta[lang];
+    return { ...selected, alternates: localizedAlternates(lang, `treatments/${slug}`),
+      openGraph: { type: "article", title: selected.title, description: selected.description,
+        url: `https://travmatolog.in.ua/${lang}/treatments/${slug}/`, siteName: "travmatolog.in.ua",
+        images: [{ url: "https://travmatolog.in.ua/directions/osteosynthesis-hero.jpg", alt: article.title }] },
+      twitter: { card: "summary_large_image", title: selected.title, description: selected.description,
+        images: ["https://travmatolog.in.ua/directions/osteosynthesis-hero.jpg"] } };
+  }
   if (slug === "limb-lengthening") {
     const meta: Record<string, {title:string; description:string}> = {
       uk: {title:"Збільшення зросту — подовження ніг | Максим Байда", description:"Хірургічне збільшення зросту: подовження стегон і гомілок, відбір пацієнтів, методики, ризики, реабілітація та індивідуальна консультація."},
@@ -100,7 +115,7 @@ export default async function TreatmentDetail({
 
   const article = getDirections(loc).articles[slug];
   if (!article) notFound();
-  const schema = (slug === "hip-replacement" || slug === "knee-replacement" || slug === "shoulder-replacement" || slug === "limb-lengthening") ? {
+  const schema = (slug === "hip-replacement" || slug === "knee-replacement" || slug === "shoulder-replacement" || slug === "limb-lengthening" || slug === "osteosynthesis") ? {
     "@context": "https://schema.org",
     "@type": "MedicalWebPage",
     "@id": `https://travmatolog.in.ua/${loc}/treatments/${slug}/#medicalwebpage`,
@@ -113,7 +128,7 @@ export default async function TreatmentDetail({
     author: { "@type": "Person", name: "Maksym Baida", jobTitle: "Orthopaedic trauma surgeon", url: `https://travmatolog.in.ua/${loc}/#about-doctor` },
     publisher: { "@type": "Organization", name: "travmatolog.in.ua", url: "https://travmatolog.in.ua/" },
   } : null;
-  const crumbs = (slug === "knee-replacement" || slug === "shoulder-replacement" || slug === "limb-lengthening") ? {
+  const crumbs = (slug === "knee-replacement" || slug === "shoulder-replacement" || slug === "limb-lengthening" || slug === "osteosynthesis") ? {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     itemListElement: [
@@ -250,7 +265,7 @@ function RichDetail({
 }) {
   const t = dict.treatments;
   const isTha = slug === "hip-replacement";
-  const isRich = isTha || slug === "knee-replacement" || slug === "shoulder-replacement" || slug === "limb-lengthening";
+  const isRich = isTha || slug === "knee-replacement" || slug === "shoulder-replacement" || slug === "limb-lengthening" || slug === "osteosynthesis";
   // International TKA shares the same accessible image and semantic heading framework.
   const imageDescriptions: Record<Locale, Record<string, string>> = {
     uk: { "hip-replacement-planning.jpg": "Інфографіка планування ендопротезування кульшового суглоба: положення компонентів, центр ротації та довжина кінцівки", "hip-replacement-access.jpg": "Анатомічна ілюстрація прямого переднього доступу до кульшового суглоба", "hip-replacement-case-after.jpg": "Післяопераційна рентгенограма кульшового суглоба після ендопротезування" },
@@ -271,7 +286,7 @@ function RichDetail({
     de: {"limb-lengthening-planning.jpg":"Planung der Oberschenkel- und Unterschenkelverlängerung","limb-lengthening-stages.jpg":"Phasen der Distraktionsosteogenese und Knochenkonsolidierung"},
     pl: {"limb-lengthening-planning.jpg":"Planowanie wydłużania kości udowych i piszczelowych oraz proporcji ciała","limb-lengthening-stages.jpg":"Etapy osteogenezy dystrakcyjnej i konsolidacji kości"}
   };
-  const imageAlt = (file: string) => slug === "limb-lengthening" ? (lengtheningAlt[lang][file.replace(/-(en|de|pl)\.png$/, ".jpg")] ?? article.title) : slug === "knee-replacement" ? (kneeAlt[lang][file] ?? ({
+  const imageAlt = (file: string) => slug === "osteosynthesis" ? ({uk:{"osteosynthesis-diagram1.jpg":"Навчальна ілюстрація остеосинтезу перелому","osteosynthesis-diagram2.jpg":"Порівняння способів фіксації переломів","osteosynthesis-case-before.jpg":"Рентгенограма складного перелому гомілки до операції","osteosynthesis-case-after.jpg":"Рентгенограма після остеосинтезу великогомілкової кістки"},en:{"osteosynthesis-diagram1.jpg":"Fracture fixation educational diagram","osteosynthesis-diagram2.jpg":"Fracture fixation methods comparison","osteosynthesis-case-before.jpg":"Complex tibial fracture before surgery radiograph","osteosynthesis-case-after.jpg":"Tibial fracture after fixation radiograph"},de:{"osteosynthesis-diagram1.jpg":"Lehrillustration der Osteosynthese","osteosynthesis-diagram2.jpg":"Vergleich der Frakturfixation","osteosynthesis-case-before.jpg":"Röntgenaufnahme vor Osteosynthese der Tibia","osteosynthesis-case-after.jpg":"Röntgenaufnahme nach Tibiaosteosynthese"},pl:{"osteosynthesis-diagram1.jpg":"Ilustracja osteosyntezy złamania","osteosynthesis-diagram2.jpg":"Porównanie metod stabilizacji złamań","osteosynthesis-case-before.jpg":"RTG złamania piszczeli przed operacją","osteosynthesis-case-after.jpg":"RTG piszczeli po osteosyntezie"}}[lang][file] ?? article.title) : slug === "limb-lengthening" ? (lengtheningAlt[lang][file.replace(/-(en|de|pl)\.png$/, ".jpg")] ?? article.title) : slug === "knee-replacement" ? (kneeAlt[lang][file] ?? ({
     "knee-replacement-diagram.jpg": "Схема ендопротеза колінного суглоба",
     "knee-replacement-what.jpg": "Анатомічна схема коліна й ендопротезування",
     "knee-replacement-case-before1.jpg": "Рентгенограма колінних суглобів при гонартрозі",
@@ -386,7 +401,7 @@ function RichDetail({
               }
 
               const block = group.block;
-              const caseLayout = isTha && !!block.caseImages?.length;
+              const caseLayout = (isTha || slug === "osteosynthesis") && !!block.caseImages?.length;
               return (
                 <div key={i} className="mt-6 rounded-[8px] border border-hairline bg-cream/60 p-6 lg:p-7">
                   {block.heading && (isRich ? <h2 className="font-sans font-medium text-ink text-lg mb-3">{block.heading}</h2> : <h3 className="font-sans font-medium text-ink text-lg mb-3">{block.heading}</h3>)}
@@ -434,11 +449,15 @@ function RichDetail({
             })}
           </div>
 
-          {(isTha || slug === "knee-replacement" || slug === "shoulder-replacement") && (
+          {(isTha || slug === "knee-replacement" || slug === "shoulder-replacement" || slug === "osteosynthesis") && (
             <nav aria-label={related[lang].heading} className="mt-12 border-t border-hairline pt-8">
               <h2 className="text-lg font-medium text-ink mb-3">{related[lang].heading}</h2>
               <ul className="space-y-2">
-                {(slug === "shoulder-replacement" ? [
+                {(slug === "osteosynthesis" ? [
+                  { slug: "trauma-reconstruction", label: {uk:"Реконструкція наслідків травм",en:"Post-traumatic reconstruction",de:"Rekonstruktion nach Verletzungen",pl:"Rekonstrukcja następstw urazów"}[lang] },
+                  { slug: "bone-defects", label: {uk:"Лікування кісткових дефектів",en:"Treatment of bone defects",de:"Behandlung von Knochendefekten",pl:"Leczenie ubytków kości"}[lang] },
+                  { slug: "3d-implants", label: {uk:"Індивідуальні 3D-імпланти",en:"Custom 3D implants",de:"Individuelle 3D-Implantate",pl:"Indywidualne implanty 3D"}[lang] },
+                ] : slug === "shoulder-replacement" ? [
                   { slug: "revision-arthroplasty", label: related[lang].links[1].label },
                   { slug: "hip-replacement", label: {uk:"Ендопротезування кульшового суглоба",en:"Hip replacement",de:"Hüftendoprothese",pl:"Endoprotezoplastyka biodra"}[lang] },
                 ] : slug === "knee-replacement" ? [
