@@ -8,6 +8,7 @@ import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
 import ImageLightbox from "@/components/ImageLightbox";
 import HalluxInternationalUk from "@/components/HalluxInternationalUk";
+import OsteosynthesisInternationalUk from "@/components/OsteosynthesisInternationalUk";
 import ShoulderInternationalUk from "@/components/ShoulderInternationalUk";
 import ShoulderInternational from "@/components/ShoulderInternational";
 import HipInternationalUk from "@/components/HipInternationalUk";
@@ -100,7 +101,7 @@ export default async function TreatmentDetail({
 
   const article = getDirections(loc).articles[slug];
   if (!article) notFound();
-  const schema = (slug === "hip-replacement" || slug === "knee-replacement" || slug === "shoulder-replacement" || slug === "limb-lengthening") ? {
+  const schema = (slug === "hip-replacement" || slug === "knee-replacement" || slug === "shoulder-replacement" || slug === "limb-lengthening" || slug === "osteosynthesis") ? {
     "@context": "https://schema.org",
     "@type": "MedicalWebPage",
     "@id": `https://travmatolog.in.ua/${loc}/treatments/${slug}/#medicalwebpage`,
@@ -113,7 +114,7 @@ export default async function TreatmentDetail({
     author: { "@type": "Person", name: "Maksym Baida", jobTitle: "Orthopaedic trauma surgeon", url: `https://travmatolog.in.ua/${loc}/#about-doctor` },
     publisher: { "@type": "Organization", name: "travmatolog.in.ua", url: "https://travmatolog.in.ua/" },
   } : null;
-  const crumbs = (slug === "knee-replacement" || slug === "shoulder-replacement" || slug === "limb-lengthening") ? {
+  const crumbs = (slug === "knee-replacement" || slug === "shoulder-replacement" || slug === "limb-lengthening" || slug === "osteosynthesis") ? {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     itemListElement: [
@@ -453,6 +454,7 @@ function RichDetail({
           {slug === "limb-lengthening" && lang === "uk" && <><LengtheningEssentialsUk /><LengtheningInternationalUk /><LengtheningFaqUk /></>}
           {slug === "limb-lengthening" && lang !== "uk" && <LengtheningPatientInternational lang={lang} />}
           {slug === "hallux-valgus" && (lang === "uk" ? <HalluxInternationalUk /> : <HalluxInternational lang={lang} />)}
+          {slug === "osteosynthesis" && lang === "uk" && <OsteosynthesisInternationalUk />}
           {slug === "shoulder-replacement" && (lang === "uk" ? <ShoulderInternationalUk /> : <ShoulderInternational lang={lang} />)}
           {slug === "hip-replacement" && lang === "uk" && <HipInternationalUk />}
           {slug === "knee-replacement" && lang === "uk" && <KneeInternationalUk />}
