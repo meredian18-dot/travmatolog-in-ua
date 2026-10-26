@@ -4268,9 +4268,7 @@
       "lead": "Platten, Schrauben, Marknägel und individuell geplante Frakturversorgung. Orthopädisch-unfallchirurgische Beratung bei Dr. Maksym Baida.",
       "intro": "Nicht jeder Knochenbruch muss operiert werden. Entscheidend sind Stabilität, Gelenkflächen, Weichteile und individuelle Bedürfnisse. Offene Frakturen und Durchblutungsstörungen erfordern sofortige Notfallhilfe.",
       "hero": "osteosynthesis-hero.jpg",
-      "gallery": [
-        "osteosynthesis-diagram1.jpg"
-      ],
+      "gallery": [],
       "blocks": [
         {
           "heading": "1. Erste Schritte nach einem Knochenbruch",
@@ -4506,8 +4504,7 @@
               "type": "p",
               "text": "Vorteil sind präzise Reposition und viele anatomische Systeme, besonders gelenknah. Je nach Zugang kann zusätzliche Präparation notwendig sein oder das Implantat Weichteile reizen."
             }
-          ],
-          "diagram": "osteosynthesis-diagram2.jpg"
+          ]
         },
         {
           "heading": "Alleinige Schraubenosteosynthese",
@@ -4962,6 +4959,21 @@
             {
               "type": "p",
               "text": "Bei Pseudarthrose, Infektion, Knochendefekten oder posttraumatischer Fehlstellung kann eine spezielle Bewertung erforderlich sein. Verwandte Angebote betreffen Extremitätenrekonstruktion, Knochendefekte und individuelle 3D-Implantate."
+            },
+            {
+              "type": "link",
+              "href": "/de/treatments/trauma-reconstruction/",
+              "text": "Extremitätenrekonstruktion nach komplexen Verletzungen"
+            },
+            {
+              "type": "link",
+              "href": "/de/treatments/bone-defects/",
+              "text": "Behandlung von Knochendefekten"
+            },
+            {
+              "type": "link",
+              "href": "/de/treatments/3d-implants/",
+              "text": "Individuelle 3D-Implantate"
             }
           ]
         },
@@ -5077,6 +5089,11 @@
             {
               "type": "p",
               "text": "Bitte Bildgebung und medizinische Unterlagen bereithalten. Über die Kontaktseite können Behandlung und weitere Schritte besprochen werden."
+            },
+            {
+              "type": "link",
+              "href": "/de/#consultation",
+              "text": "Beratung vereinbaren"
             }
           ]
         }
