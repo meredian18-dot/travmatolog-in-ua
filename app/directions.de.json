@@ -3299,6 +3299,102 @@
           "diagram": "avn-diagram1.jpg"
         },
         {
+          "heading": "Konservative Behandlung der Hüftkopfnekrose",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Lässt sich eine Hüftkopfnekrose ohne Operation behandeln?"
+            },
+            {
+              "type": "p",
+              "text": "Ja. In ausgewählten Situationen kann eine konservative Therapie Schmerzen lindern, Beweglichkeit und Alltagsaktivität erhalten sowie beeinflussbare Risikofaktoren reduzieren."
+            },
+            {
+              "type": "p",
+              "text": "Sie kann jedoch weder eine Regeneration nekrotischer Knochensubstanz noch die Verhinderung eines Hüftkopfkollapses zuverlässig gewährleisten."
+            },
+            {
+              "type": "p",
+              "text": "Entscheidend sind ARCO-Stadium, Größe und Lage des Herdes, Beschwerden und das individuelle Progressionsrisiko."
+            },
+            {
+              "type": "p",
+              "text": "Welche Maßnahmen gehören zur konservativen Therapie?"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Anpassung der Belastung. Bei Schmerzen oder erhöhtem strukturellem Risiko können Laufen, Springen, schweres Heben und Stoßbelastungen vorübergehend eingeschränkt werden. Gehstock oder Unterarmgehstützen können entlasten. Entlastung allein verhindert einen Kollaps jedoch nicht nachweislich zuverlässig.",
+                "Schmerztherapie. Analgetika und nichtsteroidale Antirheumatika können Beschwerden unter Berücksichtigung von Gegenanzeigen und Begleiterkrankungen lindern. Sie beseitigen den Nekroseherd nicht.",
+                "Physiotherapie und Rehabilitation. Angepasste Übungen können Beweglichkeit, Muskelkraft und Funktion unterstützen. Dabei müssen Stadium, Schmerzen und zulässige Belastung berücksichtigt werden; Übungen gegen starke Schmerzen sind nicht sinnvoll.",
+                "Risikofaktoren beeinflussen. Mögliche Ursachen prüfen, übermäßigen Alkoholkonsum reduzieren, Rauchen aufgeben und Begleiterkrankungen behandeln. Änderungen einer Glukokortikoidtherapie nur mit der verordnenden Ärztin oder dem verordnenden Arzt besprechen; niemals eigenmächtig absetzen.",
+                "Verlaufskontrollen. Beschwerden, Hüftfunktion und strukturelle Veränderungen werden überwacht. Kontrollintervalle und erneute MRT- oder Röntgenuntersuchungen werden individuell festgelegt."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Können Medikamente die Nekrose stoppen?"
+            },
+            {
+              "type": "p",
+              "text": "Bisphosphonate, Antikoagulanzien, vasoaktive Mittel und andere Medikamente wurden bei Hüftkopfnekrose untersucht."
+            },
+            {
+              "type": "p",
+              "text": "Die Studienlage ist uneinheitlich. Ein universelles Medikamentenschema, das den Kollaps bei allen Betroffenen nachweislich verhindert, existiert nicht. Ein Einsatz in Einzelfällen bedarf einer individuellen medizinischen Begründung."
+            },
+            {
+              "type": "p",
+              "text": "Helfen Physiotherapie, Stoßwellentherapie oder hyperbare Sauerstofftherapie?"
+            },
+            {
+              "type": "p",
+              "text": "Verschiedene physikalische Verfahren wurden als Zusatztherapien untersucht. Teilweise werden Verbesserungen von Schmerz und Funktion berichtet; ein zuverlässiger Nachweis für Knochenregeneration oder Kollapsverhinderung fehlt jedoch."
+            },
+            {
+              "type": "p",
+              "text": "Solche Verfahren ersetzen weder die korrekte Stadieneinteilung noch die rechtzeitige Prüfung gelenkerhaltender Operationen."
+            },
+            {
+              "type": "p",
+              "text": "Wann ist eine konservative Behandlung sinnvoll?"
+            },
+            {
+              "type": "p",
+              "text": "Eine konservative Strategie kommt bei kleinen stabilen Herden mit niedrigem Kollapsrisiko, geringen Beschwerden ohne strukturelle Progression, zeitweiligen Operationshindernissen oder dem Wunsch nach Verzicht auf eine Operation sowie zur Überbrückung bis zur weiteren Behandlung in Betracht."
+            },
+            {
+              "type": "p",
+              "text": "Große laterale Herde in der Belastungszone können auch bei geringen Schmerzen eine aktivere Therapie erfordern."
+            },
+            {
+              "type": "p",
+              "text": "Wann reicht eine konservative Behandlung nicht aus?"
+            },
+            {
+              "type": "p",
+              "text": "Ausgedehnte Läsionen der Belastungszone, subchondrale Frakturen, zunehmende Deformierung oder Funktionsverlust machen eine erneute Therapieplanung nötig."
+            },
+            {
+              "type": "p",
+              "text": "In geeigneten frühen Stadien kommen gelenkerhaltende Eingriffe infrage; bei ausgeprägtem Kollaps und sekundärer Arthrose häufiger eine Hüftendoprothese. Eine lange unwirksame Therapie sollte die Chance zum Gelenkerhalt nicht verspielen."
+            },
+            {
+              "type": "p",
+              "text": "Wichtig für Patientinnen und Patienten"
+            },
+            {
+              "type": "p",
+              "text": "Konservative Maßnahmen können Schmerzen und Funktion verbessern, beeinflussen aber den Krankheitsverlauf nicht immer."
+            },
+            {
+              "type": "p",
+              "text": "Schmerzfreiheit beweist keine Stabilität, und weniger Schmerzen bedeuten nicht zwingend, dass sich Knochengewebe erholt. Entscheidend ist die individuelle Risikoabschätzung."
+            }
+          ]
+        },
+        {
           "heading": "Gelenkerhaltende Behandlung",
           "body": [
             {
