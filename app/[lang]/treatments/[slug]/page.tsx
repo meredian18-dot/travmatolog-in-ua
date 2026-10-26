@@ -478,7 +478,44 @@ function RichDetail({
               return (
                 <div key={i} className="mt-6 rounded-[8px] border border-hairline bg-cream/60 p-6 lg:p-7">
                   {block.heading && (isRich ? <h2 className="font-sans font-medium text-ink text-lg mb-3">{block.heading}</h2> : <h3 className="font-sans font-medium text-ink text-lg mb-3">{block.heading}</h3>)}
-                  {caseLayout ? (
+                  {slug === "avn" && block.diagram?.startsWith("avn-arco-") ? (
+                    <div className="space-y-7">
+                      <div className="grid grid-cols-1 lg:grid-cols-2 gap-7 lg:gap-10 items-start">
+                        <div className="min-w-0">
+                          <ImageLightbox
+                            images={[`${BASE}/directions/${block.diagram}`]}
+                            altTexts={[block.heading || article.title]}
+                            className="grid grid-cols-1"
+                            aspect="aspect-[3/2]"
+                            fit="contain"
+                            letterboxBg="bg-white"
+                          />
+                          <p className="text-center text-xs text-ink-muted mt-2">{zoomHint[lang]}</p>
+                        </div>
+                        <div className="min-w-0 space-y-3 text-ink leading-relaxed">
+                          {block.body.slice(0, 3).map((item, idx) => <p key={idx}>{item.text}</p>)}
+                          <div className="rounded-lg border border-hairline bg-white/65 p-4">
+                            <ul className="space-y-2 text-sm">
+                              {(["I", "II", "IIIA", "IIIB", "IV"] as const).map((stage, idx) => (
+                                <li key={stage} className="flex gap-3 items-start">
+                                  <span className="shrink-0 font-semibold text-tan-dark w-12">ARCO {stage}</span>
+                                  <span>{({
+                                    uk: ["МРТ-позитивний некроз, рентген без змін", "Кісткові зміни без колапсу", "Перелом, депресія ≤ 2 мм", "Депресія > 2 мм", "Вторинний артроз"],
+                                    en: ["MRI positive, normal X-ray", "Bone changes without collapse", "Fracture, depression ≤ 2 mm", "Depression > 2 mm", "Secondary osteoarthritis"],
+                                    de: ["MRT-Nekrose, Röntgen unauffällig", "Knochenveränderung ohne Kollaps", "Fraktur, Einsenkung ≤ 2 mm", "Einsenkung > 2 mm", "Sekundäre Arthrose"],
+                                    pl: ["Martwica w MRI, RTG prawidłowe", "Zmiany kostne bez zapadnięcia", "Złamanie, obniżenie ≤ 2 mm", "Obniżenie > 2 mm", "Wtórna choroba zwyrodnieniowa"],
+                                  } as Record<Locale, string[]>)[lang][idx]}</span>
+                                </li>
+                              ))}
+                            </ul>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="space-y-3.5 text-ink leading-relaxed">
+                        <BlockBody block={{ ...block, body: block.body.slice(3) }} hideDiagram />
+                      </div>
+                    </div>
+                  ) : caseLayout ? (
                     <div className="grid grid-cols-1 lg:grid-cols-2 gap-7 lg:gap-10 items-start">
                       <div className="min-w-0">
                         <ImageLightbox
