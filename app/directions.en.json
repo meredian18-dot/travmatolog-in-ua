@@ -4268,9 +4268,7 @@
       "lead": "Plate and screw fixation, intramedullary nailing and individualised fracture care. Orthopaedic trauma consultation with Dr Maksym Baida.",
       "intro": "Not every fracture requires surgery. Treatment depends on fracture stability, joint involvement, soft tissues and individual needs. Open fractures, circulation problems and rapidly worsening pain require emergency care without delay.",
       "hero": "osteosynthesis-hero.jpg",
-      "gallery": [
-        "osteosynthesis-diagram1.jpg"
-      ],
+      "gallery": [],
       "blocks": [
         {
           "heading": "1. First decisions after a fracture",
@@ -4506,8 +4504,7 @@
               "type": "p",
               "text": "Plates allow precise reduction and a wide choice of anatomical designs, especially near joints. Depending on the exposure, they may also require soft-tissue dissection or cause local irritation."
             }
-          ],
-          "diagram": "osteosynthesis-diagram2.jpg"
+          ]
         },
         {
           "heading": "Fixation with screws alone",
@@ -4962,6 +4959,21 @@
             {
               "type": "p",
               "text": "Some patients need dedicated evaluation for nonunion, bone defects, infection or post-traumatic deformity. Related pages cover limb reconstruction, bone defects and patient-specific 3D implants."
+            },
+            {
+              "type": "link",
+              "href": "/en/treatments/trauma-reconstruction/",
+              "text": "Limb reconstruction after complex injuries"
+            },
+            {
+              "type": "link",
+              "href": "/en/treatments/bone-defects/",
+              "text": "Treatment of bone defects"
+            },
+            {
+              "type": "link",
+              "href": "/en/treatments/3d-implants/",
+              "text": "Patient-specific 3D implants"
             }
           ]
         },
@@ -5077,6 +5089,11 @@
             {
               "type": "p",
               "text": "Prepare imaging and medical records. We can discuss possible treatment, expected recovery and next steps. Use the site's consultation contact options."
+            },
+            {
+              "type": "link",
+              "href": "/en/#consultation",
+              "text": "Book a consultation"
             }
           ]
         }
