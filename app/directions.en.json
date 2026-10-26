@@ -3083,27 +3083,93 @@
           ]
         },
         {
-          "heading": "Why It's Important to Determine the Stage of the Disease",
+          "heading": "Stages of femoral head osteonecrosis: ARCO classification",
+          "divider": false,
+          "diagram": "avn-arco-en.svg",
           "body": [
             {
               "type": "p",
-              "text": "With avascular necrosis, the same diagnosis label can describe fundamentally different clinical situations."
+              "text": "Femoral head osteonecrosis has several stages defined by the extent of bone and articular surface damage."
             },
             {
               "type": "p",
-              "text": "In the early stage, the femoral head may still retain its shape. In such situations, certain patients may be candidates for methods aimed at preserving their own hip joint."
+              "text": "The international ARCO (Association Research Circulation Osseous) classification assesses whether femoral head shape is preserved, whether a subchondral fracture has developed and whether secondary osteoarthritis is present."
             },
             {
               "type": "p",
-              "text": "If collapse of the femoral head has already occurred and pronounced secondary joint changes have formed, the possibilities for joint-preserving treatment become significantly limited, and hip replacement may need to be considered."
+              "text": "The key distinction is between stages before collapse and those with structural failure of the femoral head."
             },
             {
               "type": "p",
-              "text": "So the key question after diagnosis is not simply \"is there necrosis?\" but \"what stage is it at, and can the joint still be preserved?\""
+              "text": "ARCO I — early disease"
+            },
+            {
+              "type": "p",
+              "text": "X-rays remain normal, but MRI demonstrates osteonecrosis. The femoral head maintains its shape, with no subchondral fracture. Depending on lesion size and location, observation or joint-preserving treatment may be considered."
+            },
+            {
+              "type": "p",
+              "text": "ARCO II — bone changes without collapse"
+            },
+            {
+              "type": "p",
+              "text": "Radiographs can show sclerosis, focal reduced bone density or cyst-like changes. There is no subchondral fracture or femoral head flattening. Joint preservation depends on lesion characteristics."
+            },
+            {
+              "type": "p",
+              "text": "ARCO III — subchondral fracture and collapse"
+            },
+            {
+              "type": "p",
+              "text": "A fracture in the subchondral or necrotic region is visible on X-ray or CT, sometimes with head flattening. ARCO IIIA: surface depression up to and including 2 mm; ARCO IIIB: more than 2 mm. Once fracture occurs, results of joint-preserving treatment are generally less favourable; specialised reconstructive options are selected cautiously and do not guarantee success."
+            },
+            {
+              "type": "p",
+              "text": "ARCO IV — secondary hip osteoarthritis"
+            },
+            {
+              "type": "p",
+              "text": "Joint-space narrowing, acetabular changes and other degenerative findings develop. Total hip replacement is often considered if pain and functional limitation are significant. Patient goals and overall health also matter."
+            },
+            {
+              "type": "p",
+              "text": "Why does stage matter?"
+            },
+            {
+              "type": "list",
+              "items": [
+                "ARCO I–II: selected patients may still be candidates for joint-preserving treatment before collapse.",
+                "ARCO III: fracture increases the risk of progression and failure of joint preservation.",
+                "ARCO IV: symptomatic secondary osteoarthritis often favours hip replacement."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Is ARCO stage alone sufficient?"
+            },
+            {
+              "type": "p",
+              "text": "No. Patients at the same stage may have different outcomes. The assessment also includes:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Size of the necrotic lesion.",
+                "Location, especially lateral weight-bearing involvement.",
+                "Bone marrow oedema and associated changes.",
+                "Pain and functional limitations.",
+                "Age, physical activity and risk factors."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Large lesions extending laterally into the weight-bearing region are generally associated with greater collapse risk."
+            },
+            {
+              "type": "p",
+              "text": "Important: osteonecrosis does not automatically require hip replacement, but early disease does not guarantee successful joint preservation. MRI, X-rays, ARCO stage and lesion characteristics guide individual treatment."
             }
-          ],
-          "divider": false,
-          "diagram": "avn-stages.jpg"
+          ]
         },
         {
           "heading": "When should you consult an orthopaedic specialist?",
