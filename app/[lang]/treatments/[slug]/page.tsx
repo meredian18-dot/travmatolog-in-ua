@@ -9,6 +9,7 @@ import Footer from "@/components/Footer";
 import ImageLightbox from "@/components/ImageLightbox";
 import HalluxInternationalUk from "@/components/HalluxInternationalUk";
 import OsteosynthesisInternationalUk from "@/components/OsteosynthesisInternationalUk";
+import OsteosynthesisInternational from "@/components/OsteosynthesisInternational";
 import ShoulderInternationalUk from "@/components/ShoulderInternationalUk";
 import ShoulderInternational from "@/components/ShoulderInternational";
 import HipInternationalUk from "@/components/HipInternationalUk";
@@ -43,6 +44,15 @@ export async function generateMetadata({
       pl: {title:"Operacja zwiększenia wzrostu | Dr Maksym Baida", description:"Wydłużanie nóg dla zwiększenia wzrostu: uda i podudzia, metody operacyjne, ryzyko, rehabilitacja oraz indywidualna konsultacja."}
     };
     return {...meta[lang], alternates: localizedAlternates(lang, `treatments/${slug}`), openGraph:{type:"article", url:`https://travmatolog.in.ua/${lang}/treatments/${slug}/`, title:meta[lang].title, description:meta[lang].description, siteName:"travmatolog.in.ua", locale: lang === "uk" ? "uk_UA" : lang === "de" ? "de_DE" : lang === "pl" ? "pl_PL" : "en_US", images:[{url:"https://travmatolog.in.ua/directions/limb-lengthening-hero.jpg",alt:article.title}]}, twitter:{card:"summary_large_image",title:meta[lang].title,description:meta[lang].description,images:["https://travmatolog.in.ua/directions/limb-lengthening-hero.jpg"]}};
+  }
+  if (slug === "osteosynthesis") {
+    const meta: Record<string, {title:string;description:string}> = {
+      uk:{title:"Остеосинтез переломів у Києві | Максим Байда",description:"Оперативне лікування переломів: пластини, гвинти, інтрамедулярні стрижні, показання, реабілітація, ризики та консультація травматолога."},
+      en:{title:"Fracture Fixation Surgery in Ukraine | Dr Maksym Baida",description:"Fracture fixation with plates, screws or intramedullary nails. Surgery indications, recovery, complications and trauma consultation in Ukraine."},
+      de:{title:"Osteosynthese & Frakturversorgung | Dr. Maksym Baida",description:"Operative Frakturversorgung mit Platten, Schrauben oder Marknägeln: Indikationen, Risiken, Rehabilitation und Beratung in der Ukraine."},
+      pl:{title:"Operacyjne leczenie złamań | Dr Maksym Baida",description:"Osteosynteza płytkami, śrubami lub gwoździami śródszpikowymi: wskazania, rekonwalescencja, powikłania i konsultacja w Ukrainie."}
+    };
+    return {...meta[lang],alternates:localizedAlternates(lang,`treatments/${slug}`)};
   }
   if (slug === "shoulder-replacement") {
     const meta: Record<string, {title:string; description:string}> = {
@@ -455,6 +465,7 @@ function RichDetail({
           {slug === "limb-lengthening" && lang !== "uk" && <LengtheningPatientInternational lang={lang} />}
           {slug === "hallux-valgus" && (lang === "uk" ? <HalluxInternationalUk /> : <HalluxInternational lang={lang} />)}
           {slug === "osteosynthesis" && lang === "uk" && <OsteosynthesisInternationalUk />}
+          {slug === "osteosynthesis" && lang !== "uk" && <OsteosynthesisInternational lang={lang} />}
           {slug === "shoulder-replacement" && (lang === "uk" ? <ShoulderInternationalUk /> : <ShoulderInternational lang={lang} />)}
           {slug === "hip-replacement" && lang === "uk" && <HipInternationalUk />}
           {slug === "knee-replacement" && lang === "uk" && <KneeInternationalUk />}
