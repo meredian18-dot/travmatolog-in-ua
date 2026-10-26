@@ -101,8 +101,8 @@ export async function generateMetadata({
     return {
       ...meta[lang],
       alternates: localizedAlternates(lang, `treatments/${slug}`),
-      openGraph: { type: "article", url: `https://travmatolog.in.ua/${lang}/treatments/${slug}/`, title: meta[lang].title, description: meta[lang].description, siteName: "travmatolog.in.ua", images: [{ url: "https://travmatolog.in.ua/directions/avn_arco_uk_final.png", alt: article.title }] },
-      twitter: { card: "summary_large_image", title: meta[lang].title, description: meta[lang].description, images: ["https://travmatolog.in.ua/directions/avn_arco_uk_final.png"] }
+      openGraph: { type: "article", url: `https://travmatolog.in.ua/${lang}/treatments/${slug}/`, title: meta[lang].title, description: meta[lang].description, siteName: "travmatolog.in.ua", images: [{ url: `https://travmatolog.in.ua/directions/avn_arco_${lang}_final.png`, alt: article.title }] },
+      twitter: { card: "summary_large_image", title: meta[lang].title, description: meta[lang].description, images: [`https://travmatolog.in.ua/directions/avn_arco_${lang}_final.png`] }
     };
   }
   if (slug === "hip-replacement") {
