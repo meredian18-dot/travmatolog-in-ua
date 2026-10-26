@@ -2810,6 +2810,55 @@
           "divider": false
         },
         {
+          "heading": "Warum entsteht eine aseptische Hüftkopfnekrose?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Eine Hüftkopfnekrose entsteht infolge einer gestörten Blutversorgung des Knochengewebes im Hüftkopf. Die Ursachen können unterschiedlich sein; bei manchen Betroffenen lässt sich kein konkreter Auslöser feststellen."
+            },
+            {
+              "type": "p",
+              "text": "Die Erkrankung kann nach einer Verletzung oder ohne erkennbare traumatische Schädigung auftreten."
+            },
+            {
+              "type": "p",
+              "text": "Wichtigste Ursachen und Risikofaktoren"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Verletzungen des Hüftgelenks. Schenkelhalsfrakturen und Hüftluxationen können die Blutgefäße schädigen, die den Hüftkopf versorgen. Eine Osteonekrose kann sich erst Monate oder Jahre nach der Verletzung entwickeln.",
+                "Einnahme von Glukokortikoiden. Eine systemische Kortikosteroidtherapie, insbesondere mit hohen Dosen oder hoher kumulativer Belastung, ist mit einem erhöhten Osteonekroserisiko verbunden. Nicht alle mit diesen Medikamenten behandelten Personen erkranken jedoch.",
+                "Übermäßiger Alkoholkonsum. Langjähriger starker Alkoholkonsum ist mit einem erhöhten Risiko für eine nichttraumatische Osteonekrose verbunden.",
+                "Systemische und hämatologische Erkrankungen. Ein erhöhtes Risiko kann bei Sichelzellkrankheit, systemischem Lupus erythematodes, Antiphospholipid-Syndrom und bestimmten Gerinnungsstörungen bestehen. Auch die Behandlung der Grunderkrankung und Begleitfaktoren können eine Rolle spielen.",
+                "Weitere medizinische Umstände. Eine Osteonekrose kann mit Organtransplantationen, bestimmten hämatologisch-onkologischen Erkrankungen und deren Behandlung, der Dekompressionskrankheit sowie weiteren Erkrankungen zusammenhängen.",
+                "Idiopathische Hüftkopfnekrose. Manchmal wird die Erkrankung ohne vorausgegangene Verletzung und ohne erkennbare Risikofaktoren diagnostiziert. Solche Fälle nennt man idiopathisch."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Können beide Hüftgelenke betroffen sein?"
+            },
+            {
+              "type": "p",
+              "text": "Ja. Besonders bei der nichttraumatischen Osteonekrose können beide Hüften betroffen sein. Selbst wenn nur eine Hüfte schmerzt, kann eine Untersuchung der Gegenseite sinnvoll sein, da frühe Veränderungen ohne Beschwerden verlaufen können."
+            },
+            {
+              "type": "p",
+              "text": "Wichtig für Patientinnen und Patienten"
+            },
+            {
+              "type": "p",
+              "text": "Ein Risikofaktor bedeutet nicht, dass sich zwangsläufig eine Hüftkopfnekrose entwickelt. Umgekehrt schließt das Fehlen einer offensichtlichen Ursache die Erkrankung nicht aus."
+            },
+            {
+              "type": "p",
+              "text": "Wenn Sie Glukokortikoide einnehmen, setzen Sie diese nicht eigenständig ab. Besprechen Sie eine Änderung der Behandlung mit der Ärztin oder dem Arzt, die oder der sie verordnet hat."
+            }
+          ]
+        },
+        {
           "heading": "Warum die Bestimmung des Krankheitsstadiums wichtig ist",
           "body": [
             {
