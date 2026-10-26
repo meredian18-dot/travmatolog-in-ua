@@ -418,23 +418,6 @@ function RichDetail({
                         <BlockBody block={{ ...block, caseImages: [] }} />
                       </div>
                     </div>
-                  ) : slug === "osteosynthesis" && block.diagram ? (
-                    <div className="space-y-5">
-                      <div className="w-full max-w-[1120px] mx-auto">
-                        <ImageLightbox
-                          images={[`${BASE}/directions/${localizedTreatmentImage(block.diagram, slug, lang)}`]}
-                          altTexts={[imageAlt(localizedTreatmentImage(block.diagram, slug, lang))]}
-                          className="grid grid-cols-1"
-                          aspect="aspect-[4/3]"
-                          fit="contain"
-                          letterboxBg="bg-white"
-                        />
-                        <p className="text-center text-xs text-ink-muted mt-2">{zoomHint[lang]}</p>
-                      </div>
-                      <div className="space-y-3.5 text-ink leading-relaxed">
-                        <BlockBody block={block} hideDiagram />
-                      </div>
-                    </div>
                   ) : block.diagram ? (
                     <div className="grid grid-cols-1 lg:grid-cols-2 gap-7 lg:gap-10 items-start">
                       <div className="min-w-0">
