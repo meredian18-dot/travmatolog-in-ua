@@ -4296,6 +4296,17 @@
             {
               "type": "p",
               "text": "Ostry zespół ciasnoty przedziałów powięziowych może wymagać natychmiastowej operacji. Unieruchom kończynę, nie próbuj samodzielnie nastawiać kości i osłoń ranę czystym opatrunkiem. Nie odkładaj pilnego leczenia z powodu podróży lub konsultacji zdalnej."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Otwarta rana w okolicy złamania, zwłaszcza gdy widać kość.",
+                "Silne krwawienie lub znaczna deformacja kończyny.",
+                "Zimna, blada lub sina dłoń albo stopa.",
+                "Nagła utrata czucia, znaczne drętwienie lub niemożność poruszania palcami.",
+                "Szybko narastający silny ból, zwłaszcza z napiętym obrzękiem.",
+                "Ciężki uraz po wypadku drogowym, upadku z wysokości, wybuchu lub innym urazie wysokoenergetycznym."
+              ]
             }
           ]
         },
@@ -4306,6 +4317,14 @@
             {
               "type": "p",
               "text": "Lekarz ocenia mechanizm urazu, ustawienie kończyny, skórę, ukrwienie, czucie i ruch. Podstawą jest zwykle RTG w dwóch projekcjach. TK pomaga ocenić złamania wieloodłamowe i śródstawowe; MRI lub badania naczyniowe wykonuje się według wskazań."
+            },
+            {
+              "type": "list",
+              "items": [
+                "TK: szczegółowa ocena złamań złożonych, wieloodłamowych i śródstawowych oraz planowanie operacji.",
+                "MRI: wybrane wskazania, np. podejrzenie utajonego złamania lub urazów tkanek miękkich.",
+                "Badania naczyń: przy podejrzeniu zaburzenia ukrwienia kończyny."
+              ]
             }
           ]
         },
@@ -4355,6 +4374,17 @@
             {
               "type": "p",
               "text": "Rozważa się ją również, gdy długie unieruchomienie jest niekorzystne lub leczenie zachowawcze nie daje właściwego ustawienia. Nie zawsze trzeba odsłaniać każdy odłam; wczesne uruchamianie nie oznacza pełnego obciążania."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Złamania niestabilne: nie można utrzymać właściwego ustawienia odłamów, co grozi wtórnym przemieszczeniem i wadliwym zrostem.",
+                "Znaczne przemieszczenie lub deformacja: długości, osi lub rotacji nie da się odpowiednio odtworzyć leczeniem zachowawczym.",
+                "Złamania śródstawowe: istotne przemieszczenie powierzchni stawowej może wymagać dokładnego nastawienia i zespolenia.",
+                "Złamania wieloodłamowe: zaburzenie długości, osi lub stabilności może wymagać zespolenia, bez odsłaniania każdego fragmentu.",
+                "Wybrane złamania, przy których długotrwałe unieruchomienie jest niekorzystne, np. niektóre złamania kości udowej; wczesny ruch nie oznacza pełnego obciążania.",
+                "Nieskuteczne leczenie zachowawcze: wtórne przemieszczenie lub utrata nastawienia mogą wymagać zmiany planu."
+              ]
             }
           ]
         },
@@ -4375,6 +4405,16 @@
             {
               "type": "p",
               "text": "Gdy stabilność i ustawienie można zachować bez operacji, funkcja stawu nie jest istotnie zagrożona lub ryzyko operacyjne przewyższa spodziewane korzyści. Dotyczy to wybranych złamań kości ramiennej, obojczyka, promieniowej czy stopy. Nadal konieczne są kontrole i rehabilitacja."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Złamanie jest stabilne lub można je ustabilizować zewnętrznym unieruchomieniem.",
+                "Ustawienie odłamów jest akceptowalne dla danej lokalizacji.",
+                "Nie występuje istotne uszkodzenie powierzchni stawowej ani funkcjonalnie ważna deformacja.",
+                "Przewidywane korzyści z operacji nie uzasadniają jej ryzyka.",
+                "Choroby współistniejące lub czynniki osobiste zmieniają stosunek korzyści do ryzyka."
+              ]
             }
           ]
         },
@@ -4395,6 +4435,17 @@
             {
               "type": "p",
               "text": "Wiek, jakość kości, osteoporoza, cukrzyca, choroby naczyń, palenie, inne obrażenia, praca i aktywność, a także możliwość rehabilitacji i kontroli. Decyzję podejmuje się po omówieniu korzyści, ryzyka i alternatyw."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Wiek i jakość kości, w tym osteoporoza.",
+                "Cukrzyca, choroby naczyń i inne schorzenia.",
+                "Palenie i czynniki pogarszające gojenie.",
+                "Ogólny stan po urazie i inne obrażenia.",
+                "Aktywność, zawód i potrzeby funkcjonalne.",
+                "Możliwość przestrzegania ograniczeń, rehabilitacji i wizyt kontrolnych."
+              ]
             }
           ]
         },
@@ -4503,6 +4554,14 @@
             {
               "type": "p",
               "text": "Płytki pozwalają na dokładne nastawienie, szczególnie w okolicy stawów. W zależności od dostępu mogą wymagać większej preparacji tkanek lub powodować miejscowe drażnienie."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Zespolenie kompresyjne: zapewnia docisk nastawionych odłamów.",
+                "Zespolenie pomostowe: stabilizuje główne fragmenty bez nastawiania każdego pośredniego odłamu.",
+                "Stabilizacja kątowo stabilna: śruby blokują się w płytce; metoda pomocna w wybranych złamaniach i przy słabszej jakości kości."
+              ]
             }
           ]
         },
@@ -4527,6 +4586,15 @@
             {
               "type": "p",
               "text": "Wiele złamań trzonu można ustabilizować bez szerokiego odsłaniania miejsca urazu. Niektóre złamania okołostawowe wymagają innych metod. Czasem potrzebne jest rozwiercanie kanału; pełne obciążanie nie zawsze jest od razu możliwe."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Główny implant znajduje się wewnątrz kości.",
+                "Wiele złamań trzonu można ustabilizować bez szerokiego odsłaniania miejsca urazu.",
+                "Właściwości mechaniczne konstrukcji pozwalają odpowiednio przenosić obciążenia.",
+                "Przy wybranych wskazaniach możliwe jest wczesne uruchamianie."
+              ]
             }
           ]
         },
@@ -4571,6 +4639,17 @@
             {
               "type": "p",
               "text": "Lekarz analizuje RTG i ewentualnie TK, lokalizację, liczbę i wielkość odłamów, jakość kości, stan skóry, mięśni i naczyń, potrzebną stabilność i plan rehabilitacji. Najlepszy implant to nie najdroższy, ale właściwy dla danej sytuacji."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Lokalizacja złamania i bliskość stawu.",
+                "Liczba, wielkość i położenie odłamów.",
+                "Jakość kości.",
+                "Stan skóry, mięśni i ukrwienia.",
+                "Potrzeba stabilności bezwzględnej lub względnej.",
+                "Możliwości bezpiecznego uruchamiania i rehabilitacji."
+              ]
             }
           ]
         },
@@ -4651,6 +4730,15 @@
             {
               "type": "p",
               "text": "Mogą być potrzebne badania krwi, krzepnięcia, EKG lub dodatkowa diagnostyka. Zgłoś choroby, przebyte operacje, leki (szczególnie przeciwzakrzepowe i przeciwpłytkowe), alergie oraz wcześniejsze problemy ze znieczuleniem. Nie odstawiaj leków samodzielnie."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Poinformuj o chorobach przewlekłych i wcześniejszych operacjach.",
+                "Wymień leki, zwłaszcza przeciwzakrzepowe i przeciwpłytkowe.",
+                "Zgłoś alergie na leki.",
+                "Powiedz o wcześniejszych problemach ze znieczuleniem."
+              ]
             }
           ]
         },
@@ -4661,6 +4749,15 @@
             {
               "type": "p",
               "text": "Stosuj zalecenia dotyczące jedzenia, picia, leków i przyjazdu do szpitala. Zabierz dokumentację i listę leków; zgłoś gorączkę lub nowe objawy. Przy pilnym zabiegu przygotowanie odbywa się bez nieuzasadnionej zwłoki."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Przestrzegaj zaleceń dotyczących jedzenia i picia.",
+                "Przyjmuj lub odstawiaj leki tylko według uzgodnionego planu.",
+                "Zgłoś gorączkę, nowe objawy lub zmianę samopoczucia.",
+                "Zabierz dokumentację, wyniki badań i listę leków."
+              ]
             }
           ]
         },
@@ -4681,6 +4778,16 @@
             {
               "type": "p",
               "text": "Zwykle obejmuje znieczulenie i przygotowanie pola operacyjnego, nastawienie odłamów, założenie płytki, śrub, gwoździa lub innego implantu, kontrolę ustawienia (często fluoroskopią), zamknięcie rany i opatrunek. Przy urazach złożonych etapy mogą się różnić."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Przygotowanie: znieczulenie, ułożenie pacjenta, odkażenie skóry i sterylne pole.",
+                "Repozycja: ustawienie odłamów metodą otwartą lub małoinwazyjną.",
+                "Stabilizacja: wprowadzenie płytki, śrub, gwoździa lub innej konstrukcji.",
+                "Kontrola: często fluoroskopia w celu oceny odłamów i implantów.",
+                "Zakończenie: hemostaza, zamknięcie rany, opatrunek i ewentualne dodatkowe unieruchomienie."
+              ]
             }
           ]
         },
@@ -4756,6 +4863,15 @@
             {
               "type": "p",
               "text": "Czasem możliwe jest wczesne częściowe lub pełne obciążanie, czasem potrzebne są kule i odciążenie. Uwzględnia się kość, rodzaj złamania, stabilność, staw i postęp zrostu. Chodzenie z kulami nie jest tym samym co pełne obciążanie."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Która kość jest złamana i gdzie przebiega szczelina.",
+                "Jak stabilnie zamocowano odłamy.",
+                "Czy powierzchnia stawowa została uszkodzona.",
+                "Jak postępuje zrost podczas kontroli."
+              ]
             }
           ]
         },
@@ -4776,6 +4892,15 @@
             {
               "type": "p",
               "text": "Fizjoterapia poprawia ruchomość, siłę, wytrzymałość, chód, równowagę i codzienne funkcjonowanie. Ćwiczenia oraz obciążanie zwiększa się stopniowo. Nadmierny wysiłek nie przyspiesza gojenia."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Ruchomość stawów.",
+                "Siła i wytrzymałość mięśni.",
+                "Chód, równowaga i koordynacja.",
+                "Umiejętności codzienne i zawodowe."
+              ]
             }
           ]
         },
@@ -4806,6 +4931,16 @@
             {
               "type": "p",
               "text": "Nagła bladość lub zimno kończyny, bardzo silny narastający ból z napiętym obrzękiem, duszność lub ból w klatce piersiowej wymagają pilnej pomocy. Z lekarzem trzeba szybko skontaktować się przy gorączce z pogorszeniem rany, narastającym zaczerwienieniu, ropie, nowym silnym bólu lub bolesnym jednostronnym obrzęku łydki."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Gorączka połączona z pogorszeniem stanu rany.",
+                "Narastające zaczerwienienie, ból lub obrzęk wokół rany.",
+                "Ropa lub nietypowa wydzielina.",
+                "Nowy silny ból albo wrażenie niestabilności.",
+                "Bolesny jednostronny obrzęk łydki lub uda."
+              ]
             }
           ]
         },
@@ -4885,6 +5020,15 @@
             {
               "type": "p",
               "text": "U większości dorosłych rutynowe usuwanie implantów po zroście nie jest konieczne. Rozważa się je przy bólu, drażnieniu, ograniczeniu funkcji, infekcji lub innych wskazaniach. Niektóre konstrukcje przewidują planowe usunięcie. To kolejna operacja z ryzykiem uszkodzenia nerwów, infekcji i ponownego złamania."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Ból lub mechaniczne drażnienie tkanek.",
+                "Ograniczenie funkcji związane z implantem.",
+                "Infekcja albo niestabilność zespolenia.",
+                "Inne indywidualne wskazania medyczne."
+              ]
             }
           ]
         },
@@ -4939,6 +5083,16 @@
             {
               "type": "p",
               "text": "Koszt zależy od rodzaju i złożoności złamania, implantów, zabiegu, znieczulenia, badań i pobytu w szpitalu. Wstępną wycenę można omówić po analizie dokumentacji, a ostateczną po badaniu. Możliwość finansowania publicznego ustala się z placówką."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Rodzaj i złożoność złamania.",
+                "Metoda zespolenia i koszt implantów.",
+                "Zakres operacji i znieczulenia.",
+                "Czas hospitalizacji.",
+                "Dodatkowe badania lub procedury."
+              ]
             }
           ]
         },
@@ -4949,6 +5103,15 @@
             {
               "type": "p",
               "text": "Przygotuj dostępne RTG lub TK, opisy, historię wcześniejszego leczenia i krótki opis okoliczności urazu. Podczas konsultacji omawiane są wskazania do operacji, alternatywy, ryzyko, koszty i rehabilitacja. Druga opinia nie może opóźniać pilnego leczenia."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Dostępne zdjęcia RTG lub TK.",
+                "Opisy wcześniejszych badań.",
+                "Dokumenty dotychczasowego leczenia.",
+                "Krótki opis daty i okoliczności urazu oraz aktualnych dolegliwości."
+              ]
             }
           ]
         },
