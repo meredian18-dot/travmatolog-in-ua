@@ -2908,6 +2908,181 @@
           ]
         },
         {
+          "heading": "Diagnosing femoral head osteonecrosis: X-rays, MRI and CT",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Early diagnosis of femoral head osteonecrosis is essential for choosing appropriate treatment. MRI can reveal bone changes at an early stage even when ordinary X-rays still appear normal."
+            },
+            {
+              "type": "p",
+              "text": "Imaging aims not only to confirm osteonecrosis but also to establish the stage, size and location of the necrotic lesion, assess the articular surface and detect possible femoral head collapse."
+            }
+          ]
+        },
+        {
+          "heading": "Hip X-rays",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "X-rays are usually the first imaging test for patients with hip pain. They show femoral head shape, structural bone changes, flattening of the articular surface and secondary osteoarthritis."
+            },
+            {
+              "type": "p",
+              "text": "Depending on the clinical situation, an anteroposterior pelvic radiograph and additional hip views may be obtained."
+            },
+            {
+              "type": "p",
+              "text": "X-rays may remain normal at ARCO stage I."
+            },
+            {
+              "type": "p",
+              "text": "Important: a normal X-ray does not exclude osteonecrosis. MRI may be indicated when symptoms or risk factors raise suspicion."
+            }
+          ]
+        },
+        {
+          "heading": "Magnetic resonance imaging (MRI)",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "MRI is the principal modality for early diagnosis of femoral head osteonecrosis. It can detect disease before typical X-ray changes appear and assess the extent of involvement."
+            },
+            {
+              "type": "p",
+              "text": "MRI can evaluate:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Presence and location of the necrotic lesion.",
+                "Lesion size and its extent in the weight-bearing region.",
+                "Bone marrow changes, including oedema.",
+                "Associated hip joint effusion.",
+                "Signs of subchondral damage and compromised structural support.",
+                "Possible involvement of the opposite femoral head."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Importantly, MRI describes lesion characteristics that may influence prognosis and treatment selection, rather than merely confirming necrosis."
+            },
+            {
+              "type": "p",
+              "text": "For typical osteonecrosis, MRI without intravenous contrast is generally sufficient. Additional sequences or studies are considered individually."
+            }
+          ]
+        },
+        {
+          "heading": "Computed tomography (CT)",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "CT does not replace MRI for early detection but can clarify the bony structure."
+            },
+            {
+              "type": "p",
+              "text": "Its main role is to assess subchondral fracture, femoral head deformity and structural changes not clearly identified on X-rays."
+            },
+            {
+              "type": "p",
+              "text": "CT may be considered if:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "A subchondral fracture or early collapse is suspected.",
+                "X-rays and MRI do not clearly establish the integrity of the articular surface.",
+                "Further anatomical detail is needed for treatment planning."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "CT is used when indicated, not routinely for every patient."
+            }
+          ]
+        },
+        {
+          "heading": "Why assess both hips?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Non-traumatic osteonecrosis can affect both hips. The opposite femoral head may have changes even without pain."
+            },
+            {
+              "type": "p",
+              "text": "Both hips should therefore be considered during assessment. MRI of the opposite hip may be recommended when indicated."
+            }
+          ]
+        },
+        {
+          "heading": "What do we evaluate on scans?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Five principal factors:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Disease stage according to ARCO.",
+                "Lesion size — how much of the femoral head is involved.",
+                "Lesion location, including its lateral extent in the weight-bearing area.",
+                "Subchondral bone integrity — fracture, flattening or collapse.",
+                "Overall joint condition, including secondary osteoarthritis and associated changes."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Together, these findings help determine whether joint-preserving treatment may be appropriate or whether structural damage substantially limits its potential."
+            }
+          ]
+        },
+        {
+          "heading": "What should you provide for a consultation?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "For an initial review, please provide where available:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Previous hip MRI scans.",
+                "Pelvic and hip X-rays.",
+                "CT scans, if already performed; do not repeat CT without an indication.",
+                "Earlier images to assess changes over time.",
+                "Imaging reports and a brief history of symptoms, previous treatments and main risk factors."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Original imaging files in DICOM format are most informative because they allow direct assessment of lesion boundaries and the joint surface, rather than relying solely on the written report."
+            }
+          ]
+        },
+        {
+          "heading": "Is a new MRI needed before consultation?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Not always. If you have already undergone imaging, it is usually sensible to review the existing studies first."
+            },
+            {
+              "type": "p",
+              "text": "Repeat MRI depends on when the study was performed, symptom changes, image quality and the clinical question."
+            }
+          ]
+        },
+        {
           "heading": "Why It's Important to Determine the Stage of the Disease",
           "body": [
             {
