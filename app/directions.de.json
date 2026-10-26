@@ -2791,25 +2791,6 @@
           ]
         },
         {
-          "heading": "Wann Sie sich vorstellen sollten",
-          "body": [
-            {
-              "type": "list",
-              "items": [
-                "Schmerzen in der Leiste oder im Hüftgelenk ohne offensichtliches Trauma",
-                "der Schmerz tritt beim Gehen oder unter Belastung auf",
-                "die Beweglichkeit des Hüftgelenks hat sich verringert",
-                "ein Hinken ist aufgetreten",
-                "der Schmerz nimmt allmählich zu",
-                "im MRT oder Röntgen wurden Anzeichen einer Hüftkopfnekrose festgestellt",
-                "eine Hüftkopfnekrose ist bereits diagnostiziert, aber die weitere Behandlungstaktik muss festgelegt werden",
-                "beide Hüftgelenke sind betroffen"
-              ]
-            }
-          ],
-          "divider": false
-        },
-        {
           "heading": "Warum entsteht eine aseptische Hüftkopfnekrose?",
           "divider": false,
           "body": [
@@ -2859,6 +2840,74 @@
           ]
         },
         {
+          "heading": "Symptome der Hüftkopfnekrose: frühe Anzeichen erkennen",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Eine aseptische Hüftkopfnekrose kann sich längere Zeit ohne deutliche Beschwerden entwickeln. In frühen Stadien bestehen mitunter keine Schmerzen, obwohl im MRT bereits Veränderungen des Knochengewebes sichtbar sind."
+            },
+            {
+              "type": "p",
+              "text": "Die ersten Beschwerden sind häufig unspezifisch und können anderen Erkrankungen der Hüfte oder Lendenwirbelsäule ähneln."
+            },
+            {
+              "type": "p",
+              "text": "Häufige Symptome"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Schmerzen in der Leiste. Eines der typischsten Symptome. Sie können allmählich auftreten und beim Gehen, langen Stehen oder bei körperlicher Belastung zunehmen.",
+                "Ausstrahlende Schmerzen in Oberschenkel oder Knie. Beschwerden können auch im Gesäß, an der Vorderseite des Oberschenkels oder im Knie auftreten. Dadurch ist die Schmerzursache anfangs nicht immer eindeutig.",
+                "Belastungsschmerz. Zunächst treten Schmerzen möglicherweise nur bei stärkerer Belastung auf. Mit Fortschreiten der Erkrankung können sie beim normalen Gehen und später auch in Ruhe auftreten.",
+                "Eingeschränkte Beweglichkeit. Die Innenrotation und Abduktion der Hüfte können allmählich abnehmen. Das Anziehen von Schuhen oder Socken und alltägliche Bewegungen fallen schwerer.",
+                "Hinken und verändertes Gangbild. Aufgrund von Schmerzen und Funktionseinschränkungen wird das betroffene Bein geschont und die Belastungsphase beim Gehen verkürzt."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Kann eine Hüftkopfnekrose ohne Schmerzen verlaufen?"
+            },
+            {
+              "type": "p",
+              "text": "Ja. Eine Osteonekrose im Frühstadium wird mitunter zufällig oder bei der Untersuchung der anderen Hüfte festgestellt."
+            },
+            {
+              "type": "p",
+              "text": "Schmerzfreiheit schließt die Erkrankung daher nicht aus. Dies gilt besonders bei bekannten Risikofaktoren oder bereits diagnostizierter Osteonekrose des gegenüberliegenden Hüftkopfes."
+            },
+            {
+              "type": "p",
+              "text": "Lässt sich das Krankheitsstadium anhand der Symptome bestimmen?"
+            },
+            {
+              "type": "p",
+              "text": "Nein. Die Schmerzintensität entspricht nicht immer der Größe des Nekroseherdes oder dem Ausmaß der strukturellen Veränderungen."
+            },
+            {
+              "type": "p",
+              "text": "Auch kleine Läsionen können erhebliche Schmerzen verursachen, während größere Nekrosebereiche zeitweise nur geringe Beschwerden hervorrufen."
+            },
+            {
+              "type": "p",
+              "text": "Für die Stadieneinteilung müssen Beschwerden, Röntgenbilder und MRT-Befunde gemeinsam beurteilt werden."
+            },
+            {
+              "type": "p",
+              "text": "Worauf sollten Sie besonders achten?"
+            },
+            {
+              "type": "p",
+              "text": "Wenn Hüftschmerzen plötzlich oder deutlich zunehmen, Hinken auftritt oder die Belastung des Beins erschwert ist, ist eine zeitnahe ärztliche Untersuchung erforderlich."
+            },
+            {
+              "type": "p",
+              "text": "Dies kann auf ein Fortschreiten der Osteonekrose, einschließlich einer subchondralen Fraktur, hinweisen; andere Schmerzursachen müssen ebenfalls ausgeschlossen werden."
+            }
+          ]
+        },
+        {
           "heading": "Warum die Bestimmung des Krankheitsstadiums wichtig ist",
           "body": [
             {
@@ -2880,6 +2929,22 @@
           ],
           "divider": false,
           "diagram": "avn-stages.jpg"
+        },
+        {
+          "heading": "Wann ist eine orthopädische Beratung sinnvoll?",
+          "divider": false,
+          "body": [
+            {
+              "type": "list",
+              "items": [
+                "Im MRT oder Röntgen wurden Zeichen einer Hüftkopfnekrose festgestellt.",
+                "Die Diagnose steht fest, aber Stadium und weitere Behandlung sind unklar.",
+                "Eine Hüftprothese wurde empfohlen, und Sie möchten wissen, ob begründete gelenkerhaltende Optionen bestehen.",
+                "Die Schmerzen nehmen zu oder die Hüftfunktion verschlechtert sich.",
+                "Das Risiko eines Fortschreitens oder ein bereits bekannter Nekroseherd soll kontrolliert werden."
+              ]
+            }
+          ]
         },
         {
           "heading": "Ist immer eine Endoprothetik notwendig?",
