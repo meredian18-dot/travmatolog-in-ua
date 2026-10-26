@@ -2810,6 +2810,55 @@
           "divider": false
         },
         {
+          "heading": "Dlaczego powstaje jałowa martwica głowy kości udowej?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Jałowa martwica rozwija się wskutek zaburzenia ukrwienia tkanki kostnej głowy kości udowej. Przyczyny mogą być różne, a u części pacjentów nie udaje się ustalić konkretnego czynnika."
+            },
+            {
+              "type": "p",
+              "text": "Choroba może wystąpić po urazie lub bez wyraźnego uszkodzenia pourazowego."
+            },
+            {
+              "type": "p",
+              "text": "Główne przyczyny i czynniki ryzyka"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Urazy stawu biodrowego. Złamania szyjki kości udowej oraz zwichnięcia stawu biodrowego mogą uszkodzić naczynia zaopatrujące głowę kości udowej. Osteonekroza niekiedy rozwija się po wielu miesiącach lub latach od urazu.",
+                "Stosowanie glikokortykosteroidów. Ogólnoustrojowe leczenie kortykosteroidami, zwłaszcza w dużych dawkach lub przy znacznej dawce skumulowanej, wiąże się ze zwiększonym ryzykiem osteonekrozy. Nie u każdej osoby leczonej tymi lekami rozwinie się jednak choroba.",
+                "Nadmierne spożywanie alkoholu. Długotrwałe nadmierne spożywanie alkoholu wiąże się ze zwiększonym ryzykiem nietraumatycznej osteonekrozy.",
+                "Choroby układowe i hematologiczne. Ryzyko może być zwiększone w chorobie sierpowatokrwinkowej, toczniu rumieniowatym układowym, zespole antyfosfolipidowym oraz niektórych zaburzeniach krzepnięcia. Znaczenie mogą mieć również leczenie choroby podstawowej i czynniki współistniejące.",
+                "Inne okoliczności medyczne. Osteonekroza może być związana z przeszczepieniem narządów, niektórymi chorobami onkohematologicznymi i ich leczeniem, chorobą dekompresyjną oraz innymi schorzeniami.",
+                "Idiopatyczna jałowa martwica. Niekiedy chorobę rozpoznaje się u osoby bez urazu i bez ustalonych czynników ryzyka. Takie przypadki nazywa się idiopatycznymi."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Czy choroba może dotyczyć obu stawów biodrowych?"
+            },
+            {
+              "type": "p",
+              "text": "Tak. Szczególnie w nietraumatycznej osteonekrozie możliwe jest zajęcie obu stawów. Nawet jeśli boli tylko jedno biodro, lekarz może zalecić ocenę drugiego, ponieważ wczesne zmiany niekiedy przebiegają bezobjawowo."
+            },
+            {
+              "type": "p",
+              "text": "Ważne dla pacjenta"
+            },
+            {
+              "type": "p",
+              "text": "Występowanie czynnika ryzyka nie oznacza, że jałowa martwica na pewno się rozwinie. Z kolei brak oczywistej przyczyny nie wyklucza choroby."
+            },
+            {
+              "type": "p",
+              "text": "Jeśli przyjmujesz glikokortykosteroidy, nie odstawiaj ich samodzielnie. Ewentualną zmianę leczenia należy omówić z lekarzem, który je przepisał."
+            }
+          ]
+        },
+        {
           "heading": "Dlaczego ważne jest ustalenie stadium choroby",
           "body": [
             {
