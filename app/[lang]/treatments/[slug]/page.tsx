@@ -451,7 +451,9 @@ function RichDetail({
 
               if (group.kind === "faq") {
                 return (
-                  <div key={i} className="mt-8 rounded-[8px] border border-hairline divide-y divide-hairline overflow-hidden">
+                  <div key={i}>
+                    {slug === "avn" && <AvnInternational lang={lang} />}
+                    <div className="mt-8 rounded-[8px] border border-hairline divide-y divide-hairline overflow-hidden">
                     {group.blocks.map((block, j) => (
                       <details key={j} className="group/faq px-5 py-4 sm:px-6 sm:py-5 open:bg-cream/50">
                         <summary className="cursor-pointer list-none flex items-center justify-between gap-4 marker:content-none [&::-webkit-details-marker]:hidden">
@@ -470,6 +472,7 @@ function RichDetail({
                         </div>
                       </details>
                     ))}
+                    </div>
                   </div>
                 );
               }
@@ -603,7 +606,6 @@ function RichDetail({
           )}
           {slug === "limb-lengthening" && lang === "uk" && <><LengtheningEssentialsUk /><LengtheningInternationalUk /><LengtheningFaqUk /></>}
           {slug === "limb-lengthening" && lang !== "uk" && <LengtheningPatientInternational lang={lang} />}
-          {slug === "avn" && <AvnInternational lang={lang} />}
           {slug === "hallux-valgus" && (lang === "uk" ? <HalluxInternationalUk /> : <HalluxInternational lang={lang} />)}
           {slug === "osteosynthesis" && lang === "uk" && <OsteosynthesisInternationalUk />}
           {slug === "osteosynthesis" && lang !== "uk" && <OsteosynthesisInternational lang={lang} />}
