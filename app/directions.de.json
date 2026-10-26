@@ -4296,6 +4296,17 @@
             {
               "type": "p",
               "text": "Ein akutes Kompartmentsyndrom kann eine Notoperation erfordern. Die Extremität ruhigstellen, den Bruch nicht selbst einrenken und offene Wunden sauber abdecken. Eine notwendige Versorgung darf nicht für eine Auslandsreise aufgeschoben werden."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Offene Wunde im Bereich der Fraktur, insbesondere sichtbarer Knochen.",
+                "Starke Blutung oder ausgeprägte Fehlstellung.",
+                "Kalte, blasse oder bläuliche Hand beziehungsweise Fuß.",
+                "Plötzlicher Sensibilitätsverlust, starke Taubheit oder Unfähigkeit, Finger oder Zehen zu bewegen.",
+                "Rasch zunehmende starke Schmerzen, besonders bei praller Schwellung.",
+                "Schweres Trauma durch Verkehrsunfall, Sturz aus Höhe, Explosion oder andere Hochenergieverletzung."
+              ]
             }
           ]
         },
@@ -4306,6 +4317,14 @@
             {
               "type": "p",
               "text": "Die Ärztin oder der Arzt prüft Verletzungsmechanismus, Haut, Durchblutung, Sensibilität und Bewegungen. Röntgenaufnahmen in meist zwei Ebenen sind die Basis. Bei komplexen oder gelenknahen Brüchen kann ein CT nötig sein; MRT und Gefäßdiagnostik nur bei speziellen Fragen."
+            },
+            {
+              "type": "list",
+              "items": [
+                "CT: genauere Beurteilung komplexer, mehrfragmentärer und intraartikulärer Frakturen sowie Operationsplanung.",
+                "MRT: bei speziellen Indikationen, etwa Verdacht auf okkulte Fraktur oder Weichteilschaden.",
+                "Gefäßbildgebung: bei Verdacht auf Durchblutungsstörung."
+              ]
             }
           ]
         },
@@ -4355,6 +4374,17 @@
             {
               "type": "p",
               "text": "Auch wenn eine längere Ruhigstellung ungeeignet ist oder die konservative Behandlung keine ausreichende Stellung erreicht, kann operiert werden. Nicht jedes Zwischenfragment muss einzeln freigelegt werden; frühe Mobilisation bedeutet nicht automatisch Vollbelastung."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Instabile Frakturen: Fragmente lassen sich nicht ausreichend in Position halten; erneute Verschiebung und Fehlheilung drohen.",
+                "Starke Verschiebung oder Fehlstellung: Länge, Achse oder Rotation lassen sich konservativ nicht ausreichend korrigieren.",
+                "Intraartikuläre Frakturen: relevante Gelenkflächenverschiebung kann genaue Reposition und Fixation erfordern.",
+                "Mehrfragmentäre Frakturen: Verkürzung, Achsabweichung oder Instabilität können operative Stabilisierung nötig machen, ohne jedes Fragment freizulegen.",
+                "Ausgewählte Frakturen, bei denen längere Immobilisation ungeeignet ist, zum Beispiel manche Oberschenkelfrakturen; frühe Bewegung bedeutet keine automatische Vollbelastung.",
+                "Erfolgloses konservatives Vorgehen: erneute Verschiebung oder Verlust der Reposition können einen Methodenwechsel erfordern."
+              ]
             }
           ]
         },
@@ -4375,6 +4405,16 @@
             {
               "type": "p",
               "text": "Wenn Stellung und Stabilität erhalten werden können, die Gelenkfunktion nicht wesentlich gefährdet ist oder OP-Risiken überwiegen, kann eine Behandlung ohne Operation sinnvoll sein. Das gilt beispielsweise für ausgewählte Brüche an Oberarm, Schlüsselbein, Speiche oder Fuß. Kontrollen und Rehabilitation bleiben erforderlich."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Die Fraktur ist stabil oder durch äußere Ruhigstellung stabilisierbar.",
+                "Die Fragmentstellung ist für die betroffene Region akzeptabel.",
+                "Es besteht keine erhebliche Gelenkflächenstörung oder funktionell relevante Fehlstellung.",
+                "Der mögliche Nutzen rechtfertigt die Operationsrisiken nicht.",
+                "Begleiterkrankungen oder persönliche Faktoren verändern das Nutzen-Risiko-Verhältnis."
+              ]
             }
           ]
         },
@@ -4395,6 +4435,17 @@
             {
               "type": "p",
               "text": "Alter, Knochenqualität, Osteoporose, Diabetes, Gefäßerkrankungen, Rauchen, Begleitverletzungen, Beruf und Aktivitätsniveau sowie die Möglichkeit zur Nachsorge bestimmen den individuellen Plan. Nutzen, Risiken und Alternativen werden gemeinsam besprochen."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Alter und Knochenqualität einschließlich Osteoporose.",
+                "Diabetes, Gefäß- und weitere Grunderkrankungen.",
+                "Rauchen und andere heilungshemmende Faktoren.",
+                "Allgemeinzustand und weitere Verletzungen.",
+                "Aktivität, Beruf und funktionelle Bedürfnisse.",
+                "Möglichkeit, Belastungsvorgaben einzuhalten und Rehabilitation sowie Kontrollen wahrzunehmen."
+              ]
             }
           ]
         },
@@ -4503,6 +4554,14 @@
             {
               "type": "p",
               "text": "Vorteil sind präzise Reposition und viele anatomische Systeme, besonders gelenknah. Je nach Zugang kann zusätzliche Präparation notwendig sein oder das Implantat Weichteile reizen."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Kompressionsosteosynthese: erzeugt Druck zwischen reponierten Fragmenten.",
+                "Überbrückungsosteosynthese: stabilisiert Hauptfragmente, ohne jedes Zwischenfragment zu reponieren.",
+                "Winkelstabile Fixation: Schrauben verriegeln in der Platte und können bei ausgewählten Frakturen oder verminderter Knochenqualität hilfreich sein."
+              ]
             }
           ]
         },
@@ -4527,6 +4586,15 @@
             {
               "type": "p",
               "text": "Viele Schaftbrüche lassen sich ohne weite Freilegung stabilisieren. Gelenknahe oder intraartikuläre Brüche erfordern teils andere Techniken. Eine Aufbohrung kann nötig sein; eine sofortige Vollbelastung ist nicht garantiert."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Das Hauptimplantat liegt im Inneren des Knochens.",
+                "Viele Schaftfrakturen können ohne weite Freilegung der Frakturzone versorgt werden.",
+                "Die mechanischen Eigenschaften erlauben eine konstruktionsgerechte Kraftübertragung.",
+                "Frühe Mobilisation ist bei bestimmten Indikationen möglich."
+              ]
             }
           ]
         },
@@ -4571,6 +4639,17 @@
             {
               "type": "p",
               "text": "Röntgen und gegebenenfalls CT zeigen Bruchform, Gelenknähe und Fragmentlage. Weiter zählen Knochenqualität, Haut, Muskeln, Durchblutung, Stabilitätsanforderung und Rehabilitation. Entscheidend ist das passende, nicht das teuerste Implantat."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Frakturlokalisation und Nähe zum Gelenk.",
+                "Anzahl, Größe und Position der Fragmente.",
+                "Knochenqualität.",
+                "Zustand von Haut, Muskeln und Durchblutung.",
+                "Erforderliche absolute oder relative Stabilität.",
+                "Sichere Mobilisation und Rehabilitation."
+              ]
             }
           ]
         },
@@ -4651,6 +4730,15 @@
             {
               "type": "p",
               "text": "Je nach Situation sind Blutwerte, Gerinnung, EKG oder weitere Untersuchungen notwendig. Informieren Sie über Erkrankungen, Voroperationen, Medikamente insbesondere Gerinnungshemmer, Allergien und frühere Narkoseprobleme. Medikamente nicht eigenständig absetzen."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Vorerkrankungen und frühere Operationen angeben.",
+                "Alle Medikamente nennen, vor allem Gerinnungshemmer und Thrombozytenaggregationshemmer.",
+                "Medikamentenallergien mitteilen.",
+                "Frühere Narkosekomplikationen erwähnen."
+              ]
             }
           ]
         },
@@ -4661,6 +4749,15 @@
             {
               "type": "p",
               "text": "Beachten Sie die individuellen Regeln zu Essen, Trinken und Medikamenten. Bringen Sie Befunde und Medikamentenliste mit; melden Sie Fieber und neue Beschwerden. Bei einer Notoperation erfolgt die Vorbereitung ohne unnötigen Zeitverlust."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Individuelle Regeln zum Essen und Trinken befolgen.",
+                "Medikamente nur nach vereinbarter Anweisung einnehmen oder pausieren.",
+                "Fieber, neue Beschwerden oder Gesundheitsveränderungen melden.",
+                "Befunde, Untersuchungsergebnisse und Medikamentenliste mitbringen."
+              ]
             }
           ]
         },
@@ -4681,6 +4778,16 @@
             {
               "type": "p",
               "text": "Typische Schritte: Anästhesie und sterile Vorbereitung; Ausrichten der Fragmente; Einbringen von Platte, Schrauben, Marknagel oder anderem Fixateur; Kontrolle, häufig unter Durchleuchtung; Wundverschluss und Verband. Bei komplexen Verletzungen kann der Ablauf abweichen."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Vorbereitung: Anästhesie, Lagerung, Hautdesinfektion und steriles Operationsfeld.",
+                "Reposition: Ausrichtung der Fragmente offen oder minimalinvasiv.",
+                "Fixation: Einbringen von Platte, Schrauben, Marknagel oder anderer Konstruktion.",
+                "Kontrolle: häufig Durchleuchtung zur Prüfung von Fragmenten und Implantaten.",
+                "Abschluss: Blutstillung, Wundverschluss, Verband und gegebenenfalls zusätzliche Ruhigstellung."
+              ]
             }
           ]
         },
@@ -4756,6 +4863,15 @@
             {
               "type": "p",
               "text": "Teil- oder Vollbelastung kann manchmal früh erlaubt sein, sonst sind Krücken oder Gehhilfe und Entlastung nötig. Entscheidend sind Knochen, Bruchstelle, Stabilität, Gelenkschaden und Verlauf. Gehen mit Krücken ist nicht dasselbe wie Vollbelastung."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Welcher Knochen betroffen ist und wo genau der Bruch liegt.",
+                "Wie stabil die Fragmente fixiert sind.",
+                "Ob eine Gelenkfläche verletzt ist.",
+                "Wie die Knochenheilung bei Kontrollen verläuft."
+              ]
             }
           ]
         },
@@ -4776,6 +4892,15 @@
             {
               "type": "p",
               "text": "Physiotherapie verbessert Beweglichkeit, Kraft, Ausdauer, Gangbild, Gleichgewicht und Alltagsfunktion. Übungen und Belastung werden schrittweise angepasst. Zu intensive Belastung beschleunigt die Heilung nicht."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Beweglichkeit der Gelenke.",
+                "Muskelkraft und Ausdauer.",
+                "Gehen, Gleichgewicht und Koordination.",
+                "Alltags- und berufliche Fähigkeiten."
+              ]
             }
           ]
         },
@@ -4806,6 +4931,16 @@
             {
               "type": "p",
               "text": "Bei plötzlich kalter oder blasser Extremität, heftig zunehmendem Schmerz mit gespannter Schwellung, Brustschmerz oder Atemnot sofort notärztliche Hilfe suchen. Bei Fieber mit Wundverschlechterung, zunehmender Rötung, Eiter, neuen starken Schmerzen oder einseitig geschwollener schmerzhafter Wade umgehend ärztlich melden."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Fieber und gleichzeitige Verschlechterung der Wunde.",
+                "Zunehmende Rötung, Schmerzen oder Schwellung an der Wunde.",
+                "Eitriges oder ungewöhnliches Sekret.",
+                "Neue starke Schmerzen oder Instabilitätsgefühl.",
+                "Einseitige schmerzhafte Schwellung von Wade oder Oberschenkel."
+              ]
             }
           ]
         },
@@ -4885,6 +5020,15 @@
             {
               "type": "p",
               "text": "Bei Erwachsenen ist die routinemäßige Entfernung nach Heilung meist unnötig. Beschwerden, mechanische Reizung, Einschränkung, Infektion oder spezielle Gründe können dafür sprechen. Manche Systeme haben geplante Entfernungsschritte. Auch die Entfernung ist ein Eingriff mit Risiken, darunter Nervenverletzung, Infektion oder erneuter Bruch."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Schmerzen oder mechanische Weichteilreizung.",
+                "Funktionseinschränkung durch das Implantat.",
+                "Infektion oder Instabilität der Fixation.",
+                "Andere individuelle medizinische Gründe."
+              ]
             }
           ]
         },
@@ -4939,6 +5083,16 @@
             {
               "type": "p",
               "text": "Die Kosten richten sich nach Art und Komplexität des Bruchs, Implantaten, OP, Anästhesie, Untersuchungen und Klinikaufenthalt. Nach Sichtung der Unterlagen ist eine erste Einschätzung möglich, der endgültige Kostenvoranschlag folgt der Untersuchung. Etwaige Kostendeckung wird mit der Einrichtung geklärt."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Art und Komplexität der Fraktur.",
+                "Fixationsverfahren und Implantatkosten.",
+                "Umfang der Operation und Anästhesie.",
+                "Dauer des Klinikaufenthalts.",
+                "Zusätzliche Untersuchungen oder Maßnahmen."
+              ]
             }
           ]
         },
@@ -4949,6 +5103,15 @@
             {
               "type": "p",
               "text": "Halten Sie Röntgen- oder CT-Aufnahmen, Befunde, bisherige Behandlung und kurze Angaben zu Unfallzeit und -hergang bereit. Wir besprechen OP-Indikationen, Alternativen, Risiken, Kosten und Rehabilitation. Eine Zweitmeinung darf notwendige Notfallversorgung nicht verzögern."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Vorhandene Röntgen- oder CT-Aufnahmen.",
+                "Befunde früherer Untersuchungen.",
+                "Unterlagen über bereits erfolgte Behandlungen.",
+                "Kurze Angaben zu Zeitpunkt, Hergang und Beschwerden."
+              ]
             }
           ]
         },
