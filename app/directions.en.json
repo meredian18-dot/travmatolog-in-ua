@@ -4296,6 +4296,17 @@
             {
               "type": "p",
               "text": "Acute compartment syndrome is a surgical emergency. Immobilise the limb as safely as possible, do not attempt to realign it yourself and cover open wounds with a clean dressing. Never postpone urgent care to arrange travel or an online consultation."
+            },
+            {
+              "type": "list",
+              "items": [
+                "An open wound near the fracture, particularly if bone is visible.",
+                "Heavy bleeding or marked limb deformity.",
+                "A cold, pale or bluish hand or foot.",
+                "Sudden loss of sensation, severe numbness or inability to move fingers or toes.",
+                "Severe pain that increases quickly, especially with tense swelling.",
+                "A serious injury after a road collision, fall from height, blast or another high-energy mechanism."
+              ]
             }
           ]
         },
@@ -4306,6 +4317,14 @@
             {
               "type": "p",
               "text": "The clinician assesses the injury, limb alignment, skin, circulation, sensation and movement. X-rays, generally in two views, are the usual first examination. CT may clarify complex or joint fractures; MRI or vascular imaging is reserved for specific indications. Not every patient needs every test."
+            },
+            {
+              "type": "list",
+              "items": [
+                "CT: detailed assessment of complex, comminuted or intra-articular fractures and surgical planning.",
+                "MRI: selected indications, including suspected occult fracture or accompanying soft-tissue injuries.",
+                "Vascular imaging: when blood flow to the limb may be compromised."
+              ]
             }
           ]
         },
@@ -4355,6 +4374,17 @@
             {
               "type": "p",
               "text": "Fixation may also be helpful where prolonged immobilisation is unsuitable or non-operative treatment has failed. Not every fragment of a comminuted fracture needs to be exposed or fixed individually, and early mobilisation does not automatically mean unrestricted weight bearing."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Unstable fractures: fragments cannot maintain acceptable alignment, increasing the risk of secondary displacement, malunion and loss of function.",
+                "Marked displacement or deformity: acceptable length, axis or rotation cannot be restored or maintained without surgery.",
+                "Intra-articular fractures: clinically relevant joint-surface displacement may require precise reduction and stable fixation.",
+                "Complex comminuted fractures: fragment pattern, shortening, malalignment or instability may require fixation without exposing every fragment.",
+                "Selected fractures where prolonged immobilisation is harmful or ineffective, including certain femoral fractures; early movement does not mean immediate unrestricted loading.",
+                "Failure of non-operative care: secondary displacement or inability to maintain reduction may require changing treatment."
+              ]
             }
           ]
         },
@@ -4375,6 +4405,16 @@
             {
               "type": "p",
               "text": "Non-operative care is reasonable when stability and acceptable alignment can be maintained, joint function is not materially threatened, or surgical risks exceed likely benefits. This may apply to selected fractures of the proximal humerus, clavicle, radius and foot. Monitoring and rehabilitation remain necessary."
+            },
+            {
+              "type": "list",
+              "items": [
+                "The fracture is stable or can be stabilised with external immobilisation.",
+                "Fragment position is acceptable for the particular anatomical site.",
+                "No significant joint-surface disruption or functionally important deformity is present.",
+                "The expected benefits of surgery do not justify operative risks.",
+                "Comorbid conditions or personal factors change the balance of benefits and risks."
+              ]
             }
           ]
         },
@@ -4395,6 +4435,17 @@
             {
               "type": "p",
               "text": "Age, bone quality, osteoporosis, diabetes, vascular disease, smoking, associated injuries, work and activity, and ability to attend rehabilitation and follow-up influence the plan. Benefits, complications and reasonable alternatives should be discussed with the patient."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Age and bone quality, including osteoporosis.",
+                "Diabetes, vascular and other chronic conditions.",
+                "Smoking and factors that may impair healing.",
+                "General condition after injury and additional trauma.",
+                "Physical activity, occupation and functional requirements.",
+                "Ability to follow restrictions, undertake rehabilitation and attend follow-up."
+              ]
             }
           ]
         },
@@ -4503,6 +4554,14 @@
             {
               "type": "p",
               "text": "Plates allow precise reduction and a wide choice of anatomical designs, especially near joints. Depending on the exposure, they may also require soft-tissue dissection or cause local irritation."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Compression plating: applies compression between reduced bone fragments.",
+                "Bridge plating: stabilises main fragments without reducing every intermediate fragment.",
+                "Locking plate fixation: screws lock into the plate to form a fixed-angle construct, useful in selected fractures and compromised bone quality."
+              ]
             }
           ]
         },
@@ -4527,6 +4586,15 @@
             {
               "type": "p",
               "text": "Advantages include internal load-sharing fixation and stabilisation of many shaft fractures without wide exposure of the fracture zone. Some fractures near or into joints require another technique. Canal reaming may be needed. A nail does not automatically allow immediate full weight bearing."
+            },
+            {
+              "type": "list",
+              "items": [
+                "The main implant lies inside the bone.",
+                "Many shaft fractures can be fixed without widely exposing the injury site.",
+                "The construct's mechanical properties allow load transmission according to its design.",
+                "Early mobilisation is possible in selected cases."
+              ]
             }
           ]
         },
@@ -4571,6 +4639,17 @@
             {
               "type": "p",
               "text": "The surgeon reviews X-rays and sometimes CT to assess location, proximity to joints, fragment size, bone quality, skin, muscles and circulation, required stability and rehabilitation needs. The best implant is not necessarily the newest or most expensive; it is the construct suited to the fracture."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Fracture site and proximity to a joint.",
+                "Number, size and position of fragments.",
+                "Bone quality.",
+                "Skin, muscle and blood supply.",
+                "Need for absolute or relative stability.",
+                "Options for safe mobilisation and rehabilitation."
+              ]
             }
           ]
         },
@@ -4651,6 +4730,15 @@
             {
               "type": "p",
               "text": "Depending on the situation, blood tests, clotting assessment, ECG and other examinations may be needed. Tell the team about chronic illnesses, previous surgery, medication (especially anticoagulants and antiplatelets), allergies and previous anaesthetic complications. Do not stop prescribed medication without medical advice."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Report chronic medical conditions and previous procedures.",
+                "List your medicines, especially anticoagulants and antiplatelet drugs.",
+                "Report medication allergies.",
+                "Mention any previous problems with anaesthesia."
+              ]
             }
           ]
         },
@@ -4661,6 +4749,15 @@
             {
               "type": "p",
               "text": "Follow the team's individual instructions on eating, drinking and medication. Bring medical records and a list of medicines; report fever or new symptoms. For an emergency, necessary preparation is undertaken in hospital without unjustified delay."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Follow individual fasting and drinking instructions.",
+                "Take or withhold medicines only as specifically advised.",
+                "Report fever, new symptoms or changes in health.",
+                "Bring medical records, investigation results and your medication list."
+              ]
             }
           ]
         },
@@ -4681,6 +4778,16 @@
             {
               "type": "p",
               "text": "Typical steps include anaesthesia and sterile preparation, fracture reduction, placement of the chosen plate, screws, nail or other device, imaging checks (often fluoroscopy), and wound closure and dressing. Complex injuries may require a different sequence or additional procedures."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Preparation: anaesthesia, positioning, skin antisepsis and sterile setup.",
+                "Reduction: the surgeon restores fragment alignment openly or through minimally invasive techniques.",
+                "Fixation: plates, screws, nails or another device are inserted.",
+                "Verification: fluoroscopy is commonly used to assess fragments and implants.",
+                "Completion: bleeding control, wound closure, dressing and further immobilisation if needed."
+              ]
             }
           ]
         },
@@ -4756,6 +4863,15 @@
             {
               "type": "p",
               "text": "Some patients can bear partial or full weight early; others need crutches or walkers and restricted loading. Decisions depend on which bone is broken, fixation stability, joint damage and healing on follow-up. Walking with crutches is different from full weight bearing."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Which bone is broken and the exact fracture location.",
+                "How securely the fragments have been fixed.",
+                "Whether the joint surface is affected.",
+                "How healing progresses at follow-up."
+              ]
             }
           ]
         },
@@ -4776,6 +4892,15 @@
             {
               "type": "p",
               "text": "Physiotherapy progressively restores joint motion, strength, endurance, walking, balance and daily function. Activities may include exercises and gait training. Progression must match healing; excessive loading does not accelerate recovery."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Joint range of motion.",
+                "Muscle strength and endurance.",
+                "Walking, balance and coordination.",
+                "Daily-living and work skills."
+              ]
             }
           ]
         },
@@ -4806,6 +4931,16 @@
             {
               "type": "p",
               "text": "Seek emergency care for sudden circulation changes, rapidly escalating severe pain with tense swelling, chest pain or breathlessness. Contact your clinician urgently for fever with wound deterioration, spreading redness, pus, new severe pain or painful one-sided calf or thigh swelling. Early assessment can prevent further harm."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Fever together with deterioration of the wound.",
+                "Increasing redness, pain or swelling around the wound.",
+                "Pus or unusual wound discharge.",
+                "New severe pain or a feeling of instability.",
+                "Painful one-sided swelling of the calf or thigh."
+              ]
             }
           ]
         },
@@ -4885,6 +5020,15 @@
             {
               "type": "p",
               "text": "Routine removal is unnecessary for most adults when implants are not causing problems. Removal may be considered for pain, mechanical irritation, functional limitation, infection or specific indications. Some devices have planned removal protocols. Removal is another operation with risks including nerve injury, infection and refracture."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Pain or mechanical irritation of soft tissues.",
+                "Implant-related limitation of function.",
+                "Infection or fixation instability.",
+                "Other individual clinical indications."
+              ]
             }
           ]
         },
@@ -4939,6 +5083,16 @@
             {
               "type": "p",
               "text": "The cost depends on fracture complexity, implants, the procedure, anaesthesia, investigations and hospital stay. An initial estimate may be discussed after reviewing the records; the final plan and quote follow clinical assessment. Eligibility for any public funding is confirmed by the treating facility."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Fracture type and complexity.",
+                "Fixation method and implant costs.",
+                "Extent of surgery and anaesthesia.",
+                "Length of admission.",
+                "Additional investigations or procedures."
+              ]
             }
           ]
         },
@@ -4949,6 +5103,15 @@
             {
               "type": "p",
               "text": "Prepare available X-rays or CT, previous reports, details of treatment and a brief account of when and how the injury occurred. The consultation may cover surgery, non-operative alternatives, risks, costs and rehabilitation. A second opinion is appropriate when it will not delay urgent treatment."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Available X-rays or CT images.",
+                "Reports from previous investigations.",
+                "Records of treatment already received.",
+                "A short summary of when and how the injury occurred and current symptoms."
+              ]
             }
           ]
         },
