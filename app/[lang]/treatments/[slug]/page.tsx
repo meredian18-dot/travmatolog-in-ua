@@ -491,7 +491,7 @@ function RichDetail({
                               <div className="space-y-3.5"><BlockBody block={{ ...block, body: items.slice(1) }} hideDiagram /></div>
                               {image && (
                                 <div className="min-w-0">
-                                  <ImageLightbox images={[`${BASE}/directions/${image}`]} altTexts={[items[0]?.text || block.heading]} className="grid grid-cols-1" aspect="aspect-[5/3]" fit="contain" letterboxBg="bg-white" />
+                                  <ImageLightbox images={[`${BASE}/directions/${image}`]} altTexts={[items[0]?.text ?? block.heading ?? article.title]} className="grid grid-cols-1" aspect="aspect-[5/3]" fit="contain" letterboxBg="bg-white" />
                                   <p className="text-center text-xs text-ink-muted mt-2">{zoomHint[lang]}</p>
                                 </div>
                               )}
