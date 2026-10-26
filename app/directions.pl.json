@@ -3299,6 +3299,102 @@
           "diagram": "avn-diagram1.jpg"
         },
         {
+          "heading": "Leczenie zachowawcze jałowej martwicy głowy kości udowej",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Czy martwicę głowy kości udowej można leczyć bez operacji?"
+            },
+            {
+              "type": "p",
+              "text": "Tak. W wybranych sytuacjach leczenie zachowawcze ma na celu łagodzenie bólu, utrzymanie ruchomości biodra i codziennej sprawności oraz kontrolę czynników ryzyka."
+            },
+            {
+              "type": "p",
+              "text": "Nie zapewnia jednak odbudowy martwiczej tkanki kostnej ani skutecznego zapobiegania zapadnięciu głowy kości udowej."
+            },
+            {
+              "type": "p",
+              "text": "Wybór postępowania zależy od stadium ARCO, wielkości i lokalizacji zmiany, objawów oraz ryzyka progresji."
+            },
+            {
+              "type": "p",
+              "text": "Na czym polega leczenie zachowawcze?"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Modyfikacja obciążeń. Przy bólu lub zwiększonym ryzyku uszkodzenia struktury kości można czasowo ograniczyć bieganie, skakanie, dźwiganie i inne duże obciążenia. Laska lub kule mogą pomóc odciążyć kończynę, lecz samo odciążenie nie ma udowodnionej, niezawodnej skuteczności w zapobieganiu zapadnięciu.",
+                "Łagodzenie bólu. Leki przeciwbólowe i niesteroidowe leki przeciwzapalne mogą zmniejszać dolegliwości po uwzględnieniu przeciwwskazań i chorób współistniejących. Nie usuwają ogniska martwicy.",
+                "Fizjoterapia i rehabilitacja. Indywidualnie dobrane ćwiczenia pomagają utrzymać ruchomość, siłę mięśni i sprawność. Program powinien uwzględniać stadium choroby, ból i dopuszczalne obciążenie; nie należy ćwiczyć mimo znacznego bólu.",
+                "Kontrola czynników ryzyka. Należy ocenić możliwe przyczyny, ograniczyć nadmierne spożycie alkoholu, rzucić palenie i leczyć choroby współistniejące. Zmiany terapii glikokortykosteroidami trzeba uzgodnić z lekarzem prowadzącym; nie wolno przerywać jej samodzielnie.",
+                "Obserwacja i kontrolne badania obrazowe. Monitoruje się objawy, funkcję biodra i zmiany strukturalne. Terminy wizyt oraz potrzebę kolejnego MRI lub RTG ustala się indywidualnie."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Czy leki mogą zatrzymać martwicę?"
+            },
+            {
+              "type": "p",
+              "text": "W leczeniu martwicy badano bisfosfoniany, leki przeciwzakrzepowe, preparaty wazoaktywne i inne środki."
+            },
+            {
+              "type": "p",
+              "text": "Wyniki badań są niejednoznaczne. Nie istnieje uniwersalny schemat farmakologiczny o przekonująco potwierdzonej zdolności zapobiegania zapadnięciu głowy u wszystkich pacjentów. Stosowanie takich leków w wybranych sytuacjach wymaga indywidualnego uzasadnienia."
+            },
+            {
+              "type": "p",
+              "text": "Czy fizjoterapia, fala uderzeniowa i tlenoterapia hiperbaryczna pomagają?"
+            },
+            {
+              "type": "p",
+              "text": "Niektóre metody fizykalne badano jako terapię uzupełniającą. Część badań wskazuje na poprawę bólu lub funkcji, lecz dowody nie wystarczają, by uznać je za niezawodną metodę odbudowy kości lub zapobiegania zapadnięciu."
+            },
+            {
+              "type": "p",
+              "text": "Nie mogą zastępować prawidłowej oceny stadium ani terminowej kwalifikacji do zabiegu oszczędzającego staw."
+            },
+            {
+              "type": "p",
+              "text": "Kiedy można rozważyć leczenie zachowawcze?"
+            },
+            {
+              "type": "p",
+              "text": "Obserwację można rozważyć w przypadku małych, stabilnych zmian o niskim ryzyku, niewielkich objawów bez progresji strukturalnej, czasowych przeciwwskazań do operacji lub odmowy zabiegu, a także jako leczenie objawowe podczas przygotowania do dalszej terapii."
+            },
+            {
+              "type": "p",
+              "text": "Duże boczne ognisko w strefie obciążenia może wymagać bardziej aktywnego postępowania nawet przy niewielkim bólu."
+            },
+            {
+              "type": "p",
+              "text": "Kiedy leczenie zachowawcze nie wystarcza?"
+            },
+            {
+              "type": "p",
+              "text": "Znaczne zajęcie strefy obciążanej, złamanie podchrzęstne, narastająca deformacja lub pogorszenie sprawności wymagają ponownej oceny planu leczenia."
+            },
+            {
+              "type": "p",
+              "text": "W wybranych wczesnych stadiach możliwy jest zabieg oszczędzający staw; przy zaawansowanym zapadnięciu i wtórnej chorobie zwyrodnieniowej częściej rozważa się endoprotezoplastykę. Długotrwałe nieskuteczne leczenie nie powinno pozbawić szansy na zachowanie własnego stawu."
+            },
+            {
+              "type": "p",
+              "text": "Najważniejsze dla pacjenta"
+            },
+            {
+              "type": "p",
+              "text": "Postępowanie zachowawcze może poprawić samopoczucie i funkcję biodra, ale nie zawsze zmienia naturalny przebieg choroby."
+            },
+            {
+              "type": "p",
+              "text": "Brak bólu nie gwarantuje braku progresji, a ulga w bólu nie oznacza koniecznie regeneracji kości. Decyzje należy opierać na indywidualnej ocenie ryzyka."
+            }
+          ]
+        },
+        {
           "heading": "Leczenie oszczędzające staw",
           "body": [
             {
