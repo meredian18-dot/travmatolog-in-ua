@@ -52,7 +52,25 @@ export async function generateMetadata({
       de:{title:"Osteosynthese & Frakturversorgung | Dr. Maksym Baida",description:"Operative Frakturversorgung mit Platten, Schrauben oder Marknägeln: Indikationen, Risiken, Rehabilitation und Beratung in der Ukraine."},
       pl:{title:"Operacyjne leczenie złamań | Dr Maksym Baida",description:"Osteosynteza płytkami, śrubami lub gwoździami śródszpikowymi: wskazania, rekonwalescencja, powikłania i konsultacja w Ukrainie."}
     };
-    return {...meta[lang],alternates:localizedAlternates(lang,`treatments/${slug}`)};
+    return {
+      ...meta[lang],
+      alternates: localizedAlternates(lang, `treatments/${slug}`),
+      openGraph: {
+        type: "article",
+        url: `https://travmatolog.in.ua/${lang}/treatments/${slug}/`,
+        title: meta[lang].title,
+        description: meta[lang].description,
+        siteName: "travmatolog.in.ua",
+        locale: lang === "uk" ? "uk_UA" : lang === "de" ? "de_DE" : lang === "pl" ? "pl_PL" : "en_US",
+        images: [{url: "https://travmatolog.in.ua/directions/osteosynthesis-hero.jpg", alt: article.title}],
+      },
+      twitter: {
+        card: "summary_large_image",
+        title: meta[lang].title,
+        description: meta[lang].description,
+        images: ["https://travmatolog.in.ua/directions/osteosynthesis-hero.jpg"],
+      },
+    };
   }
   if (slug === "shoulder-replacement") {
     const meta: Record<string, {title:string; description:string}> = {
@@ -120,6 +138,11 @@ export default async function TreatmentDetail({
     description: article.lead,
     inLanguage: loc === "uk" ? "uk-UA" : loc === "en" ? "en" : loc === "de" ? "de-DE" : "pl-PL",
     about: { "@type": "MedicalProcedure", name: article.title, procedureType: "Surgical" },
+    ...(slug === "osteosynthesis" ? {
+      mainEntity: { "@type": "MedicalProcedure", name: article.title, procedureType: "Surgical" },
+      isAccessibleForFree: true,
+      image: "https://travmatolog.in.ua/directions/osteosynthesis-hero.jpg",
+    } : {}),
     ...(slug === "limb-lengthening" ? { mainEntity: { "@type": "MedicalProcedure", name: article.title, procedureType: "Surgical" }, isAccessibleForFree: true } : {}),
     author: { "@type": "Person", name: "Maksym Baida", jobTitle: "Orthopaedic trauma surgeon", url: `https://travmatolog.in.ua/${loc}/#about-doctor` },
     publisher: { "@type": "Organization", name: "travmatolog.in.ua", url: "https://travmatolog.in.ua/" },
