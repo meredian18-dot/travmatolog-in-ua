@@ -2908,6 +2908,181 @@
           ]
         },
         {
+          "heading": "Diagnostyka jałowej martwicy głowy kości udowej: RTG, MRI i TK",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Wczesne rozpoznanie jałowej martwicy głowy kości udowej ma kluczowe znaczenie dla wyboru leczenia. We wczesnych stadiach MRI może ujawnić zmiany w kości, podczas gdy zwykłe zdjęcia RTG nadal wyglądają prawidłowo."
+            },
+            {
+              "type": "p",
+              "text": "Celem diagnostyki jest nie tylko potwierdzenie osteonekrozy, ale również określenie stadium, wielkości i lokalizacji ogniska martwicy, stanu powierzchni stawowej oraz ewentualnego zapadnięcia się głowy kości udowej."
+            }
+          ]
+        },
+        {
+          "heading": "Rentgen stawów biodrowych (RTG)",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "RTG zwykle stanowi pierwsze badanie obrazowe u pacjentów z bólem biodra. Pozwala ocenić kształt głowy kości udowej, zmiany kostne, spłaszczenie powierzchni stawowej oraz wtórne zmiany zwyrodnieniowe."
+            },
+            {
+              "type": "p",
+              "text": "W zależności od sytuacji wykonuje się zdjęcie AP miednicy i ewentualne dodatkowe projekcje stawu biodrowego."
+            },
+            {
+              "type": "p",
+              "text": "W stadium ARCO I zdjęcia RTG mogą być jeszcze prawidłowe."
+            },
+            {
+              "type": "p",
+              "text": "Ważne: prawidłowy obraz RTG nie wyklucza jałowej martwicy. Przy podejrzeniu wynikającym z objawów lub czynników ryzyka może być wskazane MRI."
+            }
+          ]
+        },
+        {
+          "heading": "Rezonans magnetyczny (MRI)",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "MRI jest podstawową metodą wczesnej diagnostyki jałowej martwicy głowy kości udowej. Umożliwia rozpoznanie przed pojawieniem się charakterystycznych zmian w RTG i ocenę zasięgu procesu."
+            },
+            {
+              "type": "p",
+              "text": "W MRI można ocenić:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Obecność i lokalizację ogniska martwicy.",
+                "Wielkość ogniska i jego zasięg w obciążanej części głowy.",
+                "Zmiany szpiku kostnego, w tym obrzęk.",
+                "Towarzyszący wysięk w stawie biodrowym.",
+                "Oznaki uszkodzenia podchrzęstnego i osłabienia struktury podporowej.",
+                "Ewentualne zajęcie przeciwległej głowy kości udowej."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "MRI określa także cechy ogniska ważne dla rokowania i wyboru leczenia, a nie tylko potwierdza obecność martwicy."
+            },
+            {
+              "type": "p",
+              "text": "Przy typowym obrazie osteonekrozy MRI bez dożylnego kontrastu jest zwykle wystarczające. Dodatkowe sekwencje lub badania dobiera się indywidualnie."
+            }
+          ]
+        },
+        {
+          "heading": "Tomografia komputerowa (TK)",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "TK nie zastępuje MRI we wczesnej diagnostyce, lecz pozwala dokładniej ocenić strukturę kości."
+            },
+            {
+              "type": "p",
+              "text": "Służy przede wszystkim do oceny złamania podchrzęstnego, deformacji głowy kości udowej oraz zmian niewidocznych dostatecznie wyraźnie w RTG."
+            },
+            {
+              "type": "p",
+              "text": "TK może być przydatna, jeśli:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Podejrzewa się złamanie podchrzęstne lub początkowe zapadnięcie głowy.",
+                "RTG i MRI nie pozwalają jednoznacznie ocenić ciągłości powierzchni stawowej.",
+                "Potrzebne są dodatkowe szczegóły anatomii kostnej do planowania leczenia."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "TK wykonuje się według wskazań, a nie rutynowo u każdego pacjenta."
+            }
+          ]
+        },
+        {
+          "heading": "Dlaczego oceniamy oba stawy biodrowe?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "W nietraumatycznej osteonekrozie możliwe jest obustronne zajęcie bioder. Zmiany w drugim stawie mogą występować mimo braku bólu."
+            },
+            {
+              "type": "p",
+              "text": "Dlatego warto uwzględnić stan obu bioder. Przy odpowiednich wskazaniach lekarz może zalecić MRI przeciwległego stawu."
+            }
+          ]
+        },
+        {
+          "heading": "Co oceniamy na obrazach?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Pięć najważniejszych parametrów:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Stadium choroby według klasyfikacji ARCO.",
+                "Wielkość ogniska martwicy i zakres zajęcia głowy kości udowej.",
+                "Lokalizację, w tym zasięg boczny w obszarze obciążanym.",
+                "Stan kości podchrzęstnej: złamanie, spłaszczenie lub zapadnięcie.",
+                "Ogólny stan stawu, w tym wtórne zmiany zwyrodnieniowe."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Te informacje pomagają ustalić, czy leczenie oszczędzające staw może być zasadne, czy zmiany strukturalne istotnie ograniczają taką możliwość."
+            }
+          ]
+        },
+        {
+          "heading": "Jakie badania przygotować do konsultacji?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Do wstępnej oceny warto przekazać, jeśli są dostępne:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Wcześniejsze badania MRI stawów biodrowych.",
+                "Zdjęcia RTG miednicy i bioder.",
+                "Wykonane wcześniej TK; nie trzeba powtarzać bez wskazań.",
+                "Starsze obrazy do porównania zmian w czasie.",
+                "Opisy badań oraz krótkie informacje o objawach, wcześniejszym leczeniu i czynnikach ryzyka."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Najbardziej przydatne są oryginalne obrazy w formacie DICOM, ponieważ pozwalają samodzielnie ocenić granice martwicy i powierzchnię stawową, zamiast opierać się wyłącznie na opisie badania."
+            }
+          ]
+        },
+        {
+          "heading": "Czy przed konsultacją potrzebne jest nowe MRI?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Nie zawsze. Jeżeli badanie już wykonano, najpierw warto ocenić dostępne obrazy."
+            },
+            {
+              "type": "p",
+              "text": "Potrzeba ponownego MRI zależy od czasu wykonania badania, zmian objawów, jakości obrazów i zagadnienia klinicznego."
+            }
+          ]
+        },
+        {
           "heading": "Dlaczego ważne jest ustalenie stadium choroby",
           "body": [
             {
