@@ -4385,7 +4385,8 @@
               "type": "p",
               "text": "Celem jest zrost oraz odzyskanie funkcji; sam obraz RTG nie rozstrzyga o korzyści z operacji."
             }
-          ]
+          ],
+          "diagram": "osteosynthesis-diagram1-pl.png"
         },
         {
           "heading": "Przy jakich złamaniach rozważa się osteosyntezę?",
@@ -4639,7 +4640,8 @@
               "type": "p",
               "text": "Płytki mogą zapewniać kompresję, stabilizację pomostową lub kątowo stabilną; dobór zależy od wzoru złamania."
             }
-          ]
+          ],
+          "diagram": "osteosynthesis-diagram2-pl.png"
         },
         {
           "heading": "Zespolenie samymi śrubami",
