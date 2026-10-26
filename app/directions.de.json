@@ -4264,331 +4264,671 @@
       ]
     },
     "osteosynthesis": {
-      "title": "Osteosynthese von Frakturen",
-      "lead": "Moderne chirurgische Frakturbehandlung mit Wiederherstellung der Anatomie, stabiler Fixation und Ausrichtung auf eine frühe funktionelle Erholung.",
-      "intro": "Nicht jede Fraktur erfordert eine Operation. Sind die Fragmente jedoch erheblich verschoben, die Fraktur instabil, die Gelenkfläche geschädigt, oder erlaubt die konservative Behandlung keine Erhaltung der korrekten Knochenposition, kann eine Osteosynthese notwendig sein.",
+      "title": "Operative Frakturversorgung in der Ukraine — Osteosynthese",
+      "lead": "Platten, Schrauben, Marknägel und individuell geplante Frakturversorgung. Orthopädisch-unfallchirurgische Beratung bei Dr. Maksym Baida.",
+      "intro": "Nicht jeder Knochenbruch muss operiert werden. Entscheidend sind Stabilität, Gelenkflächen, Weichteile und individuelle Bedürfnisse. Offene Frakturen und Durchblutungsstörungen erfordern sofortige Notfallhilfe.",
       "hero": "osteosynthesis-hero.jpg",
       "gallery": [
         "osteosynthesis-diagram1.jpg"
       ],
       "blocks": [
         {
-          "heading": "Wann eine Fraktur operiert werden muss",
-          "body": [
-            {
-              "type": "p",
-              "text": "Die Behandlungstaktik hängt nicht allein davon ab, welcher Knochen gebrochen ist."
-            },
-            {
-              "type": "p",
-              "text": "Wichtig sind Art der Fraktur, Verschiebung der Fragmente, Stabilität, Zustand von Gelenkflächen und Weichteilen, Alter des Patienten und seine funktionellen Bedürfnisse."
-            },
-            {
-              "type": "p",
-              "text": "Ein Teil der Frakturen kann erfolgreich ohne Operation behandelt werden. In anderen Fällen lässt sich ohne stabile chirurgische Fixation die korrekte Knochenposition kaum wiederherstellen und optimale Heilungsbedingungen schaffen."
-            }
-          ],
-          "divider": false
+          "heading": "1. Erste Schritte nach einem Knochenbruch",
+          "body": [],
+          "divider": true
         },
         {
-          "heading": "Wann Sie sich beim Orthopäden-Traumatologen vorstellen sollten",
-          "body": [
-            {
-              "type": "list",
-              "items": [
-                "eine dislozierte Fraktur wurde diagnostiziert",
-                "die Fraktur verläuft durch ein Gelenk",
-                "die Fragmente haben sich nach der Reposition erneut verschoben",
-                "die Fraktur ist instabil",
-                "es liegt eine erhebliche Deformität der Extremität vor",
-                "eine offene Fraktur ist aufgetreten",
-                "die Fraktur heilt nicht ordnungsgemäß",
-                "es muss festgestellt werden, ob die Fraktur ohne Operation behandelt werden kann",
-                "eine Operation wurde vorgeschlagen, und Sie möchten die möglichen Behandlungsoptionen verstehen"
-              ]
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Was ist Osteosynthese",
-          "body": [
-            {
-              "type": "p",
-              "text": "Osteosynthese ist die chirurgische Stabilisierung von Knochenfragmenten in einer Position, die Voraussetzungen für Heilung und Funktionswiederherstellung schafft."
-            },
-            {
-              "type": "p",
-              "text": "Zur Fixation können verschiedene Konstruktionen eingesetzt werden:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "Platten und Schrauben",
-                "intramedulläre Marknägel",
-                "einzelne Schrauben",
-                "Kirschnerdrähte",
-                "Fixateur externe",
-                "Kombinationen verschiedener Methoden"
-              ]
-            },
-            {
-              "type": "p",
-              "text": "Die Wahl der Konstruktion ist jedoch nur ein Teil der Behandlung."
-            },
-            {
-              "type": "p",
-              "text": "Die zentrale Frage ist nicht, welche Platte oder welcher Nagel eingesetzt wird, sondern welche Fixationsmethode der konkreten Fraktur am besten entspricht."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Was eine korrekt durchgeführte Osteosynthese bewirkt",
-          "body": [
-            {
-              "type": "p",
-              "text": "Ziel der Operation ist es, optimale mechanische und biologische Voraussetzungen für die Frakturheilung zu schaffen."
-            },
-            {
-              "type": "p",
-              "text": "Je nach Art der Verletzung ermöglicht die Osteosynthese:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "die Position der Knochenfragmente wiederherzustellen",
-                "Länge und Achse der Extremität wiederherzustellen",
-                "bei intraartikulären Frakturen die Gelenkfläche wiederherzustellen",
-                "Stabilität im Frakturbereich zu gewährleisten",
-                "Voraussetzungen für die Knochenheilung zu schaffen",
-                "in entsprechenden Fällen frühzeitig mit Bewegungen zu beginnen",
-                "das Risiko einer sekundären Verschiebung zu verringern",
-                "den Patienten schrittweise in den Alltag zurückzuführen"
-              ]
-            },
-            {
-              "type": "p",
-              "text": "Ziel ist es nicht, einfach ein gutes Röntgenbild nach der Operation zu erhalten, sondern die Funktion der verletzten Extremität wiederherzustellen."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Nicht jede Fraktur benötigt dieselbe Fixation",
-          "body": [
-            {
-              "type": "p",
-              "text": "Eine der grundlegenden Besonderheiten der modernen Traumatologie ist die Möglichkeit, je nach konkretem Verletzungstyp unterschiedliche Osteosynthesemethoden anzuwenden."
-            }
-          ],
+          "heading": "Frakturversorgung: Was tun und wann ist eine Operation nötig?",
           "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Ein Knochenbruch kann mit Verletzungen von Gelenken, Muskeln, Nerven und Gefäßen einhergehen. Nicht jeder Bruch muss operiert werden: Gips, Schiene, Orthese oder geschlossene Reposition sind manchmal ausreichend. Entscheidend sind Stabilität, Verschiebung, Weichteile und die funktionellen Bedürfnisse."
+            }
+          ]
+        },
+        {
+          "heading": "Wann ist sofortige Hilfe erforderlich?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Bei einer offenen Wunde am Bruch, starker Blutung, ausgeprägter Fehlstellung, kalter oder blasser Hand bzw. Fuß, Gefühlsverlust oder rasch zunehmenden Schmerzen mit gespannter Schwellung ist sofortige Notfallversorgung nötig. Das gilt auch nach schweren Hochenergietraumata."
+            },
+            {
+              "type": "p",
+              "text": "Ein akutes Kompartmentsyndrom kann eine Notoperation erfordern. Die Extremität ruhigstellen, den Bruch nicht selbst einrenken und offene Wunden sauber abdecken. Eine notwendige Versorgung darf nicht für eine Auslandsreise aufgeschoben werden."
+            }
+          ]
+        },
+        {
+          "heading": "Wie wird ein Bruch untersucht?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Die Ärztin oder der Arzt prüft Verletzungsmechanismus, Haut, Durchblutung, Sensibilität und Bewegungen. Röntgenaufnahmen in meist zwei Ebenen sind die Basis. Bei komplexen oder gelenknahen Brüchen kann ein CT nötig sein; MRT und Gefäßdiagnostik nur bei speziellen Fragen."
+            }
+          ]
+        },
+        {
+          "heading": "Ist eine Behandlung ohne Operation möglich?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Bei stabilen Brüchen in akzeptabler Stellung kann eine Ruhigstellung oder geschlossene Reposition ausreichen. Kontrolluntersuchungen und gegebenenfalls weitere Röntgenaufnahmen erkennen eine erneute Verschiebung. Wenn Stellung oder Stabilität nicht gehalten werden können, kann eine Operation sinnvoll sein."
+            }
+          ]
+        },
+        {
+          "heading": "Wann ist eine geplante Beratung möglich?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Nach erforderlicher Erstversorgung können Operationsindikation, Alternativen oder eine Zweitmeinung besprochen werden. Bitte Röntgen-/CT-Bilder und Befunde mitbringen. Unterlagen aus dem Ausland können vorab übermittelt werden; dies ersetzt keine Notfalluntersuchung."
+            }
+          ]
+        },
+        {
+          "heading": "2. Wann ist eine Operation nötig?",
+          "body": [],
+          "divider": true
+        },
+        {
+          "heading": "Wann ist eine Operation nötig – und wann nicht?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Das Ziel ist Knochenheilung bei bestmöglicher Funktion. Eine Operation ist nicht grundsätzlich überlegen. Für die Entscheidung zählen Bruchstelle, Verschiebung, Stabilität, Gelenk- und Weichteilbeteiligung, Begleiterkrankungen sowie persönliche Anforderungen."
+            }
+          ]
+        },
+        {
+          "heading": "Bei welchen Brüchen wird eine Osteosynthese erwogen?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Häufige Gründe sind instabile Frakturen, nicht ausreichend korrigierbare oder haltbare Fehlstellungen, deutlich verschobene Gelenkflächen und bestimmte mehrfragmentäre Brüche."
+            },
+            {
+              "type": "p",
+              "text": "Auch wenn eine längere Ruhigstellung ungeeignet ist oder die konservative Behandlung keine ausreichende Stellung erreicht, kann operiert werden. Nicht jedes Zwischenfragment muss einzeln freigelegt werden; frühe Mobilisation bedeutet nicht automatisch Vollbelastung."
+            }
+          ]
+        },
+        {
+          "heading": "Muss jeder verschobene Bruch operiert werden?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Nein. Akzeptable Achsabweichungen, Rotation, Verkürzung und Fragmentabstände sind je nach Knochen verschieden. Eine kleine Verschiebung an einem Gelenk kann relevant sein, während manche verschobenen Brüche ohne OP heilen. Es gibt keine allgemeingültige Millimetergrenze."
+            }
+          ]
+        },
+        {
+          "heading": "Wann ist eine konservative Behandlung besser?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Wenn Stellung und Stabilität erhalten werden können, die Gelenkfunktion nicht wesentlich gefährdet ist oder OP-Risiken überwiegen, kann eine Behandlung ohne Operation sinnvoll sein. Das gilt beispielsweise für ausgewählte Brüche an Oberarm, Schlüsselbein, Speiche oder Fuß. Kontrollen und Rehabilitation bleiben erforderlich."
+            }
+          ]
+        },
+        {
+          "heading": "Die Bedeutung der Weichteile",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Haut, Muskeln, Nerven und Gefäße beeinflussen die Behandlung entscheidend. Offene oder verschmutzte Verletzungen und starke Schwellung können eine mehrzeitige Versorgung erfordern: zunächst Wundreinigung und gegebenenfalls temporäre externe Fixation, später definitive Osteosynthese. Eine dringende Behandlung darf dabei nicht verzögert werden."
+            }
+          ]
+        },
+        {
+          "heading": "Welche persönlichen Faktoren zählen?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Alter, Knochenqualität, Osteoporose, Diabetes, Gefäßerkrankungen, Rauchen, Begleitverletzungen, Beruf und Aktivitätsniveau sowie die Möglichkeit zur Nachsorge bestimmen den individuellen Plan. Nutzen, Risiken und Alternativen werden gemeinsam besprochen."
+            }
+          ]
+        },
+        {
+          "heading": "Was kann eine Osteosynthese erreichen?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Eine geeignete Fixation stellt notwendige anatomische Verhältnisse und Stabilität wieder her und kann frühere Bewegung erleichtern. Sie garantiert jedoch weder eine knöcherne Heilung noch vollständige Funktion. Infektion, verzögerte Heilung, Pseudarthrose und Bewegungseinschränkung bleiben möglich."
+            }
+          ]
+        },
+        {
+          "heading": "3. Wie fördert Osteosynthese die Heilung?",
+          "body": [],
+          "divider": true
+        },
+        {
+          "heading": "Wie unterstützt die Osteosynthese die Heilung?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Platten, Schrauben, Marknägel oder Fixateure stabilisieren Knochenfragmente. Die Implantate schaffen mechanische Voraussetzungen; der Knochen heilt durch körpereigene biologische Prozesse."
+            }
+          ]
+        },
+        {
+          "heading": "Wie heilt ein gebrochener Knochen?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Die Regeneration benötigt Zellen, Blutgefäße und biologische Signale. Primäre direkte Heilung erfolgt bei nahezu unbeweglichen, passend anliegenden Fragmenten meist ohne ausgeprägten äußeren Kallus. Sekundäre indirekte Heilung erfolgt unter relativer Stabilität durch Kallusbildung und späteren Umbau. Beides sind normale Heilungswege."
+            }
+          ]
+        },
+        {
+          "heading": "Absolute und relative Stabilität",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Absolute Stabilität begrenzt Bewegungen möglichst vollständig, häufig durch interfragmentäre Kompression mit Zugschrauben oder Kompressionsplatten. Sie eignet sich für bestimmte einfache Brüche und die Wiederherstellung vieler Gelenkflächen."
+            },
+            {
+              "type": "p",
+              "text": "Relative Stabilität erlaubt kontrollierte Mikrobewegungen mit Kallusbildung, etwa bei überbrückenden Platten, verriegelten Marknägeln oder externen Fixateuren. Bei Trümmerfrakturen werden Länge, Achse und Rotation wiederhergestellt, während Zwischenfragmente geschont werden. Zu viel Bewegung kann die Heilung behindern."
+            }
+          ]
+        },
+        {
+          "heading": "Warum ist die Blutversorgung wichtig?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Gefäße liefern Sauerstoff, Nährstoffe und Zellen. Eine umfangreiche Ablösung der Knochenhaut oder Verletzung der Muskulatur kann die Heilungsbedingungen verschlechtern. Biologische und minimalinvasive Osteosynthese versuchen, ausreichende Stabilität mit möglichst wenig zusätzlicher Gewebeschädigung zu verbinden."
+            }
+          ]
+        },
+        {
+          "heading": "Warum nicht jedes Fragment einzeln fixieren?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Das vollständige Freilegen aller Fragmente einer Trümmerfraktur kann die Weichteile zusätzlich schädigen. Häufig reicht es, Länge, Achse und Rotation wiederherzustellen und die Hauptfragmente zu stabilisieren. Bei verschobenen Gelenkflächen kann hingegen eine genaue direkte Reposition notwendig sein."
+            }
+          ]
+        },
+        {
+          "heading": "Darf man mit einem stabilen Implantat sofort voll belasten?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Nicht automatisch. Die Belastbarkeit hängt von Bruchstelle, Knochenqualität, Implantatkonfiguration, Fixationsstabilität und Heilungsverlauf ab. Manche Patienten dürfen früh mobilisieren, andere müssen die Belastung begrenzen. Vorgaben des Operateurs sind entscheidend."
+            }
+          ]
+        },
+        {
+          "heading": "4. Methoden der Frakturfixation",
+          "body": [],
+          "divider": true
+        },
+        {
+          "heading": "Osteosyntheseverfahren: Platten, Schrauben, Nägel und Fixateure",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Die Verfahren unterscheiden sich in Position und mechanischer Wirkung. Keine Methode ist grundsätzlich überlegen. Bruchform, Knochen- und Weichteilqualität sowie Behandlungsziel entscheiden; Verfahren können kombiniert werden."
+            }
+          ]
+        },
+        {
+          "heading": "Platten- und Schraubenosteosynthese",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Eine Platte wird mit Schrauben auf der Knochenoberfläche befestigt. Kompressionsplatten pressen Fragmente zusammen; überbrückende Platten überspannen Trümmerzonen; winkelstabile Schrauben verriegeln in der Platte."
+            },
+            {
+              "type": "p",
+              "text": "Vorteil sind präzise Reposition und viele anatomische Systeme, besonders gelenknah. Je nach Zugang kann zusätzliche Präparation notwendig sein oder das Implantat Weichteile reizen."
+            }
+          ],
           "diagram": "osteosynthesis-diagram2.jpg"
         },
         {
-          "heading": "Platten und Schrauben",
+          "heading": "Alleinige Schraubenosteosynthese",
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Sie ermöglichen eine präzise Wiederherstellung der Anatomie und eine stabile Fixation. Besonders wichtig bei vielen gelenknahen und intraartikulären Frakturen."
+              "text": "Schrauben können allein oder gemeinsam mit Platten verwendet werden, etwa bei bestimmten Brüchen an Sprunggelenk, Hand, Fuß oder kleinen Gelenkfragmenten. Kopflose Kompressionsschrauben können bei geringem Überstand Druck zwischen Fragmenten erzeugen. Die Eignung hängt von Fragmentgröße und Stabilitätsbedarf ab."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Intramedulläre Osteosynthese",
+          "heading": "Marknagelosteosynthese",
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Der Marknagel wird im Markraum des Knochens platziert und schafft eine stabile innere Fixation."
+              "text": "Ein Metallnagel wird in den Markraum eingebracht. Proximale und distale Verriegelungsschrauben kontrollieren Länge, Achse und Rotation. Das Verfahren wird häufig bei ausgewählten Brüchen von Oberschenkel, Schienbein und Oberarm eingesetzt."
             },
             {
               "type": "p",
-              "text": "Die Methode wird häufig bei Frakturen langer Röhrenknochen angewendet, insbesondere des Oberschenkel- und Schienbeinknochens."
+              "text": "Viele Schaftbrüche lassen sich ohne weite Freilegung stabilisieren. Gelenknahe oder intraartikuläre Brüche erfordern teils andere Techniken. Eine Aufbohrung kann nötig sein; eine sofortige Vollbelastung ist nicht garantiert."
             }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Minimalinvasive Techniken",
-          "body": [
-            {
-              "type": "p",
-              "text": "In entsprechenden Fällen kann die Fixation über kleinere chirurgische Zugänge erfolgen, mit dem Ziel, die zusätzliche Weichteilschädigung zu minimieren und die biologischen Voraussetzungen für die Heilung zu erhalten."
-            }
-          ],
-          "divider": false
+          ]
         },
         {
           "heading": "Externe Fixation",
-          "body": [
-            {
-              "type": "p",
-              "text": "Kann als vorübergehende oder endgültige Methode bei bestimmten komplexen Verletzungen, erheblicher Weichteilschädigung und anderen klinischen Situationen eingesetzt werden."
-            },
-            {
-              "type": "p",
-              "text": "Die Fixationsmethode wird der Fraktur angepasst — nicht die Fraktur der bevorzugten Konstruktion des Chirurgen."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Besondere Aufmerksamkeit — gelenknahe Frakturen",
-          "body": [
-            {
-              "type": "p",
-              "text": "Bei Frakturen, die sich auf die Gelenkfläche ausdehnen, ist die Behandlungsaufgabe komplexer als das bloße Verbinden der Knochenfragmente."
-            },
-            {
-              "type": "p",
-              "text": "Möglichst genau wiederhergestellt werden müssen:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "die Form der Gelenkfläche",
-                "die Achse der Extremität",
-                "die Stabilität",
-                "die anatomischen Verhältnisse",
-                "die künftige Beweglichkeit des Gelenks"
-              ]
-            },
-            {
-              "type": "p",
-              "text": "Solche Frakturen erfordern eine besonders sorgfältige Planung, da eine fehlerhafte Fragmentposition die spätere Gelenkfunktion beeinträchtigen kann."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Präoperative Planung",
-          "body": [
-            {
-              "type": "p",
-              "text": "Bei einfachen Frakturen kann eine Standardröntgenaufnahme ausreichend sein."
-            },
-            {
-              "type": "p",
-              "text": "Bei komplexen, mehrfragmentären oder intraartikulären Verletzungen kann zusätzlich eine Computertomographie eingesetzt werden."
-            },
-            {
-              "type": "p",
-              "text": "Die CT ermöglicht eine detailliertere Beurteilung von:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "Anzahl und Position der Fragmente",
-                "Art der Gelenkflächenschädigung",
-                "räumlicher Geometrie der Fraktur",
-                "möglicher Repositions- und Fixationsmethode"
-              ]
-            },
-            {
-              "type": "p",
-              "text": "Je komplexer die Frakturgeometrie, desto größere Bedeutung erhält die präoperative Planung."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Wie die Behandlung abläuft",
-          "body": [],
-          "divider": true
-        },
-        {
-          "heading": "01 — Diagnostik",
-          "body": [
-            {
-              "type": "p",
-              "text": "Wir beurteilen den Verletzungsmechanismus, den Zustand der Extremität, Röntgenaufnahmen und bei Bedarf eine CT."
-            },
-            {
-              "type": "p",
-              "text": "Wir bestimmen Frakturtyp, Stabilität und Weichteilzustand."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "02 — Wahl der Taktik",
-          "body": [
-            {
-              "type": "p",
-              "text": "Wir legen fest, ob überhaupt eine Operation notwendig ist."
-            },
-            {
-              "type": "p",
-              "text": "Ist eine Osteosynthese angezeigt, wählen wir Repositions- und Fixationsmethode entsprechend der konkreten Fraktur."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "03 — Operation",
-          "body": [
-            {
-              "type": "p",
-              "text": "Die notwendige Position der Knochenfragmente wird wiederhergestellt und stabil fixiert."
-            },
-            {
-              "type": "p",
-              "text": "Der Operationsumfang hängt von der Art der Verletzung ab."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "04 — Frühe Erholung",
-          "body": [
-            {
-              "type": "p",
-              "text": "Nach der Operation wird das Bewegungs- und Belastungsregime festgelegt."
-            },
-            {
-              "type": "p",
-              "text": "In vielen Fällen ermöglicht eine stabile Fixation einen früheren Beginn der funktionellen Erholung."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "05 — Heilungskontrolle",
-          "body": [
-            {
-              "type": "p",
-              "text": "Kontrolluntersuchungen und Röntgenaufnahmen dienen der Beurteilung der Implantatposition und des Heilungsverlaufs."
-            },
-            {
-              "type": "p",
-              "text": "Mit fortschreitender Heilung werden Belastung und körperliche Aktivität schrittweise erweitert."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Klinischer Fall",
-          "body": [],
-          "divider": true
-        },
-        {
-          "heading": "Komplexe Unterschenkelfraktur nach Motorradsturz",
-          "body": [
-            {
-              "type": "p",
-              "text": "Der Patient erlitt bei einem Motorradsturz eine Verletzung des rechten Unterschenkels. Auf den Erströntgenaufnahmen zeigte sich eine komplexe mehrfragmentäre Fraktur des distalen Schienbeins mit Fragmentverschiebung in Kombination mit einer Fraktur des Wadenbeins."
-            },
-            {
-              "type": "p",
-              "text": "Angesichts Art und Lokalisation der Verletzung wurde eine chirurgische Taktik gewählt. Hauptziele waren die Wiederherstellung der Achse und der anatomischen Verhältnisse der Extremität, eine stabile Frakturfixation und die Schaffung von Heilungsvoraussetzungen."
-            },
-            {
-              "type": "p",
-              "text": "Es wurde eine Osteosynthese mittels intramedullärem Marknagel und zusätzlicher Fixation der distalen Fragmente durchgeführt."
-            }
-          ],
           "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Schrauben oder Drähte durch die Haut sind mit einem äußeren Rahmen verbunden. Externe Fixateure können vorübergehend bei offenen Brüchen, schweren Weichteilverletzungen oder Polytrauma eingesetzt werden, manchmal auch als endgültige Behandlung."
+            },
+            {
+              "type": "p",
+              "text": "Es gibt einseitige, Ring- und kombinierte Systeme. Wichtig sind Pin-Pflege, Weichteilkontrolle und Prüfung der Stabilität."
+            }
+          ]
+        },
+        {
+          "heading": "Minimalinvasive Osteosynthese",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Bei der minimalinvasiven Plattenosteosynthese (MIPO) wird eine Platte über kleinere Schnitte eingebracht, ohne den gesamten Bruch freizulegen. Die Lage wird klinisch und mittels Durchleuchtung geprüft. Dies kann bei ausgewählten extraartikulären Trümmerfrakturen Gewebe schonen. Kleine Schnitte sind nicht stets besser; Gelenkflächen können eine offene Reposition erfordern."
+            }
+          ]
+        },
+        {
+          "heading": "Kombination verschiedener Verfahren",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Einzelne Fragmente können mit Schrauben versorgt werden, während eine Platte den gesamten Bruch stabilisiert. Auch zusätzliche Elemente bei Marknagelung sind möglich. Bei schweren Verletzungen kann auf einen vorläufigen Fixateur später eine definitive innere Fixation folgen."
+            }
+          ]
+        },
+        {
+          "heading": "Wie wird das geeignete Implantat ausgewählt?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Röntgen und gegebenenfalls CT zeigen Bruchform, Gelenknähe und Fragmentlage. Weiter zählen Knochenqualität, Haut, Muskeln, Durchblutung, Stabilitätsanforderung und Rehabilitation. Entscheidend ist das passende, nicht das teuerste Implantat."
+            }
+          ]
+        },
+        {
+          "heading": "5. Unterschiede nach Körperregion",
+          "body": [],
+          "divider": true
+        },
+        {
+          "heading": "Brüche der oberen Extremität: präzise Bewegungen",
+          "body": [
+            {
+              "type": "p",
+              "text": "Am Oberarm kommen je nach Lage und Stabilität Orthese, Platte oder Nagel infrage. Die Stellung von Speiche und Elle beeinflusst die Unterarmdrehung. An Handgelenk und Fingern sind Gelenkflächen, Rotation und Versteifungsrisiko besonders wichtig; nicht jeder Bruch muss operiert werden."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Brüche der unteren Extremität: tragfähige Achse",
+          "body": [
+            {
+              "type": "p",
+              "text": "Bei Oberschenkel und Unterschenkel sind Länge, Achse und Rotation entscheidend. Viele Schaftbrüche werden genagelt; gelenknahe Verletzungen können Platten und Schrauben erfordern. Sprunggelenk und Fuß brauchen stabile Gelenkverhältnisse. Manche Schenkelhalsfrakturen, besonders im höheren Alter, werden mit einer Endoprothese statt Osteosynthese behandelt."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Intraartikuläre Frakturen",
+          "body": [
+            {
+              "type": "p",
+              "text": "Reicht ein Bruch in die Gelenkfläche, müssen Form und Verschiebung genau beurteilt werden. Deutlich verschobene Flächen können eine anatomische Reposition und Fixation erfordern. Bewegungseinschränkung und posttraumatische Arthrose sind auch nach korrekter Versorgung möglich."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Trümmerfrakturen und offene Frakturen",
+          "body": [
+            {
+              "type": "p",
+              "text": "Bei vielen Fragmenten kann die Schonung der Weichteile wichtiger sein, als jedes Stück einzeln freizulegen. Bei einem offenen Bruch besteht eine Verbindung zur Außenwelt durch eine Wunde, selbst wenn der Knochen nicht sichtbar ist. Er benötigt unverzügliche Behandlung mit gegebenenfalls Antibiotika, Debridement, Stabilisierung und Weichteildeckung."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "6. Vorbereitung und Operation",
+          "body": [],
+          "divider": true
+        },
+        {
+          "heading": "Vorbereitung auf die Operation",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Die Vorbereitung dient der Planung der Fixation und Einschätzung von Risiken. Umfang und Zeitpunkt hängen von Verletzung, Gesundheit und Dringlichkeit ab."
+            }
+          ]
+        },
+        {
+          "heading": "Sprechstunde und Operationsplanung",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Nach Untersuchung und Röntgen beziehungsweise CT werden Implantat, ein- oder mehrzeitiges Vorgehen und die voraussichtliche Nachbehandlung besprochen. Dazu gehören Nutzen, mögliche Komplikationen und Alternativen."
+            }
+          ]
+        },
+        {
+          "heading": "Welche Untersuchungen sind vor der OP nötig?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Je nach Situation sind Blutwerte, Gerinnung, EKG oder weitere Untersuchungen notwendig. Informieren Sie über Erkrankungen, Voroperationen, Medikamente insbesondere Gerinnungshemmer, Allergien und frühere Narkoseprobleme. Medikamente nicht eigenständig absetzen."
+            }
+          ]
+        },
+        {
+          "heading": "Vorbereitung am Operationstag",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Beachten Sie die individuellen Regeln zu Essen, Trinken und Medikamenten. Bringen Sie Befunde und Medikamentenliste mit; melden Sie Fieber und neue Beschwerden. Bei einer Notoperation erfolgt die Vorbereitung ohne unnötigen Zeitverlust."
+            }
+          ]
+        },
+        {
+          "heading": "Welche Narkose wird eingesetzt?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Je nach Eingriff sind Vollnarkose oder Regionalanästhesie möglich, teils mit Sedierung. Die Vollnarkose versetzt in Schlaf, eine Regionalanästhesie betäubt einen Körperbereich. Die Anästhesie wird individuell ausgewählt und die Vitalfunktionen werden überwacht."
+            }
+          ]
+        },
+        {
+          "heading": "Wie läuft die Osteosynthese ab?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Typische Schritte: Anästhesie und sterile Vorbereitung; Ausrichten der Fragmente; Einbringen von Platte, Schrauben, Marknagel oder anderem Fixateur; Kontrolle, häufig unter Durchleuchtung; Wundverschluss und Verband. Bei komplexen Verletzungen kann der Ablauf abweichen."
+            }
+          ]
+        },
+        {
+          "heading": "Wie lange dauert die Operation?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Die Dauer hängt von Bruchstelle, Zahl der Fragmente, Weichteilen und Methode ab. Eine genauere Einschätzung ist erst nach Planung möglich; eine feste Dauer für alle Patienten gibt es nicht."
+            }
+          ]
+        },
+        {
+          "heading": "Direkt nach der Operation",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Schmerzen, Verband, Durchblutung, Sensibilität und Allgemeinzustand werden kontrolliert. Es erfolgen Schmerztherapie und nach individuellem Risiko Thromboseprophylaxe. Sichere Mobilisation beginnt, sobald dies möglich ist."
+            }
+          ]
+        },
+        {
+          "heading": "Wie lange dauert der Klinikaufenthalt?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Die Aufenthaltsdauer hängt von Verletzung, Operation, Begleittrauma und häuslicher Versorgung ab. Vor Entlassung gibt es Anweisungen zu Wunde, Medikamenten, Bewegung, Belastung, Kontrollen und Physiotherapie. Entlassung bedeutet noch keine vollständige Knochenheilung."
+            }
+          ]
+        },
+        {
+          "heading": "7. Heilung und Rehabilitation",
+          "body": [],
+          "divider": true
+        },
+        {
+          "heading": "Erholung nach Osteosynthese: Gehen, Arbeit und Sport",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Ziele sind Knochenheilung, Gelenkbeweglichkeit, Muskelkraft und Alltagsfunktion. Dauer und Belastungsfreigabe richten sich nach Fraktur, Fixation, Weichteilen und Gesundheit."
+            }
+          ]
+        },
+        {
+          "heading": "Die ersten Tage",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Schmerz, Schwellung, Blutergüsse und eingeschränkte Bewegung sind zunächst häufig. Schmerzmittel, Wundpflege, Hochlagerung und gegebenenfalls Orthese werden individuell empfohlen. Rasche Verschlechterung muss überprüft werden."
+            }
+          ]
+        },
+        {
+          "heading": "Wann darf die Extremität bewegt werden?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Frühe sichere Bewegung kann Steifigkeit und Muskelschwäche vermindern. Zeitpunkt und Umfang richten sich nach Bruch und Fixation. Nach Unterarmverletzungen sind Hand- und Ellenbogenfunktion, nach Beinverletzungen Gang und Beweglichkeit wichtig. Die Übungen werden mit ärztlicher und physiotherapeutischer Anleitung abgestimmt."
+            }
+          ]
+        },
+        {
+          "heading": "Wann darf das operierte Bein belastet werden?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Teil- oder Vollbelastung kann manchmal früh erlaubt sein, sonst sind Krücken oder Gehhilfe und Entlastung nötig. Entscheidend sind Knochen, Bruchstelle, Stabilität, Gelenkschaden und Verlauf. Gehen mit Krücken ist nicht dasselbe wie Vollbelastung."
+            }
+          ]
+        },
+        {
+          "heading": "Wie lange dauert die Knochenheilung?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Meist Wochen bis Monate, ohne allgemein gültigen Zeitraum. Schwere, offene und mehrfragmentäre Brüche können länger benötigen. Durchblutung, Stabilität und Erkrankungen beeinflussen die Heilung. Funktionelle Rehabilitation kann nach radiologischer Heilung weiter nötig sein."
+            }
+          ]
+        },
+        {
+          "heading": "Warum ist Rehabilitation wichtig?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Physiotherapie verbessert Beweglichkeit, Kraft, Ausdauer, Gangbild, Gleichgewicht und Alltagsfunktion. Übungen und Belastung werden schrittweise angepasst. Zu intensive Belastung beschleunigt die Heilung nicht."
+            }
+          ]
+        },
+        {
+          "heading": "Rückkehr zur Arbeit und zum Sport",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Bürotätigkeit kann früher möglich sein als schwere körperliche Arbeit. Sport setzt ausreichende Kraft, Beweglichkeit, Koordination und Belastbarkeit voraus. Die Entscheidung richtet sich nach Untersuchung, Bildgebung und Funktion, nicht nur nach Wochenzahlen."
+            }
+          ]
+        },
+        {
+          "heading": "Warum sind Verlaufskontrollen wichtig?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Kontrolliert werden Wunde, Schwellung, Beweglichkeit, Stellung der Fragmente und Implantate sowie knöcherne Heilung. Röntgen und Belastungssteigerung werden individuell geplant. Manche Gespräche sind online möglich, notwendige körperliche Untersuchungen jedoch nicht ersetzbar."
+            }
+          ]
+        },
+        {
+          "heading": "Warnzeichen nach der Operation",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Bei plötzlich kalter oder blasser Extremität, heftig zunehmendem Schmerz mit gespannter Schwellung, Brustschmerz oder Atemnot sofort notärztliche Hilfe suchen. Bei Fieber mit Wundverschlechterung, zunehmender Rötung, Eiter, neuen starken Schmerzen oder einseitig geschwollener schmerzhafter Wade umgehend ärztlich melden."
+            }
+          ]
+        },
+        {
+          "heading": "Was unterstützt die Knochenheilung?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Ausreichend Eiweiß und Ernährung, Ausgleich nachgewiesener Mängel, Behandlung von Grunderkrankungen, Rauch- und Nikotinverzicht sowie Einhaltung von Belastungs- und Physiotherapieplänen unterstützen die Heilung. Eine stufenweise Rückkehr ist besser als Eile."
+            }
+          ]
+        },
+        {
+          "heading": "8. Komplikationen und Revision",
+          "body": [],
+          "divider": true
+        },
+        {
+          "heading": "Mögliche Komplikationen nach Osteosynthese",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Viele Frakturen verheilen, dennoch ist kein Eingriff risikofrei. Möglich sind verzögerte Heilung, Pseudarthrose, Fehlstellung, Infektion, Bewegungseinschränkung oder Beschwerden am Implantat. Kontrollen helfen bei früher Erkennung."
+            }
+          ]
+        },
+        {
+          "heading": "Was tun bei verzögerter Knochenheilung?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Bei verzögerter Konsolidierung heilt der Bruch langsamer als erwartet; bei Pseudarthrose schreitet die Heilung unzureichend fort. Mögliche Ursachen sind fehlende Stabilität, schwerer Gewebeschaden, Durchblutungsstörung oder Infektion. Nach Diagnostik können Belastungsanpassung, erneute Fixation oder Knochentransplantation nötig sein."
+            }
+          ]
+        },
+        {
+          "heading": "Fehlverheilung",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Ein Knochen kann in abweichender Länge, Achse oder Rotation verheilen. Nicht jede Fehlstellung muss korrigiert werden. Beschwerden und funktionelle Einschränkungen entscheiden über die Notwendigkeit einer Korrektur."
+            }
+          ]
+        },
+        {
+          "heading": "Infektion nach Frakturfixation",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Eine Infektion kann Wunde, Knochen und Implantat betreffen. Warnzeichen sind zunehmend Schmerz, Rötung, Schwellung, Sekretion, erneutes Öffnen der Wunde oder Eiter; Fieber fehlt manchmal. Eine tiefe frakturassoziierte Infektion heißt FRI."
+            },
+            {
+              "type": "p",
+              "text": "Für die Diagnose sind Labor, Bildgebung und gegebenenfalls intraoperativ gewonnene Gewebeproben nötig. Therapieoptionen sind chirurgisches Debridement, Antibiotika und Erhalt, Wechsel oder Entfernung des Implantats. Stabile Implantate müssen nicht immer sofort entfernt werden. Keine eigenständige Antibiotikatherapie; bei schwerer Allgemeininfektion sofort behandeln lassen."
+            }
+          ]
+        },
+        {
+          "heading": "Beschwerden durch das Implantat",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Weichteilreizung, Schmerzen, Lockerung oder Bruch der Konstruktion sind möglich. Ursachen können Belastung, verzögerte Heilung oder Frakturmechanik sein, nicht zwingend Materialqualität. Neue Schmerzen, Fehlstellung oder Instabilität müssen abgeklärt werden."
+            }
+          ]
+        },
+        {
+          "heading": "Müssen Platten, Schrauben oder Nägel entfernt werden?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Bei Erwachsenen ist die routinemäßige Entfernung nach Heilung meist unnötig. Beschwerden, mechanische Reizung, Einschränkung, Infektion oder spezielle Gründe können dafür sprechen. Manche Systeme haben geplante Entfernungsschritte. Auch die Entfernung ist ein Eingriff mit Risiken, darunter Nervenverletzung, Infektion oder erneuter Bruch."
+            }
+          ]
+        },
+        {
+          "heading": "Wann ist eine weitere Operation nötig?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Bei Pseudarthrose, relevanter Fehlstellung, Infektion oder instabiler Fixation kann eine Revision erforderlich sein. Vorher müssen Ursachen und Knochen- beziehungsweise Weichteilzustand untersucht werden. Nicht jede Komplikation benötigt eine Operation; ausbleibende Heilung oder anhaltende Schmerzen brauchen Abklärung."
+            }
+          ]
+        },
+        {
+          "heading": "9. Klinischer Fall, Kosten und Organisation",
+          "body": [],
+          "divider": true
+        },
+        {
+          "heading": "Osteosynthese in Kyjiw: Beratung, Kosten und Ablauf",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Dr. Maksym Baida bewertet Befunde, Röntgen oder CT und erläutert Behandlungsmöglichkeiten, Risiken und Nachsorge. Ziel ist eine geeignete Behandlung, nicht automatisch eine Operationsindikation."
+            }
+          ]
+        },
+        {
+          "heading": "Klinischer Fall: komplexer Schienbeinbruch",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Nach einem Motorradsturz erlitt ein Patient eine verschobene mehrfragmentäre distale Tibiafraktur mit begleitender Fibulafraktur. Die Versorgung erfolgte mit Marknagel und ergänzender Fixation distaler Fragmente. Postoperative Röntgenbilder zeigen wiederhergestellte Achse und Implantatlage."
+            },
+            {
+              "type": "p",
+              "text": "Der Fall zeigt die gewählte Operation, garantiert aber weder Heilungszeit noch späteres Funktionsergebnis."
+            }
+          ],
           "caseImages": [
             "osteosynthesis-case-before.jpg",
             "osteosynthesis-case-after.jpg"
@@ -4596,210 +4936,149 @@
           "caseAspect": "landscape"
         },
         {
-          "heading": "Ergebnis",
+          "heading": "Was kostet eine Osteosynthese?",
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Die Kontrollröntgenaufnahmen zeigen eine wiederhergestellte Achse des Schienbeins, eine erhaltene Fragmentposition und eine stabile Lage der Metallimplantate."
-            },
-            {
-              "type": "p",
-              "text": "Bei einer komplexen Fraktur genügt es nicht, den Knochen einfach zu fixieren. Methode und Kombination der Fixationsverfahren werden der konkreten Anatomie der Verletzung angepasst."
+              "text": "Die Kosten richten sich nach Art und Komplexität des Bruchs, Implantaten, OP, Anästhesie, Untersuchungen und Klinikaufenthalt. Nach Sichtung der Unterlagen ist eine erste Einschätzung möglich, der endgültige Kostenvoranschlag folgt der Untersuchung. Etwaige Kostendeckung wird mit der Einrichtung geklärt."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Unser Ansatz",
+          "heading": "Wie vereinbare ich eine Beratung?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Halten Sie Röntgen- oder CT-Aufnahmen, Befunde, bisherige Behandlung und kurze Angaben zu Unfallzeit und -hergang bereit. Wir besprechen OP-Indikationen, Alternativen, Risiken, Kosten und Rehabilitation. Eine Zweitmeinung darf notwendige Notfallversorgung nicht verzögern."
+            }
+          ]
+        },
+        {
+          "heading": "Verwandte Spezialbehandlungen",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Bei Pseudarthrose, Infektion, Knochendefekten oder posttraumatischer Fehlstellung kann eine spezielle Bewertung erforderlich sein. Verwandte Angebote betreffen Extremitätenrekonstruktion, Knochendefekte und individuelle 3D-Implantate."
+            }
+          ]
+        },
+        {
+          "heading": "10. Häufig gestellte Fragen",
           "body": [],
           "divider": true
         },
         {
-          "heading": "Nicht jede Fraktur muss operiert werden",
+          "heading": "Häufige Fragen zur Osteosynthese",
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Eine chirurgische Behandlung sollte nur dann erfolgen, wenn sie gegenüber einer konservativen Behandlung einen echten Vorteil bietet."
-            },
-            {
-              "type": "p",
-              "text": "Ziel der Beratung ist es, die optimale Taktik zu bestimmen, nicht zwangsläufig den Patienten zur Operation zu bringen."
+              "text": "Hier finden Sie Antworten auf häufige Fragen vor und nach der Frakturversorgung."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Die Fixationsmethode wird der konkreten Fraktur angepasst",
+          "heading": "Muss jede verschobene Fraktur operiert werden?",
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Platte, Marknagel oder eine andere Fixationsmethode sind Werkzeuge. Die Wahl richtet sich nach Anatomie und Mechanik der konkreten Verletzung."
+              "text": "Nein. Lage, Stabilität und die Möglichkeit einer ausreichenden konservativen Stellung entscheiden."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Wir erhalten die Biologie der Fraktur",
+          "heading": "Ist eine Platte oder ein Marknagel besser?",
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Stabilität ist wichtig, aber ebenso wichtig ist der Erhalt der für die Heilung notwendigen Durchblutung und Weichteile."
+              "text": "Keine Methode ist immer überlegen. Platten ermöglichen oft präzise gelenknahe Reposition, Nägel eignen sich häufig für lange Röhrenknochen. Die Fraktur bestimmt die Wahl."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Wir denken von Anfang an an die Funktion",
+          "heading": "Habe ich nach der OP Schmerzen?",
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Bei der Operationsplanung ist nicht nur die Fragmentposition zu berücksichtigen, sondern auch die künftige Gelenkbeweglichkeit, Belastung und Rückkehr des Patienten in den Alltag."
+              "text": "Anfangs sind Schmerz und Schwellung möglich; diese werden behandelt. Rasch zunehmende Schmerzen erfordern dringende Untersuchung."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Häufig gestellte Fragen",
-          "body": [],
-          "divider": true
-        },
-        {
-          "heading": "Muss jede dislozierte Fraktur operiert werden?",
+          "heading": "Wann darf ich nach einer Beinoperation gehen?",
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Nein."
-            },
-            {
-              "type": "p",
-              "text": "Die Entscheidung hängt von Ausmaß und Art der Verschiebung, der Stabilität der Fraktur, ihrer Lokalisation, dem Alter und den funktionellen Bedürfnissen des Patienten ab."
-            },
-            {
-              "type": "p",
-              "text": "In einem Teil der Fälle lässt sich eine akzeptable Position auch ohne Operation erreichen und halten."
+              "text": "Frühe Mobilisation mit Gehhilfe ist manchmal möglich, Vollbelastung jedoch nicht immer. Beachten Sie die individuellen Vorgaben."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Platte oder Marknagel — was ist besser?",
+          "heading": "Wie lange dauert die knöcherne Heilung?",
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Eine universell bessere Methode gibt es nicht."
-            },
-            {
-              "type": "p",
-              "text": "Diese Methoden haben unterschiedliche Indikationen. Die Wahl hängt von Lokalisation und Frakturtyp, dem Zustand von Knochen und Weichteilen sowie weiteren Faktoren ab."
+              "text": "Meist Wochen bis Monate; der Verlauf hängt von Fraktur, Knochen und Gesundheit ab und wird kontrolliert."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Muss das Metall nach der Heilung immer entfernt werden?",
+          "heading": "Muss das Metall später entfernt werden?",
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Nein."
-            },
-            {
-              "type": "p",
-              "text": "Verursacht die Konstruktion keine Probleme und liegen keine anderen Gründe für ihre Entfernung vor, ist eine erneute Operation nicht immer notwendig."
-            },
-            {
-              "type": "p",
-              "text": "Die Entscheidung wird individuell getroffen."
+              "text": "In der Regel nicht, wenn es keine Beschwerden verursacht. Eine Entfernung hat besondere Indikationen und Risiken."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Wann kann ich nach der Osteosynthese das Bein wieder belasten?",
+          "heading": "Kann ich eine Zweitmeinung erhalten?",
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Das hängt von Lokalisation und Art der Fraktur, der Fixationsstabilität, der Knochenqualität und dem Heilungsverlauf ab."
-            },
-            {
-              "type": "p",
-              "text": "Bei verschiedenen Frakturen kann das Belastungsregime deutlich variieren."
+              "text": "Ja, wenn der Zustand Zeit dafür lässt. Bringen Sie Bilder und Befunde mit; Notfallversorgung nicht aufschieben."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Wann sollte mit der Bewegungstherapie des Gelenks begonnen werden?",
+          "heading": "Wie hoch sind die Operationskosten?",
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "In vielen Fällen wird angestrebt, möglichst früh mit Bewegungen zu beginnen, sofern Frakturart und Fixationsstabilität dies erlauben."
-            },
-            {
-              "type": "p",
-              "text": "Das konkrete Vorgehen legt der Chirurg fest."
+              "text": "Die Kosten richten sich nach Verletzung, Implantaten, Anästhesie und weiteren Maßnahmen; es gilt ein individueller Kostenvoranschlag."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Wie lange dauert die Heilung einer Fraktur?",
+          "heading": "Kann ich aus dem Ausland Kontakt aufnehmen?",
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Die Dauer hängt vom Knochen, Frakturtyp, Alter, der Durchblutung, der Fixationsstabilität und weiteren Faktoren ab."
-            },
-            {
-              "type": "p",
-              "text": "Die Entscheidung über eine Belastungssteigerung wird deshalb nicht nur anhand des Kalenders getroffen, sondern anhand der Ergebnisse von Kontrolluntersuchung und Röntgenaufnahme."
+              "text": "Ja. Unterlagen können vor einer geplanten Beratung eingereicht werden, sofern dadurch keine dringende Behandlung verzögert wird."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Was tun, wenn die Fraktur nach der Operation nicht heilt?",
+          "heading": "Beratung vereinbaren",
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Zunächst muss die Ursache bestimmt werden."
-            },
-            {
-              "type": "p",
-              "text": "Beurteilt werden Stabilität der Konstruktion, biologische Bedingungen im Frakturbereich, das Vorliegen eines Knochendefekts, der Weichteilzustand und weitere Faktoren."
-            },
-            {
-              "type": "p",
-              "text": "Danach wird die weitere Behandlungstaktik festgelegt."
+              "text": "Bitte Bildgebung und medizinische Unterlagen bereithalten. Über die Kontaktseite können Behandlung und weitere Schritte besprochen werden."
             }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Kann ich eine Zweitmeinung einholen, wenn die Operation bereits vorgeschlagen wurde?",
-          "body": [
-            {
-              "type": "p",
-              "text": "Ja."
-            },
-            {
-              "type": "p",
-              "text": "Lässt die Situation Zeit für eine planbare Entscheidung, können Röntgenaufnahmen oder CT, die vorgeschlagene Taktik und mögliche Alternativen beurteilt werden."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Sie haben eine Fraktur und möchten die Behandlungstaktik klären?",
-          "body": [
-            {
-              "type": "p",
-              "text": "Wurde eine komplexe Fraktur diagnostiziert, liegt eine erhebliche Verschiebung vor, oder wurde Ihnen bereits eine Operation vorgeschlagen, können wir während der Beratung die Untersuchungsergebnisse beurteilen und mögliche Behandlungsoptionen festlegen."
-            },
-            {
-              "type": "p",
-              "text": "Nicht jede Fraktur erfordert eine Operation. Ist eine Osteosynthese jedoch notwendig, besteht die Hauptaufgabe darin, eine Fixationsmethode zu wählen, die optimale Voraussetzungen für Heilung und Funktionswiederherstellung schafft."
-            }
-          ],
-          "divider": false
+          ]
         }
       ]
     },
