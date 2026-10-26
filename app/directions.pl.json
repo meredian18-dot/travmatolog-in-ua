@@ -4268,9 +4268,7 @@
       "lead": "Zespolenie płytkami i śrubami, gwoździowanie śródszpikowe oraz indywidualny plan leczenia. Konsultacja ortopedy-traumatologa dr. Maksyma Baidy.",
       "intro": "Nie każde złamanie wymaga operacji. Decyzja zależy od stabilności odłamów, stawu, tkanek miękkich i potrzeb pacjenta. Złamania otwarte oraz zaburzenia ukrwienia wymagają natychmiastowej pomocy medycznej.",
       "hero": "osteosynthesis-hero.jpg",
-      "gallery": [
-        "osteosynthesis-diagram1.jpg"
-      ],
+      "gallery": [],
       "blocks": [
         {
           "heading": "1. Pierwsze kroki po złamaniu",
@@ -4506,8 +4504,7 @@
               "type": "p",
               "text": "Płytki pozwalają na dokładne nastawienie, szczególnie w okolicy stawów. W zależności od dostępu mogą wymagać większej preparacji tkanek lub powodować miejscowe drażnienie."
             }
-          ],
-          "diagram": "osteosynthesis-diagram2.jpg"
+          ]
         },
         {
           "heading": "Zespolenie samymi śrubami",
@@ -4962,6 +4959,21 @@
             {
               "type": "p",
               "text": "Brak zrostu, ubytek kostny, infekcja lub pourazowa deformacja wymagają niekiedy specjalistycznej oceny. Powiązane tematy obejmują rekonstrukcję kończyn, ubytki kostne i indywidualne implanty 3D."
+            },
+            {
+              "type": "link",
+              "href": "/pl/treatments/trauma-reconstruction/",
+              "text": "Rekonstrukcja kończyn po złożonych urazach"
+            },
+            {
+              "type": "link",
+              "href": "/pl/treatments/bone-defects/",
+              "text": "Leczenie ubytków kostnych"
+            },
+            {
+              "type": "link",
+              "href": "/pl/treatments/3d-implants/",
+              "text": "Indywidualne implanty 3D"
             }
           ]
         },
@@ -5077,6 +5089,11 @@
             {
               "type": "p",
               "text": "Przygotuj badania obrazowe i dokumentację. Możemy omówić leczenie, powrót do sprawności i kolejne kroki; skorzystaj z kontaktów na stronie."
+            },
+            {
+              "type": "link",
+              "href": "/pl/#consultation",
+              "text": "Umów konsultację"
             }
           ]
         }
