@@ -91,6 +91,20 @@ export async function generateMetadata({
     };
     return {...meta[lang], alternates: localizedAlternates(lang, `treatments/${slug}`)};
   }
+  if (slug === "avn") {
+    const meta: Record<Locale, { title: string; description: string }> = {
+      uk: { title: "Асептичний некроз головки стегнової кістки: лікування | Максим Байда", description: "Асептичний (аваскулярний) некроз головки стегна: симптоми, МРТ, стадії ARCO, ризик колапсу, декомпресія, збереження суглоба та ендопротезування. Консультація ортопеда." },
+      en: { title: "Femoral Head Osteonecrosis (AVN): Treatment | Dr Baida", description: "Avascular necrosis (AVN/ONFH): symptoms, MRI diagnosis, ARCO stages, collapse risk, core decompression, joint preservation and hip replacement. Specialist consultation." },
+      de: { title: "Hüftkopfnekrose: Symptome, ARCO & Behandlung | Dr. Baida", description: "Hüftkopfnekrose (AVN): MRT-Diagnostik, ARCO-Stadien, Kollapsrisiko, Core Decompression, gelenkerhaltende Eingriffe und Hüftendoprothese. Individuelle Beratung." },
+      pl: { title: "Jałowa martwica głowy kości udowej – leczenie | Dr Baida", description: "Jałowa martwica głowy kości udowej: objawy, MRI, stadia ARCO, ryzyko zapadnięcia, dekompresja, leczenie oszczędzające staw i endoprotezoplastyka biodra." }
+    };
+    return {
+      ...meta[lang],
+      alternates: localizedAlternates(lang, `treatments/${slug}`),
+      openGraph: { type: "article", url: `https://travmatolog.in.ua/${lang}/treatments/${slug}/`, title: meta[lang].title, description: meta[lang].description, siteName: "travmatolog.in.ua", images: [{ url: "https://travmatolog.in.ua/directions/avn_arco_uk_final.png", alt: article.title }] },
+      twitter: { card: "summary_large_image", title: meta[lang].title, description: meta[lang].description, images: ["https://travmatolog.in.ua/directions/avn_arco_uk_final.png"] }
+    };
+  }
   if (slug === "hip-replacement") {
     const meta: Record<string, { title: string; description: string }> = {
       uk: { title: "Ендопротезування кульшового суглоба в Києві | Максим Байда", description: "Заміна кульшового (тазостегнового) суглоба при коксартрозі, асептичному некрозі та наслідках травм. Операція, реабілітація та консультація ортопеда в Києві." },
@@ -130,6 +144,28 @@ export default async function TreatmentDetail({
 
   const article = getDirections(loc).articles[slug];
   if (!article) notFound();
+  const avnSchema = slug === "avn" ? {
+    "@context": "https://schema.org",
+    "@type": "MedicalWebPage",
+    "@id": `https://travmatolog.in.ua/${loc}/treatments/avn/#medicalwebpage`,
+    url: `https://travmatolog.in.ua/${loc}/treatments/avn/`,
+    name: article.title,
+    description: article.lead,
+    inLanguage: loc === "uk" ? "uk-UA" : loc === "en" ? "en" : loc === "de" ? "de-DE" : "pl-PL",
+    isAccessibleForFree: true,
+    about: {
+      "@type": "MedicalCondition",
+      name: article.title,
+      alternateName: ["Femoral head osteonecrosis", "Avascular necrosis", "ONFH", "AVN"],
+      possibleTreatment: [
+        { "@type": "MedicalTherapy", name: "Conservative management and monitoring" },
+        { "@type": "MedicalProcedure", name: "Core decompression" },
+        { "@type": "MedicalProcedure", name: "Total hip replacement" }
+      ]
+    },
+    author: { "@type": "Person", name: "Maksym Baida", jobTitle: "Orthopaedic trauma surgeon", url: `https://travmatolog.in.ua/${loc}/#about-doctor` },
+    publisher: { "@type": "Organization", name: "travmatolog.in.ua", url: "https://travmatolog.in.ua/" }
+  } : null;
   const schema = (slug === "hip-replacement" || slug === "knee-replacement" || slug === "shoulder-replacement" || slug === "limb-lengthening" || slug === "osteosynthesis") ? {
     "@context": "https://schema.org",
     "@type": "MedicalWebPage",
@@ -148,7 +184,7 @@ export default async function TreatmentDetail({
     author: { "@type": "Person", name: "Maksym Baida", jobTitle: "Orthopaedic trauma surgeon", url: `https://travmatolog.in.ua/${loc}/#about-doctor` },
     publisher: { "@type": "Organization", name: "travmatolog.in.ua", url: "https://travmatolog.in.ua/" },
   } : null;
-  const crumbs = (slug === "knee-replacement" || slug === "shoulder-replacement" || slug === "limb-lengthening" || slug === "osteosynthesis") ? {
+  const crumbs = (slug === "avn" || slug === "knee-replacement" || slug === "shoulder-replacement" || slug === "limb-lengthening" || slug === "osteosynthesis") ? {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     itemListElement: [
@@ -158,6 +194,7 @@ export default async function TreatmentDetail({
   } : null;
   return <>
     {crumbs && <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(crumbs).replace(/</g, "\\u003c") }} />}
+    {avnSchema && <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(avnSchema).replace(/</g, "\\u003c") }} />}
     {schema && <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema).replace(/</g, "\\u003c") }} />}
     <RichDetail dict={dict} lang={loc} slug={slug} article={article} />
   </>;
