@@ -3083,27 +3083,93 @@
           ]
         },
         {
-          "heading": "Dlaczego ważne jest ustalenie stadium choroby",
+          "heading": "Stadia jałowej martwicy głowy kości udowej: klasyfikacja ARCO",
+          "divider": false,
+          "diagram": "avn-arco-pl.svg",
           "body": [
             {
               "type": "p",
-              "text": "Przy jałowej martwicy ta sama nazwa diagnozy może oznaczać zasadniczo różne sytuacje kliniczne."
+              "text": "Jałowa martwica głowy kości udowej ma kilka stadiów różniących się stopniem uszkodzenia tkanki kostnej i powierzchni stawowej."
             },
             {
               "type": "p",
-              "text": "We wczesnym stadium głowa kości udowej może jeszcze zachowywać swój kształt. W takiej sytuacji u części pacjentów można rozważać metody nastawione na zachowanie własnego stawu biodrowego."
+              "text": "Międzynarodowa klasyfikacja ARCO (Association Research Circulation Osseous) pozwala ocenić, czy kształt głowy kości udowej jest zachowany, czy występuje złamanie podchrzęstne oraz czy rozwinęły się wtórne zmiany zwyrodnieniowe."
             },
             {
               "type": "p",
-              "text": "Jeśli doszło już do zapadnięcia się głowy i uformowały się wyraźne zmiany wtórne stawu, możliwości leczenia oszczędzającego staw znacznie się zawężają i może powstać kwestia endoprotezoplastyki."
+              "text": "Kluczowe jest rozróżnienie stadiów przed zapadnięciem głowy od stadiów z jej strukturalnym uszkodzeniem."
             },
             {
               "type": "p",
-              "text": "Dlatego głównym pytaniem po ustaleniu diagnozy jest nie po prostu „czy jest martwica?”, lecz „na jakim jest stadium i czy można jeszcze zachować staw?”."
+              "text": "ARCO I — wczesne stadium"
+            },
+            {
+              "type": "p",
+              "text": "Zdjęcie RTG jest prawidłowe, ale MRI uwidacznia osteonekrozę. Kształt głowy pozostaje zachowany, bez złamania podchrzęstnego. Zależnie od wielkości i lokalizacji ogniska można rozważać obserwację lub leczenie oszczędzające staw."
+            },
+            {
+              "type": "p",
+              "text": "ARCO II — zmiany kostne bez zapadnięcia"
+            },
+            {
+              "type": "p",
+              "text": "RTG może wykazać sklerotyzację, miejscowe przejaśnienia lub zmiany torbielowate. Nie ma złamania podchrzęstnego ani spłaszczenia głowy. Możliwości zachowania stawu zależą od charakterystyki ogniska."
+            },
+            {
+              "type": "p",
+              "text": "ARCO III — złamanie podchrzęstne i zapadnięcie"
+            },
+            {
+              "type": "p",
+              "text": "W RTG lub TK widoczne jest złamanie podchrzęstne albo w obrębie martwicy; możliwe jest spłaszczenie głowy. ARCO IIIA: obniżenie powierzchni do 2 mm włącznie; ARCO IIIB: ponad 2 mm. Po wystąpieniu złamania rokowanie leczenia oszczędzającego staw zwykle się pogarsza; specjalistyczne metody rekonstrukcyjne stosuje się wybiórczo, bez gwarancji powodzenia."
+            },
+            {
+              "type": "p",
+              "text": "ARCO IV — wtórna choroba zwyrodnieniowa"
+            },
+            {
+              "type": "p",
+              "text": "Pojawia się zwężenie szpary stawowej, zmiany panewki oraz inne cechy zwyrodnienia. Przy znacznych dolegliwościach i ograniczeniu funkcji często rozważa się endoprotezoplastykę całkowitą biodra, z uwzględnieniem potrzeb i stanu ogólnego pacjenta."
+            },
+            {
+              "type": "p",
+              "text": "Dlaczego stadium ma znaczenie?"
+            },
+            {
+              "type": "list",
+              "items": [
+                "ARCO I–II: przed zapadnięciem u wybranych pacjentów można rozważać leczenie oszczędzające staw.",
+                "ARCO III: złamanie zwiększa ryzyko postępu i niepowodzenia leczenia oszczędzającego.",
+                "ARCO IV: przy objawowej wtórnej chorobie zwyrodnieniowej częściej rozważa się endoprotezoplastykę."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Czy samo stadium ARCO wystarczy?"
+            },
+            {
+              "type": "p",
+              "text": "Nie. Rokowanie różni się także u osób w tym samym stadium. Uwzględnia się:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Wielkość ogniska martwicy.",
+                "Lokalizację, szczególnie boczną strefę obciążaną.",
+                "Obrzęk szpiku i zmiany towarzyszące.",
+                "Ból i ograniczenia funkcji.",
+                "Wiek, aktywność fizyczną i czynniki ryzyka."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Duże ogniska obejmujące boczną część obciążaną wiążą się zwykle z większym ryzykiem zapadnięcia."
+            },
+            {
+              "type": "p",
+              "text": "Ważne: martwica nie oznacza automatycznie konieczności endoprotezoplastyki, ale wczesne stadium nie gwarantuje skuteczności leczenia oszczędzającego staw. Decyzja zależy od badań obrazowych, stadium ARCO i cech ogniska."
             }
-          ],
-          "divider": false,
-          "diagram": "avn-stages.jpg"
+          ]
         },
         {
           "heading": "Kiedy potrzebna jest konsultacja ortopedyczna?",
