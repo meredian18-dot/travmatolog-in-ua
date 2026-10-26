@@ -2756,26 +2756,39 @@
       "gallery": [],
       "blocks": [
         {
-          "heading": "Was ist eine Hüftkopfnekrose",
+          "heading": "Was ist eine aseptische Hüftkopfnekrose?",
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Die aseptische, oder avaskuläre, Nekrose des Hüftkopfes ist eine Erkrankung, bei der die Durchblutung eines Bereichs des Knochengewebes im Hüftkopf gestört ist."
+              "text": "Die aseptische Hüftkopfnekrose (avaskuläre Nekrose, Osteonekrose, AVN/ONFH) ist eine Erkrankung, bei der eine gestörte Blutversorgung zum Absterben eines Bereichs des Knochengewebes im Hüftkopf führt."
             },
             {
               "type": "p",
-              "text": "In frühen Stadien kann die Form des Hüftkopfes noch erhalten sein. Mit fortschreitender Erkrankung nimmt die Knochenfestigkeit ab, es kann eine subchondrale Fraktur auftreten und der Hüftkopf allmählich abflachen oder kollabieren."
+              "text": "Im Gegensatz zur Hüftarthrose, bei der vor allem der Gelenkknorpel primär betroffen ist, beginnt der Krankheitsprozess bei der Hüftkopfnekrose im Knochengewebe. In frühen Stadien kann die Gelenkfläche noch intakt sein, und Röntgenaufnahmen können unauffällig ausfallen."
             },
             {
               "type": "p",
-              "text": "Danach verändert sich die Geometrie des Hüftgelenks, und es entwickelt sich eine sekundäre Arthrose."
+              "text": "Wie entwickelt sich die Erkrankung?"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Gestörte Blutversorgung. Ein Teil des Knochengewebes im Hüftkopf erleidet eine ischämische Schädigung.",
+                "Entstehung eines Nekrosebereichs. Die normalen Prozesse der Knochenheilung und des Knochenumbaus werden zunehmend gestört.",
+                "Schwächung der tragenden Knochenstruktur. Bei ungünstigem Verlauf kann eine subchondrale Fraktur entstehen — eine Schädigung des Knochens unmittelbar unter dem Gelenkknorpel.",
+                "Kollaps des Hüftkopfes. Die Gelenkfläche kann ihre kugelige Form verlieren, was die Gelenkmechanik beeinträchtigt und zu einer sekundären Hüftarthrose führt."
+              ]
             },
             {
               "type": "p",
-              "text": "Deshalb ist es wichtig, die Hüftkopfnekrose nicht nur als Diagnose zu betrachten, sondern als Prozess mit verschiedenen Stadien und unterschiedlichen Behandlungsmöglichkeiten."
+              "text": "Wichtig: Nicht jede Hüftkopfnekrose führt zwangsläufig zur Zerstörung des Gelenks. Das Risiko hängt vor allem von der Größe und Lage des Nekroseherdes sowie vom Krankheitsstadium ab."
+            },
+            {
+              "type": "p",
+              "text": "Nach der Diagnose muss daher insbesondere geklärt werden, ob die tragende Struktur des Hüftkopfes erhalten ist und wie hoch das Risiko eines weiteren Einbruchs ist."
             }
-          ],
-          "divider": false
+          ]
         },
         {
           "heading": "Wann Sie sich vorstellen sollten",
