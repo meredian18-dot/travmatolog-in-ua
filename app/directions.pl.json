@@ -2756,26 +2756,39 @@
       "gallery": [],
       "blocks": [
         {
-          "heading": "Czym jest jałowa martwica",
+          "heading": "Czym jest jałowa martwica głowy kości udowej?",
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Jałowa, czyli awaskularna, martwica głowy kości udowej to choroba, w której dochodzi do zaburzenia ukrwienia fragmentu tkanki kostnej głowy kości udowej."
+              "text": "Jałowa martwica głowy kości udowej (martwica awaskularna, osteonekroza, AVN/ONFH) to choroba, w której zaburzenie ukrwienia prowadzi do obumarcia fragmentu tkanki kostnej głowy kości udowej."
             },
             {
               "type": "p",
-              "text": "We wczesnych stadiach kształt głowy może jeszcze pozostawać zachowany. W miarę postępu choroby zmniejsza się wytrzymałość kości, może dojść do złamania podchrzęstnego i stopniowego spłaszczenia lub zapadnięcia się głowy."
+              "text": "W odróżnieniu od choroby zwyrodnieniowej stawu biodrowego, w której pierwotne zmiany dotyczą przede wszystkim chrząstki stawowej, w jałowej martwicy proces chorobowy rozpoczyna się wewnątrz kości. We wczesnych stadiach powierzchnia stawowa może pozostać nieuszkodzona, a zdjęcia rentgenowskie mogą nie wykazywać zmian."
             },
             {
               "type": "p",
-              "text": "Po tym zmienia się geometria stawu biodrowego i rozwija się wtórna choroba zwyrodnieniowa."
+              "text": "Jak rozwija się choroba?"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Zaburzenie ukrwienia. Część tkanki kostnej głowy kości udowej ulega uszkodzeniu niedokrwiennemu.",
+                "Powstanie obszaru martwicy. Stopniowo dochodzi do zaburzeń prawidłowych procesów naprawy i przebudowy kości.",
+                "Osłabienie struktury podporowej. Przy niekorzystnym przebiegu może dojść do złamania podchrzęstnego — uszkodzenia kości bezpośrednio pod chrząstką stawową.",
+                "Zapadnięcie się głowy kości udowej. Powierzchnia stawowa może utracić swój kulisty kształt, co zaburza mechanikę stawu i prowadzi do wtórnej choroby zwyrodnieniowej stawu biodrowego."
+              ]
             },
             {
               "type": "p",
-              "text": "Dlatego jałową martwicę ważne jest oceniać nie tylko jako diagnozę, lecz jako proces mający różne stadia i różne możliwości leczenia."
+              "text": "Ważne: nie każdy przypadek jałowej martwicy musi prowadzić do zniszczenia stawu. Ryzyko zależy przede wszystkim od wielkości i lokalizacji ogniska martwicy oraz stadium choroby."
+            },
+            {
+              "type": "p",
+              "text": "Dlatego najważniejszym zadaniem po rozpoznaniu jest ustalenie, czy struktura nośna głowy kości udowej pozostała zachowana i jakie jest ryzyko jej dalszego zapadania się."
             }
-          ],
-          "divider": false
+          ]
         },
         {
           "heading": "Kiedy warto się zgłosić",
