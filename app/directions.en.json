@@ -4264,331 +4264,671 @@
       ]
     },
     "osteosynthesis": {
-      "title": "Fracture Osteosynthesis",
-      "lead": "Modern surgical treatment of fractures with restoration of anatomy, stable fixation, and a focus on early functional recovery.",
-      "intro": "Not every fracture requires surgery. But if the fragments are significantly displaced, the fracture is unstable, the joint surface is damaged, or conservative treatment cannot maintain the correct position of the bone, osteosynthesis may be necessary.",
+      "title": "Fracture Fixation Surgery in Ukraine — Osteosynthesis",
+      "lead": "Plate and screw fixation, intramedullary nailing and individualised fracture care. Orthopaedic trauma consultation with Dr Maksym Baida.",
+      "intro": "Not every fracture requires surgery. Treatment depends on fracture stability, joint involvement, soft tissues and individual needs. Open fractures, circulation problems and rapidly worsening pain require emergency care without delay.",
       "hero": "osteosynthesis-hero.jpg",
       "gallery": [
         "osteosynthesis-diagram1.jpg"
       ],
       "blocks": [
         {
-          "heading": "When a Fracture Needs Surgery",
-          "body": [
-            {
-              "type": "p",
-              "text": "Treatment strategy doesn't depend only on which bone is broken."
-            },
-            {
-              "type": "p",
-              "text": "What matters is the nature of the fracture, displacement of the fragments, stability, the condition of the joint surfaces and soft tissues, the patient's age, and their functional needs."
-            },
-            {
-              "type": "p",
-              "text": "Some fractures can be successfully treated without surgery. In other cases, without stable surgical fixation it is difficult to restore the correct position of the bone and create optimal conditions for healing."
-            }
-          ],
-          "divider": false
+          "heading": "1. First decisions after a fracture",
+          "body": [],
+          "divider": true
         },
         {
-          "heading": "When to See a Trauma Orthopedist",
-          "body": [
-            {
-              "type": "list",
-              "items": [
-                "a displaced fracture has been diagnosed",
-                "the fracture extends into a joint",
-                "the fragments have shifted again after reduction",
-                "the fracture is unstable",
-                "there is significant limb deformity",
-                "an open fracture has occurred",
-                "the fracture is not healing properly",
-                "you need to determine whether the fracture can be treated without surgery",
-                "surgery has been proposed and you need to understand the possible treatment options"
-              ]
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "What Is Osteosynthesis",
-          "body": [
-            {
-              "type": "p",
-              "text": "Osteosynthesis is surgical stabilization of bone fragments in a position that creates conditions for healing and restoration of function."
-            },
-            {
-              "type": "p",
-              "text": "Various devices can be used for fixation:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "plates and screws",
-                "intramedullary nails",
-                "individual screws",
-                "wires (K-wires)",
-                "external fixators",
-                "combinations of different methods"
-              ]
-            },
-            {
-              "type": "p",
-              "text": "But choosing the device is only part of the treatment."
-            },
-            {
-              "type": "p",
-              "text": "The key question is not which plate or nail to use, but which fixation method best matches the specific fracture."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "What Properly Performed Osteosynthesis Achieves",
-          "body": [
-            {
-              "type": "p",
-              "text": "The goal of the operation is to create optimal mechanical and biological conditions for fracture healing."
-            },
-            {
-              "type": "p",
-              "text": "Depending on the nature of the injury, osteosynthesis makes it possible to:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "restore the position of the bone fragments",
-                "restore the length and axis of the limb",
-                "restore the joint surface in intra-articular fractures",
-                "provide stability at the fracture site",
-                "create conditions for bone healing",
-                "in appropriate cases, begin movement earlier",
-                "reduce the risk of secondary displacement",
-                "gradually return the patient to daily activity"
-              ]
-            },
-            {
-              "type": "p",
-              "text": "The goal is not simply to get a good-looking postoperative X-ray, but to restore function of the injured limb."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Not Every Fracture Needs the Same Fixation",
-          "body": [
-            {
-              "type": "p",
-              "text": "One of the fundamental features of modern trauma surgery is the ability to use different osteosynthesis methods depending on the specific type of injury."
-            }
-          ],
+          "heading": "Fracture care: what to do and when surgery is needed",
           "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "A fracture is a break in a bone, sometimes accompanied by injury to joints, muscles, vessels or nerves. Not every fracture requires surgery: splints, casts, braces or closed reduction may be appropriate. Treatment depends on displacement, stability, soft tissues and the patient's functional needs."
+            }
+          ]
+        },
+        {
+          "heading": "When to seek emergency care",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Call emergency services or attend an emergency department immediately for an open wound near a fracture, major bleeding or deformity, a cold or pale hand or foot, loss of sensation or movement, or severe rapidly increasing pain and swelling. High-energy injuries also require urgent assessment."
+            },
+            {
+              "type": "p",
+              "text": "Acute compartment syndrome is a surgical emergency. Immobilise the limb as safely as possible, do not attempt to realign it yourself and cover open wounds with a clean dressing. Never postpone urgent care to arrange travel or an online consultation."
+            }
+          ]
+        },
+        {
+          "heading": "How fractures are diagnosed",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "The clinician assesses the injury, limb alignment, skin, circulation, sensation and movement. X-rays, generally in two views, are the usual first examination. CT may clarify complex or joint fractures; MRI or vascular imaging is reserved for specific indications. Not every patient needs every test."
+            }
+          ]
+        },
+        {
+          "heading": "Can a fracture heal without surgery?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Yes. Stable fractures in acceptable alignment may be treated with a cast, brace or closed reduction. Follow-up visits and repeat imaging, when indicated, are important to detect secondary displacement. Surgery may be recommended when alignment or stability cannot be adequately maintained. The aim is the best balance of benefit and risk, not the most complex treatment."
+            }
+          ]
+        },
+        {
+          "heading": "When is a planned consultation appropriate?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "After appropriate initial care, patients may seek advice about fixation, alternatives or a second opinion. Bring X-rays or CT, reports and records of previous treatment. Patients elsewhere in Ukraine or abroad may submit documents in advance, but remote assessment cannot replace emergency examination."
+            }
+          ]
+        },
+        {
+          "heading": "2. When surgery is needed — and when it is not",
+          "body": [],
+          "divider": true
+        },
+        {
+          "heading": "When surgery is needed — and when it is not",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Treatment aims to achieve bone healing and regain useful limb function. Surgery is not automatically superior. The decision considers fracture site, displacement, stability, joints and soft tissues, comorbidities and individual goals."
+            }
+          ]
+        },
+        {
+          "heading": "Fractures for which fixation is often considered",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Surgery may be considered for unstable fractures, major displacement or deformity that cannot be adequately corrected or maintained, displaced joint-surface injuries, and some complex multifragmentary fractures."
+            },
+            {
+              "type": "p",
+              "text": "Fixation may also be helpful where prolonged immobilisation is unsuitable or non-operative treatment has failed. Not every fragment of a comminuted fracture needs to be exposed or fixed individually, and early mobilisation does not automatically mean unrestricted weight bearing."
+            }
+          ]
+        },
+        {
+          "heading": "Does every displaced fracture need an operation?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "No. Acceptable angulation, rotation, shortening and separation vary by bone and anatomical site. Even small displacement near certain joints can matter, while some displaced fractures heal well without surgery. There is no universal millimetre threshold for all fractures."
+            }
+          ]
+        },
+        {
+          "heading": "When non-operative treatment may be preferable",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Non-operative care is reasonable when stability and acceptable alignment can be maintained, joint function is not materially threatened, or surgical risks exceed likely benefits. This may apply to selected fractures of the proximal humerus, clavicle, radius and foot. Monitoring and rehabilitation remain necessary."
+            }
+          ]
+        },
+        {
+          "heading": "How soft-tissue injuries affect the plan",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Skin, muscles, circulation and nerves are central to decision-making. Open or contaminated wounds and severe swelling may require staged treatment, starting with wound debridement and temporary external fixation. Delaying definitive internal fixation must never mean delaying urgent care for an open fracture or vascular injury."
+            }
+          ]
+        },
+        {
+          "heading": "Individual factors considered by the surgeon",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Age, bone quality, osteoporosis, diabetes, vascular disease, smoking, associated injuries, work and activity, and ability to attend rehabilitation and follow-up influence the plan. Benefits, complications and reasonable alternatives should be discussed with the patient."
+            }
+          ]
+        },
+        {
+          "heading": "What fixation can and cannot achieve",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Appropriate fixation restores the necessary anatomy and stability and may allow earlier movement and easier rehabilitation. It cannot guarantee union or full recovery: infection, nonunion, stiffness and other complications remain possible. The goal is function and healing, not simply an implant on an X-ray."
+            }
+          ]
+        },
+        {
+          "heading": "3. How osteosynthesis supports bone healing",
+          "body": [],
+          "divider": true
+        },
+        {
+          "heading": "How osteosynthesis supports fracture healing",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Osteosynthesis surgically stabilises bone fragments with plates, screws, nails, wires or external fixators. The implant provides the mechanical environment; biological healing is performed by the body, not by the metal."
+            }
+          ]
+        },
+        {
+          "heading": "How a broken bone heals",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Bone regenerates through cellular and vascular processes. Direct or primary healing occurs under nearly motionless conditions with accurately apposed fragments, usually without substantial external callus. Indirect or secondary healing occurs under relative stability, with callus formation and later remodelling. Both are normal and appropriate in different settings."
+            }
+          ]
+        },
+        {
+          "heading": "Absolute and relative stability",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Absolute stability aims to eliminate movement, often through interfragmentary compression with lag screws or compression plates; it is useful for selected simple fractures and restoration of many articular surfaces."
+            },
+            {
+              "type": "p",
+              "text": "Relative stability permits controlled micromotion and callus formation, often with bridge plates, locked intramedullary nails or external fixation. In multifragmentary fractures the surgeon restores length, alignment and rotation while protecting intermediate fragments. Too much motion, however, may impair union."
+            }
+          ]
+        },
+        {
+          "heading": "Why preserving blood supply matters",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Blood vessels supply the cells and nutrients essential for repair. Extensive periosteal stripping, muscle injury or disruption of fragment blood supply can compromise healing. Biological and minimally invasive fixation seek sufficient mechanical stability with less additional damage to viable tissues."
+            }
+          ]
+        },
+        {
+          "heading": "Why not every fragment must be fixed",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Exposing and individually fixing every fragment in a complex fracture can cause additional soft-tissue injury. Restoring overall length, alignment and rotation while preserving attached fragments may be preferable. Displaced joint surfaces are different: precise articular reduction may be required."
+            }
+          ]
+        },
+        {
+          "heading": "Can a strong implant permit immediate full weight bearing?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Not necessarily. Allowed loading depends on fracture location, bone quality, implant configuration, fixation and healing. Some patients mobilise early; others require restricted support. The operating surgeon defines the individual plan. Premature loading can cause displacement or implant failure."
+            }
+          ]
+        },
+        {
+          "heading": "4. Methods of fracture fixation",
+          "body": [],
+          "divider": true
+        },
+        {
+          "heading": "Fixation methods: plates, screws, nails and external devices",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Available implants differ in position and mechanical function. No single fixation technique is best for every patient. The fracture pattern, bone quality, soft tissues and treatment goals determine the choice, and methods may be combined."
+            }
+          ]
+        },
+        {
+          "heading": "Plate and screw fixation",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "A plate is secured along the bone with screws to hold fragments until union. Compression plating generates pressure between reduced fragments; bridge plating spans a comminuted zone; locking screws form a fixed-angle construct that can be useful in selected fractures and poor-quality bone."
+            },
+            {
+              "type": "p",
+              "text": "Plates allow precise reduction and a wide choice of anatomical designs, especially near joints. Depending on the exposure, they may also require soft-tissue dissection or cause local irritation."
+            }
+          ],
           "diagram": "osteosynthesis-diagram2.jpg"
         },
         {
-          "heading": "Plates and Screws",
-          "body": [
-            {
-              "type": "p",
-              "text": "These allow precise restoration of anatomy and provide stable fixation. They are especially important for many periarticular and intra-articular fractures."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Intramedullary Osteosynthesis",
-          "body": [
-            {
-              "type": "p",
-              "text": "A nail is placed inside the medullary canal and creates stable internal fixation."
-            },
-            {
-              "type": "p",
-              "text": "This method is widely used for fractures of long bones, particularly the femur and tibia."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Minimally Invasive Techniques",
-          "body": [
-            {
-              "type": "p",
-              "text": "In appropriate cases, fixation can be performed through smaller surgical approaches, aiming to minimize additional soft tissue trauma and preserve the biological conditions needed for healing."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "External Fixation",
-          "body": [
-            {
-              "type": "p",
-              "text": "This can be used as a temporary or definitive method for certain complex injuries, significant soft tissue damage, and other clinical situations."
-            },
-            {
-              "type": "p",
-              "text": "The fixation method is chosen to match the fracture — not the fracture adapted to the surgeon's preferred device."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Special Attention to Fractures Near Joints",
-          "body": [
-            {
-              "type": "p",
-              "text": "With fractures that extend into the joint surface, the treatment task is more complex than simply joining the bone fragments."
-            },
-            {
-              "type": "p",
-              "text": "It is necessary to restore, as precisely as possible:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "the shape of the joint surface",
-                "the axis of the limb",
-                "stability",
-                "anatomical relationships",
-                "the potential for future joint movement"
-              ]
-            },
-            {
-              "type": "p",
-              "text": "Such fractures require especially careful planning, since incorrect fragment position can affect the future function of the joint."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Preoperative Planning",
-          "body": [
-            {
-              "type": "p",
-              "text": "For simple fractures, standard X-rays may be sufficient."
-            },
-            {
-              "type": "p",
-              "text": "For complex, multi-fragment, or intra-articular injuries, computed tomography (CT) may additionally be used."
-            },
-            {
-              "type": "p",
-              "text": "CT allows a more detailed assessment of:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "the number and position of the fragments",
-                "the nature of the joint surface damage",
-                "the spatial geometry of the fracture",
-                "the possible method of reduction and fixation"
-              ]
-            },
-            {
-              "type": "p",
-              "text": "The more complex the fracture geometry, the more important preoperative planning becomes."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "How Treatment Works",
-          "body": [],
-          "divider": true
-        },
-        {
-          "heading": "01 — Diagnosis",
-          "body": [
-            {
-              "type": "p",
-              "text": "We assess the mechanism of injury, the condition of the limb, X-rays, and, if necessary, a CT scan."
-            },
-            {
-              "type": "p",
-              "text": "We determine the type of fracture, its stability, and the condition of the soft tissues."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "02 — Choosing the Strategy",
-          "body": [
-            {
-              "type": "p",
-              "text": "We determine whether surgery is needed at all."
-            },
-            {
-              "type": "p",
-              "text": "If osteosynthesis is indicated, we choose the reduction and fixation method suited to the specific fracture."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "03 — Surgery",
-          "body": [
-            {
-              "type": "p",
-              "text": "The necessary position of the bone fragments is restored and stable fixation is performed."
-            },
-            {
-              "type": "p",
-              "text": "The extent of the operation depends on the nature of the injury."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "04 — Early Recovery",
-          "body": [
-            {
-              "type": "p",
-              "text": "After surgery, the range of motion and permitted load are determined."
-            },
-            {
-              "type": "p",
-              "text": "In some cases, stable fixation allows functional recovery to begin earlier."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "05 — Monitoring Healing",
-          "body": [
-            {
-              "type": "p",
-              "text": "Follow-up examinations and X-rays are performed to assess the position of the hardware and the fracture healing process."
-            },
-            {
-              "type": "p",
-              "text": "As healing progresses, load and physical activity are gradually increased."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Clinical Case",
-          "body": [],
-          "divider": true
-        },
-        {
-          "heading": "Complex Tibial Fracture After a Motorcycle Fall",
-          "body": [
-            {
-              "type": "p",
-              "text": "The patient sustained an injury to the right lower leg as a result of a motorcycle fall. Initial X-rays showed a complex, multi-fragment fracture of the distal tibia with displacement of the fragments, combined with a fibula fracture."
-            },
-            {
-              "type": "p",
-              "text": "Given the nature and location of the injury, a surgical strategy was chosen. The main goals were to restore the axis and anatomical relationships of the limb, achieve stable fixation of the fracture, and create conditions for healing."
-            },
-            {
-              "type": "p",
-              "text": "Osteosynthesis was performed using an intramedullary nail with additional fixation of the distal fragments."
-            }
-          ],
+          "heading": "Fixation with screws alone",
           "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Screws can be used alone or with plates for selected ankle, hand and foot fractures or small articular fragments. Headless compression screws may achieve compression with minimal prominence. Their suitability depends on fragment size, fracture shape and mechanical demands."
+            }
+          ]
+        },
+        {
+          "heading": "Intramedullary nailing",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "A metal nail is inserted inside the marrow canal, often with proximal and distal locking screws to control length, axis and rotation. It is widely used for selected femoral, tibial and humeral fractures."
+            },
+            {
+              "type": "p",
+              "text": "Advantages include internal load-sharing fixation and stabilisation of many shaft fractures without wide exposure of the fracture zone. Some fractures near or into joints require another technique. Canal reaming may be needed. A nail does not automatically allow immediate full weight bearing."
+            }
+          ]
+        },
+        {
+          "heading": "External fixation",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Pins or wires pass through the skin into bone and connect to an external frame. External fixation may be temporary in open fractures, severe soft-tissue damage or multiple trauma when immediate internal fixation is unsuitable, or definitive in selected cases."
+            },
+            {
+              "type": "p",
+              "text": "Monolateral, circular and hybrid devices are available. Pin-site care, soft-tissue assessment and stability checks are essential."
+            }
+          ]
+        },
+        {
+          "heading": "Minimally invasive osteosynthesis",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Minimally invasive plate osteosynthesis (MIPO) places a plate through smaller incisions without exposing the entire fracture. Alignment and implant position are assessed clinically and with intraoperative fluoroscopy. This may preserve blood supply in selected extra-articular comminuted fractures. A smaller incision is not always better: displaced articular fractures may need direct visualisation."
+            }
+          ]
+        },
+        {
+          "heading": "Can different fixation methods be combined?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Yes. Screws can secure specific fragments while a plate stabilises the overall fracture; a nail may also be supplemented by other devices. Major injuries sometimes need temporary external fixation followed by definitive internal fixation when the patient and soft tissues are ready."
+            }
+          ]
+        },
+        {
+          "heading": "How the optimal method is chosen",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "The surgeon reviews X-rays and sometimes CT to assess location, proximity to joints, fragment size, bone quality, skin, muscles and circulation, required stability and rehabilitation needs. The best implant is not necessarily the newest or most expensive; it is the construct suited to the fracture."
+            }
+          ]
+        },
+        {
+          "heading": "5. Fractures at different anatomical sites",
+          "body": [],
+          "divider": true
+        },
+        {
+          "heading": "Upper-limb fractures: restoring precise movement",
+          "body": [
+            {
+              "type": "p",
+              "text": "Humeral fractures may be treated with a brace, plate or nail according to location and stability. Correct alignment of the radius and ulna is important for forearm rotation. Wrist and finger fractures require attention to joint surfaces, rotational alignment and stiffness; not all need surgery."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Lower-limb fractures: restoring support and alignment",
+          "body": [
+            {
+              "type": "p",
+              "text": "Femoral and tibial fractures require restoration of length, axis and rotation. Nails are common for many shaft fractures; plates and screws may be preferable near joints. Ankle and foot fractures require attention to joint stability. Selected femoral-neck fractures, especially in older adults, may require joint replacement rather than fixation."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Fractures involving a joint surface",
+          "body": [
+            {
+              "type": "p",
+              "text": "When a fracture extends into a joint, displacement and the shape of the articular surface must be assessed carefully. Significant displacement may require accurate reduction and stable fixation. Stiffness and post-traumatic arthritis are possible even after appropriate care."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Comminuted and open fractures",
+          "body": [
+            {
+              "type": "p",
+              "text": "With many fragments, it may be safer to restore overall alignment without exposing each fragment. An open fracture communicates with the outside through a wound even if no bone is visible. It needs urgent care, potentially including early antibiotics, surgical debridement, stabilisation and soft-tissue coverage."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "6. Preparation and surgery",
+          "body": [],
+          "divider": true
+        },
+        {
+          "heading": "Preparing for osteosynthesis surgery",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Preparation helps select appropriate fixation, evaluate risks and ensure safe surgery. Its extent depends on fracture complexity, general health and whether treatment is urgent."
+            }
+          ]
+        },
+        {
+          "heading": "Consultation and surgical planning",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "The surgeon examines the limb, reviews X-rays and, when useful, CT. The plan covers implant type, whether treatment is single-stage or staged, expected restrictions and recovery. Benefits, risks and alternatives are discussed."
+            }
+          ]
+        },
+        {
+          "heading": "Which tests are required before surgery?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Depending on the situation, blood tests, clotting assessment, ECG and other examinations may be needed. Tell the team about chronic illnesses, previous surgery, medication (especially anticoagulants and antiplatelets), allergies and previous anaesthetic complications. Do not stop prescribed medication without medical advice."
+            }
+          ]
+        },
+        {
+          "heading": "Preparing on the day of surgery",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Follow the team's individual instructions on eating, drinking and medication. Bring medical records and a list of medicines; report fever or new symptoms. For an emergency, necessary preparation is undertaken in hospital without unjustified delay."
+            }
+          ]
+        },
+        {
+          "heading": "What type of anaesthesia is used?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "General or regional anaesthesia may be used, sometimes in combination with sedation. General anaesthesia produces unconsciousness; regional techniques numb an area of the body. The anaesthetist selects the approach according to the operation and the patient's condition and monitors vital signs."
+            }
+          ]
+        },
+        {
+          "heading": "How osteosynthesis surgery is performed",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Typical steps include anaesthesia and sterile preparation, fracture reduction, placement of the chosen plate, screws, nail or other device, imaging checks (often fluoroscopy), and wound closure and dressing. Complex injuries may require a different sequence or additional procedures."
+            }
+          ]
+        },
+        {
+          "heading": "How long does the operation take?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Duration depends on fracture site and complexity, number of fragments, soft-tissue injury and fixation technique. A more precise estimate can be given after surgical planning; no single operating time applies to every fracture."
+            }
+          ]
+        },
+        {
+          "heading": "Immediately after surgery",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Staff monitor pain, the dressing, circulation, sensation and overall recovery. Analgesia, thrombosis prevention when indicated, and other measures are individualised. Safe mobilisation begins when appropriate."
+            }
+          ]
+        },
+        {
+          "heading": "How long is a hospital stay?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Length of stay varies with the operation, associated injuries and whether recovery can safely continue at home. Before discharge, patients receive instructions about wound care, pain relief, movement, loading, follow-up and physiotherapy. Discharge does not mean that bone healing is complete."
+            }
+          ]
+        },
+        {
+          "heading": "7. Rehabilitation and recovery",
+          "body": [],
+          "divider": true
+        },
+        {
+          "heading": "Recovery after fixation: walking, work and sport",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Recovery aims for bone union, joint movement, muscle strength and useful function. It depends on the fracture, fixation, soft tissues and health. A strong implant does not mean unrestricted loading."
+            }
+          ]
+        },
+        {
+          "heading": "The first days after surgery",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Pain, bruising, swelling and limited movement are common initially and usually settle gradually. The team advises on analgesia, dressings, elevation, bracing and activity. Rapidly worsening symptoms require medical assessment."
+            }
+          ]
+        },
+        {
+          "heading": "When can the limb be moved?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Safe early movement may reduce stiffness and muscle weakness. The start and range of exercises depend on the fracture and stability. Hand or elbow movement may be a priority after forearm injury; gait and lower-limb mobility after leg fractures. Follow the individual physiotherapy plan."
+            }
+          ]
+        },
+        {
+          "heading": "When can I put weight on the operated leg?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Some patients can bear partial or full weight early; others need crutches or walkers and restricted loading. Decisions depend on which bone is broken, fixation stability, joint damage and healing on follow-up. Walking with crutches is different from full weight bearing."
+            }
+          ]
+        },
+        {
+          "heading": "How long does bone healing take?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Union generally takes weeks to months, but there is no universal timeline. Complex and open fractures may take longer. Circulation, stability, injury severity and underlying illnesses matter. Even after union, stiffness and weakness may require continued rehabilitation."
+            }
+          ]
+        },
+        {
+          "heading": "Why rehabilitation is important",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Physiotherapy progressively restores joint motion, strength, endurance, walking, balance and daily function. Activities may include exercises and gait training. Progression must match healing; excessive loading does not accelerate recovery."
+            }
+          ]
+        },
+        {
+          "heading": "Returning to work and sport",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Sedentary work may be resumed earlier than heavy physical work. Sport requires adequate movement, strength, coordination and tolerance of load. Decisions rely on clinical assessment, imaging and functional progress, not only elapsed weeks."
+            }
+          ]
+        },
+        {
+          "heading": "Why follow-up appointments matter",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Follow-up assesses wound healing, swelling, joint motion, fragment and implant positions and signs of union. Imaging and progression of loading are scheduled individually. Some reviews may be remote for travelling patients, but necessary in-person assessments cannot be replaced."
+            }
+          ]
+        },
+        {
+          "heading": "Warning signs after surgery",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Seek emergency care for sudden circulation changes, rapidly escalating severe pain with tense swelling, chest pain or breathlessness. Contact your clinician urgently for fever with wound deterioration, spreading redness, pus, new severe pain or painful one-sided calf or thigh swelling. Early assessment can prevent further harm."
+            }
+          ]
+        },
+        {
+          "heading": "What supports bone healing?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Adequate nutrition and protein, correction of confirmed deficiencies, management of chronic disease, stopping smoking and nicotine, and adherence to loading and physiotherapy instructions all matter. Recovery should be progressive rather than rushed."
+            }
+          ]
+        },
+        {
+          "heading": "8. Complications and revision surgery",
+          "body": [],
+          "divider": true
+        },
+        {
+          "heading": "Possible complications after osteosynthesis",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Most appropriately treated fractures heal, but no surgery eliminates all risk. Problems may include delayed union, nonunion, malalignment, infection, stiffness or irritation from implants. Follow-up is important."
+            }
+          ]
+        },
+        {
+          "heading": "What if the fracture is slow to heal?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Delayed union means healing is taking longer than expected; nonunion means the fracture is not progressing adequately toward union. Causes may include insufficient stability, tissue damage, poor circulation or infection. Assessment may lead to changes in loading, additional tests, revision fixation or bone grafting."
+            }
+          ]
+        },
+        {
+          "heading": "Malunion",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "A bone may heal with altered length, alignment or rotation. Not every residual deformity needs surgery. Symptoms, location and loss of function determine whether corrective treatment is appropriate."
+            }
+          ]
+        },
+        {
+          "heading": "Infection after fracture fixation",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Infection may involve the wound or deeper bone and implant. Increasing pain, redness, swelling, persistent discharge, reopening or pus are warning signs; fever may be absent. Deep infection is known as fracture-related infection (FRI)."
+            },
+            {
+              "type": "p",
+              "text": "Diagnosis may require laboratory tests, imaging and tissue samples. Treatment can include debridement, antibiotics and retention, exchange or removal of implants depending on fixation stability and bone healing. Stable implants do not always need immediate removal. Do not start antibiotics independently; severe systemic infection requires emergency treatment."
+            }
+          ]
+        },
+        {
+          "heading": "Implant-related problems",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Implants can cause soft-tissue irritation, pain, loosening or breakage. These problems may relate to fracture biology, loading or failure of union, not necessarily implant quality. New pain, deformity or instability warrants assessment and imaging where indicated."
+            }
+          ]
+        },
+        {
+          "heading": "Must plates, screws or nails be removed after union?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Routine removal is unnecessary for most adults when implants are not causing problems. Removal may be considered for pain, mechanical irritation, functional limitation, infection or specific indications. Some devices have planned removal protocols. Removal is another operation with risks including nerve injury, infection and refracture."
+            }
+          ]
+        },
+        {
+          "heading": "When might another operation be needed?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Revision surgery may be appropriate for nonunion, important deformity, infection, instability or other complications. The underlying cause and the condition of the bone and soft tissues should first be investigated. Not every complication requires surgery, but persistent pain or lack of expected healing warrants review."
+            }
+          ]
+        },
+        {
+          "heading": "9. Clinical example, cost and care arrangements",
+          "body": [],
+          "divider": true
+        },
+        {
+          "heading": "Fracture fixation in Kyiv: consultation, costs and treatment planning",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Dr Maksym Baida reviews clinical records, X-rays or CT and discusses reasonable treatment options, risks and follow-up. The purpose of consultation is to choose appropriate care, not automatically to recommend surgery."
+            }
+          ]
+        },
+        {
+          "heading": "Clinical example: complex tibial fracture",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "After a motorcycle fall, a patient sustained a displaced multifragmentary distal tibial fracture with an associated fibular fracture. Intramedullary nailing with supplementary fixation of distal fragments was performed. Postoperative radiographs demonstrate restoration of tibial alignment and implant position."
+            },
+            {
+              "type": "p",
+              "text": "This example illustrates the selected surgical construct, not guaranteed union times or eventual functional recovery."
+            }
+          ],
           "caseImages": [
             "osteosynthesis-case-before.jpg",
             "osteosynthesis-case-after.jpg"
@@ -4596,210 +4936,149 @@
           "caseAspect": "landscape"
         },
         {
-          "heading": "Result",
+          "heading": "How much does fracture fixation cost?",
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Follow-up X-rays show a restored tibial axis, maintained fragment position, and stable position of the hardware."
-            },
-            {
-              "type": "p",
-              "text": "With a complex fracture, it's not enough simply to fix the bone. The method and combination of fixation techniques are chosen to match the specific anatomy of the injury."
+              "text": "The cost depends on fracture complexity, implants, the procedure, anaesthesia, investigations and hospital stay. An initial estimate may be discussed after reviewing the records; the final plan and quote follow clinical assessment. Eligibility for any public funding is confirmed by the treating facility."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Our Approach",
+          "heading": "How to request a consultation",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Prepare available X-rays or CT, previous reports, details of treatment and a brief account of when and how the injury occurred. The consultation may cover surgery, non-operative alternatives, risks, costs and rehabilitation. A second opinion is appropriate when it will not delay urgent treatment."
+            }
+          ]
+        },
+        {
+          "heading": "Related specialist treatment",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Some patients need dedicated evaluation for nonunion, bone defects, infection or post-traumatic deformity. Related pages cover limb reconstruction, bone defects and patient-specific 3D implants."
+            }
+          ]
+        },
+        {
+          "heading": "10. Frequently asked questions",
           "body": [],
           "divider": true
         },
         {
-          "heading": "Not Every Fracture Needs Surgery",
+          "heading": "Frequently asked questions about fracture fixation",
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Surgical treatment should be used when it offers a real advantage over conservative treatment."
-            },
-            {
-              "type": "p",
-              "text": "The goal of the consultation is to determine the optimal strategy — not necessarily to lead the patient toward surgery."
+              "text": "The answers below address common questions before and after fixation."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Fixation Method Matched to the Specific Fracture",
+          "heading": "Does every displaced fracture require surgery?",
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "A plate, an intramedullary nail, or another fixation method are tools. The choice is determined by the anatomy and mechanics of the specific injury."
+              "text": "No. Location, stability and the possibility of maintaining acceptable alignment without surgery determine the decision."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Preserving the Biology of the Fracture",
+          "heading": "Which is better: a plate or an intramedullary nail?",
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Stability is important, but preserving the blood supply and soft tissues needed for healing is no less important."
+              "text": "Neither is universally superior. Plates often assist precise reduction near joints; nails are widely used for selected long-bone fractures. The fracture determines the method."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Thinking About Function from the Start",
+          "heading": "Will I have pain after the operation?",
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "When planning surgery, it's important to consider not only the position of the fragments, but also future joint mobility, load-bearing, and the patient's return to daily life."
+              "text": "Pain and swelling are possible initially and are managed with medication. Rapidly increasing pain or other worrying symptoms require urgent review."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Frequently Asked Questions",
-          "body": [],
-          "divider": true
-        },
-        {
-          "heading": "Does Every Displaced Fracture Need Surgery?",
+          "heading": "When can I walk after leg fixation?",
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "No."
-            },
-            {
-              "type": "p",
-              "text": "The decision depends on the extent and nature of the displacement, the stability of the fracture, its location, and the patient's age and functional needs."
-            },
-            {
-              "type": "p",
-              "text": "In some cases, an acceptable position can be achieved and maintained without surgery."
+              "text": "Assisted walking may begin early, but full weight bearing is not always allowed. Follow your individual instructions."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Plate or Intramedullary Nail — Which Is Better?",
+          "heading": "How long will healing take?",
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "There is no universally better method."
-            },
-            {
-              "type": "p",
-              "text": "These methods have different indications. The choice depends on the location and type of fracture, the condition of the bone and soft tissues, and other factors."
+              "text": "Usually weeks to months, depending on bone, fracture type and health. Follow-up examinations assess progress."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Does the Hardware Need to Be Removed After Healing?",
+          "heading": "Will the metalwork need to be removed?",
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "No."
-            },
-            {
-              "type": "p",
-              "text": "If the hardware doesn't cause problems and there are no other indications for removal, a repeat operation is not always necessary."
-            },
-            {
-              "type": "p",
-              "text": "The decision is made individually."
+              "text": "Usually not if it causes no problems. Removal is considered for specific indications after weighing risks and benefits."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "When Can I Put Weight on My Leg After Osteosynthesis?",
+          "heading": "Can I obtain a second opinion?",
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "This depends on the location and nature of the fracture, the stability of the fixation, the quality of the bone tissue, and how healing progresses."
-            },
-            {
-              "type": "p",
-              "text": "The weight-bearing regimen can vary significantly for different fractures."
+              "text": "Yes, when the condition permits. Bring images and reports; do not delay emergency care."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "When Should I Start Moving the Joint?",
+          "heading": "What does the surgery cost?",
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "In many cases, movement is started as early as possible, if the nature of the fracture and the stability of the fixation allow it."
-            },
-            {
-              "type": "p",
-              "text": "The specific regimen is determined by the surgeon."
+              "text": "The quote depends on the injury, implants, anaesthesia and other treatment requirements. It is individualised."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "How Long Does It Take for a Fracture to Heal?",
+          "heading": "Can I contact you from abroad?",
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "The timeframe depends on the bone, the type of fracture, age, blood supply, the stability of the fixation, and other factors."
-            },
-            {
-              "type": "p",
-              "text": "So the decision to increase load is made not just according to a calendar, but based on the results of follow-up examinations and X-rays."
+              "text": "Yes. Records can be reviewed before arranging planned consultation or travel, provided urgent treatment is not delayed."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "What If the Fracture Doesn't Heal After Surgery?",
+          "heading": "Book a consultation",
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "First, the cause needs to be determined."
-            },
-            {
-              "type": "p",
-              "text": "The stability of the hardware, the biological conditions at the fracture site, the presence of a bone defect, the condition of the soft tissues, and other factors are assessed."
-            },
-            {
-              "type": "p",
-              "text": "After that, the further treatment strategy is determined."
+              "text": "Prepare imaging and medical records. We can discuss possible treatment, expected recovery and next steps. Use the site's consultation contact options."
             }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Can I Get a Second Opinion If Surgery Has Already Been Proposed?",
-          "body": [
-            {
-              "type": "p",
-              "text": "Yes."
-            },
-            {
-              "type": "p",
-              "text": "If the situation allows time for a planned decision, we can review the X-rays or CT scan, the proposed strategy, and possible alternatives."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Do You Have a Fracture and Need to Determine a Treatment Strategy?",
-          "body": [
-            {
-              "type": "p",
-              "text": "If a complex fracture has been diagnosed, there is significant displacement, or surgery has already been proposed to you, during a consultation we can review the results of your examinations and determine the possible treatment options."
-            },
-            {
-              "type": "p",
-              "text": "Not every fracture requires surgery. If osteosynthesis is necessary, the main task is to choose the fixation method that will create optimal conditions for healing and functional recovery."
-            }
-          ],
-          "divider": false
+          ]
         }
       ]
     },
