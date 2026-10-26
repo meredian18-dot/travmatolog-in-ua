@@ -3083,27 +3083,93 @@
           ]
         },
         {
-          "heading": "Warum die Bestimmung des Krankheitsstadiums wichtig ist",
+          "heading": "Stadien der Hüftkopfnekrose: ARCO-Klassifikation",
+          "divider": false,
+          "diagram": "avn-arco-de.svg",
           "body": [
             {
               "type": "p",
-              "text": "Bei der Hüftkopfnekrose kann dieselbe Diagnosebezeichnung grundlegend unterschiedliche klinische Situationen bedeuten."
+              "text": "Die Hüftkopfnekrose wird nach dem Ausmaß der Schädigung des Knochens und der Gelenkfläche in mehrere Stadien eingeteilt."
             },
             {
               "type": "p",
-              "text": "Im frühen Stadium kann der Hüftkopf seine Form noch bewahren. In einer solchen Situation können bei einzelnen Patienten Methoden zum Erhalt des eigenen Hüftgelenks in Betracht gezogen werden."
+              "text": "Die internationale ARCO-Klassifikation (Association Research Circulation Osseous) erfasst, ob die Hüftkopfform erhalten ist, eine subchondrale Fraktur vorliegt und sich eine sekundäre Arthrose entwickelt hat."
             },
             {
               "type": "p",
-              "text": "Ist bereits ein Kollaps des Hüftkopfes eingetreten und haben sich ausgeprägte sekundäre Gelenkveränderungen gebildet, sind die Möglichkeiten einer gelenkerhaltenden Behandlung erheblich eingeschränkt, und es kann die Frage einer Endoprothetik entstehen."
+              "text": "Entscheidend ist die Unterscheidung zwischen Stadien ohne Kollaps und Stadien mit strukturellem Einbruch des Hüftkopfes."
             },
             {
               "type": "p",
-              "text": "Die zentrale Frage nach Diagnosestellung ist daher nicht einfach „liegt eine Nekrose vor?“, sondern „in welchem Stadium befindet sie sich, und kann das Gelenk noch erhalten werden?“."
+              "text": "ARCO I — Frühstadium"
+            },
+            {
+              "type": "p",
+              "text": "Röntgenaufnahmen sind noch unauffällig, im MRT ist die Osteonekrose jedoch sichtbar. Die Hüftkopfform ist erhalten, eine subchondrale Fraktur fehlt. Je nach Größe und Lage des Herdes kommen Verlaufskontrolle oder gelenkerhaltende Maßnahmen infrage."
+            },
+            {
+              "type": "p",
+              "text": "ARCO II — Knochenveränderungen ohne Kollaps"
+            },
+            {
+              "type": "p",
+              "text": "Im Röntgen können Sklerosen, Aufhellungen oder zystenartige Veränderungen auftreten. Es liegen weder eine subchondrale Fraktur noch eine Abflachung des Hüftkopfes vor. Die Chancen des Gelenkerhalts hängen vom Nekroseherd ab."
+            },
+            {
+              "type": "p",
+              "text": "ARCO III — subchondrale Fraktur und Kollaps"
+            },
+            {
+              "type": "p",
+              "text": "Eine Fraktur im subchondralen oder nekrotischen Bereich ist im Röntgen oder CT nachweisbar; eine Abflachung kann hinzukommen. ARCO IIIA: Einsenkung bis einschließlich 2 mm; ARCO IIIB: mehr als 2 mm. Nach einer Fraktur ist die Prognose gelenkerhaltender Verfahren ungünstiger; spezialisierte Rekonstruktionen kommen nur ausgewählt infrage und bieten keine Erfolgsgarantie."
+            },
+            {
+              "type": "p",
+              "text": "ARCO IV — sekundäre Hüftarthrose"
+            },
+            {
+              "type": "p",
+              "text": "Gelenkspaltverschmälerung, Pfannenveränderungen und weitere degenerative Veränderungen treten auf. Bei erheblichen Schmerzen und Funktionseinschränkungen wird häufig eine Hüft-TEP erwogen. Allgemeinzustand und individuelle Bedürfnisse sind ebenfalls wichtig."
+            },
+            {
+              "type": "p",
+              "text": "Warum ist das Stadium wichtig?"
+            },
+            {
+              "type": "list",
+              "items": [
+                "ARCO I–II: Vor dem Kollaps können ausgewählte Patienten für gelenkerhaltende Verfahren infrage kommen.",
+                "ARCO III: Nach einer Fraktur steigen Progressionsrisiko und Misserfolgswahrscheinlichkeit.",
+                "ARCO IV: Bei symptomatischer sekundärer Arthrose wird häufiger ein Gelenkersatz erwogen."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Reicht das ARCO-Stadium allein aus?"
+            },
+            {
+              "type": "p",
+              "text": "Nein. Auch im gleichen Stadium ist die Prognose unterschiedlich. Zusätzlich relevant sind:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Größe des Nekroseherdes.",
+                "Lage, insbesondere laterale Belastungszone.",
+                "Knochenmarködem und Begleitveränderungen.",
+                "Schmerzen und Funktionseinschränkungen.",
+                "Alter, körperliche Aktivität und Risikofaktoren."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Große, lateral gelegene Läsionen in der Belastungszone haben meist ein höheres Kollapsrisiko."
+            },
+            {
+              "type": "p",
+              "text": "Wichtig: Eine Hüftkopfnekrose erfordert nicht automatisch eine Prothese; auch ein frühes Stadium garantiert keinen erfolgreichen Gelenkerhalt. Bildgebung, ARCO-Stadium und Herdmerkmale bestimmen die individuelle Entscheidung."
             }
-          ],
-          "divider": false,
-          "diagram": "avn-stages.jpg"
+          ]
         },
         {
           "heading": "Wann ist eine orthopädische Beratung sinnvoll?",
