@@ -478,7 +478,32 @@ function RichDetail({
               return (
                 <div key={i} className="mt-6 rounded-[8px] border border-hairline bg-cream/60 p-6 lg:p-7">
                   {block.heading && (isRich ? <h2 className="font-sans font-medium text-ink text-lg mb-3">{block.heading}</h2> : <h3 className="font-sans font-medium text-ink text-lg mb-3">{block.heading}</h3>)}
-                  {slug === "avn" && (block.diagram?.startsWith("avn-arco-") || block.diagram?.startsWith("avn_arco_")) ? (
+                  {slug === "avn" && block.heading?.includes(({ uk: "Суглобозберігаючі операції", en: "Joint-preserving surgery", de: "Gelenkerhaltende Operationen", pl: "Operacje oszczędzające staw" } as Record<Locale, string>)[lang]) ? (
+                    <div className="space-y-6 text-ink leading-relaxed">
+                      <div className="space-y-3.5"><BlockBody block={{ ...block, body: block.body.slice(0, 2) }} hideDiagram /></div>
+                      {[0, 1, 2, 3, 4].map((section) => {
+                        const items = block.body.slice(2 + section * 3, 5 + section * 3);
+                        const image = section === 0 ? "avn_core_decompression.png" : section === 1 ? "avn_bone_graft_reconstruction.png" : null;
+                        return (
+                          <div key={section} className="border-t border-hairline pt-5">
+                            <h4 className="font-semibold text-base mb-3">{items[0]?.text}</h4>
+                            <div className={image ? "grid grid-cols-1 lg:grid-cols-2 gap-5 items-start" : ""}>
+                              <div className="space-y-3.5"><BlockBody block={{ ...block, body: items.slice(1) }} hideDiagram /></div>
+                              {image && (
+                                <div className="min-w-0">
+                                  <ImageLightbox images={[`${BASE}/directions/${image}`]} altTexts={[items[0]?.text || block.heading]} className="grid grid-cols-1" aspect="aspect-[5/3]" fit="contain" letterboxBg="bg-white" />
+                                  <p className="text-center text-xs text-ink-muted mt-2">{zoomHint[lang]}</p>
+                                </div>
+                              )}
+                            </div>
+                          </div>
+                        );
+                      })}
+                      <div className="border-t border-hairline pt-5 space-y-3.5">
+                        <BlockBody block={{ ...block, body: block.body.slice(17) }} hideDiagram />
+                      </div>
+                    </div>
+                  ) : slug === "avn" && (block.diagram?.startsWith("avn-arco-") || block.diagram?.startsWith("avn_arco_")) ? (
                     <div className="space-y-7">
                       <div className="grid grid-cols-1 lg:grid-cols-2 gap-7 lg:gap-10 items-start">
                         <div className="min-w-0">
