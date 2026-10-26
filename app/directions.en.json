@@ -4385,7 +4385,8 @@
               "type": "p",
               "text": "The objective is both adequate bone union and return of daily function; imaging findings alone cannot determine whether surgery offers a net benefit."
             }
-          ]
+          ],
+          "diagram": "osteosynthesis-diagram1-en.png"
         },
         {
           "heading": "Fractures for which fixation is often considered",
@@ -4639,7 +4640,8 @@
               "type": "p",
               "text": "Plate systems can be designed for compression, bridging or fixed-angle support; the mechanical goal differs between a simple fracture and a comminuted fracture."
             }
-          ]
+          ],
+          "diagram": "osteosynthesis-diagram2-en.png"
         },
         {
           "heading": "Fixation with screws alone",
