@@ -2810,6 +2810,55 @@
           "divider": false
         },
         {
+          "heading": "What causes avascular necrosis of the femoral head?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Avascular necrosis develops when the blood supply to the bone tissue of the femoral head is impaired. The underlying causes vary, and in some patients no specific cause can be identified."
+            },
+            {
+              "type": "p",
+              "text": "The condition can develop after an injury or without any obvious trauma."
+            },
+            {
+              "type": "p",
+              "text": "Main causes and risk factors"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Hip injuries. Femoral neck fractures and hip dislocations can damage the blood vessels supplying the femoral head. Osteonecrosis may develop months or years after an injury.",
+                "Corticosteroid use. Systemic corticosteroid treatment, particularly at high doses or with substantial cumulative exposure, is associated with an increased risk of osteonecrosis. However, not everyone treated with these medicines develops the condition.",
+                "Excessive alcohol consumption. Long-term heavy alcohol use is associated with an increased risk of non-traumatic osteonecrosis.",
+                "Systemic and haematological disorders. Risk can be increased in sickle cell disease, systemic lupus erythematosus, antiphospholipid syndrome and certain blood-clotting disorders. Treatment of the underlying condition and other accompanying factors may also contribute.",
+                "Other medical circumstances. Osteonecrosis may be associated with organ transplantation, some haematological malignancies and their treatments, decompression sickness and certain other conditions.",
+                "Idiopathic osteonecrosis. Sometimes the condition is diagnosed without a history of trauma or any identifiable risk factor. These cases are described as idiopathic."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Can both hips be affected?"
+            },
+            {
+              "type": "p",
+              "text": "Yes. Bilateral involvement is possible, especially in non-traumatic osteonecrosis. Even if only one hip is painful, the clinician may recommend assessing the opposite hip because early changes can be asymptomatic."
+            },
+            {
+              "type": "p",
+              "text": "Important for patients"
+            },
+            {
+              "type": "p",
+              "text": "Having a risk factor does not mean that avascular necrosis will inevitably develop. Likewise, the absence of an obvious cause does not rule it out."
+            },
+            {
+              "type": "p",
+              "text": "If you take corticosteroids, do not stop them on your own. Discuss any change to treatment with the doctor who prescribed them."
+            }
+          ]
+        },
+        {
           "heading": "Why It's Important to Determine the Stage of the Disease",
           "body": [
             {
