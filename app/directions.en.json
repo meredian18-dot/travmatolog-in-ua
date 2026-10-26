@@ -2756,26 +2756,39 @@
       "gallery": [],
       "blocks": [
         {
-          "heading": "What Is Avascular Necrosis",
+          "heading": "What is avascular necrosis of the femoral head?",
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Avascular necrosis (also known as aseptic necrosis) of the femoral head is a condition in which the blood supply to an area of bone tissue in the femoral head is disrupted."
+              "text": "Avascular necrosis of the femoral head (aseptic necrosis, osteonecrosis, AVN/ONFH) is a condition in which impaired blood supply causes the death of an area of bone tissue in the femoral head."
             },
             {
               "type": "p",
-              "text": "In the early stages, the shape of the femoral head may still be preserved. As the disease progresses, the bone loses strength, which can lead to a subchondral fracture and gradual flattening or collapse of the femoral head."
+              "text": "Unlike hip osteoarthritis, which primarily affects articular cartilage, avascular necrosis begins within the bone. In early stages, the joint surface may remain intact and X-rays may show no abnormalities."
             },
             {
               "type": "p",
-              "text": "After this, the geometry of the hip joint changes and secondary osteoarthritis develops."
+              "text": "How does the condition develop?"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Impaired blood supply. Part of the bone tissue in the femoral head sustains ischaemic injury.",
+                "Formation of a necrotic area. Normal bone repair and remodelling gradually become disrupted.",
+                "Weakening of the supporting structure. If the condition progresses unfavourably, a subchondral fracture may occur — damage to the bone directly beneath the articular cartilage.",
+                "Femoral head collapse. The joint surface may lose its spherical shape, disrupting joint mechanics and leading to secondary hip osteoarthritis."
+              ]
             },
             {
               "type": "p",
-              "text": "This is why avascular necrosis should be viewed not simply as a diagnosis, but as a process with different stages and different treatment options."
+              "text": "Important: not every case of avascular necrosis progresses to joint destruction. The risk depends mainly on the size and location of the necrotic lesion and on the stage of the disease."
+            },
+            {
+              "type": "p",
+              "text": "The main task after diagnosis is therefore to determine whether the weight-bearing structure of the femoral head remains intact and assess the risk of further collapse."
             }
-          ],
-          "divider": false
+          ]
         },
         {
           "heading": "When You Should See a Doctor",
