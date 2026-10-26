@@ -2791,25 +2791,6 @@
           ]
         },
         {
-          "heading": "Kiedy warto się zgłosić",
-          "body": [
-            {
-              "type": "list",
-              "items": [
-                "pojawił się ból w pachwinie lub stawie biodrowym bez wyraźnego urazu",
-                "ból pojawia się podczas chodzenia lub obciążenia",
-                "zmniejszyła się ruchomość stawu biodrowego",
-                "pojawiło się utykanie",
-                "ból stopniowo się nasila",
-                "w MRI lub na zdjęciu rentgenowskim wykryto cechy jałowej martwicy",
-                "jałowa martwica jest już zdiagnozowana, ale trzeba ustalić dalszą taktykę leczenia",
-                "występuje uszkodzenie obu stawów biodrowych"
-              ]
-            }
-          ],
-          "divider": false
-        },
-        {
           "heading": "Dlaczego powstaje jałowa martwica głowy kości udowej?",
           "divider": false,
           "body": [
@@ -2859,6 +2840,74 @@
           ]
         },
         {
+          "heading": "Objawy jałowej martwicy głowy kości udowej: jak rozpoznać wczesne oznaki?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Jałowa martwica głowy kości udowej może przez długi czas rozwijać się bez wyraźnych objawów. We wczesnych stadiach pacjent niekiedy nie odczuwa bólu, mimo że badanie MRI wykazuje już zmiany w tkance kostnej."
+            },
+            {
+              "type": "p",
+              "text": "Pierwsze objawy są często nieswoiste i mogą przypominać inne choroby stawu biodrowego lub odcinka lędźwiowego kręgosłupa."
+            },
+            {
+              "type": "p",
+              "text": "Główne objawy"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Ból w pachwinie. To jeden z najbardziej charakterystycznych objawów. Może pojawiać się stopniowo i nasilać podczas chodzenia, długotrwałego stania lub wysiłku fizycznego.",
+                "Ból promieniujący do uda lub kolana. Dolegliwości mogą obejmować także pośladek, przednią powierzchnię uda lub kolano, dlatego początkowo nie zawsze łatwo określić ich źródło.",
+                "Ból przy obciążaniu nogi. Początkowo może występować wyłącznie przy większym wysiłku. W miarę postępu choroby bywa obecny podczas zwykłego chodzenia, a w późniejszych stadiach również w spoczynku.",
+                "Ograniczenie ruchomości biodra. Stopniowo może zmniejszać się rotacja wewnętrzna i odwodzenie uda. Zakładanie butów i skarpet oraz zwykłe czynności stają się trudniejsze.",
+                "Utykanie i zmiana chodu. Z powodu bólu i ograniczenia funkcji stawu pacjent może oszczędzać chorą nogę i skracać czas jej obciążania."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Czy jałowa martwica może przebiegać bez bólu?"
+            },
+            {
+              "type": "p",
+              "text": "Tak. We wczesnych stadiach osteonekroza bywa wykrywana przypadkowo lub podczas badania drugiego stawu biodrowego."
+            },
+            {
+              "type": "p",
+              "text": "Brak bólu nie zawsze oznacza więc brak choroby. Jest to szczególnie ważne u osób ze znanymi czynnikami ryzyka lub rozpoznaną martwicą przeciwległej głowy kości udowej."
+            },
+            {
+              "type": "p",
+              "text": "Czy na podstawie objawów można ustalić stadium choroby?"
+            },
+            {
+              "type": "p",
+              "text": "Nie. Nasilenie bólu nie zawsze odpowiada wielkości ogniska martwicy ani stopniowi zmian strukturalnych."
+            },
+            {
+              "type": "p",
+              "text": "U niektórych pacjentów stosunkowo niewielka zmiana powoduje znaczny ból, podczas gdy większe ogniska mogą przez pewien czas dawać niewielkie dolegliwości."
+            },
+            {
+              "type": "p",
+              "text": "Dlatego do oceny stadium konieczne jest zestawienie objawów klinicznych z wynikami RTG i MRI."
+            },
+            {
+              "type": "p",
+              "text": "Na co zwrócić szczególną uwagę?"
+            },
+            {
+              "type": "p",
+              "text": "Jeśli ból biodra nagle lub wyraźnie się nasilił, pojawiło się utykanie albo trudności z obciążaniem nogi, konieczna jest niezwłoczna ocena kliniczna."
+            },
+            {
+              "type": "p",
+              "text": "Takie zmiany mogą być związane z postępem osteonekrozy, w tym złamaniem podchrzęstnym, ale wymagają również wykluczenia innych przyczyn bólu."
+            }
+          ]
+        },
+        {
           "heading": "Dlaczego ważne jest ustalenie stadium choroby",
           "body": [
             {
@@ -2880,6 +2929,22 @@
           ],
           "divider": false,
           "diagram": "avn-stages.jpg"
+        },
+        {
+          "heading": "Kiedy potrzebna jest konsultacja ortopedyczna?",
+          "divider": false,
+          "body": [
+            {
+              "type": "list",
+              "items": [
+                "W MRI lub RTG wykryto cechy jałowej martwicy głowy kości udowej.",
+                "Rozpoznanie już ustalono, ale stadium choroby i dalsze leczenie pozostają niejasne.",
+                "Zalecono endoprotezoplastykę, ale chcesz ustalić, czy istnieją uzasadnione możliwości zachowania własnego stawu.",
+                "Ból narasta lub pogarsza się funkcja biodra.",
+                "Potrzebna jest ocena ryzyka postępu choroby lub kontrola wcześniej wykrytego ogniska martwicy."
+              ]
+            }
+          ]
         },
         {
           "heading": "Czy zawsze potrzebna jest endoprotezoplastyka?",
