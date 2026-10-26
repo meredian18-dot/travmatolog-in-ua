@@ -3511,33 +3511,113 @@
           ]
         },
         {
-          "heading": "Kiedy rozważa się endoprotezoplastykę",
+          "heading": "Endoprotezoplastyka biodra w jałowej martwicy głowy kości udowej",
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Jeśli choroba postępowała, doszło do zapadnięcia się głowy kości udowej i uformowały się znaczne zmiany strukturalne stawu biodrowego, metody oszczędzające staw mogą już nie dawać oczekiwanego wyniku."
+              "text": "Jeśli martwica spowodowała znaczne zapadnięcie i deformację głowy kości udowej, a leczenie oszczędzające staw nie daje realnych szans na zadowalający rezultat, skuteczną opcją jest całkowita endoprotezoplastyka biodra."
             },
             {
               "type": "p",
-              "text": "W takich przypadkach jedną z opcji leczenia jest całkowita endoprotezoplastyka stawu biodrowego."
+              "text": "Podczas operacji uszkodzone powierzchnie stawowe zastępuje się elementami protezy. Celem jest zmniejszenie bólu, poprawa obciążania kończyny, ruchomości oraz aktywności."
             },
             {
               "type": "p",
-              "text": "Celem operacji jest zmniejszenie bólu, przywrócenie ruchomości i powrót pacjenta do bardziej aktywnego codziennego życia."
-            },
-            {
-              "type": "p",
-              "text": "W ten sposób przy tej samej diagnozie dwóm pacjentom może być zalecana zupełnie inna taktyka:"
+              "text": "Kiedy endoprotezoplastyka jest uzasadniona?"
             },
             {
               "type": "list",
               "items": [
-                "wczesne stadium → próba zachowania własnego stawu",
-                "późne stadium → endoprotezoplastyka"
+                "znaczne zapadnięcie i deformacja głowy kości udowej",
+                "wtórna choroba zwyrodnieniowa ze zwężeniem szpary stawowej",
+                "utrzymujący się ból znacznie ograniczający codzienne życie",
+                "upośledzenie chodu, ruchomości i funkcji biodra",
+                "brak realnej szansy powodzenia leczenia oszczędzającego staw"
               ]
+            },
+            {
+              "type": "p",
+              "text": "Sama obecność martwicy w MRI bez strukturalnego zniszczenia głowy kości udowej nie stanowi wskazania do endoprotezoplastyki."
+            },
+            {
+              "type": "p",
+              "text": "Czym operacja przy martwicy różni się od operacji przy koksartrozie?"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Młodszy wiek. Martwica często dotyczy osób w wieku produkcyjnym, dlatego liczą się długoterminowa funkcja implantu i możliwość przyszłej rewizji.",
+                "Choroby towarzyszące. Glikokortykosteroidy, schorzenia układowe i inne czynniki wymagają szczególnej oceny przedoperacyjnej.",
+                "Stan kości. Planowanie uwzględnia jakość kości, geometrię bliższego końca kości udowej, panewkę i skutki wcześniejszych operacji."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Czy młodzi pacjenci mogą mieć endoprotezoplastykę?"
+            },
+            {
+              "type": "p",
+              "text": "Młody wiek sam w sobie nie jest przeciwwskazaniem. Gdy głowa jest znacznie zniszczona, ból ogranicza życie, a skuteczne opcje oszczędzające staw nie istnieją, długie odraczanie operacji nie zawsze jest uzasadnione."
+            },
+            {
+              "type": "p",
+              "text": "Szczególnie ważne są dobór implantu, odtworzenie biomechaniki biodra, plan aktywności i ewentualna przyszła rewizja. Nowoczesne implanty dają dobre wyniki długoterminowe, ale żaden nie ma gwarantowanej trwałości przez całe życie."
+            },
+            {
+              "type": "p",
+              "text": "Jakich wyników można oczekiwać?"
+            },
+            {
+              "type": "p",
+              "text": "U odpowiednio zakwalifikowanych pacjentów operacja często znacznie zmniejsza ból i poprawia chód, sprawność oraz jakość życia."
+            },
+            {
+              "type": "p",
+              "text": "Ryzyko obejmuje zakażenie, zwichnięcie, zakrzepicę, złamanie okołoprotezowe, obluzowanie i konieczność dalszych operacji. Ocenia się je indywidualnie."
+            },
+            {
+              "type": "p",
+              "text": "Czy konieczna jest specjalna rehabilitacja?"
+            },
+            {
+              "type": "p",
+              "text": "Rehabilitacja ma przywrócić bezpieczny chód, siłę mięśni, ruchomość i samodzielność. Uruchamianie zwykle rozpoczyna się wcześnie, lecz obciążanie zależy od stabilności implantu, stanu kości i przebiegu operacji."
+            },
+            {
+              "type": "p",
+              "text": "Po wcześniejszych rekonstrukcjach lub przy chorobach towarzyszących plan może wymagać modyfikacji."
+            },
+            {
+              "type": "p",
+              "text": "Czy można wrócić do sportu i aktywnego życia?"
+            },
+            {
+              "type": "p",
+              "text": "Wielu pacjentów wraca do długich spacerów, pływania, jazdy na rowerze i umiarkowanej aktywności."
+            },
+            {
+              "type": "p",
+              "text": "Intensywne i kontaktowe dyscypliny należy omówić indywidualnie z uwagi na urazy, zużycie implantu i stan zdrowia."
+            },
+            {
+              "type": "p",
+              "text": "Najważniejsze dla pacjenta"
+            },
+            {
+              "type": "p",
+              "text": "Gdy martwica nieodwracalnie zniszczyła staw, endoprotezoplastyka może być najlepszą drogą do odzyskania aktywności."
+            },
+            {
+              "type": "p",
+              "text": "Celem nie jest opóźnianie operacji za wszelką cenę, lecz wybór odpowiedniego momentu i leczenia o korzystnym stosunku korzyści do ryzyka."
+            },
+            {
+              "type": "link",
+              "text": "Więcej o endoprotezoplastyce biodra",
+              "href": "/pl/treatments/hip-replacement/"
             }
-          ],
-          "divider": false
+          ]
         },
         {
           "heading": "Jak przebiega diagnostyka",
