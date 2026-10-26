@@ -4282,6 +4282,10 @@
             {
               "type": "p",
               "text": "Ein Knochenbruch kann mit Verletzungen von Gelenken, Muskeln, Nerven und Gefäßen einhergehen. Nicht jeder Bruch muss operiert werden: Gips, Schiene, Orthese oder geschlossene Reposition sind manchmal ausreichend. Entscheidend sind Stabilität, Verschiebung, Weichteile und die funktionellen Bedürfnisse."
+            },
+            {
+              "type": "p",
+              "text": "Frakturen entstehen durch Trauma oder an vorgeschädigtem Knochen. Eine Operation ist nur sinnvoll, wenn sie gegenüber Ruhigstellung oder geschlossener Reposition einen relevanten Vorteil bietet."
             }
           ]
         },
@@ -4307,6 +4311,10 @@
                 "Rasch zunehmende starke Schmerzen, besonders bei praller Schwellung.",
                 "Schweres Trauma durch Verkehrsunfall, Sturz aus Höhe, Explosion oder andere Hochenergieverletzung."
               ]
+            },
+            {
+              "type": "p",
+              "text": "Beim Kompartmentsyndrom beeinträchtigt steigender Druck in Muskellogen die Durchblutung. Starke zunehmende Schmerzen und gespannte Schwellung sind auch bei geschlossener Fraktur ein Notfall."
             }
           ]
         },
@@ -4325,6 +4333,10 @@
                 "MRT: bei speziellen Indikationen, etwa Verdacht auf okkulte Fraktur oder Weichteilschaden.",
                 "Gefäßbildgebung: bei Verdacht auf Durchblutungsstörung."
               ]
+            },
+            {
+              "type": "p",
+              "text": "Der Untersuchungsumfang richtet sich nach den Befunden; MRT oder Gefäßdiagnostik sind nicht bei jedem Bruch erforderlich."
             }
           ]
         },
@@ -4335,6 +4347,10 @@
             {
               "type": "p",
               "text": "Bei stabilen Brüchen in akzeptabler Stellung kann eine Ruhigstellung oder geschlossene Reposition ausreichen. Kontrolluntersuchungen und gegebenenfalls weitere Röntgenaufnahmen erkennen eine erneute Verschiebung. Wenn Stellung oder Stabilität nicht gehalten werden können, kann eine Operation sinnvoll sein."
+            },
+            {
+              "type": "p",
+              "text": "Auch konservative Therapie benötigt Kontrollen. Eine erneute Verschiebung kann eine Änderung der Methode nötig machen."
             }
           ]
         },
@@ -4345,6 +4361,10 @@
             {
               "type": "p",
               "text": "Nach erforderlicher Erstversorgung können Operationsindikation, Alternativen oder eine Zweitmeinung besprochen werden. Bitte Röntgen-/CT-Bilder und Befunde mitbringen. Unterlagen aus dem Ausland können vorab übermittelt werden; dies ersetzt keine Notfalluntersuchung."
+            },
+            {
+              "type": "p",
+              "text": "Röntgenbilder, CT, Befunde und Angaben zur Vorbehandlung helfen bei der Planung. Eine Fernbeurteilung ersetzt keine Untersuchung nach akuter Verletzung."
             }
           ]
         },
@@ -4360,6 +4380,10 @@
             {
               "type": "p",
               "text": "Das Ziel ist Knochenheilung bei bestmöglicher Funktion. Eine Operation ist nicht grundsätzlich überlegen. Für die Entscheidung zählen Bruchstelle, Verschiebung, Stabilität, Gelenk- und Weichteilbeteiligung, Begleiterkrankungen sowie persönliche Anforderungen."
+            },
+            {
+              "type": "p",
+              "text": "Ziel sind Knochenheilung und Wiederherstellung der Funktion; ein Röntgenbild allein entscheidet nicht über den Nutzen einer Operation."
             }
           ]
         },
@@ -4395,6 +4419,10 @@
             {
               "type": "p",
               "text": "Nein. Akzeptable Achsabweichungen, Rotation, Verkürzung und Fragmentabstände sind je nach Knochen verschieden. Eine kleine Verschiebung an einem Gelenk kann relevant sein, während manche verschobenen Brüche ohne OP heilen. Es gibt keine allgemeingültige Millimetergrenze."
+            },
+            {
+              "type": "p",
+              "text": "Verschiebung umfasst Winkelabweichung, Rotation und Verkürzung, nicht allein den Fragmentabstand. Akzeptable Werte unterscheiden sich je nach Knochen und Funktion."
             }
           ]
         },
@@ -4415,6 +4443,10 @@
                 "Der mögliche Nutzen rechtfertigt die Operationsrisiken nicht.",
                 "Begleiterkrankungen oder persönliche Faktoren verändern das Nutzen-Risiko-Verhältnis."
               ]
+            },
+            {
+              "type": "p",
+              "text": "Ausgewählte Oberarm-, Schlüsselbein-, Speichen- und Fußfrakturen können ohne Operation behandelt werden. Der Name des Knochens allein reicht nicht zur Entscheidung."
             }
           ]
         },
@@ -4425,6 +4457,10 @@
             {
               "type": "p",
               "text": "Haut, Muskeln, Nerven und Gefäße beeinflussen die Behandlung entscheidend. Offene oder verschmutzte Verletzungen und starke Schwellung können eine mehrzeitige Versorgung erfordern: zunächst Wundreinigung und gegebenenfalls temporäre externe Fixation, später definitive Osteosynthese. Eine dringende Behandlung darf dabei nicht verzögert werden."
+            },
+            {
+              "type": "p",
+              "text": "Bei offenen Verletzungen und schwerer Schwellung kann eine mehrzeitige Versorgung mit Debridement und vorübergehender Fixation nötig sein."
             }
           ]
         },
@@ -4446,6 +4482,10 @@
                 "Aktivität, Beruf und funktionelle Bedürfnisse.",
                 "Möglichkeit, Belastungsvorgaben einzuhalten und Rehabilitation sowie Kontrollen wahrzunehmen."
               ]
+            },
+            {
+              "type": "p",
+              "text": "Patienten sollen die möglichen Methoden, Vorteile und Komplikationen nach Möglichkeit mitbesprechen können."
             }
           ]
         },
@@ -4456,6 +4496,10 @@
             {
               "type": "p",
               "text": "Eine geeignete Fixation stellt notwendige anatomische Verhältnisse und Stabilität wieder her und kann frühere Bewegung erleichtern. Sie garantiert jedoch weder eine knöcherne Heilung noch vollständige Funktion. Infektion, verzögerte Heilung, Pseudarthrose und Bewegungseinschränkung bleiben möglich."
+            },
+            {
+              "type": "p",
+              "text": "Eine stabile Fixation kann frühere Bewegung ermöglichen, beseitigt aber das Risiko von Infektion, verzögerter Heilung oder Gelenksteife nicht."
             }
           ]
         },
@@ -4471,6 +4515,10 @@
             {
               "type": "p",
               "text": "Platten, Schrauben, Marknägel oder Fixateure stabilisieren Knochenfragmente. Die Implantate schaffen mechanische Voraussetzungen; der Knochen heilt durch körpereigene biologische Prozesse."
+            },
+            {
+              "type": "p",
+              "text": "Die Implantatwahl richtet sich nach Bruchform und Weichteilen; verschiedene Systeme sind für unterschiedliche Situationen gedacht."
             }
           ]
         },
@@ -4481,6 +4529,10 @@
             {
               "type": "p",
               "text": "Die Regeneration benötigt Zellen, Blutgefäße und biologische Signale. Primäre direkte Heilung erfolgt bei nahezu unbeweglichen, passend anliegenden Fragmenten meist ohne ausgeprägten äußeren Kallus. Sekundäre indirekte Heilung erfolgt unter relativer Stabilität durch Kallusbildung und späteren Umbau. Beides sind normale Heilungswege."
+            },
+            {
+              "type": "p",
+              "text": "Direkte Heilung entsteht durch Knochenumbau mit wenig äußerem Kallus; indirekte Heilung bildet vorübergehend Kallus, der später umgebaut wird."
             }
           ]
         },
@@ -4495,6 +4547,10 @@
             {
               "type": "p",
               "text": "Relative Stabilität erlaubt kontrollierte Mikrobewegungen mit Kallusbildung, etwa bei überbrückenden Platten, verriegelten Marknägeln oder externen Fixateuren. Bei Trümmerfrakturen werden Länge, Achse und Rotation wiederhergestellt, während Zwischenfragmente geschont werden. Zu viel Bewegung kann die Heilung behindern."
+            },
+            {
+              "type": "p",
+              "text": "Bei Gelenkflächen kann eine anatomische Reposition nötig sein. Relative Stabilität ist keine mangelhafte Fixation, übermäßige Bewegung aber schädlich."
             }
           ]
         },
@@ -4505,6 +4561,10 @@
             {
               "type": "p",
               "text": "Gefäße liefern Sauerstoff, Nährstoffe und Zellen. Eine umfangreiche Ablösung der Knochenhaut oder Verletzung der Muskulatur kann die Heilungsbedingungen verschlechtern. Biologische und minimalinvasive Osteosynthese versuchen, ausreichende Stabilität mit möglichst wenig zusätzlicher Gewebeschädigung zu verbinden."
+            },
+            {
+              "type": "p",
+              "text": "Ausgedehnte Ablösung der Knochenhaut oder Schädigung der Muskulatur kann die Durchblutung gefährden. Biologische Fixation schont lebensfähiges Gewebe."
             }
           ]
         },
@@ -4515,6 +4575,10 @@
             {
               "type": "p",
               "text": "Das vollständige Freilegen aller Fragmente einer Trümmerfraktur kann die Weichteile zusätzlich schädigen. Häufig reicht es, Länge, Achse und Rotation wiederherzustellen und die Hauptfragmente zu stabilisieren. Bei verschobenen Gelenkflächen kann hingegen eine genaue direkte Reposition notwendig sein."
+            },
+            {
+              "type": "p",
+              "text": "An Weichteilen haftende Zwischenfragmente behalten eher ihre Durchblutung. Eine verschobene Gelenkfläche kann dagegen direkte Reposition erfordern."
             }
           ]
         },
@@ -4525,6 +4589,10 @@
             {
               "type": "p",
               "text": "Nicht automatisch. Die Belastbarkeit hängt von Bruchstelle, Knochenqualität, Implantatkonfiguration, Fixationsstabilität und Heilungsverlauf ab. Manche Patienten dürfen früh mobilisieren, andere müssen die Belastung begrenzen. Vorgaben des Operateurs sind entscheidend."
+            },
+            {
+              "type": "p",
+              "text": "Belastung richtet sich nach Frakturlage, Knochenqualität, Implantatstabilität und Verlauf. Ein festes Implantat bedeutet keine automatische Vollbelastung."
             }
           ]
         },
@@ -4540,6 +4608,10 @@
             {
               "type": "p",
               "text": "Die Verfahren unterscheiden sich in Position und mechanischer Wirkung. Keine Methode ist grundsätzlich überlegen. Bruchform, Knochen- und Weichteilqualität sowie Behandlungsziel entscheiden; Verfahren können kombiniert werden."
+            },
+            {
+              "type": "p",
+              "text": "Verfahren können kombiniert und mehrzeitig durchgeführt werden. Mechanik und biologische Heilungsbedingungen sind gleichermaßen wichtig."
             }
           ]
         },
@@ -4562,6 +4634,10 @@
                 "Überbrückungsosteosynthese: stabilisiert Hauptfragmente, ohne jedes Zwischenfragment zu reponieren.",
                 "Winkelstabile Fixation: Schrauben verriegeln in der Platte und können bei ausgewählten Frakturen oder verminderter Knochenqualität hilfreich sein."
               ]
+            },
+            {
+              "type": "p",
+              "text": "Platten können Kompression, Überbrückung oder winkelstabile Fixation bieten. Das Ziel unterscheidet sich zwischen einfacher und mehrfragmentärer Fraktur."
             }
           ]
         },
@@ -4572,6 +4648,10 @@
             {
               "type": "p",
               "text": "Schrauben können allein oder gemeinsam mit Platten verwendet werden, etwa bei bestimmten Brüchen an Sprunggelenk, Hand, Fuß oder kleinen Gelenkfragmenten. Kopflose Kompressionsschrauben können bei geringem Überstand Druck zwischen Fragmenten erzeugen. Die Eignung hängt von Fragmentgröße und Stabilitätsbedarf ab."
+            },
+            {
+              "type": "p",
+              "text": "Kopflose Kompressionsschrauben können bei kleinen Knochen und Fragmenten Vorteile haben, reichen aber nicht bei jeder Fraktur allein aus."
             }
           ]
         },
@@ -4595,6 +4675,10 @@
                 "Die mechanischen Eigenschaften erlauben eine konstruktionsgerechte Kraftübertragung.",
                 "Frühe Mobilisation ist bei bestimmten Indikationen möglich."
               ]
+            },
+            {
+              "type": "p",
+              "text": "Verriegelungsschrauben sichern Länge und Rotation. Eine Aufbohrung kann erforderlich sein; nicht jede gelenknahe Fraktur eignet sich für einen Nagel."
             }
           ]
         },
@@ -4609,6 +4693,10 @@
             {
               "type": "p",
               "text": "Es gibt einseitige, Ring- und kombinierte Systeme. Wichtig sind Pin-Pflege, Weichteilkontrolle und Prüfung der Stabilität."
+            },
+            {
+              "type": "p",
+              "text": "Externe Fixateure können einseitig, ringförmig oder kombiniert sein und erfordern Kontrolle von Pin-Eintrittsstellen und Stabilität."
             }
           ]
         },
@@ -4619,6 +4707,10 @@
             {
               "type": "p",
               "text": "Bei der minimalinvasiven Plattenosteosynthese (MIPO) wird eine Platte über kleinere Schnitte eingebracht, ohne den gesamten Bruch freizulegen. Die Lage wird klinisch und mittels Durchleuchtung geprüft. Dies kann bei ausgewählten extraartikulären Trümmerfrakturen Gewebe schonen. Kleine Schnitte sind nicht stets besser; Gelenkflächen können eine offene Reposition erfordern."
+            },
+            {
+              "type": "p",
+              "text": "MIPO schont häufig den Frakturbereich, erfordert aber genaue Reposition und Bildkontrolle. Kleine Schnitte sind nicht bei allen Gelenkfrakturen sicherer."
             }
           ]
         },
@@ -4629,6 +4721,10 @@
             {
               "type": "p",
               "text": "Einzelne Fragmente können mit Schrauben versorgt werden, während eine Platte den gesamten Bruch stabilisiert. Auch zusätzliche Elemente bei Marknagelung sind möglich. Bei schweren Verletzungen kann auf einen vorläufigen Fixateur später eine definitive innere Fixation folgen."
+            },
+            {
+              "type": "p",
+              "text": "Bei schweren Verletzungen kann ein temporärer Fixateur später durch eine innere Osteosynthese ersetzt werden."
             }
           ]
         },
@@ -4650,6 +4746,10 @@
                 "Erforderliche absolute oder relative Stabilität.",
                 "Sichere Mobilisation und Rehabilitation."
               ]
+            },
+            {
+              "type": "p",
+              "text": "Beurteilt werden Fragmentzahl und -größe, Knochenqualität, Gelenknähe, Haut, Muskeln, Durchblutung und Rehabilitationsmöglichkeiten."
             }
           ]
         },
@@ -4664,6 +4764,10 @@
             {
               "type": "p",
               "text": "Am Oberarm kommen je nach Lage und Stabilität Orthese, Platte oder Nagel infrage. Die Stellung von Speiche und Elle beeinflusst die Unterarmdrehung. An Handgelenk und Fingern sind Gelenkflächen, Rotation und Versteifungsrisiko besonders wichtig; nicht jeder Bruch muss operiert werden."
+            },
+            {
+              "type": "p",
+              "text": "Die Unterarmdrehung setzt die korrekte Stellung von Speiche und Elle voraus. An Hand und Handgelenk ist das Risiko von Steifigkeit wichtig."
             }
           ],
           "divider": false
@@ -4674,6 +4778,10 @@
             {
               "type": "p",
               "text": "Bei Oberschenkel und Unterschenkel sind Länge, Achse und Rotation entscheidend. Viele Schaftbrüche werden genagelt; gelenknahe Verletzungen können Platten und Schrauben erfordern. Sprunggelenk und Fuß brauchen stabile Gelenkverhältnisse. Manche Schenkelhalsfrakturen, besonders im höheren Alter, werden mit einer Endoprothese statt Osteosynthese behandelt."
+            },
+            {
+              "type": "p",
+              "text": "Länge, Achse und Rotation bestimmen die Belastungsfunktion. Einige Schenkelhalsfrakturen älterer Patienten erfordern eine Endoprothese."
             }
           ],
           "divider": false
@@ -4684,6 +4792,10 @@
             {
               "type": "p",
               "text": "Reicht ein Bruch in die Gelenkfläche, müssen Form und Verschiebung genau beurteilt werden. Deutlich verschobene Flächen können eine anatomische Reposition und Fixation erfordern. Bewegungseinschränkung und posttraumatische Arthrose sind auch nach korrekter Versorgung möglich."
+            },
+            {
+              "type": "p",
+              "text": "Auch nach angemessener Fixation kann eine Gelenksteife oder posttraumatische Arthrose entstehen."
             }
           ],
           "divider": false
@@ -4694,6 +4806,10 @@
             {
               "type": "p",
               "text": "Bei vielen Fragmenten kann die Schonung der Weichteile wichtiger sein, als jedes Stück einzeln freizulegen. Bei einem offenen Bruch besteht eine Verbindung zur Außenwelt durch eine Wunde, selbst wenn der Knochen nicht sichtbar ist. Er benötigt unverzügliche Behandlung mit gegebenenfalls Antibiotika, Debridement, Stabilisierung und Weichteildeckung."
+            },
+            {
+              "type": "p",
+              "text": "Eine offene Fraktur ist auch ohne sichtbaren Knochen dringend. Antibiotika, Debridement, Stabilisierung und Weichteildeckung können erforderlich sein."
             }
           ],
           "divider": false
@@ -4710,6 +4826,10 @@
             {
               "type": "p",
               "text": "Die Vorbereitung dient der Planung der Fixation und Einschätzung von Risiken. Umfang und Zeitpunkt hängen von Verletzung, Gesundheit und Dringlichkeit ab."
+            },
+            {
+              "type": "p",
+              "text": "Bei der Planung wird geprüft, ob ein Eingriff ausreicht oder aufgrund von Schwellung und Gewebeschaden mehrere Etappen nötig sind."
             }
           ]
         },
@@ -4720,6 +4840,10 @@
             {
               "type": "p",
               "text": "Nach Untersuchung und Röntgen beziehungsweise CT werden Implantat, ein- oder mehrzeitiges Vorgehen und die voraussichtliche Nachbehandlung besprochen. Dazu gehören Nutzen, mögliche Komplikationen und Alternativen."
+            },
+            {
+              "type": "p",
+              "text": "Implantatwahl, Belastungsgrenzen und Alternativen sollen vor dem Eingriff soweit möglich besprochen werden."
             }
           ]
         },
@@ -4739,6 +4863,10 @@
                 "Medikamentenallergien mitteilen.",
                 "Frühere Narkosekomplikationen erwähnen."
               ]
+            },
+            {
+              "type": "p",
+              "text": "Besonders wichtig ist die Angabe von Antikoagulanzien und Thrombozytenhemmern. Medikamente niemals ohne Rücksprache verändern."
             }
           ]
         },
@@ -4758,6 +4886,10 @@
                 "Fieber, neue Beschwerden oder Gesundheitsveränderungen melden.",
                 "Befunde, Untersuchungsergebnisse und Medikamentenliste mitbringen."
               ]
+            },
+            {
+              "type": "p",
+              "text": "Nüchternheit, Flüssigkeitsaufnahme, Dauermedikation und Ankunft richten sich nach Narkose und Dringlichkeit."
             }
           ]
         },
@@ -4768,6 +4900,10 @@
             {
               "type": "p",
               "text": "Je nach Eingriff sind Vollnarkose oder Regionalanästhesie möglich, teils mit Sedierung. Die Vollnarkose versetzt in Schlaf, eine Regionalanästhesie betäubt einen Körperbereich. Die Anästhesie wird individuell ausgewählt und die Vitalfunktionen werden überwacht."
+            },
+            {
+              "type": "p",
+              "text": "Vollnarkose bewirkt Bewusstlosigkeit; Regionalanästhesie betäubt einen Bereich, eventuell mit Sedierung. Vitalfunktionen werden überwacht."
             }
           ]
         },
@@ -4788,6 +4924,10 @@
                 "Kontrolle: häufig Durchleuchtung zur Prüfung von Fragmenten und Implantaten.",
                 "Abschluss: Blutstillung, Wundverschluss, Verband und gegebenenfalls zusätzliche Ruhigstellung."
               ]
+            },
+            {
+              "type": "p",
+              "text": "Bei komplexen Verletzungen können zusätzliche Eingriffe oder eine andere Reihenfolge erforderlich sein."
             }
           ]
         },
@@ -4798,6 +4938,10 @@
             {
               "type": "p",
               "text": "Die Dauer hängt von Bruchstelle, Zahl der Fragmente, Weichteilen und Methode ab. Eine genauere Einschätzung ist erst nach Planung möglich; eine feste Dauer für alle Patienten gibt es nicht."
+            },
+            {
+              "type": "p",
+              "text": "Dauer hängt von Lokalisation, Fragmentzahl, Weichteilen und Komplexität ab; die OP-Bezeichnung allein liefert keine verlässliche Zeit."
             }
           ]
         },
@@ -4808,6 +4952,10 @@
             {
               "type": "p",
               "text": "Schmerzen, Verband, Durchblutung, Sensibilität und Allgemeinzustand werden kontrolliert. Es erfolgen Schmerztherapie und nach individuellem Risiko Thromboseprophylaxe. Sichere Mobilisation beginnt, sobald dies möglich ist."
+            },
+            {
+              "type": "p",
+              "text": "Nach der Operation werden Schmerz, Wunde, Durchblutung und Sensibilität kontrolliert. Thromboseprophylaxe richtet sich nach individuellem Risiko."
             }
           ]
         },
@@ -4818,6 +4966,10 @@
             {
               "type": "p",
               "text": "Die Aufenthaltsdauer hängt von Verletzung, Operation, Begleittrauma und häuslicher Versorgung ab. Vor Entlassung gibt es Anweisungen zu Wunde, Medikamenten, Bewegung, Belastung, Kontrollen und Physiotherapie. Entlassung bedeutet noch keine vollständige Knochenheilung."
+            },
+            {
+              "type": "p",
+              "text": "Vor Entlassung werden Wundpflege, Schmerzmedikation, Bewegungen, Belastung und Nachsorge konkret erklärt."
             }
           ]
         },
@@ -4833,6 +4985,10 @@
             {
               "type": "p",
               "text": "Ziele sind Knochenheilung, Gelenkbeweglichkeit, Muskelkraft und Alltagsfunktion. Dauer und Belastungsfreigabe richten sich nach Fraktur, Fixation, Weichteilen und Gesundheit."
+            },
+            {
+              "type": "p",
+              "text": "Funktionelle Erholung dauert oft länger als der radiologische Knochenumbau. Rehabilitation dient Beweglichkeit, Kraft und Selbstständigkeit."
             }
           ]
         },
@@ -4843,6 +4999,10 @@
             {
               "type": "p",
               "text": "Schmerz, Schwellung, Blutergüsse und eingeschränkte Bewegung sind zunächst häufig. Schmerzmittel, Wundpflege, Hochlagerung und gegebenenfalls Orthese werden individuell empfohlen. Rasche Verschlechterung muss überprüft werden."
+            },
+            {
+              "type": "p",
+              "text": "Je nach Verletzung werden Hochlagerung oder Orthese empfohlen. Zunehmende Beschwerden müssen gemeldet werden."
             }
           ]
         },
@@ -4853,6 +5013,10 @@
             {
               "type": "p",
               "text": "Frühe sichere Bewegung kann Steifigkeit und Muskelschwäche vermindern. Zeitpunkt und Umfang richten sich nach Bruch und Fixation. Nach Unterarmverletzungen sind Hand- und Ellenbogenfunktion, nach Beinverletzungen Gang und Beweglichkeit wichtig. Die Übungen werden mit ärztlicher und physiotherapeutischer Anleitung abgestimmt."
+            },
+            {
+              "type": "p",
+              "text": "Beginn und Ausmaß der Übungen hängen von Fixation und Gewebe ab; frühe Bewegung muss sicher sein."
             }
           ]
         },
@@ -4872,6 +5036,10 @@
                 "Ob eine Gelenkfläche verletzt ist.",
                 "Wie die Knochenheilung bei Kontrollen verläuft."
               ]
+            },
+            {
+              "type": "p",
+              "text": "Gehen mit Krücken ist nicht dasselbe wie Vollbelastung. Die Freigabe kann nach Kontrollen angepasst werden."
             }
           ]
         },
@@ -4882,6 +5050,10 @@
             {
               "type": "p",
               "text": "Meist Wochen bis Monate, ohne allgemein gültigen Zeitraum. Schwere, offene und mehrfragmentäre Brüche können länger benötigen. Durchblutung, Stabilität und Erkrankungen beeinflussen die Heilung. Funktionelle Rehabilitation kann nach radiologischer Heilung weiter nötig sein."
+            },
+            {
+              "type": "p",
+              "text": "Knöcherne Heilung und vollständige Funktionsrückkehr sind verschieden; Kraft und Beweglichkeit können sich danach weiter erholen."
             }
           ]
         },
@@ -4901,6 +5073,10 @@
                 "Gehen, Gleichgewicht und Koordination.",
                 "Alltags- und berufliche Fähigkeiten."
               ]
+            },
+            {
+              "type": "p",
+              "text": "Physiotherapie kann Kraftübungen, Gangschule, Gleichgewicht und Alltags- sowie Berufsaktivitäten umfassen."
             }
           ]
         },
@@ -4911,6 +5087,10 @@
             {
               "type": "p",
               "text": "Bürotätigkeit kann früher möglich sein als schwere körperliche Arbeit. Sport setzt ausreichende Kraft, Beweglichkeit, Koordination und Belastbarkeit voraus. Die Entscheidung richtet sich nach Untersuchung, Bildgebung und Funktion, nicht nur nach Wochenzahlen."
+            },
+            {
+              "type": "p",
+              "text": "Sportliche Belastung erfordert Kraft, Beweglichkeit und Koordination, nicht nur genügend vergangene Wochen."
             }
           ]
         },
@@ -4921,6 +5101,10 @@
             {
               "type": "p",
               "text": "Kontrolliert werden Wunde, Schwellung, Beweglichkeit, Stellung der Fragmente und Implantate sowie knöcherne Heilung. Röntgen und Belastungssteigerung werden individuell geplant. Manche Gespräche sind online möglich, notwendige körperliche Untersuchungen jedoch nicht ersetzbar."
+            },
+            {
+              "type": "p",
+              "text": "Ein Teil der Kontrollen kann online erfolgen, notwendige körperliche Untersuchungen werden dadurch nicht ersetzt."
             }
           ]
         },
@@ -4941,6 +5125,10 @@
                 "Neue starke Schmerzen oder Instabilitätsgefühl.",
                 "Einseitige schmerzhafte Schwellung von Wade oder Oberschenkel."
               ]
+            },
+            {
+              "type": "p",
+              "text": "Warnzeichen können für Gefäß-, Nerven-, Infektions- oder thromboembolische Probleme sprechen und benötigen rasche Abklärung."
             }
           ]
         },
@@ -4951,6 +5139,10 @@
             {
               "type": "p",
               "text": "Ausreichend Eiweiß und Ernährung, Ausgleich nachgewiesener Mängel, Behandlung von Grunderkrankungen, Rauch- und Nikotinverzicht sowie Einhaltung von Belastungs- und Physiotherapieplänen unterstützen die Heilung. Eine stufenweise Rückkehr ist besser als Eile."
+            },
+            {
+              "type": "p",
+              "text": "Ausreichende Ernährung, Nikotinverzicht und gute Einstellung chronischer Krankheiten unterstützen die Heilung. Ergänzungen sollten festgestellte Mängel ausgleichen."
             }
           ]
         },
@@ -4966,6 +5158,10 @@
             {
               "type": "p",
               "text": "Viele Frakturen verheilen, dennoch ist kein Eingriff risikofrei. Möglich sind verzögerte Heilung, Pseudarthrose, Fehlstellung, Infektion, Bewegungseinschränkung oder Beschwerden am Implantat. Kontrollen helfen bei früher Erkennung."
+            },
+            {
+              "type": "p",
+              "text": "Auch nach zunächst unauffälligem Verlauf sind spätere Probleme möglich, weshalb Kontrollen wichtig bleiben."
             }
           ]
         },
@@ -4976,6 +5172,10 @@
             {
               "type": "p",
               "text": "Bei verzögerter Konsolidierung heilt der Bruch langsamer als erwartet; bei Pseudarthrose schreitet die Heilung unzureichend fort. Mögliche Ursachen sind fehlende Stabilität, schwerer Gewebeschaden, Durchblutungsstörung oder Infektion. Nach Diagnostik können Belastungsanpassung, erneute Fixation oder Knochentransplantation nötig sein."
+            },
+            {
+              "type": "p",
+              "text": "Verzögerte Heilung oder Pseudarthrose erfordern die Prüfung sowohl biologischer als auch mechanischer Ursachen."
             }
           ]
         },
@@ -4986,6 +5186,10 @@
             {
               "type": "p",
               "text": "Ein Knochen kann in abweichender Länge, Achse oder Rotation verheilen. Nicht jede Fehlstellung muss korrigiert werden. Beschwerden und funktionelle Einschränkungen entscheiden über die Notwendigkeit einer Korrektur."
+            },
+            {
+              "type": "p",
+              "text": "Ob eine Fehlheilung korrigiert werden muss, hängt von Schmerzen, Ausmaß, Ort und Funktion ab, nicht nur vom Röntgenbild."
             }
           ]
         },
@@ -5000,6 +5204,10 @@
             {
               "type": "p",
               "text": "Für die Diagnose sind Labor, Bildgebung und gegebenenfalls intraoperativ gewonnene Gewebeproben nötig. Therapieoptionen sind chirurgisches Debridement, Antibiotika und Erhalt, Wechsel oder Entfernung des Implantats. Stabile Implantate müssen nicht immer sofort entfernt werden. Keine eigenständige Antibiotikatherapie; bei schwerer Allgemeininfektion sofort behandeln lassen."
+            },
+            {
+              "type": "p",
+              "text": "Eine tiefe frakturassoziierte Infektion kann ohne Fieber auftreten. Gewebeproben können nötig sein; stabile Implantate können manchmal erhalten bleiben."
             }
           ]
         },
@@ -5010,6 +5218,10 @@
             {
               "type": "p",
               "text": "Weichteilreizung, Schmerzen, Lockerung oder Bruch der Konstruktion sind möglich. Ursachen können Belastung, verzögerte Heilung oder Frakturmechanik sein, nicht zwingend Materialqualität. Neue Schmerzen, Fehlstellung oder Instabilität müssen abgeklärt werden."
+            },
+            {
+              "type": "p",
+              "text": "Lockerung oder Implantatbruch können auf Überlastung oder fehlende Heilung hinweisen und erfordern Ursachensuche."
             }
           ]
         },
@@ -5029,6 +5241,10 @@
                 "Infektion oder Instabilität der Fixation.",
                 "Andere individuelle medizinische Gründe."
               ]
+            },
+            {
+              "type": "p",
+              "text": "Materialentfernung birgt selbst Risiken wie Infektion, Nervenverletzung und erneuten Bruch; sie ist nicht grundsätzlich nötig."
             }
           ]
         },
@@ -5039,6 +5255,10 @@
             {
               "type": "p",
               "text": "Bei Pseudarthrose, relevanter Fehlstellung, Infektion oder instabiler Fixation kann eine Revision erforderlich sein. Vorher müssen Ursachen und Knochen- beziehungsweise Weichteilzustand untersucht werden. Nicht jede Komplikation benötigt eine Operation; ausbleibende Heilung oder anhaltende Schmerzen brauchen Abklärung."
+            },
+            {
+              "type": "p",
+              "text": "Vor Revision ist zu klären, ob mechanische, biologische, infektiöse oder kombinierte Ursachen vorliegen."
             }
           ]
         },
@@ -5054,6 +5274,10 @@
             {
               "type": "p",
               "text": "Dr. Maksym Baida bewertet Befunde, Röntgen oder CT und erläutert Behandlungsmöglichkeiten, Risiken und Nachsorge. Ziel ist eine geeignete Behandlung, nicht automatisch eine Operationsindikation."
+            },
+            {
+              "type": "p",
+              "text": "Eine Beratung soll begründete Optionen einschließlich konservativer Behandlung aufzeigen, nicht automatisch zur Operation führen."
             }
           ]
         },
@@ -5068,6 +5292,10 @@
             {
               "type": "p",
               "text": "Der Fall zeigt die gewählte Operation, garantiert aber weder Heilungszeit noch späteres Funktionsergebnis."
+            },
+            {
+              "type": "p",
+              "text": "Der dokumentierte Schienbeinfall zeigt die postoperative Stellung und Fixation, aber keine garantierten Heilungszeiten oder Langzeitergebnisse."
             }
           ],
           "caseImages": [
@@ -5093,6 +5321,10 @@
                 "Dauer des Klinikaufenthalts.",
                 "Zusätzliche Untersuchungen oder Maßnahmen."
               ]
+            },
+            {
+              "type": "p",
+              "text": "Der endgültige Kostenvoranschlag richtet sich nach Untersuchung, Implantaten, OP, Anästhesie und Klinikleistungen."
             }
           ]
         },
@@ -5112,6 +5344,10 @@
                 "Unterlagen über bereits erfolgte Behandlungen.",
                 "Kurze Angaben zu Zeitpunkt, Hergang und Beschwerden."
               ]
+            },
+            {
+              "type": "p",
+              "text": "Eine Zweitmeinung ist möglich, solange dadurch notwendige Notfallbehandlung nicht verzögert wird."
             }
           ]
         },
@@ -5137,6 +5373,10 @@
               "type": "link",
               "href": "/de/treatments/3d-implants/",
               "text": "Individuelle 3D-Implantate"
+            },
+            {
+              "type": "p",
+              "text": "Pseudarthrose, Defekte, Infektionen und Deformitäten können spezielle rekonstruktive Behandlungsplanung erfordern."
             }
           ]
         },
