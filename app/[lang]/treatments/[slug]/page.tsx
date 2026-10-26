@@ -271,6 +271,49 @@ function BlockBody({ block, hideDiagram = false }: { block: Block; hideDiagram?:
   );
 }
 
+const avnOpening: Record<Locale, { lead: string; paragraphs: string[]; calloutTitle: string; callout: string }> = {
+  uk: {
+    lead: "Рання діагностика та індивідуальний вибір лікування",
+    paragraphs: [
+      "Асептичний (аваскулярний) некроз — це захворювання, при якому порушення кровопостачання призводить до загибелі ділянки кісткової тканини головки стегнової кістки. У міру прогресування може виникнути субхондральний перелом, деформація головки та вторинний артроз кульшового суглоба.",
+      "Виявлення захворювання до розвитку колапсу головки може зберегти можливість органозберігального лікування. Однак вибір методу залежить не лише від стадії, а й від розміру та розташування некротичної ділянки, симптомів і стану суглоба.",
+      "Наявність асептичного некрозу не означає автоматичної необхідності ендопротезування. Під час консультації ми оцінюємо МРТ, рентгенограми та клінічну картину, щоб визначити обґрунтовані варіанти лікування.",
+    ],
+    calloutTitle: "Коли варто звернутися?",
+    callout: "Якщо у вас з'явився незрозумілий біль у паху або кульшовому суглобі, чи вже виявлено ознаки некрозу на МРТ, доцільно своєчасно визначити стадію захворювання та ризик його прогресування.",
+  },
+  en: {
+    lead: "Early diagnosis and an individualised choice of treatment",
+    paragraphs: [
+      "Avascular (aseptic) necrosis is a condition in which impaired blood supply causes the death of an area of bone tissue within the femoral head. As the disease progresses, a subchondral fracture, femoral head deformity and secondary osteoarthritis of the hip may develop.",
+      "Detecting the condition before femoral head collapse may preserve the option of joint-preserving treatment. However, treatment depends not only on the stage, but also on the size and location of the necrotic lesion, symptoms and the condition of the joint.",
+      "A diagnosis of avascular necrosis does not automatically mean that hip replacement is necessary. During the consultation, we review MRI scans, X-rays and clinical findings to identify evidence-based treatment options.",
+    ],
+    calloutTitle: "When should you seek an assessment?",
+    callout: "If you develop unexplained groin or hip pain, or if MRI has already shown signs of osteonecrosis, a timely assessment of the disease stage and risk of progression is advisable.",
+  },
+  de: {
+    lead: "Frühzeitige Diagnose und individuelle Behandlungsentscheidung",
+    paragraphs: [
+      "Die aseptische (avaskuläre) Hüftkopfnekrose ist eine Erkrankung, bei der eine gestörte Blutversorgung zum Absterben eines Bereichs des Knochengewebes im Hüftkopf führt. Im Verlauf können eine subchondrale Fraktur, eine Verformung des Hüftkopfes und eine sekundäre Hüftarthrose entstehen.",
+      "Wird die Erkrankung vor einem Kollaps des Hüftkopfes erkannt, kann die Möglichkeit einer gelenkerhaltenden Behandlung bestehen bleiben. Die Wahl der Methode hängt jedoch nicht nur vom Stadium ab, sondern auch von Größe und Lage der Nekrosezone, den Beschwerden und dem Gelenkzustand.",
+      "Die Diagnose einer Hüftkopfnekrose bedeutet nicht automatisch, dass ein künstliches Hüftgelenk erforderlich ist. Bei der Beratung beurteilen wir MRT, Röntgenaufnahmen und klinische Befunde, um medizinisch begründete Behandlungsoptionen festzulegen.",
+    ],
+    calloutTitle: "Wann sollten Sie sich untersuchen lassen?",
+    callout: "Bei unerklärlichen Schmerzen in der Leiste oder Hüfte oder wenn im MRT bereits Zeichen einer Hüftkopfnekrose festgestellt wurden, ist eine zeitnahe Einschätzung des Krankheitsstadiums und des Fortschreitungsrisikos sinnvoll.",
+  },
+  pl: {
+    lead: "Wczesna diagnostyka i indywidualny dobór leczenia",
+    paragraphs: [
+      "Jałowa (awaskularna) martwica głowy kości udowej to choroba, w której zaburzenie ukrwienia prowadzi do obumarcia części tkanki kostnej głowy kości udowej. W miarę postępu choroby może dojść do złamania podchrzęstnego, deformacji głowy kości udowej i wtórnej choroby zwyrodnieniowej stawu biodrowego.",
+      "Rozpoznanie choroby przed zapadnięciem się głowy kości udowej może pozwolić zachować możliwość leczenia oszczędzającego staw. Wybór metody zależy jednak nie tylko od stadium, ale również od wielkości i lokalizacji ogniska martwicy, objawów oraz stanu stawu.",
+      "Rozpoznanie jałowej martwicy nie oznacza automatycznie konieczności endoprotezoplastyki. Podczas konsultacji oceniamy badania MRI, zdjęcia rentgenowskie i obraz kliniczny, aby ustalić uzasadnione medycznie możliwości leczenia.",
+    ],
+    calloutTitle: "Kiedy warto zgłosić się na konsultację?",
+    callout: "Jeśli wystąpił niewyjaśniony ból pachwiny lub stawu biodrowego albo w badaniu MRI wykryto już cechy martwicy, warto odpowiednio wcześnie ocenić stadium choroby i ryzyko jej postępu.",
+  },
+};
+
 function RichDetail({
   dict,
   lang,
@@ -353,7 +396,7 @@ function RichDetail({
                 {article.title}
               </h1>
               <p className="mt-5 text-white/80 text-lg sm:text-xl font-light leading-relaxed">
-                {article.lead}
+                {slug === "avn" ? avnOpening[lang].lead : article.lead}
               </p>
             </div>
           </div>
@@ -378,7 +421,18 @@ function RichDetail({
               <p className="text-ink text-lg leading-relaxed">{article.intro}</p>
             </div>
           ) : (
-            <p className="text-ink text-lg leading-relaxed">{article.intro}</p>
+            <p className="text-ink text-lg leading-relaxed">{slug === "avn" ? avnOpening[lang].paragraphs[0] : article.intro}</p>
+          )}
+
+          {slug === "avn" && (
+            <section aria-label={avnOpening[lang].lead} className="mt-5 space-y-4 text-ink text-lg leading-relaxed">
+              <p className="font-medium">{avnOpening[lang].paragraphs[1]}</p>
+              <p>{avnOpening[lang].paragraphs[2]}</p>
+              <div className="rounded-[8px] border border-hairline bg-cream/60 px-5 py-4 sm:px-6">
+                <h2 className="text-base font-semibold text-ink mb-2">{avnOpening[lang].calloutTitle}</h2>
+                <p className="text-base">{avnOpening[lang].callout}</p>
+              </div>
+            </section>
           )}
 
           <div className="mt-4">
