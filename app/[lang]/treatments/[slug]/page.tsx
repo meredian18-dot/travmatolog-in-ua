@@ -493,7 +493,7 @@ function RichDetail({
                           <p className="text-center text-xs text-ink-muted mt-2">{zoomHint[lang]}</p>
                         </div>
                         <div className="min-w-0 space-y-3 text-ink leading-relaxed">
-                          {block.body.slice(0, 3).map((item, idx) => <p key={idx}>{item.text}</p>)}
+                          {block.body.slice(0, 1).map((item, idx) => <p key={idx}>{item.text}</p>)}
                           <div className="rounded-lg border border-hairline bg-white/65 p-4">
                             <ul className="space-y-2 text-sm">
                               {(["I", "II", "IIIA", "IIIB", "IV"] as const).map((stage, idx) => (
@@ -512,7 +512,7 @@ function RichDetail({
                         </div>
                       </div>
                       <div className="space-y-3.5 text-ink leading-relaxed">
-                        <BlockBody block={{ ...block, body: block.body.slice(3) }} hideDiagram />
+                        <BlockBody block={{ ...block, body: block.body.slice(1) }} hideDiagram />
                       </div>
                     </div>
                   ) : caseLayout ? (
