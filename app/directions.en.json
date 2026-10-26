@@ -2791,25 +2791,6 @@
           ]
         },
         {
-          "heading": "When You Should See a Doctor",
-          "body": [
-            {
-              "type": "list",
-              "items": [
-                "pain has appeared in the groin or hip joint without an obvious injury",
-                "pain occurs during walking or exertion",
-                "hip joint mobility has decreased",
-                "you have developed a limp",
-                "the pain is gradually increasing",
-                "an MRI or X-ray has revealed signs of avascular necrosis",
-                "avascular necrosis has already been diagnosed, but you need to determine further treatment strategy",
-                "both hip joints are affected"
-              ]
-            }
-          ],
-          "divider": false
-        },
-        {
           "heading": "What causes avascular necrosis of the femoral head?",
           "divider": false,
           "body": [
@@ -2859,6 +2840,74 @@
           ]
         },
         {
+          "heading": "Symptoms of avascular necrosis: how to recognise early signs",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Avascular necrosis of the femoral head can develop for a long time without obvious symptoms. In early stages, a person may experience no pain even though MRI already shows changes in bone tissue."
+            },
+            {
+              "type": "p",
+              "text": "Early symptoms are often non-specific and can resemble other disorders of the hip or lumbar spine."
+            },
+            {
+              "type": "p",
+              "text": "Main symptoms"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Groin pain. One of the most characteristic symptoms. It may develop gradually and worsen when walking, standing for a long time or exercising.",
+                "Pain spreading to the thigh or knee. Discomfort may occur not only around the hip but also in the buttock, front of the thigh or knee, which can make the source difficult to identify initially.",
+                "Pain when bearing weight. Initially pain may occur only with heavier loads. As the condition progresses, it may develop during ordinary walking and, at later stages, at rest.",
+                "Restricted hip movement. Internal rotation and abduction may gradually decrease. Putting on shoes or socks and making familiar movements may become difficult.",
+                "Limping and changes in gait. Pain and loss of hip function may cause a person to protect the affected leg and shorten the time spent bearing weight on it."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Can avascular necrosis occur without pain?"
+            },
+            {
+              "type": "p",
+              "text": "Yes. Early osteonecrosis is sometimes detected incidentally or during investigation of the other hip."
+            },
+            {
+              "type": "p",
+              "text": "An absence of pain therefore does not always mean the absence of disease. This is particularly important for people with known risk factors or osteonecrosis already diagnosed in the opposite femoral head."
+            },
+            {
+              "type": "p",
+              "text": "Can the disease stage be determined from symptoms?"
+            },
+            {
+              "type": "p",
+              "text": "No. The severity of pain does not always correspond to the size of the necrotic lesion or the extent of structural damage."
+            },
+            {
+              "type": "p",
+              "text": "Some patients with relatively small lesions experience marked pain, while larger lesions may remain only mildly symptomatic for a time."
+            },
+            {
+              "type": "p",
+              "text": "Staging therefore requires assessment of symptoms alongside X-rays and MRI findings."
+            },
+            {
+              "type": "p",
+              "text": "What changes deserve special attention?"
+            },
+            {
+              "type": "p",
+              "text": "If hip pain suddenly or noticeably worsens, or a limp or difficulty bearing weight develops, prompt clinical assessment is needed."
+            },
+            {
+              "type": "p",
+              "text": "These changes may indicate progression of osteonecrosis, including a subchondral fracture, but other causes of pain must also be ruled out."
+            }
+          ]
+        },
+        {
           "heading": "Why It's Important to Determine the Stage of the Disease",
           "body": [
             {
@@ -2880,6 +2929,22 @@
           ],
           "divider": false,
           "diagram": "avn-stages.jpg"
+        },
+        {
+          "heading": "When should you consult an orthopaedic specialist?",
+          "divider": false,
+          "body": [
+            {
+              "type": "list",
+              "items": [
+                "MRI or X-rays show signs of avascular necrosis of the femoral head.",
+                "The diagnosis is established, but the stage and next treatment steps remain unclear.",
+                "Hip replacement has been recommended, but you want to know whether evidence-based joint-preserving options remain.",
+                "Pain is worsening or hip function is declining.",
+                "You need an assessment of progression risk or follow-up of a previously identified necrotic lesion."
+              ]
+            }
+          ]
         },
         {
           "heading": "Is Hip Replacement Always Necessary?",
