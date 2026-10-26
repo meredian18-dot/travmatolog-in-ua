@@ -4282,6 +4282,10 @@
             {
               "type": "p",
               "text": "Złamaniu może towarzyszyć uszkodzenie stawów, mięśni, naczyń i nerwów. Nie każde złamanie wymaga operacji — czasem wystarczają gips, orteza lub nastawienie zamknięte. O wyborze leczenia decydują przemieszczenie odłamów, stabilność, stan tkanek miękkich i potrzeby pacjenta."
+            },
+            {
+              "type": "p",
+              "text": "Złamanie może powstać w urazie lub w osłabionej kości. Operację rozważa się, gdy daje istotną przewagę nad unieruchomieniem lub repozycją zamkniętą."
             }
           ]
         },
@@ -4307,6 +4311,10 @@
                 "Szybko narastający silny ból, zwłaszcza z napiętym obrzękiem.",
                 "Ciężki uraz po wypadku drogowym, upadku z wysokości, wybuchu lub innym urazie wysokoenergetycznym."
               ]
+            },
+            {
+              "type": "p",
+              "text": "Zespół ciasnoty przedziałów powięziowych to wzrost ciśnienia upośledzający ukrwienie tkanek. Narastający silny ból i napięty obrzęk są pilnymi objawami także przy złamaniu zamkniętym."
             }
           ]
         },
@@ -4325,6 +4333,10 @@
                 "MRI: wybrane wskazania, np. podejrzenie utajonego złamania lub urazów tkanek miękkich.",
                 "Badania naczyń: przy podejrzeniu zaburzenia ukrwienia kończyny."
               ]
+            },
+            {
+              "type": "p",
+              "text": "Zakres badań wynika z obrazu klinicznego; MRI czy badanie naczyń nie są potrzebne rutynowo u każdego pacjenta."
             }
           ]
         },
@@ -4335,6 +4347,10 @@
             {
               "type": "p",
               "text": "Stabilne złamania w akceptowalnym ustawieniu można czasem leczyć unieruchomieniem lub repozycją zamkniętą. Konieczne są kontrole i w razie potrzeby powtórne RTG, aby wykryć wtórne przemieszczenie. Jeśli odpowiedniej pozycji nie da się utrzymać, rozważa się zespolenie operacyjne."
+            },
+            {
+              "type": "p",
+              "text": "Leczenie bez operacji również wymaga kontroli. Wtórne przemieszczenie może wymagać zmiany postępowania."
             }
           ]
         },
@@ -4345,6 +4361,10 @@
             {
               "type": "p",
               "text": "Po niezbędnym leczeniu wstępnym można omówić wskazania do operacji, alternatywy lub uzyskać drugą opinię. Przygotuj RTG albo TK, opisy i historię leczenia. Dokumenty z zagranicy można przesłać wcześniej, jednak ocena zdalna nie zastępuje pilnego badania."
+            },
+            {
+              "type": "p",
+              "text": "Zdjęcia, TK, opisy i informacje o wcześniejszym leczeniu pomagają zaplanować wizytę. Ocena zdalna nie zastępuje badania świeżego urazu."
             }
           ]
         },
@@ -4360,6 +4380,10 @@
             {
               "type": "p",
               "text": "Celem jest prawidłowy zrost i przywrócenie funkcji kończyny. Operacja nie zawsze jest lepsza. Uwzględnia się lokalizację, przemieszczenie, stabilność, powierzchnie stawowe, tkanki miękkie, choroby współistniejące i potrzeby pacjenta."
+            },
+            {
+              "type": "p",
+              "text": "Celem jest zrost oraz odzyskanie funkcji; sam obraz RTG nie rozstrzyga o korzyści z operacji."
             }
           ]
         },
@@ -4395,6 +4419,10 @@
             {
               "type": "p",
               "text": "Nie. Dopuszczalny kąt, rotacja, skrócenie i odstęp między odłamami zależą od kości i lokalizacji. Małe przemieszczenie w obrębie stawu może być ważniejsze niż większe poza stawem. Nie ma jednego limitu w milimetrach dla wszystkich złamań."
+            },
+            {
+              "type": "p",
+              "text": "Przemieszczenie obejmuje nie tylko odstęp odłamów, lecz także kąt, rotację i skrócenie. Dopuszczalne wartości zależą od kości i funkcji."
             }
           ]
         },
@@ -4415,6 +4443,10 @@
                 "Przewidywane korzyści z operacji nie uzasadniają jej ryzyka.",
                 "Choroby współistniejące lub czynniki osobiste zmieniają stosunek korzyści do ryzyka."
               ]
+            },
+            {
+              "type": "p",
+              "text": "Wybrane złamania ramienia, obojczyka, kości promieniowej i stopy można leczyć zachowawczo. Sama nazwa kości nie wystarcza do wyboru."
             }
           ]
         },
@@ -4425,6 +4457,10 @@
             {
               "type": "p",
               "text": "Skóra, mięśnie, nerwy i naczynia wpływają na plan. Złamania otwarte, zabrudzone rany lub duży obrzęk mogą wymagać kilku etapów: najpierw opracowania rany i czasowego stabilizatora zewnętrznego, następnie ostatecznego zespolenia. Pilnej pomocy nie wolno jednak opóźniać."
+            },
+            {
+              "type": "p",
+              "text": "Otwarte urazy i znaczny obrzęk mogą wymagać leczenia etapowego z opracowaniem rany i tymczasową stabilizacją."
             }
           ]
         },
@@ -4446,6 +4482,10 @@
                 "Aktywność, zawód i potrzeby funkcjonalne.",
                 "Możliwość przestrzegania ograniczeń, rehabilitacji i wizyt kontrolnych."
               ]
+            },
+            {
+              "type": "p",
+              "text": "Pacjent powinien w miarę możliwości uczestniczyć w rozmowie o alternatywach, korzyściach i powikłaniach."
             }
           ]
         },
@@ -4456,6 +4496,10 @@
             {
               "type": "p",
               "text": "Prawidłowe zespolenie przywraca potrzebne ustawienie i stabilność, czasem umożliwiając wcześniejsze ćwiczenia. Nie gwarantuje zrostu ani pełnej sprawności. Możliwe są zakażenie, opóźniony zrost, brak zrostu, sztywność i inne powikłania."
+            },
+            {
+              "type": "p",
+              "text": "Wcześniejszy ruch może być możliwy po stabilizacji, ale nadal istnieje ryzyko zakażenia, opóźnionego zrostu i sztywności."
             }
           ]
         },
@@ -4471,6 +4515,10 @@
             {
               "type": "p",
               "text": "Osteosynteza to chirurgiczna stabilizacja odłamów płytkami, śrubami, gwoździami śródszpikowymi, drutami lub stabilizatorami zewnętrznymi. Implant zapewnia warunki mechaniczne, ale kość zrasta się dzięki biologicznym procesom organizmu."
+            },
+            {
+              "type": "p",
+              "text": "Dobór implantu musi uwzględniać wzór złamania i tkanki miękkie; konstrukcje mają odmienne zastosowania."
             }
           ]
         },
@@ -4481,6 +4529,10 @@
             {
               "type": "p",
               "text": "Regeneracja wymaga komórek, naczyń i procesów biologicznych. Zrost pierwotny, bezpośredni, zachodzi przy prawie całkowitym braku ruchu i dokładnym kontakcie odłamów, zwykle bez dużej kostniny zewnętrznej. Zrost wtórny przebiega przy stabilności względnej z tworzeniem kostniny i jej przebudową. Oba mechanizmy są prawidłowe."
+            },
+            {
+              "type": "p",
+              "text": "Zrost bezpośredni zachodzi przez przebudowę kości z niewielką kostniną, a pośredni przez tworzenie kostniny, która później dojrzewa."
             }
           ]
         },
@@ -4495,6 +4547,10 @@
             {
               "type": "p",
               "text": "Stabilność względna umożliwia kontrolowane mikroruchy i tworzenie kostniny, np. przy płytach pomostowych, ryglowanych gwoździach śródszpikowych lub stabilizacji zewnętrznej. Przy złamaniach wieloodłamowych odtwarza się długość, oś i rotację, oszczędzając pośrednie odłamy. Nadmierny ruch utrudnia zrost."
+            },
+            {
+              "type": "p",
+              "text": "Przy złamaniach stawowych może być konieczna dokładna repozycja. Stabilność względna nie oznacza złej stabilizacji, ale nadmierny ruch szkodzi."
             }
           ]
         },
@@ -4505,6 +4561,10 @@
             {
               "type": "p",
               "text": "Naczynia dostarczają tlen, substancje odżywcze i komórki. Nadmierne odwarstwianie okostnej i uraz mięśni pogarszają gojenie. Techniki biologiczne i małoinwazyjne łączą odpowiednią stabilizację z ochroną tkanek."
+            },
+            {
+              "type": "p",
+              "text": "Nadmierne odwarstwienie okostnej i uraz mięśni mogą pogorszyć ukrwienie. Osteosynteza biologiczna chroni żywe tkanki."
             }
           ]
         },
@@ -4515,6 +4575,10 @@
             {
               "type": "p",
               "text": "Odsłonięcie wszystkich fragmentów złamania wieloodłamowego może dodatkowo uszkodzić tkanki. Czasem lepiej odtworzyć długość, oś i rotację, pozostawiając pośrednie odłamy z ich ukrwieniem. Znacznie przemieszczona powierzchnia stawowa może natomiast wymagać dokładnego nastawienia."
+            },
+            {
+              "type": "p",
+              "text": "Pozostawienie pośrednich fragmentów połączonych z tkankami pomaga zachować ukrwienie. Inaczej postępuje się przy przemieszczonej powierzchni stawowej."
             }
           ]
         },
@@ -4525,6 +4589,10 @@
             {
               "type": "p",
               "text": "Nie zawsze. Dozwolone obciążenie zależy od lokalizacji, jakości kości, konstrukcji implantu, stabilności i postępu gojenia. Niektórzy pacjenci mogą się wcześnie poruszać, inni muszą ograniczyć obciążenie. Przedwczesne obciążanie grozi przemieszczeniem lub uszkodzeniem implantu."
+            },
+            {
+              "type": "p",
+              "text": "Obciążanie ustala chirurg na podstawie lokalizacji, jakości kości, stabilności i kontroli. Mocny implant nie oznacza zgody na pełne obciążenie."
             }
           ]
         },
@@ -4540,6 +4608,10 @@
             {
               "type": "p",
               "text": "Implanty różnią się umiejscowieniem i działaniem. Nie istnieje jedna najlepsza metoda dla każdego złamania. Decydują typ złamania, stan kości, tkanek miękkich i cele leczenia; techniki można łączyć."
+            },
+            {
+              "type": "p",
+              "text": "Techniki można łączyć i stosować etapami. Znaczenie mają zarówno stabilność mechaniczna, jak i warunki biologiczne."
             }
           ]
         },
@@ -4562,6 +4634,10 @@
                 "Zespolenie pomostowe: stabilizuje główne fragmenty bez nastawiania każdego pośredniego odłamu.",
                 "Stabilizacja kątowo stabilna: śruby blokują się w płytce; metoda pomocna w wybranych złamaniach i przy słabszej jakości kości."
               ]
+            },
+            {
+              "type": "p",
+              "text": "Płytki mogą zapewniać kompresję, stabilizację pomostową lub kątowo stabilną; dobór zależy od wzoru złamania."
             }
           ]
         },
@@ -4572,6 +4648,10 @@
             {
               "type": "p",
               "text": "Śruby stosuje się samodzielnie lub z płytkami, np. przy wybranych złamaniach kostek, dłoni, stopy i małych fragmentach stawowych. Śruby kompresyjne bez główki mogą zapewniać docisk i małą wypukłość implantu. Wybór zależy od wielkości odłamów i stabilności."
+            },
+            {
+              "type": "p",
+              "text": "Śruby kompresyjne bez główki przydają się przy wybranych małych kościach lub odłamach, ale nie wszędzie wystarczają samodzielnie."
             }
           ]
         },
@@ -4595,6 +4675,10 @@
                 "Właściwości mechaniczne konstrukcji pozwalają odpowiednio przenosić obciążenia.",
                 "Przy wybranych wskazaniach możliwe jest wczesne uruchamianie."
               ]
+            },
+            {
+              "type": "p",
+              "text": "Śruby ryglujące kontrolują długość i rotację. Niekiedy kanał trzeba rozwiercić, a nie wszystkie złamania okołostawowe nadają się do gwoździowania."
             }
           ]
         },
@@ -4609,6 +4693,10 @@
             {
               "type": "p",
               "text": "Istnieją konstrukcje jednostronne, pierścieniowe i mieszane. Wymagają pielęgnacji miejsc wprowadzenia elementów oraz kontroli stabilności."
+            },
+            {
+              "type": "p",
+              "text": "Stabilizatory zewnętrzne mogą być jednostronne, pierścieniowe lub mieszane; potrzebna jest pielęgnacja miejsc wprowadzenia i kontrola."
             }
           ]
         },
@@ -4619,6 +4707,10 @@
             {
               "type": "p",
               "text": "W MIPO płytkę przeprowadza się przez niewielkie nacięcia bez szerokiego odsłaniania złamania. Ustawienie i implant kontroluje się klinicznie oraz podczas fluoroskopii. To może chronić ukrwienie przy niektórych złamaniach wieloodłamowych pozastawowych. Mniejsze nacięcie nie zawsze jest lepsze; powierzchnia stawowa może wymagać otwartej repozycji."
+            },
+            {
+              "type": "p",
+              "text": "MIPO ogranicza odsłanianie miejsca urazu, ale wymaga dokładnego ustawienia i obrazowania. Małe nacięcie nie zawsze jest najlepsze przy powierzchniach stawowych."
             }
           ]
         },
@@ -4629,6 +4721,10 @@
             {
               "type": "p",
               "text": "Tak. Poszczególne fragmenty mogą być mocowane śrubami, a całość płytą; gwóźdź może wymagać dodatkowych elementów. Przy ciężkich urazach leczenie może przebiegać etapami: od stabilizacji tymczasowej do docelowego zespolenia."
+            },
+            {
+              "type": "p",
+              "text": "W ciężkich urazach stabilizację tymczasową można zastąpić docelowym zespoleniem po poprawie stanu tkanek."
             }
           ]
         },
@@ -4650,6 +4746,10 @@
                 "Potrzeba stabilności bezwzględnej lub względnej.",
                 "Możliwości bezpiecznego uruchamiania i rehabilitacji."
               ]
+            },
+            {
+              "type": "p",
+              "text": "Uwzględnia się wielkość i liczbę odłamów, jakość kości, staw, skórę, mięśnie, ukrwienie i możliwości rehabilitacji."
             }
           ]
         },
@@ -4664,6 +4764,10 @@
             {
               "type": "p",
               "text": "Złamania kości ramiennej mogą wymagać ortezy, płytki albo gwoździa zależnie od miejsca i stabilności. Odtworzenie długości i wzajemnego ustawienia kości przedramienia jest ważne dla obracania ręki. Przy nadgarstku i palcach liczą się powierzchnie stawowe, rotacja i zapobieganie sztywności."
+            },
+            {
+              "type": "p",
+              "text": "Obrót przedramienia wymaga odpowiedniego ustawienia kości promieniowej i łokciowej. Przy dłoni i nadgarstku ważne jest ryzyko sztywności."
             }
           ],
           "divider": false
@@ -4674,6 +4778,10 @@
             {
               "type": "p",
               "text": "Przy kości udowej i piszczelowej odtwarza się długość, oś i rotację. W wielu złamaniach trzonów używa się gwoździ śródszpikowych, a blisko stawów płytek i śrub. Staw skokowy oraz stopa wymagają stabilnych relacji stawowych. Część złamań szyjki kości udowej u osób starszych wymaga endoprotezy zamiast zespolenia."
+            },
+            {
+              "type": "p",
+              "text": "Długość, oś i rotacja wpływają na chód. Niektóre złamania szyjki kości udowej u osób starszych wymagają endoprotezy."
             }
           ],
           "divider": false
@@ -4684,6 +4792,10 @@
             {
               "type": "p",
               "text": "Gdy szczelina złamania obejmuje powierzchnię stawową, ocenia się jej kształt i przemieszczenie. Znaczne przemieszczenie może wymagać precyzyjnej repozycji i stabilnego zespolenia. Nawet po leczeniu możliwe są ograniczenie ruchomości i pourazowa choroba zwyrodnieniowa."
+            },
+            {
+              "type": "p",
+              "text": "Nawet poprawne zespolenie nie wyklucza późniejszej sztywności i zmian zwyrodnieniowych po urazie."
             }
           ],
           "divider": false
@@ -4694,6 +4806,10 @@
             {
               "type": "p",
               "text": "Przy wielu odłamach nie zawsze warto odsłaniać każdy z nich; można odtworzyć ustawienie i chronić tkanki. Złamanie otwarte łączy się przez ranę ze środowiskiem zewnętrznym, nawet gdy kość nie jest widoczna. Wymaga pilnej pomocy, w tym według wskazań wczesnych antybiotyków, chirurgicznego opracowania rany, stabilizacji i pokrycia tkanek."
+            },
+            {
+              "type": "p",
+              "text": "Złamanie otwarte wymaga pilnej pomocy nawet gdy nie widać kości. Mogą być potrzebne antybiotyki, oczyszczenie rany, stabilizacja i pokrycie tkanek."
             }
           ],
           "divider": false
@@ -4710,6 +4826,10 @@
             {
               "type": "p",
               "text": "Przygotowanie pomaga dobrać stabilizację, ocenić ryzyko i bezpiecznie przeprowadzić zabieg. Zakres zależy od złamania, ogólnego stanu zdrowia i pilności."
+            },
+            {
+              "type": "p",
+              "text": "W planowaniu ocenia się, czy wystarczy jeden zabieg, czy przez obrzęk i stan tkanek potrzebne są kolejne etapy."
             }
           ]
         },
@@ -4720,6 +4840,10 @@
             {
               "type": "p",
               "text": "Lekarz bada kończynę, analizuje RTG, w razie potrzeby TK i ustala implant oraz ewentualne etapy operacji. Omawia ograniczenia, rehabilitację, ryzyko i alternatywy."
+            },
+            {
+              "type": "p",
+              "text": "Pacjent powinien znać metodę, możliwe ograniczenia i alternatywy przed zabiegiem, jeśli stan na to pozwala."
             }
           ]
         },
@@ -4739,6 +4863,10 @@
                 "Zgłoś alergie na leki.",
                 "Powiedz o wcześniejszych problemach ze znieczuleniem."
               ]
+            },
+            {
+              "type": "p",
+              "text": "Szczególnie ważne jest zgłoszenie leków przeciwzakrzepowych i przeciwpłytkowych. Nie należy samodzielnie zmieniać terapii."
             }
           ]
         },
@@ -4758,6 +4886,10 @@
                 "Zgłoś gorączkę, nowe objawy lub zmianę samopoczucia.",
                 "Zabierz dokumentację, wyniki badań i listę leków."
               ]
+            },
+            {
+              "type": "p",
+              "text": "Zalecenia dotyczące jedzenia, picia, leków i przyjazdu do szpitala zależą od znieczulenia i pilności."
             }
           ]
         },
@@ -4768,6 +4900,10 @@
             {
               "type": "p",
               "text": "Możliwe jest znieczulenie ogólne lub regionalne, czasem łączone z sedacją. Ogólne zapewnia sen, regionalne znieczula określoną część ciała. Metodę dobiera anestezjolog; podczas zabiegu monitorowane są parametry życiowe."
+            },
+            {
+              "type": "p",
+              "text": "Znieczulenie ogólne powoduje utratę świadomości, a regionalne blokuje czucie w części ciała; możliwa jest sedacja. Parametry życiowe są monitorowane."
             }
           ]
         },
@@ -4788,6 +4924,10 @@
                 "Kontrola: często fluoroskopia w celu oceny odłamów i implantów.",
                 "Zakończenie: hemostaza, zamknięcie rany, opatrunek i ewentualne dodatkowe unieruchomienie."
               ]
+            },
+            {
+              "type": "p",
+              "text": "W trudnych przypadkach mogą być konieczne dodatkowe procedury lub inna kolejność etapów operacji."
             }
           ]
         },
@@ -4798,6 +4938,10 @@
             {
               "type": "p",
               "text": "Czas zależy od miejsca i złożoności złamania, liczby odłamów, tkanek miękkich i metody zespolenia. Dokładniejszy szacunek jest możliwy po planowaniu; nie ma jednego czasu dla wszystkich."
+            },
+            {
+              "type": "p",
+              "text": "Czas zabiegu zależy od lokalizacji, liczby odłamów, tkanek i złożoności; nazwa operacji nie daje wiarygodnego czasu."
             }
           ]
         },
@@ -4808,6 +4952,10 @@
             {
               "type": "p",
               "text": "Personel ocenia stan ogólny, ból, opatrunek, ukrwienie i czucie. Stosuje leki przeciwbólowe, a według indywidualnego ryzyka profilaktykę zakrzepicy. Bezpieczne uruchamianie rozpoczyna się, gdy stan na to pozwala."
+            },
+            {
+              "type": "p",
+              "text": "Po operacji ocenia się ból, ranę, ukrwienie i czucie. Profilaktykę zakrzepicy ustala się według ryzyka."
             }
           ]
         },
@@ -4818,6 +4966,10 @@
             {
               "type": "p",
               "text": "To zależy od zabiegu, innych urazów i możliwości bezpiecznego leczenia w domu. Przy wypisie otrzymasz zalecenia co do rany, bólu, ćwiczeń, obciążania i kontroli. Wypis nie oznacza ukończenia zrostu."
+            },
+            {
+              "type": "p",
+              "text": "Przed wypisem pacjent powinien otrzymać zalecenia o ranie, lekach, ćwiczeniach, obciążaniu i kontroli."
             }
           ]
         },
@@ -4833,6 +4985,10 @@
             {
               "type": "p",
               "text": "Celem jest zrost, ruchomość stawów, siła mięśni i funkcja kończyny. Czas zależy od złamania, stabilizacji, tkanek i zdrowia. Mocny implant nie oznacza nieograniczonego obciążania."
+            },
+            {
+              "type": "p",
+              "text": "Powrót funkcji może trwać dłużej niż zrost widoczny w RTG. Rehabilitacja przywraca ruch, siłę i samodzielność."
             }
           ]
         },
@@ -4843,6 +4999,10 @@
             {
               "type": "p",
               "text": "Ból, siniaki, obrzęk i ograniczenie ruchu są początkowo częste. Ważne są leki przeciwbólowe, opatrunki, właściwe ułożenie kończyny i zalecone ćwiczenia. Szybkie pogorszenie wymaga kontroli."
+            },
+            {
+              "type": "p",
+              "text": "Czasem zaleca się uniesienie kończyny lub dodatkową ortezę. Narastający ból i obrzęk trzeba zgłosić."
             }
           ]
         },
@@ -4853,6 +5013,10 @@
             {
               "type": "p",
               "text": "Wczesne bezpieczne ruchy pomagają ograniczać sztywność i osłabienie mięśni. Termin i zakres zależą od stabilności. Po złamaniu przedramienia ważne są ruchy dłoni i łokcia, po złamaniu nogi — stopniowy trening chodu. Plan ustala lekarz i fizjoterapeuta."
+            },
+            {
+              "type": "p",
+              "text": "Początek i zakres ćwiczeń zależą od stabilności i urazu tkanek; wczesny ruch musi być bezpieczny."
             }
           ]
         },
@@ -4872,6 +5036,10 @@
                 "Czy powierzchnia stawowa została uszkodzona.",
                 "Jak postępuje zrost podczas kontroli."
               ]
+            },
+            {
+              "type": "p",
+              "text": "Chodzenie o kulach nie jest pełnym obciążaniem. Zalecenia zmienia się na podstawie kontroli i obrazowania."
             }
           ]
         },
@@ -4882,6 +5050,10 @@
             {
               "type": "p",
               "text": "Zazwyczaj tygodnie lub miesiące, ale nie ma uniwersalnego terminu. Złamania złożone i otwarte mogą goić się dłużej. Znaczenie mają ukrwienie, stabilność i choroby współistniejące. Rehabilitacja może trwać również po potwierdzeniu zrostu."
+            },
+            {
+              "type": "p",
+              "text": "Potwierdzony zrost to nie to samo co pełna sprawność. Siła i ruchomość mogą poprawiać się jeszcze później."
             }
           ]
         },
@@ -4901,6 +5073,10 @@
                 "Chód, równowaga i koordynacja.",
                 "Umiejętności codzienne i zawodowe."
               ]
+            },
+            {
+              "type": "p",
+              "text": "Fizjoterapia może obejmować ćwiczenia, naukę chodu, równowagę i powrót do czynności domowych i zawodowych."
             }
           ]
         },
@@ -4911,6 +5087,10 @@
             {
               "type": "p",
               "text": "Praca siedząca może być możliwa wcześniej niż ciężka praca fizyczna. Sport wymaga odpowiedniej siły, ruchomości, koordynacji i tolerancji obciążeń. Decyzja wynika z badania, obrazowania i sprawności, nie tylko z kalendarza."
+            },
+            {
+              "type": "p",
+              "text": "Powrót do sportu zależy od siły, ruchomości i koordynacji, nie tylko od liczby tygodni."
             }
           ]
         },
@@ -4921,6 +5101,10 @@
             {
               "type": "p",
               "text": "Lekarz ocenia ranę, obrzęk, ruchomość, ustawienie odłamów i implantów oraz postęp zrostu. RTG i zwiększanie obciążenia ustala się indywidualnie. Część kontroli można omówić zdalnie, ale nie zastępuje to koniecznego badania na miejscu."
+            },
+            {
+              "type": "p",
+              "text": "Część kontroli można przeprowadzić zdalnie, ale nie zastępuje to niezbędnego badania osobistego."
             }
           ]
         },
@@ -4941,6 +5125,10 @@
                 "Nowy silny ból albo wrażenie niestabilności.",
                 "Bolesny jednostronny obrzęk łydki lub uda."
               ]
+            },
+            {
+              "type": "p",
+              "text": "Objawy alarmowe mogą oznaczać problemy naczyniowe, nerwowe, zakażenie lub zakrzepicę i wymagają szybkiej oceny."
             }
           ]
         },
@@ -4951,6 +5139,10 @@
             {
               "type": "p",
               "text": "Pomagają odpowiednie odżywianie i białko, wyrównanie potwierdzonych niedoborów, kontrola chorób, zaprzestanie palenia i nikotyny oraz przestrzeganie zaleceń dotyczących obciążania i ćwiczeń. Powrót do aktywności powinien być stopniowy."
+            },
+            {
+              "type": "p",
+              "text": "Dobre odżywianie, zaprzestanie palenia i kontrola chorób wspierają zrost. Suplementy stosuje się do korygowania stwierdzonych niedoborów."
             }
           ]
         },
@@ -4966,6 +5158,10 @@
             {
               "type": "p",
               "text": "Większość prawidłowo leczonych złamań zrasta się, ale operacja nie eliminuje całego ryzyka. Mogą wystąpić opóźniony zrost, brak zrostu, deformacja, zakażenie, sztywność lub dolegliwości od implantów. Ważne są kontrole."
+            },
+            {
+              "type": "p",
+              "text": "Prawidłowy przebieg wczesny nie wyklucza późniejszych powikłań, dlatego kontrole są ważne."
             }
           ]
         },
@@ -4976,6 +5172,10 @@
             {
               "type": "p",
               "text": "Opóźniony zrost oznacza wolniejsze niż oczekiwane gojenie, a brak zrostu — brak odpowiedniego postępu. Przyczyną bywa niestabilność, ciężkie uszkodzenie tkanek, słabe ukrwienie lub infekcja. Po diagnostyce możliwa jest zmiana obciążania, powtórna stabilizacja lub przeszczep kostny."
+            },
+            {
+              "type": "p",
+              "text": "Opóźniony zrost lub brak zrostu wymaga oceny przyczyn mechanicznych i biologicznych."
             }
           ]
         },
@@ -4986,6 +5186,10 @@
             {
               "type": "p",
               "text": "Kość może zrosnąć się ze zmianą długości, osi lub rotacji. Nie każda deformacja wymaga zabiegu. Istotne są jej nasilenie, ból i wpływ na funkcję kończyny."
+            },
+            {
+              "type": "p",
+              "text": "Decyzja o korekcji wadliwego zrostu wynika z bólu, wielkości deformacji, lokalizacji i funkcji, a nie tylko z RTG."
             }
           ]
         },
@@ -5000,6 +5204,10 @@
             {
               "type": "p",
               "text": "Rozpoznanie może wymagać badań, obrazowania i próbek tkanek. Leczenie obejmuje czasem chirurgiczne oczyszczenie, antybiotyki oraz pozostawienie, wymianę albo usunięcie stabilizacji. Nie każdy stabilny implant trzeba od razu usuwać. Nie rozpoczynaj antybiotyków samodzielnie; ciężka infekcja ogólnoustrojowa wymaga pilnego leczenia."
+            },
+            {
+              "type": "p",
+              "text": "Głębokie zakażenie związane ze złamaniem może przebiegać bez gorączki. Potrzebne bywają próbki tkanek, a stabilny implant można czasem pozostawić."
             }
           ]
         },
@@ -5010,6 +5218,10 @@
             {
               "type": "p",
               "text": "Możliwe są drażnienie tkanek, ból, poluzowanie lub uszkodzenie implantu. Przyczyną może być obciążenie lub zaburzenie zrostu, a nie wada materiału. Nowy ból, deformacja i niestabilność wymagają oceny."
+            },
+            {
+              "type": "p",
+              "text": "Poluzowanie lub złamanie implantu może świadczyć o przeciążeniu lub niezrośniętej kości i wymaga diagnostyki przyczyny."
             }
           ]
         },
@@ -5029,6 +5241,10 @@
                 "Infekcja albo niestabilność zespolenia.",
                 "Inne indywidualne wskazania medyczne."
               ]
+            },
+            {
+              "type": "p",
+              "text": "Usunięcie zespolenia również grozi zakażeniem, uszkodzeniem nerwów i ponownym złamaniem; nie jest rutynowo potrzebne."
             }
           ]
         },
@@ -5039,6 +5255,10 @@
             {
               "type": "p",
               "text": "Reoperacja bywa konieczna przy braku zrostu, istotnej deformacji, infekcji lub niestabilności. Najpierw należy poznać przyczynę i stan kości oraz tkanek. Nie każde powikłanie wymaga zabiegu, jednak utrzymujący się ból lub brak postępu powinien być zbadany."
+            },
+            {
+              "type": "p",
+              "text": "Przed reoperacją trzeba ustalić, czy problem jest mechaniczny, biologiczny, infekcyjny czy mieszany."
             }
           ]
         },
@@ -5054,6 +5274,10 @@
             {
               "type": "p",
               "text": "Dr Maksym Baida analizuje dokumentację, RTG lub TK i wyjaśnia możliwości leczenia, ryzyko oraz obserwację. Celem wizyty jest dobranie uzasadnionej terapii, a nie automatyczne skierowanie na operację."
+            },
+            {
+              "type": "p",
+              "text": "Konsultacja ma prowadzić do uzasadnionego planu, także leczenia bez operacji, gdy jest właściwe."
             }
           ]
         },
@@ -5068,6 +5292,10 @@
             {
               "type": "p",
               "text": "Przykład pokazuje efekt stabilizacji, ale nie gwarantuje terminu zrostu ani pełnego powrotu funkcji."
+            },
+            {
+              "type": "p",
+              "text": "Opisany przypadek piszczeli pokazuje ustawienie i stabilizację po zabiegu, ale nie gwarantuje czasu zrostu ani wyniku odległego."
             }
           ],
           "caseImages": [
@@ -5093,6 +5321,10 @@
                 "Czas hospitalizacji.",
                 "Dodatkowe badania lub procedury."
               ]
+            },
+            {
+              "type": "p",
+              "text": "Ostateczna wycena zależy od badania, implantów, zabiegu, znieczulenia i pobytu."
             }
           ]
         },
@@ -5112,6 +5344,10 @@
                 "Dokumenty dotychczasowego leczenia.",
                 "Krótki opis daty i okoliczności urazu oraz aktualnych dolegliwości."
               ]
+            },
+            {
+              "type": "p",
+              "text": "Druga opinia jest właściwa tylko wtedy, gdy nie opóźnia niezbędnej pilnej pomocy."
             }
           ]
         },
@@ -5137,6 +5373,10 @@
               "type": "link",
               "href": "/pl/treatments/3d-implants/",
               "text": "Indywidualne implanty 3D"
+            },
+            {
+              "type": "p",
+              "text": "Brak zrostu, ubytek kości, infekcja lub deformacja mogą wymagać planowania rekonstrukcyjnego."
             }
           ]
         },
