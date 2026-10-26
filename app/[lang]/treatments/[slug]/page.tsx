@@ -478,7 +478,7 @@ function RichDetail({
               return (
                 <div key={i} className="mt-6 rounded-[8px] border border-hairline bg-cream/60 p-6 lg:p-7">
                   {block.heading && (isRich ? <h2 className="font-sans font-medium text-ink text-lg mb-3">{block.heading}</h2> : <h3 className="font-sans font-medium text-ink text-lg mb-3">{block.heading}</h3>)}
-                  {slug === "avn" && block.diagram?.startsWith("avn-arco-") ? (
+                  {slug === "avn" && (block.diagram?.startsWith("avn-arco-") || block.diagram?.startsWith("avn_arco_")) ? (
                     <div className="space-y-7">
                       <div className="grid grid-cols-1 lg:grid-cols-2 gap-7 lg:gap-10 items-start">
                         <div className="min-w-0">
