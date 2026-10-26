@@ -4385,7 +4385,8 @@
               "type": "p",
               "text": "Ziel sind Knochenheilung und Wiederherstellung der Funktion; ein Röntgenbild allein entscheidet nicht über den Nutzen einer Operation."
             }
-          ]
+          ],
+          "diagram": "osteosynthesis-diagram1-de.png"
         },
         {
           "heading": "Bei welchen Brüchen wird eine Osteosynthese erwogen?",
@@ -4639,7 +4640,8 @@
               "type": "p",
               "text": "Platten können Kompression, Überbrückung oder winkelstabile Fixation bieten. Das Ziel unterscheidet sich zwischen einfacher und mehrfragmentärer Fraktur."
             }
-          ]
+          ],
+          "diagram": "osteosynthesis-diagram2-de.png"
         },
         {
           "heading": "Alleinige Schraubenosteosynthese",
