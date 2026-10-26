@@ -4264,331 +4264,671 @@
       ]
     },
     "osteosynthesis": {
-      "title": "Osteosynteza złamań",
-      "lead": "Nowoczesne chirurgiczne leczenie złamań z odtworzeniem anatomii, stabilną fiksacją i nastawieniem na wczesne usprawnianie czynnościowe.",
-      "intro": "Nie każde złamanie wymaga operacji. Ale jeśli odłamy są znacznie przemieszczone, złamanie jest niestabilne, uszkodzona jest powierzchnia stawowa lub leczenie zachowawcze nie pozwala utrzymać prawidłowego położenia kości, może być konieczna osteosynteza.",
+      "title": "Operacyjne leczenie złamań w Ukrainie — osteosynteza",
+      "lead": "Zespolenie płytkami i śrubami, gwoździowanie śródszpikowe oraz indywidualny plan leczenia. Konsultacja ortopedy-traumatologa dr. Maksyma Baidy.",
+      "intro": "Nie każde złamanie wymaga operacji. Decyzja zależy od stabilności odłamów, stawu, tkanek miękkich i potrzeb pacjenta. Złamania otwarte oraz zaburzenia ukrwienia wymagają natychmiastowej pomocy medycznej.",
       "hero": "osteosynthesis-hero.jpg",
       "gallery": [
         "osteosynthesis-diagram1.jpg"
       ],
       "blocks": [
         {
-          "heading": "Kiedy złamanie trzeba operować",
-          "body": [
-            {
-              "type": "p",
-              "text": "Taktyka leczenia zależy nie tylko od tego, która kość jest złamana."
-            },
-            {
-              "type": "p",
-              "text": "Ważne są charakter złamania, przemieszczenie odłamów, stabilność, stan powierzchni stawowych i tkanek miękkich, wiek pacjenta i jego potrzeby funkcjonalne."
-            },
-            {
-              "type": "p",
-              "text": "Część złamań można skutecznie leczyć bez operacji. W innych przypadkach bez stabilnej fiksacji chirurgicznej trudno odtworzyć prawidłowe położenie kości i stworzyć optymalne warunki do jej zrostu."
-            }
-          ],
-          "divider": false
+          "heading": "1. Pierwsze kroki po złamaniu",
+          "body": [],
+          "divider": true
         },
         {
-          "heading": "Kiedy warto się zgłosić do ortopedy-traumatologa",
-          "body": [
-            {
-              "type": "list",
-              "items": [
-                "zdiagnozowano złamanie z przemieszczeniem",
-                "złamanie przebiega przez staw",
-                "po repozycji odłamy ponownie się przemieściły",
-                "złamanie jest niestabilne",
-                "występuje znaczna deformacja kończyny",
-                "wystąpiło złamanie otwarte",
-                "złamanie nie zrasta się prawidłowo",
-                "trzeba ustalić, czy złamanie można leczyć bez operacji",
-                "zaproponowano operację i potrzebne jest zrozumienie możliwych wariantów leczenia"
-              ]
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Czym jest osteosynteza",
-          "body": [
-            {
-              "type": "p",
-              "text": "Osteosynteza to chirurgiczna stabilizacja odłamów kostnych w położeniu tworzącym warunki do zrostu i przywrócenia funkcji."
-            },
-            {
-              "type": "p",
-              "text": "Do fiksacji mogą być stosowane różne konstrukcje:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "płytki i śruby",
-                "gwoździe śródszpikowe",
-                "pojedyncze śruby",
-                "druty Kirschnera",
-                "stabilizatory zewnętrzne",
-                "kombinacje różnych metod"
-              ]
-            },
-            {
-              "type": "p",
-              "text": "Ale wybór konstrukcji to tylko część leczenia."
-            },
-            {
-              "type": "p",
-              "text": "Głównym pytaniem nie jest to, którą płytkę czy gwóźdź zastosować, lecz który sposób fiksacji najlepiej odpowiada konkretnemu złamaniu."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Co daje prawidłowo wykonana osteosynteza",
-          "body": [
-            {
-              "type": "p",
-              "text": "Celem operacji jest stworzenie optymalnych warunków mechanicznych i biologicznych do gojenia złamania."
-            },
-            {
-              "type": "p",
-              "text": "W zależności od charakteru uszkodzenia osteosynteza pozwala:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "odtworzyć położenie odłamów kostnych",
-                "odtworzyć długość i oś kończyny",
-                "odtworzyć powierzchnię stawową przy złamaniach śródstawowych",
-                "zapewnić stabilność strefy złamania",
-                "stworzyć warunki do zrostu kości",
-                "w odpowiednich przypadkach wcześniej rozpocząć ruchy",
-                "zmniejszyć ryzyko wtórnego przemieszczenia",
-                "stopniowo przywrócić pacjenta do codziennej aktywności"
-              ]
-            },
-            {
-              "type": "p",
-              "text": "Celem nie jest po prostu uzyskanie ładnego zdjęcia rentgenowskiego po operacji, lecz przywrócenie funkcji uszkodzonej kończyny."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Nie każde złamanie wymaga takiej samej fiksacji",
-          "body": [
-            {
-              "type": "p",
-              "text": "Jedną z zasadniczych cech nowoczesnej traumatologii jest możliwość stosowania różnych sposobów osteosyntezy w zależności od konkretnego typu uszkodzenia."
-            }
-          ],
+          "heading": "Złamanie kości: co zrobić i kiedy potrzebna jest operacja",
           "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Złamaniu może towarzyszyć uszkodzenie stawów, mięśni, naczyń i nerwów. Nie każde złamanie wymaga operacji — czasem wystarczają gips, orteza lub nastawienie zamknięte. O wyborze leczenia decydują przemieszczenie odłamów, stabilność, stan tkanek miękkich i potrzeby pacjenta."
+            }
+          ]
+        },
+        {
+          "heading": "Kiedy konieczna jest pilna pomoc?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "W przypadku otwartej rany przy złamaniu, silnego krwawienia, znacznej deformacji, zimnej lub bladej dłoni albo stopy, utraty czucia bądź szybko narastającego bólu z napiętym obrzękiem należy natychmiast skorzystać z pomocy ratunkowej. Ocena jest pilna również po ciężkich urazach wysokoenergetycznych."
+            },
+            {
+              "type": "p",
+              "text": "Ostry zespół ciasnoty przedziałów powięziowych może wymagać natychmiastowej operacji. Unieruchom kończynę, nie próbuj samodzielnie nastawiać kości i osłoń ranę czystym opatrunkiem. Nie odkładaj pilnego leczenia z powodu podróży lub konsultacji zdalnej."
+            }
+          ]
+        },
+        {
+          "heading": "Jak rozpoznaje się złamanie?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Lekarz ocenia mechanizm urazu, ustawienie kończyny, skórę, ukrwienie, czucie i ruch. Podstawą jest zwykle RTG w dwóch projekcjach. TK pomaga ocenić złamania wieloodłamowe i śródstawowe; MRI lub badania naczyniowe wykonuje się według wskazań."
+            }
+          ]
+        },
+        {
+          "heading": "Czy złamanie można leczyć bez operacji?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Stabilne złamania w akceptowalnym ustawieniu można czasem leczyć unieruchomieniem lub repozycją zamkniętą. Konieczne są kontrole i w razie potrzeby powtórne RTG, aby wykryć wtórne przemieszczenie. Jeśli odpowiedniej pozycji nie da się utrzymać, rozważa się zespolenie operacyjne."
+            }
+          ]
+        },
+        {
+          "heading": "Kiedy można umówić konsultację planową?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Po niezbędnym leczeniu wstępnym można omówić wskazania do operacji, alternatywy lub uzyskać drugą opinię. Przygotuj RTG albo TK, opisy i historię leczenia. Dokumenty z zagranicy można przesłać wcześniej, jednak ocena zdalna nie zastępuje pilnego badania."
+            }
+          ]
+        },
+        {
+          "heading": "2. Kiedy potrzebna jest operacja?",
+          "body": [],
+          "divider": true
+        },
+        {
+          "heading": "Kiedy operacja jest potrzebna, a kiedy nie?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Celem jest prawidłowy zrost i przywrócenie funkcji kończyny. Operacja nie zawsze jest lepsza. Uwzględnia się lokalizację, przemieszczenie, stabilność, powierzchnie stawowe, tkanki miękkie, choroby współistniejące i potrzeby pacjenta."
+            }
+          ]
+        },
+        {
+          "heading": "Przy jakich złamaniach rozważa się osteosyntezę?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Operacja bywa wskazana przy niestabilnych złamaniach, znacznej deformacji, której nie można skorygować lub utrzymać, istotnym przemieszczeniu powierzchni stawowej i niektórych złamaniach wieloodłamowych."
+            },
+            {
+              "type": "p",
+              "text": "Rozważa się ją również, gdy długie unieruchomienie jest niekorzystne lub leczenie zachowawcze nie daje właściwego ustawienia. Nie zawsze trzeba odsłaniać każdy odłam; wczesne uruchamianie nie oznacza pełnego obciążania."
+            }
+          ]
+        },
+        {
+          "heading": "Czy każde złamanie z przemieszczeniem wymaga operacji?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Nie. Dopuszczalny kąt, rotacja, skrócenie i odstęp między odłamami zależą od kości i lokalizacji. Małe przemieszczenie w obrębie stawu może być ważniejsze niż większe poza stawem. Nie ma jednego limitu w milimetrach dla wszystkich złamań."
+            }
+          ]
+        },
+        {
+          "heading": "Kiedy leczenie zachowawcze jest korzystniejsze?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Gdy stabilność i ustawienie można zachować bez operacji, funkcja stawu nie jest istotnie zagrożona lub ryzyko operacyjne przewyższa spodziewane korzyści. Dotyczy to wybranych złamań kości ramiennej, obojczyka, promieniowej czy stopy. Nadal konieczne są kontrole i rehabilitacja."
+            }
+          ]
+        },
+        {
+          "heading": "Dlaczego stan tkanek miękkich jest ważny?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Skóra, mięśnie, nerwy i naczynia wpływają na plan. Złamania otwarte, zabrudzone rany lub duży obrzęk mogą wymagać kilku etapów: najpierw opracowania rany i czasowego stabilizatora zewnętrznego, następnie ostatecznego zespolenia. Pilnej pomocy nie wolno jednak opóźniać."
+            }
+          ]
+        },
+        {
+          "heading": "Jakie cechy pacjenta są uwzględniane?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Wiek, jakość kości, osteoporoza, cukrzyca, choroby naczyń, palenie, inne obrażenia, praca i aktywność, a także możliwość rehabilitacji i kontroli. Decyzję podejmuje się po omówieniu korzyści, ryzyka i alternatyw."
+            }
+          ]
+        },
+        {
+          "heading": "Co daje zespolenie, a czego nie gwarantuje?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Prawidłowe zespolenie przywraca potrzebne ustawienie i stabilność, czasem umożliwiając wcześniejsze ćwiczenia. Nie gwarantuje zrostu ani pełnej sprawności. Możliwe są zakażenie, opóźniony zrost, brak zrostu, sztywność i inne powikłania."
+            }
+          ]
+        },
+        {
+          "heading": "3. Jak działa osteosynteza i jak zrasta się kość?",
+          "body": [],
+          "divider": true
+        },
+        {
+          "heading": "Czym jest osteosynteza i jak pomaga kości?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Osteosynteza to chirurgiczna stabilizacja odłamów płytkami, śrubami, gwoździami śródszpikowymi, drutami lub stabilizatorami zewnętrznymi. Implant zapewnia warunki mechaniczne, ale kość zrasta się dzięki biologicznym procesom organizmu."
+            }
+          ]
+        },
+        {
+          "heading": "Jak zrasta się złamana kość?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Regeneracja wymaga komórek, naczyń i procesów biologicznych. Zrost pierwotny, bezpośredni, zachodzi przy prawie całkowitym braku ruchu i dokładnym kontakcie odłamów, zwykle bez dużej kostniny zewnętrznej. Zrost wtórny przebiega przy stabilności względnej z tworzeniem kostniny i jej przebudową. Oba mechanizmy są prawidłowe."
+            }
+          ]
+        },
+        {
+          "heading": "Stabilność bezwzględna i względna",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Stabilność bezwzględna ogranicza ruch praktycznie do zera, często przez kompresję śrubami ciągnącymi lub płytą kompresyjną. Może być ważna przy prostych złamaniach i odtwarzaniu powierzchni stawowej."
+            },
+            {
+              "type": "p",
+              "text": "Stabilność względna umożliwia kontrolowane mikroruchy i tworzenie kostniny, np. przy płytach pomostowych, ryglowanych gwoździach śródszpikowych lub stabilizacji zewnętrznej. Przy złamaniach wieloodłamowych odtwarza się długość, oś i rotację, oszczędzając pośrednie odłamy. Nadmierny ruch utrudnia zrost."
+            }
+          ]
+        },
+        {
+          "heading": "Dlaczego trzeba chronić ukrwienie?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Naczynia dostarczają tlen, substancje odżywcze i komórki. Nadmierne odwarstwianie okostnej i uraz mięśni pogarszają gojenie. Techniki biologiczne i małoinwazyjne łączą odpowiednią stabilizację z ochroną tkanek."
+            }
+          ]
+        },
+        {
+          "heading": "Dlaczego nie trzeba mocować każdego odłamu?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Odsłonięcie wszystkich fragmentów złamania wieloodłamowego może dodatkowo uszkodzić tkanki. Czasem lepiej odtworzyć długość, oś i rotację, pozostawiając pośrednie odłamy z ich ukrwieniem. Znacznie przemieszczona powierzchnia stawowa może natomiast wymagać dokładnego nastawienia."
+            }
+          ]
+        },
+        {
+          "heading": "Czy mocny implant pozwala od razu obciążać nogę?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Nie zawsze. Dozwolone obciążenie zależy od lokalizacji, jakości kości, konstrukcji implantu, stabilności i postępu gojenia. Niektórzy pacjenci mogą się wcześnie poruszać, inni muszą ograniczyć obciążenie. Przedwczesne obciążanie grozi przemieszczeniem lub uszkodzeniem implantu."
+            }
+          ]
+        },
+        {
+          "heading": "4. Metody zespolenia złamań",
+          "body": [],
+          "divider": true
+        },
+        {
+          "heading": "Metody zespolenia: płytki, śruby, gwoździe i stabilizatory",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Implanty różnią się umiejscowieniem i działaniem. Nie istnieje jedna najlepsza metoda dla każdego złamania. Decydują typ złamania, stan kości, tkanek miękkich i cele leczenia; techniki można łączyć."
+            }
+          ]
+        },
+        {
+          "heading": "Zespolenie płytką i śrubami",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Płytkę mocuje się śrubami na powierzchni kości. Zespolenie kompresyjne dociska odłamy, pomostowe stabilizuje główne fragmenty bez odsłaniania wszystkich, a śruby blokowane tworzą konstrukcję kątowo stabilną."
+            },
+            {
+              "type": "p",
+              "text": "Płytki pozwalają na dokładne nastawienie, szczególnie w okolicy stawów. W zależności od dostępu mogą wymagać większej preparacji tkanek lub powodować miejscowe drażnienie."
+            }
+          ],
           "diagram": "osteosynthesis-diagram2.jpg"
         },
         {
-          "heading": "Płytki i śruby",
-          "body": [
-            {
-              "type": "p",
-              "text": "Pozwalają precyzyjnie odtworzyć anatomię i zapewnić stabilną fiksację. Szczególnie ważne przy wielu złamaniach okołostawowych i śródstawowych."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Osteosynteza śródszpikowa",
-          "body": [
-            {
-              "type": "p",
-              "text": "Gwóźdź wprowadzany jest do wnętrza kanału szpikowego i tworzy stabilną fiksację wewnętrzną."
-            },
-            {
-              "type": "p",
-              "text": "Metoda szeroko stosowana przy złamaniach kości długich, zwłaszcza kości udowej i piszczelowej."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Techniki małoinwazyjne",
-          "body": [
-            {
-              "type": "p",
-              "text": "W odpowiednich przypadkach fiksację można wykonać przez mniejsze dostępy chirurgiczne, dążąc do zminimalizowania dodatkowego urazu tkanek miękkich i zachowania warunków biologicznych sprzyjających zrostowi."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Fiksacja zewnętrzna",
-          "body": [
-            {
-              "type": "p",
-              "text": "Może być stosowana jako metoda tymczasowa lub ostateczna przy niektórych złożonych urazach, znacznym uszkodzeniu tkanek miękkich i innych sytuacjach klinicznych."
-            },
-            {
-              "type": "p",
-              "text": "Metodę fiksacji dobiera się odpowiednio do złamania, a nie złamanie — pod ulubioną konstrukcję chirurga."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Szczególna uwaga — złamania w okolicy stawów",
-          "body": [
-            {
-              "type": "p",
-              "text": "Przy złamaniach obejmujących powierzchnię stawową zadanie leczenia jest trudniejsze niż samo połączenie odłamów kostnych."
-            },
-            {
-              "type": "p",
-              "text": "Konieczne jest maksymalnie precyzyjne odtworzenie:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "kształtu powierzchni stawowej",
-                "osi kończyny",
-                "stabilności",
-                "relacji anatomicznych",
-                "możliwości dalszego ruchu w stawie"
-              ]
-            },
-            {
-              "type": "p",
-              "text": "Takie złamania wymagają szczególnie starannego planowania, ponieważ nieprawidłowe położenie odłamów może wpływać na dalszą funkcję stawu."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Planowanie przedoperacyjne",
-          "body": [
-            {
-              "type": "p",
-              "text": "Dla prostych złamań może wystarczyć standardowa radiografia."
-            },
-            {
-              "type": "p",
-              "text": "Przy złożonych, wieloodłamowych lub śródstawowych uszkodzeniach dodatkowo może być wykorzystywana tomografia komputerowa."
-            },
-            {
-              "type": "p",
-              "text": "TK pozwala szczegółowiej ocenić:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "liczbę i położenie odłamów",
-                "charakter uszkodzenia powierzchni stawowej",
-                "przestrzenną geometrię złamania",
-                "możliwy sposób repozycji i fiksacji"
-              ]
-            },
-            {
-              "type": "p",
-              "text": "Im bardziej złożona geometria złamania, tym większego znaczenia nabiera planowanie przed operacją."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Jak przebiega leczenie",
-          "body": [],
-          "divider": true
-        },
-        {
-          "heading": "01 — Diagnostyka",
-          "body": [
-            {
-              "type": "p",
-              "text": "Oceniamy mechanizm urazu, stan kończyny, zdjęcia rentgenowskie i, w razie potrzeby, TK."
-            },
-            {
-              "type": "p",
-              "text": "Określamy typ złamania, jego stabilność i stan tkanek miękkich."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "02 — Wybór taktyki",
-          "body": [
-            {
-              "type": "p",
-              "text": "Określamy, czy operacja jest w ogóle potrzebna."
-            },
-            {
-              "type": "p",
-              "text": "Jeśli wskazana jest osteosynteza — wybieramy sposób repozycji i fiksacji odpowiedni dla konkretnego złamania."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "03 — Operacja",
-          "body": [
-            {
-              "type": "p",
-              "text": "Przywraca się niezbędne położenie odłamów kostnych i wykonuje ich stabilną fiksację."
-            },
-            {
-              "type": "p",
-              "text": "Zakres operacji zależy od charakteru uszkodzenia."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "04 — Wczesna rekonwalescencja",
-          "body": [
-            {
-              "type": "p",
-              "text": "Po operacji ustala się reżim ruchów i dopuszczalnego obciążania."
-            },
-            {
-              "type": "p",
-              "text": "W części przypadków stabilna fiksacja pozwala wcześniej rozpocząć usprawnianie czynnościowe."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "05 — Kontrola zrostu",
-          "body": [
-            {
-              "type": "p",
-              "text": "Wykonuje się kontrolne badania i radiografię w celu oceny położenia konstrukcji i procesu zrostu złamania."
-            },
-            {
-              "type": "p",
-              "text": "W miarę gojenia stopniowo rozszerza się obciążenie i aktywność fizyczną."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Przypadek kliniczny",
-          "body": [],
-          "divider": true
-        },
-        {
-          "heading": "Złożone złamanie goleni po upadku z motocykla",
-          "body": [
-            {
-              "type": "p",
-              "text": "Pacjent doznał urazu prawej goleni w wyniku upadku z motocykla. Na pierwotnych zdjęciach rentgenowskich stwierdzono złożone wieloodłamowe złamanie dalszego odcinka kości piszczelowej z przemieszczeniem odłamów w połączeniu ze złamaniem kości strzałkowej."
-            },
-            {
-              "type": "p",
-              "text": "Z uwzględnieniem charakteru i umiejscowienia uszkodzenia wybrano taktykę chirurgiczną. Głównymi zadaniami były odtworzenie osi i relacji anatomicznych kończyny, stabilna fiksacja złamania i stworzenie warunków do jego zrostu."
-            },
-            {
-              "type": "p",
-              "text": "Wykonano osteosyntezę z użyciem gwoździa śródszpikowego oraz dodatkowej fiksacji odłamów dalszych."
-            }
-          ],
+          "heading": "Zespolenie samymi śrubami",
           "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Śruby stosuje się samodzielnie lub z płytkami, np. przy wybranych złamaniach kostek, dłoni, stopy i małych fragmentach stawowych. Śruby kompresyjne bez główki mogą zapewniać docisk i małą wypukłość implantu. Wybór zależy od wielkości odłamów i stabilności."
+            }
+          ]
+        },
+        {
+          "heading": "Zespolenie gwoździem śródszpikowym",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Metalowy gwóźdź wprowadza się do kanału szpikowego; śruby ryglujące na obu końcach kontrolują długość, oś i rotację. Technika często służy leczeniu złamań kości udowej, piszczelowej i ramiennej."
+            },
+            {
+              "type": "p",
+              "text": "Wiele złamań trzonu można ustabilizować bez szerokiego odsłaniania miejsca urazu. Niektóre złamania okołostawowe wymagają innych metod. Czasem potrzebne jest rozwiercanie kanału; pełne obciążanie nie zawsze jest od razu możliwe."
+            }
+          ]
+        },
+        {
+          "heading": "Stabilizator zewnętrzny",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Śruby lub druty przechodzą przez skórę do kości i łączą się z ramą zewnętrzną. Stabilizacja może być tymczasowa przy złamaniach otwartych, rozległych uszkodzeniach tkanek i urazach wielonarządowych albo ostateczna w wybranych przypadkach."
+            },
+            {
+              "type": "p",
+              "text": "Istnieją konstrukcje jednostronne, pierścieniowe i mieszane. Wymagają pielęgnacji miejsc wprowadzenia elementów oraz kontroli stabilności."
+            }
+          ]
+        },
+        {
+          "heading": "Osteosynteza małoinwazyjna",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "W MIPO płytkę przeprowadza się przez niewielkie nacięcia bez szerokiego odsłaniania złamania. Ustawienie i implant kontroluje się klinicznie oraz podczas fluoroskopii. To może chronić ukrwienie przy niektórych złamaniach wieloodłamowych pozastawowych. Mniejsze nacięcie nie zawsze jest lepsze; powierzchnia stawowa może wymagać otwartej repozycji."
+            }
+          ]
+        },
+        {
+          "heading": "Czy można łączyć metody?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Tak. Poszczególne fragmenty mogą być mocowane śrubami, a całość płytą; gwóźdź może wymagać dodatkowych elementów. Przy ciężkich urazach leczenie może przebiegać etapami: od stabilizacji tymczasowej do docelowego zespolenia."
+            }
+          ]
+        },
+        {
+          "heading": "Jak wybiera się optymalną metodę?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Lekarz analizuje RTG i ewentualnie TK, lokalizację, liczbę i wielkość odłamów, jakość kości, stan skóry, mięśni i naczyń, potrzebną stabilność i plan rehabilitacji. Najlepszy implant to nie najdroższy, ale właściwy dla danej sytuacji."
+            }
+          ]
+        },
+        {
+          "heading": "5. Różne lokalizacje złamań",
+          "body": [],
+          "divider": true
+        },
+        {
+          "heading": "Złamania kończyny górnej: precyzja ruchu",
+          "body": [
+            {
+              "type": "p",
+              "text": "Złamania kości ramiennej mogą wymagać ortezy, płytki albo gwoździa zależnie od miejsca i stabilności. Odtworzenie długości i wzajemnego ustawienia kości przedramienia jest ważne dla obracania ręki. Przy nadgarstku i palcach liczą się powierzchnie stawowe, rotacja i zapobieganie sztywności."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Złamania kończyny dolnej: podparcie i oś",
+          "body": [
+            {
+              "type": "p",
+              "text": "Przy kości udowej i piszczelowej odtwarza się długość, oś i rotację. W wielu złamaniach trzonów używa się gwoździ śródszpikowych, a blisko stawów płytek i śrub. Staw skokowy oraz stopa wymagają stabilnych relacji stawowych. Część złamań szyjki kości udowej u osób starszych wymaga endoprotezy zamiast zespolenia."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Złamania śródstawowe",
+          "body": [
+            {
+              "type": "p",
+              "text": "Gdy szczelina złamania obejmuje powierzchnię stawową, ocenia się jej kształt i przemieszczenie. Znaczne przemieszczenie może wymagać precyzyjnej repozycji i stabilnego zespolenia. Nawet po leczeniu możliwe są ograniczenie ruchomości i pourazowa choroba zwyrodnieniowa."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Złamania wieloodłamowe i otwarte",
+          "body": [
+            {
+              "type": "p",
+              "text": "Przy wielu odłamach nie zawsze warto odsłaniać każdy z nich; można odtworzyć ustawienie i chronić tkanki. Złamanie otwarte łączy się przez ranę ze środowiskiem zewnętrznym, nawet gdy kość nie jest widoczna. Wymaga pilnej pomocy, w tym według wskazań wczesnych antybiotyków, chirurgicznego opracowania rany, stabilizacji i pokrycia tkanek."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "6. Przygotowanie i przebieg operacji",
+          "body": [],
+          "divider": true
+        },
+        {
+          "heading": "Przygotowanie do operacji",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Przygotowanie pomaga dobrać stabilizację, ocenić ryzyko i bezpiecznie przeprowadzić zabieg. Zakres zależy od złamania, ogólnego stanu zdrowia i pilności."
+            }
+          ]
+        },
+        {
+          "heading": "Konsultacja i planowanie",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Lekarz bada kończynę, analizuje RTG, w razie potrzeby TK i ustala implant oraz ewentualne etapy operacji. Omawia ograniczenia, rehabilitację, ryzyko i alternatywy."
+            }
+          ]
+        },
+        {
+          "heading": "Jakie badania są potrzebne?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Mogą być potrzebne badania krwi, krzepnięcia, EKG lub dodatkowa diagnostyka. Zgłoś choroby, przebyte operacje, leki (szczególnie przeciwzakrzepowe i przeciwpłytkowe), alergie oraz wcześniejsze problemy ze znieczuleniem. Nie odstawiaj leków samodzielnie."
+            }
+          ]
+        },
+        {
+          "heading": "Jak przygotować się w dniu operacji?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Stosuj zalecenia dotyczące jedzenia, picia, leków i przyjazdu do szpitala. Zabierz dokumentację i listę leków; zgłoś gorączkę lub nowe objawy. Przy pilnym zabiegu przygotowanie odbywa się bez nieuzasadnionej zwłoki."
+            }
+          ]
+        },
+        {
+          "heading": "Jakie znieczulenie jest stosowane?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Możliwe jest znieczulenie ogólne lub regionalne, czasem łączone z sedacją. Ogólne zapewnia sen, regionalne znieczula określoną część ciała. Metodę dobiera anestezjolog; podczas zabiegu monitorowane są parametry życiowe."
+            }
+          ]
+        },
+        {
+          "heading": "Jak przebiega operacja osteosyntezy?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Zwykle obejmuje znieczulenie i przygotowanie pola operacyjnego, nastawienie odłamów, założenie płytki, śrub, gwoździa lub innego implantu, kontrolę ustawienia (często fluoroskopią), zamknięcie rany i opatrunek. Przy urazach złożonych etapy mogą się różnić."
+            }
+          ]
+        },
+        {
+          "heading": "Ile trwa operacja?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Czas zależy od miejsca i złożoności złamania, liczby odłamów, tkanek miękkich i metody zespolenia. Dokładniejszy szacunek jest możliwy po planowaniu; nie ma jednego czasu dla wszystkich."
+            }
+          ]
+        },
+        {
+          "heading": "Bezpośrednio po operacji",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Personel ocenia stan ogólny, ból, opatrunek, ukrwienie i czucie. Stosuje leki przeciwbólowe, a według indywidualnego ryzyka profilaktykę zakrzepicy. Bezpieczne uruchamianie rozpoczyna się, gdy stan na to pozwala."
+            }
+          ]
+        },
+        {
+          "heading": "Ile trwa pobyt w szpitalu?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "To zależy od zabiegu, innych urazów i możliwości bezpiecznego leczenia w domu. Przy wypisie otrzymasz zalecenia co do rany, bólu, ćwiczeń, obciążania i kontroli. Wypis nie oznacza ukończenia zrostu."
+            }
+          ]
+        },
+        {
+          "heading": "7. Rehabilitacja i powrót do sprawności",
+          "body": [],
+          "divider": true
+        },
+        {
+          "heading": "Powrót do sprawności po osteosyntezie",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Celem jest zrost, ruchomość stawów, siła mięśni i funkcja kończyny. Czas zależy od złamania, stabilizacji, tkanek i zdrowia. Mocny implant nie oznacza nieograniczonego obciążania."
+            }
+          ]
+        },
+        {
+          "heading": "Pierwsze dni po zabiegu",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Ból, siniaki, obrzęk i ograniczenie ruchu są początkowo częste. Ważne są leki przeciwbólowe, opatrunki, właściwe ułożenie kończyny i zalecone ćwiczenia. Szybkie pogorszenie wymaga kontroli."
+            }
+          ]
+        },
+        {
+          "heading": "Kiedy można poruszać kończyną?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Wczesne bezpieczne ruchy pomagają ograniczać sztywność i osłabienie mięśni. Termin i zakres zależą od stabilności. Po złamaniu przedramienia ważne są ruchy dłoni i łokcia, po złamaniu nogi — stopniowy trening chodu. Plan ustala lekarz i fizjoterapeuta."
+            }
+          ]
+        },
+        {
+          "heading": "Kiedy można obciążać operowaną nogę?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Czasem możliwe jest wczesne częściowe lub pełne obciążanie, czasem potrzebne są kule i odciążenie. Uwzględnia się kość, rodzaj złamania, stabilność, staw i postęp zrostu. Chodzenie z kulami nie jest tym samym co pełne obciążanie."
+            }
+          ]
+        },
+        {
+          "heading": "Jak długo zrasta się kość?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Zazwyczaj tygodnie lub miesiące, ale nie ma uniwersalnego terminu. Złamania złożone i otwarte mogą goić się dłużej. Znaczenie mają ukrwienie, stabilność i choroby współistniejące. Rehabilitacja może trwać również po potwierdzeniu zrostu."
+            }
+          ]
+        },
+        {
+          "heading": "Po co rehabilitacja?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Fizjoterapia poprawia ruchomość, siłę, wytrzymałość, chód, równowagę i codzienne funkcjonowanie. Ćwiczenia oraz obciążanie zwiększa się stopniowo. Nadmierny wysiłek nie przyspiesza gojenia."
+            }
+          ]
+        },
+        {
+          "heading": "Kiedy wrócić do pracy i sportu?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Praca siedząca może być możliwa wcześniej niż ciężka praca fizyczna. Sport wymaga odpowiedniej siły, ruchomości, koordynacji i tolerancji obciążeń. Decyzja wynika z badania, obrazowania i sprawności, nie tylko z kalendarza."
+            }
+          ]
+        },
+        {
+          "heading": "Dlaczego kontrole są ważne?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Lekarz ocenia ranę, obrzęk, ruchomość, ustawienie odłamów i implantów oraz postęp zrostu. RTG i zwiększanie obciążenia ustala się indywidualnie. Część kontroli można omówić zdalnie, ale nie zastępuje to koniecznego badania na miejscu."
+            }
+          ]
+        },
+        {
+          "heading": "Niepokojące objawy po zabiegu",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Nagła bladość lub zimno kończyny, bardzo silny narastający ból z napiętym obrzękiem, duszność lub ból w klatce piersiowej wymagają pilnej pomocy. Z lekarzem trzeba szybko skontaktować się przy gorączce z pogorszeniem rany, narastającym zaczerwienieniu, ropie, nowym silnym bólu lub bolesnym jednostronnym obrzęku łydki."
+            }
+          ]
+        },
+        {
+          "heading": "Co wspiera zrost kości?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Pomagają odpowiednie odżywianie i białko, wyrównanie potwierdzonych niedoborów, kontrola chorób, zaprzestanie palenia i nikotyny oraz przestrzeganie zaleceń dotyczących obciążania i ćwiczeń. Powrót do aktywności powinien być stopniowy."
+            }
+          ]
+        },
+        {
+          "heading": "8. Powikłania i ponowne operacje",
+          "body": [],
+          "divider": true
+        },
+        {
+          "heading": "Możliwe powikłania osteosyntezy",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Większość prawidłowo leczonych złamań zrasta się, ale operacja nie eliminuje całego ryzyka. Mogą wystąpić opóźniony zrost, brak zrostu, deformacja, zakażenie, sztywność lub dolegliwości od implantów. Ważne są kontrole."
+            }
+          ]
+        },
+        {
+          "heading": "Co jeśli złamanie nie zrasta się w terminie?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Opóźniony zrost oznacza wolniejsze niż oczekiwane gojenie, a brak zrostu — brak odpowiedniego postępu. Przyczyną bywa niestabilność, ciężkie uszkodzenie tkanek, słabe ukrwienie lub infekcja. Po diagnostyce możliwa jest zmiana obciążania, powtórna stabilizacja lub przeszczep kostny."
+            }
+          ]
+        },
+        {
+          "heading": "Zrost w nieprawidłowym ustawieniu",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Kość może zrosnąć się ze zmianą długości, osi lub rotacji. Nie każda deformacja wymaga zabiegu. Istotne są jej nasilenie, ból i wpływ na funkcję kończyny."
+            }
+          ]
+        },
+        {
+          "heading": "Zakażenie po zespoleniu złamania",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Infekcja może obejmować ranę, kość i implant. Alarmują narastający ból, zaczerwienienie, obrzęk, przewlekły wysięk, ponowne otwarcie rany lub ropa; gorączka nie występuje zawsze. Głębokie zakażenie związane ze złamaniem określa się jako FRI."
+            },
+            {
+              "type": "p",
+              "text": "Rozpoznanie może wymagać badań, obrazowania i próbek tkanek. Leczenie obejmuje czasem chirurgiczne oczyszczenie, antybiotyki oraz pozostawienie, wymianę albo usunięcie stabilizacji. Nie każdy stabilny implant trzeba od razu usuwać. Nie rozpoczynaj antybiotyków samodzielnie; ciężka infekcja ogólnoustrojowa wymaga pilnego leczenia."
+            }
+          ]
+        },
+        {
+          "heading": "Problemy z implantem",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Możliwe są drażnienie tkanek, ból, poluzowanie lub uszkodzenie implantu. Przyczyną może być obciążenie lub zaburzenie zrostu, a nie wada materiału. Nowy ból, deformacja i niestabilność wymagają oceny."
+            }
+          ]
+        },
+        {
+          "heading": "Czy trzeba usuwać płytkę, śruby lub gwóźdź?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "U większości dorosłych rutynowe usuwanie implantów po zroście nie jest konieczne. Rozważa się je przy bólu, drażnieniu, ograniczeniu funkcji, infekcji lub innych wskazaniach. Niektóre konstrukcje przewidują planowe usunięcie. To kolejna operacja z ryzykiem uszkodzenia nerwów, infekcji i ponownego złamania."
+            }
+          ]
+        },
+        {
+          "heading": "Kiedy potrzebna jest ponowna operacja?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Reoperacja bywa konieczna przy braku zrostu, istotnej deformacji, infekcji lub niestabilności. Najpierw należy poznać przyczynę i stan kości oraz tkanek. Nie każde powikłanie wymaga zabiegu, jednak utrzymujący się ból lub brak postępu powinien być zbadany."
+            }
+          ]
+        },
+        {
+          "heading": "9. Przypadek kliniczny, koszt i organizacja leczenia",
+          "body": [],
+          "divider": true
+        },
+        {
+          "heading": "Leczenie złamań w Kijowie: konsultacja, koszt i organizacja",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Dr Maksym Baida analizuje dokumentację, RTG lub TK i wyjaśnia możliwości leczenia, ryzyko oraz obserwację. Celem wizyty jest dobranie uzasadnionej terapii, a nie automatyczne skierowanie na operację."
+            }
+          ]
+        },
+        {
+          "heading": "Przypadek kliniczny: złożone złamanie piszczeli",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Po upadku z motocykla pacjent doznał wieloodłamowego złamania dalszej części kości piszczelowej z przemieszczeniem i złamania strzałki. Zastosowano gwóźdź śródszpikowy z dodatkową stabilizacją fragmentów dalszych. Pooperacyjne RTG pokazuje przywrócenie osi i położenia implantów."
+            },
+            {
+              "type": "p",
+              "text": "Przykład pokazuje efekt stabilizacji, ale nie gwarantuje terminu zrostu ani pełnego powrotu funkcji."
+            }
+          ],
           "caseImages": [
             "osteosynthesis-case-before.jpg",
             "osteosynthesis-case-after.jpg"
@@ -4596,210 +4936,149 @@
           "caseAspect": "landscape"
         },
         {
-          "heading": "Wynik",
+          "heading": "Ile kosztuje operacyjne zespolenie złamania?",
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Na zdjęciach kontrolnych — odtworzona oś kości piszczelowej, zachowane położenie fragmentów oraz stabilne położenie metalozy."
-            },
-            {
-              "type": "p",
-              "text": "Przy złożonym złamaniu ważne jest nie tylko ustabilizowanie kości. Metodę i kombinację sposobów fiksacji dobiera się odpowiednio do konkretnej anatomii uszkodzenia."
+              "text": "Koszt zależy od rodzaju i złożoności złamania, implantów, zabiegu, znieczulenia, badań i pobytu w szpitalu. Wstępną wycenę można omówić po analizie dokumentacji, a ostateczną po badaniu. Możliwość finansowania publicznego ustala się z placówką."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Nasze podejście",
+          "heading": "Jak umówić konsultację?",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Przygotuj dostępne RTG lub TK, opisy, historię wcześniejszego leczenia i krótki opis okoliczności urazu. Podczas konsultacji omawiane są wskazania do operacji, alternatywy, ryzyko, koszty i rehabilitacja. Druga opinia nie może opóźniać pilnego leczenia."
+            }
+          ]
+        },
+        {
+          "heading": "Powiązane kierunki leczenia",
+          "divider": false,
+          "body": [
+            {
+              "type": "p",
+              "text": "Brak zrostu, ubytek kostny, infekcja lub pourazowa deformacja wymagają niekiedy specjalistycznej oceny. Powiązane tematy obejmują rekonstrukcję kończyn, ubytki kostne i indywidualne implanty 3D."
+            }
+          ]
+        },
+        {
+          "heading": "10. Najczęściej zadawane pytania",
           "body": [],
           "divider": true
         },
         {
-          "heading": "Nie każde złamanie trzeba operować",
+          "heading": "Najczęstsze pytania o osteosyntezę",
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Leczenie chirurgiczne powinno być stosowane wtedy, gdy daje realną przewagę w porównaniu z zachowawczym."
-            },
-            {
-              "type": "p",
-              "text": "Celem konsultacji jest ustalenie optymalnej taktyki, a niekoniecznie doprowadzenie pacjenta do operacji."
+              "text": "Poniżej odpowiedzi na pytania przed operacją i podczas powrotu do zdrowia."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Metoda fiksacji dopasowana do konkretnego złamania",
+          "heading": "Czy każde złamanie z przemieszczeniem wymaga operacji?",
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Płytka, gwóźdź śródszpikowy lub inny sposób fiksacji to narzędzia. Wybór zależy od anatomii i mechaniki konkretnego uszkodzenia."
+              "text": "Nie. Decydują lokalizacja, stabilność i możliwość utrzymania właściwego ustawienia bez operacji."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Zachowujemy biologię złamania",
+          "heading": "Co jest lepsze: płytka czy gwóźdź śródszpikowy?",
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Stabilność jest ważna, ale nie mniej ważne jest zachowanie ukrwienia i tkanek miękkich niezbędnych do gojenia."
+              "text": "Żadna metoda nie jest uniwersalnie lepsza. Płytki ułatwiają precyzyjną repozycję blisko stawów, gwoździe często stosuje się w kościach długich. Decyduje rodzaj złamania."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Myślimy o funkcji od samego początku",
+          "heading": "Czy po operacji będzie boleć?",
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Planując operację, ważne jest uwzględnienie nie tylko położenia odłamów, ale też przyszłej ruchomości stawów, obciążania i powrotu pacjenta do codziennego życia."
+              "text": "Na początku ból i obrzęk są możliwe i leczy się je przeciwbólowo. Nagłe pogorszenie wymaga pilnego badania."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Najczęściej zadawane pytania",
-          "body": [],
-          "divider": true
-        },
-        {
-          "heading": "Czy każde złamanie z przemieszczeniem trzeba operować?",
+          "heading": "Kiedy można chodzić po zespoleniu nogi?",
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Nie."
-            },
-            {
-              "type": "p",
-              "text": "Decyzja zależy od wielkości i charakteru przemieszczenia, stabilności złamania, jego umiejscowienia, wieku i potrzeb funkcjonalnych pacjenta."
-            },
-            {
-              "type": "p",
-              "text": "W części przypadków akceptowalne położenie można osiągnąć i utrzymać bez operacji."
+              "text": "Czasami chodzenie z pomocą jest możliwe wcześnie, ale pełne obciążanie nie zawsze. Trzeba przestrzegać zaleceń."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Płytka czy gwóźdź śródszpikowy — co lepsze?",
+          "heading": "Jak długo kość się zrasta?",
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Uniwersalnie lepszego sposobu nie ma."
-            },
-            {
-              "type": "p",
-              "text": "Te metody mają różne wskazania. Wybór zależy od umiejscowienia i typu złamania, stanu kości i tkanek miękkich oraz innych czynników."
+              "text": "Zwykle od tygodni do miesięcy, w zależności od kości, złamania i stanu zdrowia. Postęp oceniany jest podczas kontroli."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Czy trzeba usuwać metalozę po zroście?",
+          "heading": "Czy implant trzeba później usunąć?",
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Nie."
-            },
-            {
-              "type": "p",
-              "text": "Jeśli konstrukcja nie powoduje problemów i nie ma innych wskazań do jej usunięcia, powtórna operacja nie zawsze jest potrzebna."
-            },
-            {
-              "type": "p",
-              "text": "Decyzja podejmowana jest indywidualnie."
+              "text": "Zwykle nie, jeśli nie powoduje problemów. Usunięcie ma określone wskazania i ryzyko."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Kiedy można stawać na nodze po osteosyntezie?",
+          "heading": "Czy mogę uzyskać drugą opinię?",
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Zależy to od umiejscowienia i charakteru złamania, stabilności fiksacji, jakości tkanki kostnej i przebiegu gojenia."
-            },
-            {
-              "type": "p",
-              "text": "Dla różnych złamań reżim obciążania może się istotnie różnić."
+              "text": "Tak, jeżeli stan pozwala na dodatkową konsultację. Przygotuj zdjęcia i wyniki; nie odkładaj pilnej pomocy."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Kiedy trzeba zacząć usprawniać staw?",
+          "heading": "Ile kosztuje operacja?",
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "W wielu przypadkach ruchy staramy się rozpocząć jak najwcześniej, jeśli charakter złamania i stabilność fiksacji na to pozwalają."
-            },
-            {
-              "type": "p",
-              "text": "Konkretny reżim ustala chirurg."
+              "text": "Koszt ustala się indywidualnie według urazu, implantów, znieczulenia i innych elementów leczenia."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Ile czasu zrasta się złamanie?",
+          "heading": "Czy mogę skontaktować się z zagranicy?",
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Termin zależy od kości, typu złamania, wieku, ukrwienia, stabilności fiksacji i innych czynników."
-            },
-            {
-              "type": "p",
-              "text": "Dlatego decyzja o zwiększeniu obciążenia podejmowana jest nie tylko na podstawie kalendarza, ale i wyników kontrolnego badania oraz radiografii."
+              "text": "Tak, można przesłać dokumentację do wstępnej oceny i planowania, pod warunkiem że nie opóźnia to pomocy w nagłym urazie."
             }
-          ],
-          "divider": false
+          ]
         },
         {
-          "heading": "Co robić, jeśli po operacji złamanie się nie zrasta?",
+          "heading": "Umów konsultację",
+          "divider": false,
           "body": [
             {
               "type": "p",
-              "text": "Najpierw trzeba ustalić przyczynę."
-            },
-            {
-              "type": "p",
-              "text": "Oceniane są stabilność konstrukcji, warunki biologiczne w strefie złamania, obecność ubytku kostnego, stan tkanek miękkich i inne czynniki."
-            },
-            {
-              "type": "p",
-              "text": "Po tym ustala się dalszą taktykę leczenia."
+              "text": "Przygotuj badania obrazowe i dokumentację. Możemy omówić leczenie, powrót do sprawności i kolejne kroki; skorzystaj z kontaktów na stronie."
             }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Czy można uzyskać drugą opinię, jeśli operację już zaproponowano?",
-          "body": [
-            {
-              "type": "p",
-              "text": "Tak."
-            },
-            {
-              "type": "p",
-              "text": "Jeśli sytuacja pozwala na czas do podjęcia planowej decyzji, można ocenić zdjęcia rentgenowskie lub TK, zaproponowaną taktykę i możliwe alternatywy."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Masz złamanie i trzeba ustalić taktykę leczenia?",
-          "body": [
-            {
-              "type": "p",
-              "text": "Jeśli zdiagnozowano złożone złamanie, jest znaczne przemieszczenie lub zaproponowano Ci już operację, podczas konsultacji można ocenić wyniki badań i ustalić możliwe warianty leczenia."
-            },
-            {
-              "type": "p",
-              "text": "Nie każde złamanie wymaga operacji. Jeśli jednak osteosynteza jest konieczna, głównym zadaniem jest wybór sposobu fiksacji, który stworzy optymalne warunki do zrostu i przywrócenia funkcji."
-            }
-          ],
-          "divider": false
+          ]
         }
       ]
     },
