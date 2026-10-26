@@ -18,6 +18,7 @@ import LengtheningPatientInternational from "@/components/LengtheningPatientInte
 import KneeInternationalUk from "@/components/KneeInternationalUk";
 import ArthroplastyInternational from "@/components/ArthroplastyInternational";
 import HalluxInternational from "@/components/HalluxInternational";
+import AvnInternational from "@/components/AvnInternational";
 import { getDirections, type Article, type Block } from "@/app/directions";
 
 export function generateStaticParams() {
@@ -602,6 +603,7 @@ function RichDetail({
           )}
           {slug === "limb-lengthening" && lang === "uk" && <><LengtheningEssentialsUk /><LengtheningInternationalUk /><LengtheningFaqUk /></>}
           {slug === "limb-lengthening" && lang !== "uk" && <LengtheningPatientInternational lang={lang} />}
+          {slug === "avn" && <AvnInternational lang={lang} />}
           {slug === "hallux-valgus" && (lang === "uk" ? <HalluxInternationalUk /> : <HalluxInternational lang={lang} />)}
           {slug === "osteosynthesis" && lang === "uk" && <OsteosynthesisInternationalUk />}
           {slug === "osteosynthesis" && lang !== "uk" && <OsteosynthesisInternational lang={lang} />}
