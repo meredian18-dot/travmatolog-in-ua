@@ -2,6 +2,13 @@ import type { Dict, Locale } from "@/app/i18n";
 import { BASE } from "@/app/base";
 import { getDirections } from "@/app/directions";
 
+const browseLabels: Record<Locale, { hint: string; group: string }> = {
+  uk: { hint: "Оберіть напрямок за вашою проблемою. У кожному розділі описані показання, можливості лікування та наступні кроки.", group: "Напрямки лікування" },
+  en: { hint: "Choose the treatment area that best matches your concern. Each page explains indications, treatment options and next steps.", group: "Treatment areas" },
+  de: { hint: "Wählen Sie den passenden Behandlungsbereich. Jede Seite erläutert Indikationen, Möglichkeiten und nächste Schritte.", group: "Behandlungsbereiche" },
+  pl: { hint: "Wybierz obszar leczenia odpowiadający Twojemu problemowi. Każda strona wyjaśnia wskazania, możliwości i kolejne kroki.", group: "Obszary leczenia" },
+};
+
 function SectionHeader({ t }: { t: Dict["treatments"] }) {
   return (
     <div className="mb-10">
@@ -25,6 +32,7 @@ export default function Treatments({ dict, lang }: { dict: Dict; lang: Locale })
       <div className="mx-auto max-w-[1440px] px-5 sm:px-8">
         <SectionHeader t={t} />
 
+        <p className="mb-8 max-w-3xl text-sm sm:text-base leading-relaxed text-white/80">{browseLabels[lang].hint}</p>
         <TreatmentCards dict={dict} lang={lang} />
       </div>
     </section>
@@ -35,7 +43,7 @@ export function TreatmentCards({ dict, lang }: { dict: Dict; lang: Locale }) {
   const t = dict.treatments;
   const directions = getDirections(lang);
   return (
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 lg:gap-6">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 lg:gap-6" aria-label={browseLabels[lang].group}>
           {directions.cards.map((card, i) => (
             <a
               key={`${card.slug}-${i}`}
@@ -54,7 +62,8 @@ export function TreatmentCards({ dict, lang }: { dict: Dict; lang: Locale }) {
                 <h3 className="font-sans font-light text-white text-base lg:text-lg tracking-tight leading-snug">
                   {card.title}
                 </h3>
-                <div className="mt-2 inline-flex items-center gap-2 label-caps text-[10.5px] font-semibold text-tan">
+                <p className="mt-2 text-xs sm:text-sm text-white/70 leading-relaxed line-clamp-3">{card.summary}</p>
+                <div className="mt-3 inline-flex items-center gap-2 label-caps text-[10.5px] font-semibold text-tan">
                   {t.learnMore}
                   <span aria-hidden className="transition-transform group-hover:translate-x-1">→</span>
                 </div>
