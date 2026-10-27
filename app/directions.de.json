@@ -2104,6 +2104,210 @@
           "divider": false
         },
         {
+          "heading": "Diagnostik und Vorbereitung auf die Arthroskopie",
+          "body": [
+            {
+              "type": "p",
+              "text": "Eine gute Behandlung beginnt mit der richtigen Diagnose. Vor einer Knie- oder Schulterarthroskopie müssen Ursache der Beschwerden, Art der Schädigung und mögliche Vorteile gegenüber konservativen Maßnahmen geklärt werden."
+            },
+            {
+              "type": "p",
+              "text": "MRT-Befunde allein sind keine Indikation zur Arthroskopie. Bildgebung wird stets zusammen mit Beschwerden, Untersuchung und funktionellen Anforderungen beurteilt."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Erstes orthopädisches Beratungsgespräch",
+          "body": [
+            {
+              "type": "p",
+              "text": "Der Arzt erfragt Beginn der Beschwerden, Unfallhergang, schmerzhafte Bewegungen, Instabilität, Blockaden und bisherige Therapien."
+            },
+            {
+              "type": "list",
+              "items": [
+                "aktive und passive Beweglichkeit",
+                "Stabilitätsprüfung des Gelenks",
+                "spezifische Tests für Menisken, Bänder, Rotatorenmanschette oder Labrum",
+                "Muskelkraft und funktionelle Einschränkungen",
+                "Untersuchung angrenzender Regionen als mögliche Schmerzursache"
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Daraus ergeben sich die Verdachtsdiagnose und der Bedarf an weiterer Diagnostik."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "MRT, Röntgen, CT und Ultraschall: Was ist nötig?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Das MRT zeigt Menisken, Bänder, Sehnen, Labrum, Knorpel und andere Weichteile. Bei vermuteten Gelenkverletzungen ist es hilfreich, aber nicht immer notwendig."
+            },
+            {
+              "type": "p",
+              "text": "Röntgenaufnahmen zeigen Knochen, Gelenkstellung, Arthrosezeichen und Folgen bestimmter Verletzungen."
+            },
+            {
+              "type": "p",
+              "text": "Ein CT kann Knochendefekte insbesondere bei wiederholter Schulterinstabilität darstellen und komplexe Rekonstruktionen planen helfen."
+            },
+            {
+              "type": "p",
+              "text": "Ultraschall kann Sehnen der Rotatorenmanschette, umgebende Strukturen und dynamische Veränderungen untersuchen."
+            },
+            {
+              "type": "p",
+              "text": "Die Wahl richtet sich nach der klinischen Fragestellung; sämtliche Verfahren gleichzeitig sind meist nicht erforderlich."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Untersuchung des Kniegelenks",
+          "body": [
+            {
+              "type": "p",
+              "text": "Bei Verdacht auf Meniskus- oder Kreuzbandverletzung werden Stabilität, Beweglichkeit, Schwellung und mechanische Beschwerden beurteilt."
+            },
+            {
+              "type": "p",
+              "text": "Ein MRT kann Rissform und -lage sowie Begleitschäden zeigen. Entscheidend ist die Übereinstimmung mit den Beschwerden."
+            },
+            {
+              "type": "p",
+              "text": "Vor der VKB-Rekonstruktion werden zudem Beweglichkeit, Muskelfunktion und Bereitschaft zur längeren Rehabilitation überprüft."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Untersuchung des Schultergelenks",
+          "body": [
+            {
+              "type": "p",
+              "text": "Bei vermuteten Rotatorenmanschettenrissen bewertet man Rissgröße, Sehnenretraktion, Muskulatur und Gewebequalität."
+            },
+            {
+              "type": "p",
+              "text": "Bei wiederholter Instabilität werden Labrumverletzungen und möglicher Knochenverlust an Glenoid und Oberarmkopf untersucht."
+            },
+            {
+              "type": "p",
+              "text": "In ausgewählten Fällen kann eine MR-Arthrographie Labrumläsionen genauer darstellen, ein CT Knochendefekte."
+            },
+            {
+              "type": "p",
+              "text": "Diese Angaben helfen, die Operationsindikation und geeignete Rekonstruktionstechnik zu bestimmen."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Wie werden Operationsindikationen festgelegt?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Nach Untersuchung und Bildgebung werden Behandlungsalternativen besprochen. Maßgeblich sind:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Art und Schwere der Verletzung",
+                "Dauer und Ausmaß der Beschwerden",
+                "funktionelle Einschränkungen",
+                "Ergebnis bisheriger konservativer Maßnahmen",
+                "Alter, Aktivität und Begleiterkrankungen",
+                "erwarteter Nutzen, Einschränkungen und Risiken"
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Vor einer Entscheidung müssen Ziel der Operation, Alternativen und Rehabilitation verständlich sein."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Präoperative Untersuchung",
+          "body": [
+            {
+              "type": "p",
+              "text": "Ist eine Operation geplant, werden Allgemeinzustand und Narkoserisiken beurteilt."
+            },
+            {
+              "type": "p",
+              "text": "Je nach Eingriff, Alter, Vorerkrankungen und Medikamenten sind Laborwerte, EKG oder zusätzliche Untersuchungen sinnvoll."
+            },
+            {
+              "type": "p",
+              "text": "Eine für alle verpflichtende Untersuchungsliste gibt es nicht. Die Auswahl richtet sich nach medizinischen Indikationen und Vorgaben der Klinik."
+            },
+            {
+              "type": "p",
+              "text": "Informieren Sie über Erkrankungen, Allergien, frühere Narkoseprobleme und sämtliche Medikamente einschließlich Gerinnungshemmern. Verordnete Arzneimittel nicht eigenständig absetzen."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Vorbereitung auf die Arthroskopie",
+          "body": [
+            {
+              "type": "p",
+              "text": "Die Vorbereitung wird individuell geplant. Häufig gehört dazu:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Dauermedikation mit dem Behandlungsteam abstimmen",
+                "Anweisungen zur Nüchternheit vor der Narkose beachten",
+                "Fieber, Infektionen oder neue Beschwerden melden",
+                "Heimweg und Unterstützung für die ersten Tage organisieren",
+                "verordnete Gehhilfen, Orthesen oder Armschlingen bereithalten"
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Vor Knieeingriffen können Übungen Beweglichkeit und Kraft erhalten. Vor Schulteroperationen sollten Ruhigstellung, Alltagseinschränkungen und Rehabilitation besprochen werden."
+            },
+            {
+              "type": "p",
+              "text": "Konkrete Vorgaben kommen vom Operateur und der Anästhesie."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Was sollten Patienten vor der Operation wissen?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Vor der Aufnahme sollten folgende Fragen geklärt sein:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Welche Verletzung soll behandelt werden?",
+                "Welche Operation ist geplant und warum?",
+                "Welche Alternativen gibt es?",
+                "Welche Risiken und Einschränkungen bestehen?",
+                "Sind Gehhilfen, Orthese oder Schulterruhigstellung nötig?",
+                "Wie erfolgt die Rehabilitation und Rückkehr zu Arbeit und Sport?"
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Sorgfältige Diagnostik und Vorbereitung fördern eine begründete Entscheidung, reduzieren beeinflussbare Risiken und schaffen realistische Erwartungen."
+            }
+          ],
+          "divider": false
+        },
+        {
           "heading": "Was sich nach der Operation ändern kann",
           "body": [
             {
