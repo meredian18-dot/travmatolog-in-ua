@@ -276,6 +276,31 @@ function BlockBody({ block, hideDiagram = false }: { block: Block; hideDiagram?:
       )}
       {block.body.map((item, j) => {
         if (item.items) {
+          const isRecoveryComparison = [
+            "Орієнтовні терміни відновлення",
+            "Approximate recovery milestones",
+            "Ungefähre Erholungszeiten",
+            "Orientacyjne terminy powrotu do aktywności",
+          ].includes(block.heading ?? "");
+          if (isRecoveryComparison) {
+            return (
+              <div key={j} className="grid grid-cols-1 sm:grid-cols-2 gap-3 my-4">
+                {item.items.map((li) => {
+                  const separator = li.indexOf(" — ");
+                  return (
+                    <div key={li} className="rounded-lg border border-hairline bg-white p-4 min-w-0">
+                      {separator >= 0 ? (
+                        <>
+                          <p className="font-medium text-ink text-sm mb-1">{li.slice(0, separator)}</p>
+                          <p className="text-ink-muted text-sm leading-relaxed">{li.slice(separator + 3)}</p>
+                        </>
+                      ) : <p className="text-sm">{li}</p>}
+                    </div>
+                  );
+                })}
+              </div>
+            );
+          }
           return (
             <ul key={j} className="space-y-2 pl-1">
               {item.items.map((li) => (
