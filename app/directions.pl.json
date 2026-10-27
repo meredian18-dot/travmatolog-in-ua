@@ -1578,23 +1578,65 @@
           "divider": false
         },
         {
-          "heading": "Czym jest artroskopia",
+          "heading": "Czym jest artroskopia i komu może pomóc?",
           "body": [
             {
               "type": "p",
-              "text": "Artroskopia to małoinwazyjna technika chirurgiczna, przy której do wnętrza stawu przez niewielki dostęp wprowadzany jest specjalny system optyczny — artroskop."
+              "text": "Artroskopia to metoda chirurgiczna pozwalająca obejrzeć struktury wewnątrz stawu oraz, jeśli istnieją wskazania, przeprowadzić leczenie przez niewielkie nacięcia."
             },
             {
               "type": "p",
-              "text": "Obraz struktur wewnętrznych stawu przekazywany jest na monitor, co pozwala chirurgowi szczegółowo je ocenić."
+              "text": "Podczas operacji do stawu wprowadza się artroskop — cienki instrument z kamerą, której obraz jest wyświetlany na monitorze. Przez dodatkowe niewielkie nacięcia chirurg może wprowadzić specjalistyczne narzędzia w celu naprawy lub opracowania uszkodzonych struktur."
             },
             {
               "type": "p",
-              "text": "Przez dodatkowe niewielkie dostępy wprowadzane są specjalne narzędzia, za pomocą których można wykonać niezbędną interwencję chirurgiczną."
+              "text": "Artroskopię stosuje się najczęściej w leczeniu wybranych uszkodzeń stawu kolanowego i barkowego."
             },
             {
               "type": "p",
-              "text": "W ten sposób artroskopia pozwala nie tylko zobaczyć patologię wewnątrz stawu, ale też w odpowiednich przypadkach odtworzyć lub zrekonstruować uszkodzone struktury przez minimalne dostępy chirurgiczne."
+              "text": "Kiedy artroskopia może być wskazana?"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Uszkodzenia łąkotek — gdy rodzaj pęknięcia, objawy oraz wyniki badań wskazują na możliwą korzyść z operacji.",
+                "Niestabilność kolana — między innymi po zerwaniu więzadła krzyżowego przedniego (ACL), jeśli istnieją wskazania do rekonstrukcji.",
+                "Uszkodzenia stożka rotatorów — przy wybranych zerwaniach ścięgien, gdy zasadne jest ich leczenie operacyjne.",
+                "Nawracające zwichnięcia i niestabilność barku — jeśli charakter uszkodzenia pozwala na stabilizację artroskopową.",
+                "Wybrane ogniskowe uszkodzenia chrząstki, wolne ciała śródstawowe i inne zaburzenia mechaniczne — po potwierdzeniu ich znaczenia klinicznego."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Jakie są zalety chirurgii artroskopowej?"
+            },
+            {
+              "type": "p",
+              "text": "Wiele zabiegów można wykonać przez niewielkie nacięcia, ograniczając uszkodzenie otaczających tkanek miękkich w porównaniu z odpowiednimi operacjami otwartymi. Kamera zapewnia powiększony obraz struktur wewnątrzstawowych i umożliwia precyzyjne wykonanie wybranych czynności chirurgicznych."
+            },
+            {
+              "type": "p",
+              "text": "Niewielkie nacięcia nie oznaczają jednak, że operacja jest prosta ani że rehabilitacja będzie krótka. Czas powrotu do sprawności zależy przede wszystkim od rodzaju uszkodzenia, wykonanego zabiegu i gojenia tkanek."
+            },
+            {
+              "type": "p",
+              "text": "Czy artroskopia jest zawsze potrzebna?"
+            },
+            {
+              "type": "p",
+              "text": "Nie. Ból stawu, zmiany w rezonansie magnetycznym i zwyrodnienia związane z wiekiem same w sobie nie są wystarczającymi wskazaniami do operacji."
+            },
+            {
+              "type": "p",
+              "text": "Na przykład artroskopowe „oczyszczanie” stawu kolanowego ze zmianami zwyrodnieniowymi zwykle nie przynosi istotnych długotrwałych korzyści i nie jest zalecane jako rutynowe leczenie."
+            },
+            {
+              "type": "p",
+              "text": "W wielu przypadkach warto rozpocząć od leczenia zachowawczego: ćwiczeń terapeutycznych, rehabilitacji, modyfikacji obciążeń i innych metod dostosowanych do rozpoznania."
+            },
+            {
+              "type": "p",
+              "text": "Celem konsultacji jest ustalenie przyczyny objawów i wybór leczenia dającego największą szansę poprawy funkcji stawu, niezależnie od tego, czy konieczna jest operacja."
             }
           ],
           "divider": false,
