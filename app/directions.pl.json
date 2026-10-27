@@ -1557,9 +1557,9 @@
       ]
     },
     "arthroscopy": {
-      "title": "Chirurgia artroskopowa",
-      "lead": "Małoinwazyjne leczenie chirurgiczne uszkodzeń stawu kolanowego i barkowego przez niewielkie dostępy — z dokładną diagnostyką wewnątrzstawową i odtworzeniem uszkodzonych struktur.",
-      "intro": "Ból, obrzęk, niestabilność, blokowanie lub ograniczenie ruchów w stawie nie zawsze wymagają dużej operacji otwartej.",
+      "title": "Artroskopia stawu kolanowego i barkowego w Kijowie",
+      "lead": "Chirurgia artroskopowa to nowoczesna metoda diagnostyki i leczenia wybranych urazów oraz schorzeń stawów, wykonywana przez niewielkie nacięcia z użyciem specjalnej kamery i narzędzi chirurgicznych.",
+      "intro": "Zabiegi artroskopowe stosuje się między innymi przy uszkodzeniach łąkotek, zerwaniach więzadeł stawu kolanowego, uszkodzeniach stożka rotatorów i niestabilności barku, gdy istnieją uzasadnione wskazania do leczenia operacyjnego.",
       "hero": "arthroscopy-hero.jpg",
       "gallery": [],
       "blocks": [
@@ -1568,11 +1568,11 @@
           "body": [
             {
               "type": "p",
-              "text": "W wielu przypadkach uszkodzenia łąkotek, więzadeł, ścięgien i innych struktur stawu można leczyć za pomocą chirurgii artroskopowej."
+              "text": "Nie każda zmiana widoczna w rezonansie magnetycznym wymaga operacji. Decyzję o artroskopii podejmuje się indywidualnie, uwzględniając objawy, badanie kliniczne, wyniki badań obrazowych, poziom aktywności fizycznej oraz efekty dotychczasowego leczenia."
             },
             {
               "type": "p",
-              "text": "Ale artroskopia nie jest potrzebna przy każdym bólu stawu. Decyzję o operacji podejmuje się po ustaleniu przyczyny objawów i ocenie, czy interwencja chirurgiczna rzeczywiście może poprawić funkcję."
+              "text": "Podczas konsultacji można uzyskać ocenę stanu stawu, omówić dostępne możliwości leczenia i otrzymać indywidualne zalecenia dotyczące dalszego postępowania."
             }
           ],
           "divider": false
