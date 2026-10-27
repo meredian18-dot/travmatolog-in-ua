@@ -115,6 +115,28 @@ export async function generateMetadata({
     };
     return { ...meta[lang], alternates: localizedAlternates(lang, `treatments/${slug}`) };
   }
+  if (slug === "arthroscopy") {
+    const meta: Record<Locale, { title: string; description: string }> = {
+      uk: { title: "Артроскопія коліна та плеча в Києві | Максим Байда", description: "Артроскопія коліна і плеча: шов меніска, реконструкція ACL, відновлення ротаторної манжети, показання, ризики та реабілітація. Консультація ортопеда в Києві." },
+      en: { title: "Knee & Shoulder Arthroscopy in Kyiv | Dr Maksym Baida", description: "Knee and shoulder arthroscopy in Ukraine: meniscus repair, ACL reconstruction, rotator cuff repair, indications, risks and rehabilitation. Specialist assessment." },
+      de: { title: "Knie- und Schulterarthroskopie in Kyjiw | Dr. Baida", description: "Knie- und Schulterarthroskopie: Meniskusnaht, Kreuzbandrekonstruktion, Rotatorenmanschette, Indikationen, Risiken und Rehabilitation. Orthopädische Beratung." },
+      pl: { title: "Artroskopia kolana i barku w Kijowie | Dr Maksym Baida", description: "Artroskopia kolana i barku: szycie łąkotki, rekonstrukcja ACL, naprawa stożka rotatorów, wskazania, ryzyko i rehabilitacja. Konsultacja ortopedyczna." }
+    };
+    return {
+      ...meta[lang],
+      alternates: localizedAlternates(lang, `treatments/${slug}`),
+      openGraph: {
+        type: "article",
+        url: `https://travmatolog.in.ua/${lang}/treatments/${slug}/`,
+        title: meta[lang].title,
+        description: meta[lang].description,
+        siteName: "travmatolog.in.ua",
+        locale: lang === "uk" ? "uk_UA" : lang === "de" ? "de_DE" : lang === "pl" ? "pl_PL" : "en_US",
+        images: [{url: "https://travmatolog.in.ua/directions/arthroscopy-diagram.jpg", alt: article.title}]
+      },
+      twitter: {card: "summary_large_image", title: meta[lang].title, description: meta[lang].description, images: ["https://travmatolog.in.ua/directions/arthroscopy-diagram.jpg"]}
+    };
+  }
   if (lang === "uk" && slug === "hallux-valgus") {
     return {
       title: "Hallux valgus — операція на кісточці стопи | Максим Байда",
@@ -167,6 +189,19 @@ export default async function TreatmentDetail({
     author: { "@type": "Person", name: "Maksym Baida", jobTitle: "Orthopaedic trauma surgeon", url: `https://travmatolog.in.ua/${loc}/#about-doctor` },
     publisher: { "@type": "Organization", name: "travmatolog.in.ua", url: "https://travmatolog.in.ua/" }
   } : null;
+  const arthroscopySchema = slug === "arthroscopy" ? {
+    "@context": "https://schema.org",
+    "@type": "MedicalWebPage",
+    "@id": `https://travmatolog.in.ua/${loc}/treatments/arthroscopy/#medicalwebpage`,
+    url: `https://travmatolog.in.ua/${loc}/treatments/arthroscopy/`,
+    name: article.title,
+    description: article.lead,
+    inLanguage: loc === "uk" ? "uk-UA" : loc === "en" ? "en" : loc === "de" ? "de-DE" : "pl-PL",
+    isAccessibleForFree: true,
+    about: { "@type": "MedicalProcedure", name: article.title, procedureType: "Surgical" },
+    author: { "@type": "Person", name: "Maksym Baida", jobTitle: "Orthopaedic trauma surgeon", url: `https://travmatolog.in.ua/${loc}/#about-doctor` },
+    publisher: { "@type": "Organization", name: "travmatolog.in.ua", url: "https://travmatolog.in.ua/" }
+  } : null;
   const schema = (slug === "hip-replacement" || slug === "knee-replacement" || slug === "shoulder-replacement" || slug === "limb-lengthening" || slug === "osteosynthesis") ? {
     "@context": "https://schema.org",
     "@type": "MedicalWebPage",
@@ -185,7 +220,7 @@ export default async function TreatmentDetail({
     author: { "@type": "Person", name: "Maksym Baida", jobTitle: "Orthopaedic trauma surgeon", url: `https://travmatolog.in.ua/${loc}/#about-doctor` },
     publisher: { "@type": "Organization", name: "travmatolog.in.ua", url: "https://travmatolog.in.ua/" },
   } : null;
-  const crumbs = (slug === "avn" || slug === "knee-replacement" || slug === "shoulder-replacement" || slug === "limb-lengthening" || slug === "osteosynthesis") ? {
+  const crumbs = (slug === "arthroscopy" || slug === "avn" || slug === "knee-replacement" || slug === "shoulder-replacement" || slug === "limb-lengthening" || slug === "osteosynthesis") ? {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     itemListElement: [
@@ -195,6 +230,7 @@ export default async function TreatmentDetail({
   } : null;
   return <>
     {crumbs && <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(crumbs).replace(/</g, "\\u003c") }} />}
+    {arthroscopySchema && <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(arthroscopySchema).replace(/</g, "\\u003c") }} />}
     {avnSchema && <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(avnSchema).replace(/</g, "\\u003c") }} />}
     {schema && <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema).replace(/</g, "\\u003c") }} />}
     <RichDetail dict={dict} lang={loc} slug={slug} article={article} />
