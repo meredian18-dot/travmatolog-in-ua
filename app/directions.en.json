@@ -1578,23 +1578,65 @@
           "divider": false
         },
         {
-          "heading": "What is arthroscopy",
+          "heading": "What is arthroscopy and who can benefit from it?",
           "body": [
             {
               "type": "p",
-              "text": "Arthroscopy is a minimally invasive surgical technique in which a special optical instrument — an arthroscope — is inserted into the joint through a small incision."
+              "text": "Arthroscopy is a surgical technique that allows a surgeon to examine structures inside a joint and, when indicated, perform treatment through small incisions."
             },
             {
               "type": "p",
-              "text": "The image of the joint's internal structures is displayed on a monitor, allowing the surgeon to assess them in detail."
+              "text": "During surgery, an arthroscope — a slim instrument with a camera — is introduced into the joint. Images are displayed on a monitor. Additional small incisions allow the surgeon to use specialised instruments to repair or treat damaged structures."
             },
             {
               "type": "p",
-              "text": "Through additional small incisions, specialized instruments are inserted to perform the necessary surgical procedure."
+              "text": "Arthroscopy is most commonly used to treat selected injuries of the knee and shoulder."
             },
             {
               "type": "p",
-              "text": "In this way, arthroscopy not only allows the pathology inside the joint to be visualized, but in appropriate cases also allows damaged structures to be repaired or reconstructed through minimal surgical access."
+              "text": "When might arthroscopy be appropriate?"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Meniscal tears — when the type of tear, symptoms and examination findings suggest that surgery may be beneficial.",
+                "Knee instability — including after an anterior cruciate ligament (ACL) tear, when reconstruction is indicated.",
+                "Rotator cuff injuries — selected tendon tears where surgical repair is appropriate.",
+                "Recurrent shoulder dislocations and instability — when the pattern of injury is suitable for arthroscopic stabilisation.",
+                "Selected focal cartilage injuries, loose bodies inside the joint and other mechanical problems — once their clinical relevance is established."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "What are the advantages of arthroscopic surgery?"
+            },
+            {
+              "type": "p",
+              "text": "Many procedures can be carried out through small incisions, reducing disruption to surrounding soft tissues compared with equivalent open operations. The camera provides a magnified view of structures inside the joint and supports precise surgical work."
+            },
+            {
+              "type": "p",
+              "text": "However, small incisions do not mean that the operation is simple or that recovery will necessarily be quick. Rehabilitation depends primarily on the injury, the procedure performed and tissue healing."
+            },
+            {
+              "type": "p",
+              "text": "Is arthroscopy always necessary?"
+            },
+            {
+              "type": "p",
+              "text": "No. Joint pain, MRI abnormalities and age-related degenerative changes are not sufficient reasons for surgery on their own."
+            },
+            {
+              "type": "p",
+              "text": "For example, arthroscopic 'clean-up' of an osteoarthritic knee usually provides no meaningful long-term benefit and is not recommended as routine treatment."
+            },
+            {
+              "type": "p",
+              "text": "In many cases, it is appropriate to begin with non-surgical care such as therapeutic exercise, rehabilitation, activity modification and other measures suited to the diagnosis."
+            },
+            {
+              "type": "p",
+              "text": "The purpose of the consultation is to identify the cause of symptoms and select the treatment most likely to improve joint function, whether or not surgery is needed."
             }
           ],
           "divider": false,
