@@ -1680,90 +1680,148 @@
           "body": [
             {
               "type": "p",
-              "text": "Staw kolanowy jest jednym ze stawów, w których techniki artroskopowe stosowane są szczególnie szeroko."
+              "text": "Artroskopia stawu kolanowego pozwala wykonywać wiele zabiegów przez niewielkie nacięcia, w tym szycie łąkotek, rekonstrukcję więzadeł oraz leczenie wybranych uszkodzeń wewnątrzstawowych."
+            },
+            {
+              "type": "p",
+              "text": "O operacji często rozważa się po urazach sportowych i codziennych, gdy występują ból, nawracający obrzęk, niestabilność, blokowanie kolana lub trudności z powrotem do zwykłej aktywności."
+            },
+            {
+              "type": "p",
+              "text": "Celem leczenia jest nie tylko usunięcie uszkodzenia, lecz także — gdy jest to możliwe — zachowanie tkanek stawu, przywrócenie stabilności i funkcji oraz zmniejszenie ryzyka kolejnych urazów."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Uszkodzenie łąkotki",
+          "heading": "Uszkodzenie łąkotki: szycie czy częściowa meniscektomia?",
           "body": [
             {
               "type": "p",
-              "text": "Łąkotki odgrywają ważną rolę w rozkładzie obciążenia i stabilności stawu kolanowego."
+              "text": "Łąkotki to dwie struktury włóknisto-chrzęstne wewnątrz kolana. Rozkładają obciążenia, amortyzują ruch i wspomagają stabilność stawu."
             },
             {
               "type": "p",
-              "text": "Po urazie może dojść do przerwania łąkotki, czemu towarzyszą ból, obrzęk, trzaski lub mechaniczne blokowanie kolana."
+              "text": "Uszkodzenie może powstać wskutek urazu lub postępujących zmian zwyrodnieniowych. Objawy obejmują ból szpary stawowej, obrzęk, bolesne przeskakiwanie, ograniczenie ruchu albo rzeczywiste mechaniczne zablokowanie kolana."
             },
             {
               "type": "p",
-              "text": "Nie każde przerwanie wymaga operacji."
+              "text": "Nie każde pęknięcie łąkotki wymaga operacji. Decyzja zależy od rodzaju i lokalizacji uszkodzenia, jakości tkanek, wieku, objawów, urazów towarzyszących oraz efektów leczenia zachowawczego."
             },
             {
               "type": "p",
-              "text": "Jeśli wskazane jest leczenie artroskopowe, zasadniczym pytaniem jest:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "czy można zachować łąkotkę?"
-              ]
+              "text": "Jeżeli zabieg jest wskazany, rozważa się przede wszystkim dwie metody."
             },
             {
               "type": "p",
-              "text": "W odpowiednich przypadkach preferuje się jej odtworzenie i szew. Jeśli charakter uszkodzenia na to nie pozwala, można usunąć jedynie niestabilny uszkodzony fragment."
+              "text": "Szycie łąkotki: uszkodzoną tkankę zachowuje się i stabilizuje specjalnymi szwami lub systemami naprawczymi."
             },
             {
               "type": "p",
-              "text": "Celem jest maksymalne zachowanie funkcjonalnej tkanki łąkotki, a nie po prostu jej usunięcie."
+              "text": "Metoda jest odpowiednia, gdy uszkodzenie ma potencjał gojenia, a tkanki pozwalają na trwałą naprawę. Zachowanie łąkotki jest szczególnie ważne u młodych i aktywnych osób, ale decyzja jest zawsze indywidualna."
+            },
+            {
+              "type": "p",
+              "text": "Po szyciu zwykle konieczne jest kontrolowane obciążanie i stopniowe zwiększanie zakresu ruchu, aby umożliwić gojenie."
+            },
+            {
+              "type": "p",
+              "text": "Częściowa meniscektomia: gdy naprawa nie jest uzasadniona, w odpowiednich sytuacjach usuwa się tylko niestabilną uszkodzoną część, pozostawiając jak najwięcej zdrowej, funkcjonalnej tkanki."
+            },
+            {
+              "type": "p",
+              "text": "Powrót funkcjonalny bywa szybszy niż po szyciu, jednak ubytek tkanki zmniejsza zdolność rozkładania obciążeń i może zwiększyć ryzyko przyszłych zmian zwyrodnieniowych."
+            },
+            {
+              "type": "p",
+              "text": "Nasza zasada: zachować łąkotkę, jeśli jest to technicznie możliwe, biologicznie uzasadnione i przynosi spodziewaną korzyść kliniczną."
+            },
+            {
+              "type": "p",
+              "text": "Przy zwyrodnieniowych uszkodzeniach łąkotek, zwłaszcza z chorobą zwyrodnieniową stawu, artroskopia zwykle nie jest leczeniem pierwszego wyboru. Sam wynik MRI nie jest wskazaniem do operacji."
+            }
+          ],
+          "divider": false,
+          "diagram": "arthroscopy-meniscus-pl.png"
+        },
+        {
+          "heading": "Zerwanie więzadła krzyżowego przedniego (ACL) i rekonstrukcja",
+          "body": [
+            {
+              "type": "p",
+              "text": "ACL jest jednym z głównych stabilizatorów kolana. Do zerwania często dochodzi podczas nagłej zmiany kierunku, lądowania po skoku lub urazu sportowego."
+            },
+            {
+              "type": "p",
+              "text": "Mogą występować epizody uciekania kolana, nawracająca niestabilność, obrzęk i trudności przy obciążaniu."
+            },
+            {
+              "type": "p",
+              "text": "Zerwanie ACL nie zawsze wymaga operacji."
+            },
+            {
+              "type": "p",
+              "text": "Decyzja o rekonstrukcji uwzględnia niestabilność kliniczną, wiek, aktywność, wymagania sportowe i zawodowe, współistniejące uszkodzenia łąkotek i chrząstki oraz oczekiwania pacjenta."
+            },
+            {
+              "type": "p",
+              "text": "U osób z niestabilnością funkcjonalną, wysokimi wymaganiami wobec kolana lub urazami towarzyszącymi stabilizacja operacyjna może dawać istotne korzyści."
+            },
+            {
+              "type": "p",
+              "text": "Artroskopowa rekonstrukcja ACL polega na zastąpieniu zerwanego więzadła przeszczepem ścięgnistym mocowanym w odpowiednim anatomicznie położeniu. Rodzaj przeszczepu i metodę mocowania dobiera się indywidualnie."
+            },
+            {
+              "type": "p",
+              "text": "Przed operacją warto przywrócić możliwie pełen zakres ruchu, zmniejszyć obrzęk i poprawić pracę mięśni. Jeśli po ostrym urazie istnieją wskazania do rekonstrukcji, nieuzasadnione długie odkładanie może zwiększyć ryzyko dalszych uszkodzeń łąkotek i chrząstki."
+            },
+            {
+              "type": "p",
+              "text": "Po rekonstrukcji konieczna jest etapowa rehabilitacja. Powrót do biegania, treningów i sportów kontaktowych zależy od siły, stabilności, koordynacji i testów funkcjonalnych, a nie tylko od czasu od zabiegu."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Uszkodzenie więzadła krzyżowego przedniego",
+          "heading": "Uszkodzenia chrząstki stawowej i zmiany chrzęstno-kostne",
           "body": [
             {
               "type": "p",
-              "text": "Zerwanie więzadła krzyżowego przedniego może prowadzić do niestabilności kolana, zwłaszcza podczas biegu, gwałtownej zmiany kierunku ruchu i obciążeń sportowych."
+              "text": "Chrząstka stawowa zapewnia płynny ruch powierzchni stawowych. Ogniskowe uszkodzenia mogą powstawać po urazie lub w przebiegu innych chorób."
             },
             {
               "type": "p",
-              "text": "Decyzja o rekonstrukcji zależy nie tylko od wyniku MRI."
+              "text": "W wybranych sytuacjach artroskopowo leczy się objawowe ogniskowe ubytki chrząstki, niestabilne fragmenty, zmiany chrzęstno-kostne lub usuwa ciała wolne ze stawu."
             },
             {
               "type": "p",
-              "text": "Uwzględnia się:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "niestabilność kliniczną",
-                "wiek",
-                "poziom aktywności fizycznej",
-                "potrzeby sportowe i zawodowe",
-                "towarzyszące uszkodzenia łąkotek i chrząstki",
-                "oczekiwania pacjenta"
-              ]
+              "text": "Wybór techniki zależy od wielkości, głębokości i lokalizacji ubytku, stanu kości podchrzęstnej, stabilności kolana, osi kończyny oraz ogólnego stanu stawu."
             },
             {
               "type": "p",
-              "text": "Jeśli wskazana jest operacja, wykonuje się rekonstrukcję więzadła w celu przywrócenia stabilności stawu kolanowego."
+              "text": "Możliwe metody obejmują opracowanie niestabilnych fragmentów, wybrane techniki stymulacji naprawy chrząstki lub bardziej złożone zabiegi rekonstrukcyjne."
+            },
+            {
+              "type": "p",
+              "text": "Artroskopia nie przywróci prawidłowej chrząstki w całym stawie przy zaawansowanej chorobie zwyrodnieniowej. Decyzję opiera się na obrazie klinicznym i rodzaju uszkodzenia, a nie jedynie na MRI."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Uszkodzenia chrząstki i inne uszkodzenia wewnątrzstawowe",
+          "heading": "Kiedy potrzebna jest pilna konsultacja?",
           "body": [
             {
               "type": "p",
-              "text": "Artroskopia może być również stosowana przy pewnych miejscowych uszkodzeniach chrząstki stawowej, ciałach wolnych wewnątrzstawowych i innych stanach patologicznych."
+              "text": "Jeżeli po urazie kolano znacznie spuchło, stało się niestabilne, nie można go całkowicie wyprostować lub wystąpiło rzeczywiste mechaniczne zablokowanie, wskazana jest szybka ocena ortopedyczna."
             },
             {
               "type": "p",
-              "text": "Taktykę ustala się w zależności od charakteru ubytku, wieku pacjenta i ogólnego stanu stawu."
+              "text": "Szczególnej uwagi wymagają przemieszczone pęknięcia łąkotek, złożone uszkodzenia więzadeł i inne urazy, w których zwlekanie może zmniejszyć możliwość naprawy tkanek."
+            },
+            {
+              "type": "p",
+              "text": "Podczas konsultacji ustala się potrzebę dalszych badań, leczenia zachowawczego lub artroskopii."
             }
           ],
           "divider": false
