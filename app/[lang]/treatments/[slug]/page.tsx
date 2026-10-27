@@ -8,6 +8,7 @@ import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
 import ImageLightbox from "@/components/ImageLightbox";
 import HalluxInternationalUk from "@/components/HalluxInternationalUk";
+import ArthroscopyInternational from "@/components/ArthroscopyInternational";
 import OsteosynthesisInternationalUk from "@/components/OsteosynthesisInternationalUk";
 import OsteosynthesisInternational from "@/components/OsteosynthesisInternational";
 import ShoulderInternationalUk from "@/components/ShoulderInternationalUk";
@@ -691,6 +692,7 @@ function RichDetail({
           {slug === "limb-lengthening" && lang === "uk" && <><LengtheningEssentialsUk /><LengtheningInternationalUk /><LengtheningFaqUk /></>}
           {slug === "limb-lengthening" && lang !== "uk" && <LengtheningPatientInternational lang={lang} />}
           {slug === "hallux-valgus" && (lang === "uk" ? <HalluxInternationalUk /> : <HalluxInternational lang={lang} />)}
+          {slug === "arthroscopy" && <ArthroscopyInternational lang={lang} />}
           {slug === "osteosynthesis" && lang === "uk" && <OsteosynthesisInternationalUk />}
           {slug === "osteosynthesis" && lang !== "uk" && <OsteosynthesisInternational lang={lang} />}
           {slug === "shoulder-replacement" && (lang === "uk" ? <ShoulderInternationalUk /> : <ShoulderInternational lang={lang} />)}
