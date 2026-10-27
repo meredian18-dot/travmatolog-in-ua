@@ -122,6 +122,7 @@ export async function generateMetadata({
       de: { title: "Knie- und Schulterarthroskopie in Kyjiw | Dr. Baida", description: "Knie- und Schulterarthroskopie: Meniskusnaht, Kreuzbandrekonstruktion, Rotatorenmanschette, Indikationen, Risiken und Rehabilitation. Orthopädische Beratung." },
       pl: { title: "Artroskopia kolana i barku w Kijowie | Dr Maksym Baida", description: "Artroskopia kolana i barku: szycie łąkotki, rekonstrukcja ACL, naprawa stożka rotatorów, wskazania, ryzyko i rehabilitacja. Konsultacja ortopedyczna." }
     };
+    const infographicUrl = `https://travmatolog.in.ua/directions/arthroscopy-diagram${lang === "uk" ? ".jpg" : `-${lang}.png`}`;
     return {
       ...meta[lang],
       alternates: localizedAlternates(lang, `treatments/${slug}`),
@@ -132,9 +133,9 @@ export async function generateMetadata({
         description: meta[lang].description,
         siteName: "travmatolog.in.ua",
         locale: lang === "uk" ? "uk_UA" : lang === "de" ? "de_DE" : lang === "pl" ? "pl_PL" : "en_US",
-        images: [{url: "https://travmatolog.in.ua/directions/arthroscopy-diagram.jpg", alt: article.title}]
+        images: [{url: infographicUrl, alt: article.title}]
       },
-      twitter: {card: "summary_large_image", title: meta[lang].title, description: meta[lang].description, images: ["https://travmatolog.in.ua/directions/arthroscopy-diagram.jpg"]}
+      twitter: {card: "summary_large_image", title: meta[lang].title, description: meta[lang].description, images: [infographicUrl]}
     };
   }
   if (lang === "uk" && slug === "hallux-valgus") {
