@@ -2308,6 +2308,206 @@
           "divider": false
         },
         {
+          "heading": "Jak przebiega artroskopia i powrót do sprawności?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Artroskopia polega na wprowadzeniu kamery przez niewielkie nacięcie, a przez kolejne dostępy narzędzi służących do leczenia pod kontrolą obrazu na monitorze."
+            },
+            {
+              "type": "p",
+              "text": "Wiele zabiegów kolana i barku można wykonać bez dużego otwartego dostępu. Jednak trudność operacji, ryzyko i czas rehabilitacji zależą głównie od rodzaju uszkodzenia i zabiegu."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Jak przebiega operacja artroskopowa?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Przed zabiegiem ocenia się stan zdrowia, wyniki badań i plan znieczulenia. Możliwe jest znieczulenie ogólne, regionalne lub łączone."
+            },
+            {
+              "type": "p",
+              "text": "Główne etapy:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "1. Przygotowanie stawu i wykonanie niewielkich dostępów.",
+                "2. Oglądanie struktur stawu przez kamerę.",
+                "3. Wykonanie wskazanej naprawy lub rekonstrukcji, np. szycia łąkotki, rekonstrukcji ACL, naprawy stożka rotatorów czy stabilizacji barku.",
+                "4. Sprawdzenie efektu, zamknięcie dostępów i opatrunek."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Czas zabiegu zależy od jego złożoności."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Pierwsze godziny i dni po artroskopii",
+          "body": [
+            {
+              "type": "p",
+              "text": "Po znieczuleniu pacjent pozostaje pod nadzorem. Początkowo mogą występować ból, obrzęk i ograniczenie ruchu."
+            },
+            {
+              "type": "p",
+              "text": "Lekarz określa zasady leczenia bólu, pielęgnacji ran, obciążania i rehabilitacji."
+            },
+            {
+              "type": "p",
+              "text": "Po części zabiegów można wyjść do domu tego samego dnia; złożone rekonstrukcje lub wskazania medyczne mogą wymagać pobytu w szpitalu."
+            },
+            {
+              "type": "p",
+              "text": "Wypis nie oznacza końca leczenia — odbudowa funkcji trwa dalej."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Rehabilitacja po artroskopii kolana",
+          "body": [
+            {
+              "type": "p",
+              "text": "Po częściowej meniscektomii często możliwe jest wczesne obciążanie według tolerancji. Ważne są redukcja obrzęku, ruchomość, chód i siła. Do codziennych zajęć można wrócić po kilku tygodniach, do sportu — zależnie od funkcji."
+            },
+            {
+              "type": "p",
+              "text": "Po szyciu łąkotki zwykle obowiązują czasowe ograniczenia obciążania, zginania lub ćwiczeń, zależnie od rodzaju uszkodzenia i naprawy. Gojenie trwa dłużej niż po meniscektomii."
+            },
+            {
+              "type": "p",
+              "text": "Po rekonstrukcji ACL potrzebna jest etapowa rehabilitacja ruchu, siły, stabilności i kontroli nerwowo-mięśniowej. Powrót do sportu ze zwrotami i kontaktem zwykle rozważa się nie wcześniej niż po 9 miesiącach, po testach funkcjonalnych i ocenie gotowości psychicznej."
+            },
+            {
+              "type": "p",
+              "text": "Przy jednoczesnej rekonstrukcji ACL i szyciu łąkotki protokół chroni obie struktury."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Rehabilitacja po artroskopii barku",
+          "body": [
+            {
+              "type": "p",
+              "text": "Po naprawie stożka rotatorów konieczne może być stosowanie temblaka i ograniczenie czynnego obciążania. Zakres ruchu i siłę odbudowuje się zgodnie z protokołem."
+            },
+            {
+              "type": "p",
+              "text": "Gojenie ścięgna trwa miesiącami; powrót do ciężkiej pracy i sportu zależy od uszkodzenia i jakości tkanek."
+            },
+            {
+              "type": "p",
+              "text": "Po stabilizacji barku (np. Bankart) początkowo mogą być potrzebne unieruchomienie i ograniczenie pewnych ruchów. Następnie ćwiczy się ruchomość, siłę, kontrolę łopatki i stabilność."
+            },
+            {
+              "type": "p",
+              "text": "Sport kontaktowy wymaga wcześniejszej oceny funkcjonalnej, a nie jedynie upływu czasu."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Orientacyjne terminy powrotu do aktywności",
+          "body": [
+            {
+              "type": "p",
+              "text": "Poniższe okresy dotyczą sportu lub dużego obciążenia fizycznego. Nie są gwarancją:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Częściowa meniscektomia — często 4–12 tygodni.",
+                "Szycie łąkotki — często 6–9 miesięcy, zależnie od uszkodzenia.",
+                "Rekonstrukcja ACL — zwykle od 9 miesięcy, po spełnieniu kryteriów funkcjonalnych.",
+                "Naprawa stożka rotatorów — kilka miesięcy; duże obciążenia często po 6 miesiącach lub później.",
+                "Stabilizacja barku — przy sporcie kontaktowym często 4–6 miesięcy lub dłużej."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Praca biurowa, chodzenie, czynności codzienne i sport to różne etapy. Plan zawsze jest indywidualny."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Jakie ryzyko wiąże się z artroskopią?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Artroskopia jest powszechna, ale nie jest pozbawiona ryzyka. Możliwe powikłania obejmują:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "infekcję rany lub stawu",
+                "krwawienie, krwiak i obrzęk",
+                "zakrzepicę żył głębokich i powikłania zakrzepowo-zatorowe",
+                "uszkodzenie nerwów, naczyń lub tkanek",
+                "sztywność i ograniczenie ruchu",
+                "przewlekły ból lub niepełny powrót funkcji",
+                "brak zrostu naprawionych struktur lub kolejny uraz",
+                "powikłania znieczulenia"
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Ryzyko zależy od operacji i zdrowia pacjenta. Małoinwazyjność nie oznacza braku zagrożeń, a techniczny sukces nie gwarantuje ustąpienia wszystkich objawów."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Jakie objawy wymagają pilnej pomocy?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Po wypisie należy szybko skontaktować się z lekarzem w razie:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "gorączki, narastającego zaczerwienienia lub ropnej wydzieliny z rany",
+                "nagłego nasilenia bólu lub obrzęku",
+                "bólu i obrzęku łydki, zwłaszcza jednostronnego",
+                "nowego drętwienia, dużego osłabienia lub zaburzenia ukrwienia kończyny",
+                "nagłego istotnego pogorszenia funkcji lub stanu"
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Nagła duszność, ból w klatce piersiowej lub utrata przytomności wymagają natychmiastowej pomocy ratunkowej."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Co wpływa na wynik zabiegu?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Wynik zależy od prawidłowych wskazań, rodzaju urazu, stanu tkanek, czasu leczenia, chorób towarzyszących i jakości rehabilitacji."
+            },
+            {
+              "type": "p",
+              "text": "Istotne są przestrzeganie ograniczeń, regularne ćwiczenia i kontrole."
+            },
+            {
+              "type": "p",
+              "text": "Leczenie nie kończy się na sali operacyjnej: odzyskanie funkcji wymaga współpracy pacjenta, chirurga i fizjoterapeuty."
+            }
+          ],
+          "divider": false
+        },
+        {
           "heading": "Czy artroskopia jest potrzebna właśnie Tobie?",
           "body": [
             {
