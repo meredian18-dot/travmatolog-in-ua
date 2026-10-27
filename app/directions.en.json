@@ -1557,9 +1557,9 @@
       ]
     },
     "arthroscopy": {
-      "title": "Arthroscopic Surgery",
-      "lead": "Minimally invasive surgical treatment of knee and shoulder joint injuries through small incisions — with precise intra-articular diagnosis and repair of damaged structures.",
-      "intro": "Pain, swelling, instability, locking, or restricted movement in a joint don't always require major open surgery.",
+      "title": "Knee and Shoulder Arthroscopy in Kyiv",
+      "lead": "Arthroscopic surgery is a modern technique used to diagnose and treat selected joint injuries and conditions through small incisions, using a specialised camera and surgical instruments.",
+      "intro": "Arthroscopic procedures may be used for meniscus injuries, tears of knee ligaments, rotator cuff injuries, shoulder instability and other conditions when there is a sound medical indication for surgery.",
       "hero": "arthroscopy-hero.jpg",
       "gallery": [],
       "blocks": [
@@ -1568,11 +1568,11 @@
           "body": [
             {
               "type": "p",
-              "text": "In many cases, injuries to the menisci, ligaments, tendons, and other joint structures can be treated with arthroscopic surgery."
+              "text": "Not every abnormality seen on an MRI requires surgery. The decision to perform arthroscopy is made individually, taking into account symptoms, the clinical examination, imaging findings, physical activity level and the response to previous treatment."
             },
             {
               "type": "p",
-              "text": "But arthroscopy is not needed for every joint pain. The decision to operate is made after establishing the cause of the symptoms and assessing whether surgery can genuinely improve function."
+              "text": "During a consultation, you can have your joint condition assessed, discuss possible treatment options and receive personalised recommendations on the next steps."
             }
           ],
           "divider": false
