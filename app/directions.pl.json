@@ -2104,6 +2104,210 @@
           "divider": false
         },
         {
+          "heading": "Diagnostyka i przygotowanie do artroskopii",
+          "body": [
+            {
+              "type": "p",
+              "text": "Skuteczne leczenie zaczyna się od prawidłowego rozpoznania. Przed artroskopią kolana lub barku trzeba ustalić przyczynę objawów, charakter uszkodzenia i możliwą przewagę operacji nad leczeniem zachowawczym."
+            },
+            {
+              "type": "p",
+              "text": "Sam wynik MRI nie stanowi wskazania do artroskopii. Badania obrazowe ocenia się wraz z objawami, badaniem klinicznym i potrzebami funkcjonalnymi pacjenta."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Pierwsza konsultacja ortopedyczna",
+          "body": [
+            {
+              "type": "p",
+              "text": "Lekarz pyta o początek dolegliwości, uraz, ruchy wywołujące ból, niestabilność, blokowanie stawu oraz dotychczasowe leczenie."
+            },
+            {
+              "type": "list",
+              "items": [
+                "ocena ruchów czynnych i biernych",
+                "badanie stabilności stawu",
+                "testy łąkotek, więzadeł, stożka rotatorów lub obrąbka",
+                "ocena siły mięśni i ograniczeń funkcjonalnych",
+                "badanie okolic sąsiednich mogących powodować objawy"
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Na podstawie badania ustala się wstępne rozpoznanie i potrzebę dalszej diagnostyki."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "MRI, RTG, TK i USG: jakie badania są potrzebne?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Rezonans magnetyczny (MRI) obrazuje łąkotki, więzadła, ścięgna, obrąbek, chrząstkę i inne tkanki miękkie. Jest przydatny przy podejrzeniu uszkodzeń wewnątrzstawowych, ale nie zawsze konieczny."
+            },
+            {
+              "type": "p",
+              "text": "RTG pomaga ocenić kości, ustawienie stawu, zmiany zwyrodnieniowe i następstwa urazów."
+            },
+            {
+              "type": "p",
+              "text": "Tomografia komputerowa (TK) może określić ubytki kostne, szczególnie przy nawracającej niestabilności barku, i pomóc w planowaniu rekonstrukcji."
+            },
+            {
+              "type": "p",
+              "text": "USG bywa przydatne w ocenie ścięgien stożka rotatorów, tkanek okołostawowych i zmian dynamicznych."
+            },
+            {
+              "type": "p",
+              "text": "Badania wybiera się według potrzeb klinicznych; rutynowe wykonywanie wszystkich nie jest konieczne."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Badanie stawu kolanowego",
+          "body": [
+            {
+              "type": "p",
+              "text": "Przy podejrzeniu uszkodzenia łąkotki lub ACL ocenia się stabilność, ruchomość, obrzęk i objawy mechaniczne."
+            },
+            {
+              "type": "p",
+              "text": "MRI może określić typ i położenie uszkodzenia oraz zmiany towarzyszące. Wynik musi odpowiadać obrazowi klinicznemu."
+            },
+            {
+              "type": "p",
+              "text": "Przed rekonstrukcją ACL ocenia się również ruchomość, siłę mięśni i gotowość do długotrwałej rehabilitacji."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Badanie stawu barkowego",
+          "body": [
+            {
+              "type": "p",
+              "text": "Przy podejrzeniu uszkodzenia stożka rotatorów określa się rozmiar zerwania, retrakcję ścięgna, stan mięśni i jakość tkanek."
+            },
+            {
+              "type": "p",
+              "text": "W nawracającej niestabilności ocenia się obrąbek i możliwe ubytki kostne panewki łopatki oraz kości ramiennej."
+            },
+            {
+              "type": "p",
+              "text": "W wybranych przypadkach artrografia MR pomaga ocenić obrąbek, a TK — ubytki kostne."
+            },
+            {
+              "type": "p",
+              "text": "Wyniki pomagają ustalić wskazania do artroskopii i wybrać właściwą metodę rekonstrukcji."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Jak ustala się wskazania do operacji?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Po badaniu i analizie obrazowania omawia się dostępne metody, uwzględniając:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "rodzaj i ciężkość uszkodzenia",
+                "czas trwania i nasilenie objawów",
+                "stopień utraty funkcji",
+                "wyniki wcześniejszego leczenia zachowawczego",
+                "wiek, aktywność i choroby współistniejące",
+                "spodziewane korzyści, ograniczenia i ryzyko"
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Pacjent powinien rozumieć cel operacji, alternatywy i wymagania rehabilitacji."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Ocena przedoperacyjna",
+          "body": [
+            {
+              "type": "p",
+              "text": "Po podjęciu decyzji o operacji ocenia się stan zdrowia i ryzyko związane ze znieczuleniem."
+            },
+            {
+              "type": "p",
+              "text": "Zależnie od zabiegu, wieku, chorób i leków mogą być potrzebne badania krwi, EKG lub konsultacje."
+            },
+            {
+              "type": "p",
+              "text": "Nie ma jednego obowiązkowego zestawu badań dla wszystkich; zakres zależy od wskazań i wymagań placówki."
+            },
+            {
+              "type": "p",
+              "text": "Trzeba poinformować o chorobach przewlekłych, alergiach, problemach ze znieczuleniem i wszystkich lekach, zwłaszcza przeciwkrzepliwych i przeciwpłytkowych. Nie wolno samodzielnie odstawiać zaleconych leków."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Jak przygotować się do artroskopii?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Zalecenia są indywidualne. Zwykle należy:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "uzgodnić z lekarzem przyjmowanie stałych leków",
+                "przestrzegać zaleceń anestezjologa dotyczących jedzenia i picia",
+                "zgłosić gorączkę, infekcję lub nowe objawy",
+                "zorganizować transport do domu i pomoc na pierwsze dni",
+                "przygotować kule, ortezę lub temblak, jeśli zalecono"
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Przed operacją kolana ćwiczenia mogą wspomagać ruchomość i siłę. Przed naprawą stożka rotatorów lub stabilizacją barku należy omówić unieruchomienie, ograniczenia domowe i rehabilitację."
+            },
+            {
+              "type": "p",
+              "text": "Szczegółowy plan określają chirurg i anestezjolog."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Co należy wiedzieć przed operacją?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Przed przyjęciem do szpitala warto zapytać:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Jakie uszkodzenie wymaga leczenia?",
+                "Jaki zabieg jest planowany i dlaczego?",
+                "Jakie są alternatywy?",
+                "Jakie ryzyko i ograniczenia są możliwe?",
+                "Czy potrzebne będą kule, orteza lub unieruchomienie barku?",
+                "Jak przebiega rehabilitacja i powrót do pracy oraz aktywności?"
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Dokładna diagnostyka i przygotowanie pomagają wybrać uzasadnione leczenie, ograniczyć modyfikowalne ryzyko i ustalić realistyczne oczekiwania."
+            }
+          ],
+          "divider": false
+        },
+        {
           "heading": "Czy artroskopia jest potrzebna właśnie Tobie?",
           "body": [
             {
