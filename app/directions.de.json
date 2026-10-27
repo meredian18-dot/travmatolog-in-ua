@@ -1873,98 +1873,163 @@
           "divider": false
         },
         {
-          "heading": "Instabilität des Schultergelenks",
+          "heading": "Arthroskopie des Schultergelenks",
           "body": [
             {
               "type": "p",
-              "text": "Nach einer traumatischen Schulterluxation können die Strukturen geschädigt werden, die die Stabilität des Gelenks gewährleisten."
+              "text": "Die Schulterarthroskopie ermöglicht die Behandlung ausgewählter Verletzungen von Sehnen, Gelenklippe, Kapsel und anderen Gelenkstrukturen über kleine Zugänge."
             },
             {
               "type": "p",
-              "text": "Bei einem Teil der Patienten treten nach der ersten Luxation wiederholte Instabilitätsepisoden auf."
+              "text": "Eine Operation wird insbesondere bei Rotatorenmanschettenrissen, wiederholten Luxationen und posttraumatischer Instabilität mit Schmerzen, Kraftverlust oder Funktionsstörungen erwogen."
             },
             {
               "type": "p",
-              "text": "Das betrifft besonders junge und körperlich aktive Menschen."
-            },
-            {
-              "type": "p",
-              "text": "In entsprechenden Fällen ermöglicht eine arthroskopische Operation die Wiederherstellung der geschädigten stabilisierenden Strukturen."
-            },
-            {
-              "type": "p",
-              "text": "Dabei ist es wichtig, nicht nur die Weichteile, sondern auch einen möglichen Knochenverlust zu beurteilen, da bei einem erheblichen Knochendefekt eine andere rekonstruktive Strategie notwendig sein kann."
+              "text": "Ziel ist es, geschädigte Strukturen und die Funktion wiederherzustellen, wenn konservative Maßnahmen nicht ausreichen oder die Verletzung eine Operation begründet."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Brauchen gerade Sie eine Arthroskopie?",
+          "heading": "Rotatorenmanschettenriss: Wann ist eine Operation nötig?",
           "body": [
             {
               "type": "p",
-              "text": "Das ist eine der zentralen Fragen dieser Seite."
+              "text": "Die Rotatorenmanschette besteht aus Sehnen von vier Muskeln, die die Schulter bewegen und dynamisch stabilisieren. Risse können traumatisch oder degenerativ entstehen."
             },
             {
               "type": "p",
-              "text": "Nicht jeder Meniskusriss muss operiert werden."
+              "text": "Typisch sind Schmerzen, auch nachts, Kraftverlust beim Heben oder Drehen des Arms und Einschränkungen im Alltag."
             },
             {
               "type": "p",
-              "text": "Nicht jeder Riss der Rotatorenmanschette erfordert eine sofortige Operation."
+              "text": "Nicht jeder Riss muss operiert werden. Bei bestimmten kleinen oder degenerativen Rissen können Übungen, Rehabilitation und Belastungsanpassung helfen."
             },
             {
               "type": "p",
-              "text": "Nicht jeder Gelenkschmerz lässt sich durch Arthroskopie beheben."
+              "text": "Eine Operation kommt häufiger bei traumatischen Rissen mit deutlichem Kraftverlust, symptomatischen vollständigen Rissen, ausgewählten hochgradigen Teilrissen nach erfolgloser konservativer Therapie oder anhaltenden funktionellen Defiziten infrage."
             },
             {
               "type": "p",
-              "text": "Die Entscheidung hängt von der Ursache der Beschwerden, der Art der Schädigung, Alter, Aktivität, Dauer des Problems und den Ergebnissen der bisherigen Behandlung ab."
+              "text": "Entscheidend sind Rissgröße, Dauer, Sehnenretraktion, Gewebe- und Muskelqualität, Alter, Aktivität und Begleiterkrankungen."
             },
             {
               "type": "p",
-              "text": "Allein die Tatsache, dass im MRT Veränderungen sichtbar sind, bedeutet noch nicht automatisch, dass eine Operation notwendig ist."
+              "text": "Bei der arthroskopischen Rekonstruktion wird die Sehne mobilisiert und meist mit Nahtankern am Knochen befestigt. Große chronische irreparable Risse oder eine Defektarthropathie können andere Methoden erfordern."
             },
             {
               "type": "p",
-              "text": "Wir behandeln nicht das MRT-Bild, sondern den konkreten Patienten und die Funktionsstörung seines Gelenks."
-            }
-          ],
-          "divider": false
-        },
-        {
-          "heading": "Das MRT zeigt einen Riss — was nun?",
-          "body": [
-            {
-              "type": "p",
-              "text": "MRT-Befunde enthalten häufig Formulierungen, die für den Patienten ernst klingen: „Meniskusriss“, „degenerative Veränderungen“, „Knorpelschaden“, „Sehnenriss“."
-            },
-            {
-              "type": "p",
-              "text": "Das MRT-Ergebnis muss jedoch gemeinsam beurteilt werden mit:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "Ihren Symptomen",
-                "der Verletzungsgeschichte",
-                "der klinischen Untersuchung",
-                "dem Alter",
-                "der körperlichen Aktivität",
-                "dem Gesamtzustand des Gelenks"
-              ]
-            },
-            {
-              "type": "p",
-              "text": "Manchmal sind die im MRT beschriebenen Veränderungen nicht die eigentliche Schmerzursache."
-            },
-            {
-              "type": "p",
-              "text": "Das MRT hilft daher bei der Entscheidung, ersetzt aber nicht die Entscheidung des Arztes."
+              "text": "Die Heilung und Rehabilitation erfolgen kontrolliert und stufenweise; kleine Hautschnitte bedeuten keine sofortige volle Belastbarkeit."
             }
           ],
           "divider": false,
-          "diagram": "arthroscopy-mri-decision.jpg"
+          "diagram": "arthroscopy-rotator-cuff-de.png"
+        },
+        {
+          "heading": "Schulterinstabilität und Bankart-Operation",
+          "body": [
+            {
+              "type": "p",
+              "text": "Eine traumatische Luxation kann Gelenklippe, Kapsel, Bänder und knöcherne Strukturen schädigen."
+            },
+            {
+              "type": "p",
+              "text": "Eine Bankart-Läsion ist die Ablösung der vorderen unteren Gelenklippe vom Pfannenrand und tritt häufig bei vorderen Luxationen auf."
+            },
+            {
+              "type": "p",
+              "text": "Wiederholte Luxationen, Subluxationen oder Instabilitätsgefühle können eine Stabilisierung rechtfertigen. Bei der arthroskopischen Bankart-Rekonstruktion werden Gelenklippe und Kapsel-Band-Komplex mit Nahtankern befestigt."
+            },
+            {
+              "type": "p",
+              "text": "Vor der Methodenwahl beurteilt man Luxationshäufigkeit, Aktivität, Gelenklippe und Kapsel, Glenoidknochenverlust, Hill–Sachs-Läsionen und Rezidivrisiko."
+            },
+            {
+              "type": "p",
+              "text": "Bei erheblichen Knochendefekten oder erhöhtem Rezidivrisiko können zusätzliche oder andere Eingriffe einschließlich knöcherner Stabilisierung nötig sein."
+            },
+            {
+              "type": "p",
+              "text": "Ziel ist eine belastbare, auf das Verletzungsmuster abgestimmte Stabilität."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Labrumverletzungen: SLAP und andere Läsionen",
+          "body": [
+            {
+              "type": "p",
+              "text": "Die Gelenklippe vertieft die Gelenkpfanne und trägt zur Stabilität bei. Eine SLAP-Läsion betrifft den oberen Teil nahe dem Ansatz der langen Bizepssehne."
+            },
+            {
+              "type": "p",
+              "text": "Ursachen können Trauma oder wiederholte Überkopfbelastung sein; möglich sind tiefe Schmerzen und schmerzhaftes Klicken."
+            },
+            {
+              "type": "p",
+              "text": "Nicht jede im MRT beschriebene SLAP-Läsion verursacht Beschwerden oder erfordert eine Operation."
+            },
+            {
+              "type": "p",
+              "text": "Bei erfolgloser konservativer Therapie und gesicherter klinischer Relevanz kommen abhängig von Läsionstyp, Alter, Aktivität und Begleitbefunden Labrumnaht, Bizepstenodese oder andere Verfahren infrage."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Subakromialer Schmerz: Ist eine Dekompression sinnvoll?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Schmerzen beim Heben des Arms bedeuten nicht immer eine mechanische Einklemmung, die operiert werden muss. Übungen, Rehabilitation und Belastungsanpassung sind üblicherweise die Grundlage bei subakromialem Schmerz und Sehnenerkrankungen."
+            },
+            {
+              "type": "p",
+              "text": "Eine isolierte subakromiale Dekompression wird bei chronischen atraumatischen Beschwerden nicht als Routinebehandlung empfohlen, da hochwertige Studien keinen klinisch relevanten Nutzen gezeigt haben."
+            },
+            {
+              "type": "p",
+              "text": "Eigenständige strukturelle Schäden wie Rotatorenmanschettenrisse müssen gesondert beurteilt werden."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Adhäsive Kapsulitis (Frozen Shoulder)",
+          "body": [
+            {
+              "type": "p",
+              "text": "Eine adhäsive Kapsulitis verursacht Schmerzen sowie eine Einschränkung aktiver und passiver Schulterbewegungen."
+            },
+            {
+              "type": "p",
+              "text": "Meist beginnt die Behandlung mit Rehabilitation, Schmerztherapie und gegebenenfalls intraartikulären Injektionen."
+            },
+            {
+              "type": "p",
+              "text": "Bei ausgeprägter anhaltender Steife trotz angemessener konservativer Behandlung kann bei ausgewählten Patienten ein arthroskopisches Kapselrelease erwogen werden; es ist keine Standard-Erstbehandlung."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Wann ist eine orthopädische Untersuchung ratsam?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Eine Untersuchung ist bei deutlichem Kraftverlust nach Trauma, wiederholten Luxationen, Instabilität oder den Schlaf und Alltag beeinträchtigenden Schmerzen sinnvoll."
+            },
+            {
+              "type": "p",
+              "text": "Bei akuter Deformität, Verdacht auf Luxation, Gefühls- oder Durchblutungsstörungen ist eine dringende medizinische Beurteilung erforderlich."
+            },
+            {
+              "type": "p",
+              "text": "Die Beratung berücksichtigt Beschwerden, Untersuchung und notwendige Bildgebung und wählt eine individuell geeignete Behandlung."
+            }
+          ],
+          "divider": false
         },
         {
           "heading": "Was sich nach der Operation ändern kann",
