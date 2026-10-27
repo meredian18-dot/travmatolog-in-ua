@@ -2669,24 +2669,38 @@
           "divider": false
         },
         {
-          "heading": "Klinische Situation",
-          "body": [],
-          "divider": true
-        },
-        {
-          "heading": "Komplexe erneute Knieverletzung nach vorangegangener Operation",
+          "heading": "Klinischer Fall: erneuter Kreuzbandtransplantatriss mit Meniskusverletzungen",
           "body": [
             {
               "type": "p",
-              "text": "Der Patient hatte sich bereits zuvor einer operativen Behandlung des Kniegelenks unterzogen. Bei einer erneuten MRT-Untersuchung wurde ein vollständiger Riss des vorderen Kreuzbandtransplantats (ACL) in Kombination mit einem vertikalen Riss des lateralen Meniskus sowie einer meniskokapsulären Läsion des Hinterhorns des medialen Meniskus (Ramp-Lesion) festgestellt."
+              "text": "Eine erneute Knieverletzung nach Rekonstruktion des vorderen Kreuzbandes (VKB/ACL) ist komplex. Vor einer möglichen Revisionsoperation müssen neben neuen Schäden auch die Ergebnisse des ersten Eingriffs berücksichtigt werden."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Was zeigte die Untersuchung?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Der Patient war bereits am Knie operiert worden. Das erneute MRT zeigte:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Vollständiger Riss des Transplantats des vorderen Kreuzbandes (ACL).",
+                "Vertikaler Riss des lateralen Meniskus.",
+                "Meniskokapsuläre Läsion am Hinterhorn des medialen Meniskus (Ramp-Läsion).",
+                "Begleitende posttraumatische und postoperative Veränderungen."
+              ]
             },
             {
               "type": "p",
-              "text": "Im MRT zeigten sich außerdem begleitende posttraumatische und postoperative Veränderungen."
+              "text": "Diese Kombination erfordert eine umfassende Beurteilung der Stabilität, der Menisken und der Möglichkeiten zum Gewebeerhalt."
             },
             {
-              "type": "caption",
-              "text": "MRT beider Kniegelenke. Rechts — ein erneuter Schaden des vorderen Kreuzbandtransplantats sowie begleitende Meniskusschäden nach vorangegangener operativer Behandlung; links — eine vergleichende Aufnahme des anderen Knies."
+              "type": "p",
+              "text": "Rechts zeigen die MRT-Aufnahmen das Knie mit erneutem Kreuzbandtransplantatriss und begleitenden Meniskusschäden. Links dient das andere Knie zum Vergleich."
             }
           ],
           "divider": false,
@@ -2696,19 +2710,81 @@
           ]
         },
         {
-          "heading": "Worauf kommt es in einer solchen Situation an?",
+          "heading": "Warum ist eine Revisionsrekonstruktion schwieriger?",
           "body": [
             {
               "type": "p",
-              "text": "Selbst so ausgeprägte MRT-Veränderungen bestimmen für sich genommen noch nicht die endgültige Behandlungstaktik. Die Untersuchungsergebnisse müssen mit den Beschwerden des Patienten, der klinischen Stabilität des Knies, dem Aktivitätsniveau, dem Ergebnis der vorangegangenen Operation und den funktionellen Bedürfnissen abgeglichen werden."
+              "text": "Ein Transplantatriss im MRT reicht für die Operationsplanung nicht aus. Ist eine Revision angezeigt, prüft man:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Ursachen des Versagens, darunter erneutes Trauma oder technische Faktoren.",
+                "Lage und Durchmesser früherer Knochentunnel.",
+                "Fixierungsmaterial und mögliche Knochendefekte.",
+                "Klinische Instabilität, Beweglichkeit und Muskelfunktion.",
+                "Begleitverletzungen an Menisken, Knorpel und Bändern.",
+                "Möglichkeiten zur Meniskusnaht und zum Gewebeerhalt.",
+                "Aktivitätsniveau, funktionelle Anforderungen und Erwartungen."
+              ]
             },
             {
               "type": "p",
-              "text": "Erst nach einer solchen umfassenden Beurteilung lässt sich feststellen, ob ein erneuter chirurgischer Eingriff notwendig ist, welche Strukturen wiederhergestellt werden müssen und welcher Operationsumfang sinnvoll ist."
+              "text": "Zur Tunnelbeurteilung kann ein CT sinnvoll sein. Eine Revision ist mitunter einzeitig möglich; ungünstige oder erweiterte Tunnel können einen zweizeitigen Eingriff mit vorheriger Knochentransplantation erfordern."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Warum müssen beide Menisken beurteilt werden?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Menisken verteilen Last und stabilisieren das Knie. Zusätzliche Meniskusschäden bei fehlendem VKB können die Stabilität weiter beeinträchtigen."
             },
             {
               "type": "p",
-              "text": "Das MRT zeigt die Struktur der Schädigung. Die Aufgabe des Chirurgen ist es, ihre klinische Bedeutung zu bestimmen und die richtige Behandlungstaktik zu wählen."
+              "text": "Eine Ramp-Läsion betrifft den hinteren meniskokapsulären Komplex des Innenmeniskus und kann mit Kreuzbandverletzungen einhergehen."
+            },
+            {
+              "type": "p",
+              "text": "Größe, Stabilität und klinische Bedeutung variieren. Ob eine Naht sinnvoll ist, ergibt sich aus MRT, Untersuchung und gegebenenfalls Arthroskopie."
+            },
+            {
+              "type": "p",
+              "text": "Wenn die Behandlung angezeigt ist, hat der Erhalt funktionsfähiger Meniskusanteile Priorität."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Wie wird die weitere Behandlung entschieden?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Ein erneuter Transplantatriss im MRT allein bedeutet keine automatische Revisionsoperation. Entscheidend sind Instabilität, Beschwerden, Aktivität, Begleitschäden und Anatomie nach dem Ersteingriff."
+            },
+            {
+              "type": "p",
+              "text": "Ist eine Revision sinnvoll, berücksichtigt die Planung die Ursachen des Versagens, Knochentunnel, Transplantatwahl und Begleitverletzungen."
+            },
+            {
+              "type": "p",
+              "text": "Es geht nicht allein um einen Transplantatwechsel, sondern um die Behandlung relevanter Instabilitätsursachen und die Wiederherstellung der Funktion."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Was zeigt dieser klinische Fall?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Nach erneuter Verletzung eines rekonstruierten Kreuzbandes ist eine individuelle Beurteilung notwendig und nicht einfach die Wiederholung des ersten Eingriffs."
+            },
+            {
+              "type": "p",
+              "text": "Das MRT beschreibt den strukturellen Schaden; erst die umfassende Untersuchung bestimmt die Notwendigkeit und Strategie einer Revision."
             }
           ],
           "divider": false
