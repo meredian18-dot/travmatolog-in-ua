@@ -71,7 +71,7 @@ export default function MobileMenu({
           </button>
         </div>
 
-        <div className="flex-1 overflow-y-auto px-6 py-8">
+        <div className="flex-1 min-h-0 overflow-y-auto px-6 py-8">
           <ul className="space-y-1">
             {links.map((l) => (
               <li key={l.label}>
@@ -97,7 +97,7 @@ export default function MobileMenu({
           </a>
         </div>
 
-        <div className="px-6 py-6 border-t border-white/15 flex items-center gap-5">
+        <div className="px-6 py-6 pb-[max(1.5rem,env(safe-area-inset-bottom))] border-t border-white/15 flex items-center gap-5">
           {locales.map((loc) => (
             <a
               key={loc.code}
