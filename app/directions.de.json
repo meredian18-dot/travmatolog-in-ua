@@ -1557,9 +1557,9 @@
       ]
     },
     "arthroscopy": {
-      "title": "Arthroskopische Chirurgie",
-      "lead": "Minimalinvasive chirurgische Behandlung von Verletzungen des Knie- und Schultergelenks über kleine Zugänge — mit präziser intraartikulärer Diagnostik und Wiederherstellung geschädigter Strukturen.",
-      "intro": "Schmerz, Schwellung, Instabilität, Blockierung oder Bewegungseinschränkung im Gelenk erfordern nicht immer eine große offene Operation.",
+      "title": "Knie- und Schulterarthroskopie in Kyjiw",
+      "lead": "Die arthroskopische Chirurgie ist ein modernes Verfahren zur Diagnose und Behandlung ausgewählter Gelenkverletzungen und -erkrankungen. Dabei werden eine spezielle Kamera und chirurgische Instrumente über kleine Hautschnitte eingeführt.",
+      "intro": "Arthroskopische Eingriffe kommen unter anderem bei Meniskusverletzungen, Kreuzbandrissen am Knie, Verletzungen der Rotatorenmanschette und Schulterinstabilität infrage, sofern eine medizinisch begründete Operationsindikation vorliegt.",
       "hero": "arthroscopy-hero.jpg",
       "gallery": [],
       "blocks": [
@@ -1568,11 +1568,11 @@
           "body": [
             {
               "type": "p",
-              "text": "In vielen Fällen lassen sich Verletzungen von Menisken, Bändern, Sehnen und anderen Gelenkstrukturen mittels arthroskopischer Chirurgie behandeln."
+              "text": "Nicht jede im MRT festgestellte Veränderung erfordert eine Operation. Über eine Arthroskopie wird individuell entschieden – unter Berücksichtigung der Beschwerden, der klinischen Untersuchung, der Bildgebung, des körperlichen Aktivitätsniveaus und des Erfolgs bisheriger Behandlungen."
             },
             {
               "type": "p",
-              "text": "Doch nicht jeder Gelenkschmerz erfordert eine Arthroskopie. Die Entscheidung zur Operation wird erst getroffen, nachdem die Ursache der Beschwerden festgestellt und beurteilt wurde, ob ein chirurgischer Eingriff die Funktion tatsächlich verbessern kann."
+              "text": "Bei der Beratung können Sie Ihren Gelenkbefund beurteilen lassen, mögliche Behandlungsoptionen besprechen und individuelle Empfehlungen für das weitere Vorgehen erhalten."
             }
           ],
           "divider": false
