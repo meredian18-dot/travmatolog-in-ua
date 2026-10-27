@@ -55,6 +55,44 @@ const copy: Record<Locale, Copy> = {
     locationTitle:"Gdzie może odbyć się leczenie",location:"Miejsce konsultacji lub operacji jest uzgadniane indywidualnie po potwierdzeniu możliwości konkretnej placówki. Lokalizacja, termin i cena nie są gwarantowane z góry.",disclaimer:"Kontakt zdalny nie zastępuje badania osobistego i nie gwarantuje operacji. Podróż do Ukrainy wiąże się z zagrożeniami bezpieczeństwa. Nie przesyłaj dokumentacji medycznej przez niezabezpieczone formularze.",finalTitle:"Omówmy Twój przypadek"
   }
 };
+const enquiryGuidance: Record<Locale, { title: string; items: string[] }> = {
+  "uk": {
+    "title": "Що підготувати до першого звернення",
+    "items": [
+      "Коротко опишіть проблему, попередні операції та мету консультації.",
+      "Зазначте країну й місто перебування та зручний спосіб зв’язку.",
+      "Повідомте, які рентгенограми, МРТ, КТ або виписки у вас є. Передавання файлів узгоджується окремо через безпечний канал.",
+      "Можливість очної консультації, місце лікування та організацію поїздки обговорюємо лише після оцінки випадку."
+    ]
+  },
+  "en": {
+    "title": "Before your first enquiry",
+    "items": [
+      "Briefly describe the condition, any previous surgery and your main question.",
+      "Tell us your city and country of residence and preferred contact method.",
+      "Mention available X-rays, MRI, CT scans or medical reports. Agree on a secure transfer method before sharing records.",
+      "An in-person visit, treatment location and travel arrangements are discussed individually after assessment."
+    ]
+  },
+  "de": {
+    "title": "Vor Ihrer ersten Anfrage",
+    "items": [
+      "Beschreiben Sie kurz Ihre Beschwerden, frühere Operationen und Ihr Anliegen.",
+      "Nennen Sie Ihren Wohnort, Ihr Land und Ihre bevorzugte Kontaktmöglichkeit.",
+      "Teilen Sie mit, ob Röntgenbilder, MRT-, CT-Aufnahmen oder Arztberichte vorliegen. Die sichere Übermittlung wird gesondert vereinbart.",
+      "Persönliche Untersuchung, Behandlungsort und Reiseplanung werden erst nach individueller Einschätzung besprochen."
+    ]
+  },
+  "pl": {
+    "title": "Przed pierwszym kontaktem",
+    "items": [
+      "Krótko opisz problem, wcześniejsze operacje i cel konsultacji.",
+      "Podaj miasto i kraj zamieszkania oraz preferowany sposób kontaktu.",
+      "Poinformuj, jakie masz zdjęcia RTG, MRI, TK lub wypisy. Bezpieczny sposób przekazania dokumentacji ustalimy osobno.",
+      "Wizyta osobista, miejsce leczenia i organizacja podróży są omawiane indywidualnie po ocenie przypadku."
+    ]
+  }
+};
 export function generateStaticParams(){ return locales.map(lang=>({lang})); }
 export async function generateMetadata({params}:{params:Promise<{lang:string}>}):Promise<Metadata>{
  const {lang}=await params;if(!hasLocale(lang))return {};
@@ -86,5 +124,6 @@ export default async function InternationalPatients({params}:{params:Promise<{la
  <TreatmentCards dict={dict} lang={locale}/>
  </div></section>
  <section className="bg-cream"><div className="mx-auto max-w-[1200px] px-5 sm:px-8 py-16"><h2 className="text-3xl font-light mb-5">{c.locationTitle}</h2><p className="leading-relaxed max-w-[850px]">{c.location}</p><p className="mt-6 text-sm text-ink-muted max-w-[850px]">{c.disclaimer}</p></div></section>
+ <section className="bg-paper"><div className="mx-auto max-w-[1200px] px-5 sm:px-8 py-14 sm:py-20"><h2 className="text-3xl font-light mb-6">{enquiryGuidance[locale].title}</h2><ol className="grid sm:grid-cols-2 gap-5">{enquiryGuidance[locale].items.map((item,i)=><li key={item} className="rounded-lg border border-hairline bg-cream p-6 leading-relaxed"><span className="block text-sm text-ink-muted mb-3">0{i+1}</span>{item}</li>)}</ol></div></section>
  </main><BookOnline dict={dict}/><Footer dict={dict} lang={locale}/></>;
 }
