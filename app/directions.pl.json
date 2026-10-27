@@ -1986,6 +1986,124 @@
           "divider": false
         },
         {
+          "heading": "Kiedy artroskopia nie jest potrzebna?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Artroskopia nie jest uniwersalnym sposobem leczenia bólu kolana ani barku. Nawet gdy rezonans wykazuje uszkodzenie łąkotki, ścięgna lub zmiany zwyrodnieniowe, nie oznacza to, że operacja poprawi objawy i funkcję stawu."
+            },
+            {
+              "type": "p",
+              "text": "Decyzję podejmuje się na podstawie objawów, badania klinicznego, obrazowania, charakteru choroby i spodziewanych korzyści."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Choroba zwyrodnieniowa stawu kolanowego",
+          "body": [
+            {
+              "type": "p",
+              "text": "Zmiany zwyrodnieniowe obejmują nie tylko chrząstkę, ale też inne struktury stawu. Artroskopowe „oczyszczanie”, płukanie lub usuwanie zmienionych tkanek zwykle nie usuwa przyczyny choroby."
+            },
+            {
+              "type": "p",
+              "text": "Rutynowe artroskopowe oczyszczanie kolana z chorobą zwyrodnieniową nie jest zalecane, ponieważ nie daje istotnej klinicznie długoterminowej poprawy w porównaniu z odpowiednim leczeniem zachowawczym."
+            },
+            {
+              "type": "p",
+              "text": "Odrębny problem mechaniczny, np. rzeczywiste zablokowanie przez przemieszczony fragment, wymaga indywidualnej oceny. Nie oznacza to, że artroskopia leczy samą chorobę zwyrodnieniową."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Zwyrodnieniowe uszkodzenia łąkotki",
+          "body": [
+            {
+              "type": "p",
+              "text": "Zmiany zwyrodnieniowe łąkotek często stwierdza się w MRI u osób w średnim i starszym wieku; część nie powoduje objawów."
+            },
+            {
+              "type": "p",
+              "text": "Przy uszkodzeniu zwyrodnieniowym bez obiektywnego mechanicznego blokowania zwykle najpierw rozważa się leczenie zachowawcze."
+            },
+            {
+              "type": "p",
+              "text": "Ból, sporadyczne przeskakiwanie czy określenie „uszkodzenie łąkotki” w opisie MRI same w sobie nie uzasadniają częściowej meniscektomii."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Ból barku bez wyraźnych wskazań operacyjnych",
+          "body": [
+            {
+              "type": "p",
+              "text": "Przyczyną bólu może być tendinopatia stożka rotatorów, zespół bólu podbarkowego, zmiany zwyrodnieniowe lub inne schorzenia."
+            },
+            {
+              "type": "p",
+              "text": "W wielu takich przypadkach podstawą są ćwiczenia, odzyskiwanie ruchomości, stopniowe wzmacnianie mięśni i modyfikacja obciążeń."
+            },
+            {
+              "type": "p",
+              "text": "Ból lub zmiany ścięgien w MRI nie oznaczają automatycznie konieczności artroskopii."
+            },
+            {
+              "type": "p",
+              "text": "Operacja może być zasadna przy wybranych zerwaniach stożka rotatorów, zależnie od upośledzenia funkcji, charakteru uszkodzenia i rokowania."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Kiedy lepiej zacząć od leczenia zachowawczego?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Leczenie bez operacji jest często uzasadnione, gdy:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "nie ma znacznej niestabilności mechanicznej ani rzeczywistego blokowania stawu",
+                "nie występuje uraz, przy którym szybka operacja ma udowodnioną przewagę",
+                "objawy można kontrolować bez operacji",
+                "rehabilitacja może poprawić funkcję stawu",
+                "spodziewana korzyść z operacji nie przewyższa jej ryzyka i ograniczeń"
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Leczenie zależnie od rozpoznania może obejmować indywidualne ćwiczenia, rehabilitację, modyfikację obciążeń, kontrolę bólu i inne wskazane metody."
+            },
+            {
+              "type": "p",
+              "text": "Leczenie zachowawcze nie jest biernym czekaniem: wymaga określonego celu, planu i kryteriów oceny postępów."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Kiedy ponownie ocenić decyzję?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Gdy objawy utrzymują się lub nasilają mimo właściwego leczenia, pojawia się niestabilność, rzeczywiste blokowanie albo istotne pogorszenie funkcji, potrzebna jest ponowna ocena."
+            },
+            {
+              "type": "p",
+              "text": "Przy wybranych ostrych urazach, takich jak przemieszczone uszkodzenia łąkotki, niektóre zerwania ścięgien lub złożone urazy więzadeł, opóźnianie konsultacji może ograniczyć możliwości naprawy."
+            },
+            {
+              "type": "p",
+              "text": "Zasada: operację zaleca się nie dlatego, że artroskopia jest technicznie możliwa, lecz wtedy, gdy przynosi uzasadnioną korzyść konkretnemu pacjentowi."
+            }
+          ],
+          "divider": false
+        },
+        {
           "heading": "Czy artroskopia jest potrzebna właśnie Tobie?",
           "body": [
             {
