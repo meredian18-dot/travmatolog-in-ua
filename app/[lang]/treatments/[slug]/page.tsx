@@ -3,6 +3,7 @@ import { localizedAlternates } from "@/app/seo";
 import { notFound } from "next/navigation";
 import { getDictionary, hasLocale, locales, type Locale } from "@/app/i18n";
 import { BASE } from "@/app/base";
+import { CONTACTS } from "@/app/contacts";
 import TopBar from "@/components/TopBar";
 import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
@@ -472,7 +473,7 @@ function RichDetail({
     <>
       <div className="bg-tan-dark">
         <TopBar dict={dict} lang={lang} />
-        <Nav dict={dict} lang={lang} current="home" />
+        <Nav dict={dict} lang={lang} current="home" treatmentSlug={slug} />
 
         <div className="mx-auto max-w-[1200px] px-5 sm:px-8 pt-14 pb-16 sm:pt-20 sm:pb-24">
           <a
@@ -740,7 +741,7 @@ function RichDetail({
 
           <div className="mt-14 pt-10 border-t border-hairline">
             <a
-              href={`${BASE}/${lang}/#consultation`}
+              href={CONTACTS.telegramHref}
               className="group inline-flex items-center justify-between gap-6 btn-metallic text-white px-8 py-4 label-caps w-full sm:w-auto sm:min-w-[280px]"
             >
               {dict.common.ctaPrimary}
