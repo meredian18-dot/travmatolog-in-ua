@@ -1986,6 +1986,124 @@
           "divider": false
         },
         {
+          "heading": "When is arthroscopy not necessary?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Arthroscopy is not a universal treatment for knee or shoulder pain. An MRI showing a meniscal tear, tendon damage or degenerative changes does not necessarily mean surgery will improve symptoms or joint function."
+            },
+            {
+              "type": "p",
+              "text": "The decision should combine symptoms, examination findings, imaging, the nature of the condition and the likely benefit of surgery."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Knee osteoarthritis",
+          "body": [
+            {
+              "type": "p",
+              "text": "Osteoarthritis affects cartilage and other joint structures. Arthroscopic 'clean-up', lavage or removal of degenerative tissue does not usually address the underlying disease."
+            },
+            {
+              "type": "p",
+              "text": "Routine arthroscopic debridement for knee osteoarthritis is not recommended because it offers no clinically meaningful long-term improvement over appropriate non-surgical treatment."
+            },
+            {
+              "type": "p",
+              "text": "A distinct mechanical problem, such as true locking caused by a displaced fragment, requires individual assessment. This does not mean arthroscopy treats osteoarthritis itself."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Degenerative meniscal tears",
+          "body": [
+            {
+              "type": "p",
+              "text": "Degenerative meniscal changes are common on MRI in middle-aged and older adults, and some are asymptomatic."
+            },
+            {
+              "type": "p",
+              "text": "For a degenerative tear without objective mechanical locking, non-surgical treatment is generally the first option."
+            },
+            {
+              "type": "p",
+              "text": "Pain, occasional clicking or the words 'meniscal tear' on an MRI report alone are not sufficient grounds for partial meniscectomy."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Shoulder pain without clear surgical indications",
+          "body": [
+            {
+              "type": "p",
+              "text": "Shoulder pain can arise from rotator cuff tendinopathy, subacromial pain syndrome, degeneration or other causes."
+            },
+            {
+              "type": "p",
+              "text": "Therapeutic exercise, restoring movement, gradual strengthening and load modification are often the initial treatment."
+            },
+            {
+              "type": "p",
+              "text": "Pain or tendon changes on MRI do not automatically warrant arthroscopy."
+            },
+            {
+              "type": "p",
+              "text": "Surgery may be appropriate for selected rotator cuff tears, depending on function, tear characteristics and expected outcomes."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "When is non-surgical treatment preferable?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Non-surgical management is often reasonable when:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "there is no major mechanical instability or true joint locking",
+                "there is no injury for which timely surgery has a proven advantage",
+                "symptoms can be controlled without surgery",
+                "rehabilitation can improve joint function",
+                "the expected benefit does not outweigh surgical risks or limitations"
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Depending on the diagnosis, treatment may include individualised exercise, physical rehabilitation, activity modification, pain management and other indicated measures."
+            },
+            {
+              "type": "p",
+              "text": "Non-surgical care is not passive waiting: it should have clear goals, a plan and criteria for reviewing progress."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "When should the decision be reassessed?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Persistent or worsening symptoms despite appropriate treatment, new instability, true locking or significant loss of function warrant reassessment."
+            },
+            {
+              "type": "p",
+              "text": "With certain acute traumatic injuries, including displaced meniscal tears, some tendon tears or combined ligament injuries, delaying assessment can reduce repair options."
+            },
+            {
+              "type": "p",
+              "text": "The principle is to recommend surgery not merely because arthroscopy is technically possible, but because it offers a justified benefit for the individual patient."
+            }
+          ],
+          "divider": false
+        },
+        {
           "heading": "Do you actually need arthroscopy?",
           "body": [
             {
