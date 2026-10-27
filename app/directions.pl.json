@@ -2737,24 +2737,38 @@
           "divider": false
         },
         {
-          "heading": "Sytuacja kliniczna",
-          "body": [],
-          "divider": true
-        },
-        {
-          "heading": "Złożone powtórne uszkodzenie stawu kolanowego po wcześniejszej operacji",
+          "heading": "Przypadek kliniczny: ponowne uszkodzenie przeszczepu ACL i łąkotek",
           "body": [
             {
               "type": "p",
-              "text": "Pacjent wcześniej przeszedł leczenie operacyjne stawu kolanowego. Podczas powtórnego badania MRI wykryto całkowite zerwanie przeszczepu więzadła krzyżowego przedniego (ACL) w połączeniu z pionowym przerwaniem łąkotki bocznej oraz uszkodzeniem meniskokapsularnym rogu tylnego łąkotki przyśrodkowej (ramp lesion)."
+              "text": "Ponowne uszkodzenie kolana po rekonstrukcji więzadła krzyżowego przedniego (ACL) jest złożoną sytuacją. Planowanie ewentualnego zabiegu rewizyjnego wymaga uwzględnienia nowych urazów oraz przebiegu wcześniejszej operacji."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Co wykazało badanie?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Pacjent przebył wcześniej operację kolana. W kontrolnym MRI stwierdzono:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Całkowite zerwanie przeszczepu ACL po poprzedniej rekonstrukcji.",
+                "Pionowe pęknięcie łąkotki bocznej.",
+                "Uszkodzenie łąkotkowo-torebkowe rogu tylnego łąkotki przyśrodkowej (ramp lesion).",
+                "Towarzyszące zmiany pourazowe i pooperacyjne."
+              ]
             },
             {
               "type": "p",
-              "text": "W MRI stwierdzono również towarzyszące zmiany pourazowe i pooperacyjne."
+              "text": "Takie połączenie wymaga kompleksowej oceny stabilności stawu, łąkotek i możliwości naprawy."
             },
             {
-              "type": "caption",
-              "text": "MRI obu stawów kolanowych. Po prawej — powtórne uszkodzenie przeszczepu więzadła krzyżowego przedniego oraz towarzyszące uszkodzenia łąkotek po wcześniejszym leczeniu operacyjnym; po lewej — porównawcze badanie drugiego kolana."
+              "type": "p",
+              "text": "Na obrazach MRI po prawej pokazano kolano z ponownym uszkodzeniem ACL i towarzyszącymi uszkodzeniami łąkotek. Po lewej przedstawiono porównawcze badanie drugiego kolana."
             }
           ],
           "divider": false,
@@ -2764,19 +2778,81 @@
           ]
         },
         {
-          "heading": "Co jest ważne w takiej sytuacji?",
+          "heading": "Dlaczego ponowna rekonstrukcja ACL jest trudniejsza?",
           "body": [
             {
               "type": "p",
-              "text": "Nawet tak wyraźne zmiany w MRI same w sobie nie determinują ostatecznej taktyki leczenia. Konieczne jest zestawienie wyników badania ze skargami pacjenta, kliniczną stabilnością kolana, poziomem aktywności fizycznej, wynikami wcześniejszej operacji i potrzebami funkcjonalnymi."
+              "text": "Samo potwierdzenie zerwania przeszczepu w MRI nie wystarcza do zaplanowania rewizji. Jeśli zabieg jest wskazany, należy ocenić:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Przyczyny nieskuteczności poprzedniej rekonstrukcji, w tym nowy uraz i czynniki techniczne.",
+                "Położenie i wielkość tuneli kostnych po wcześniejszej operacji.",
+                "Implanty mocujące oraz ewentualne ubytki kostne.",
+                "Niestabilność kliniczną, ruchomość i stan mięśni.",
+                "Towarzyszące uszkodzenia łąkotek, chrząstki i więzadeł.",
+                "Możliwość naprawy i zachowania łąkotek.",
+                "Aktywność, potrzeby funkcjonalne i oczekiwania pacjenta."
+              ]
             },
             {
               "type": "p",
-              "text": "Dopiero po takiej kompleksowej ocenie można ustalić, czy potrzebna jest powtórna interwencja chirurgiczna, które struktury wymagają odtworzenia i jaki zakres operacji będzie właściwy."
+              "text": "TK może pomóc w ocenie tuneli kostnych. Rewizję można czasem wykonać jednoetapowo; niewłaściwe położenie lub poszerzenie tuneli może wymagać dwuetapowego leczenia z wcześniejszym przeszczepem kostnym."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Dlaczego należy ocenić obie łąkotki?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Łąkotki rozkładają obciążenie i stabilizują kolano. Ich uszkodzenia przy niewydolności ACL mogą dodatkowo pogarszać funkcję i stabilność."
             },
             {
               "type": "p",
-              "text": "MRI pokazuje strukturę uszkodzenia. Zadaniem chirurga jest ustalenie jego znaczenia klinicznego i wybór właściwej taktyki leczenia."
+              "text": "Ramp lesion to uszkodzenie tylnego kompleksu łąkotkowo-torebkowego łąkotki przyśrodkowej, które może towarzyszyć zerwaniu ACL."
+            },
+            {
+              "type": "p",
+              "text": "Wielkość, stabilność i znaczenie kliniczne takich uszkodzeń są różne. O naprawie decyduje się na podstawie MRI, badania klinicznego i ewentualnej artroskopii."
+            },
+            {
+              "type": "p",
+              "text": "Jeśli zabieg jest wskazany, dąży się do maksymalnego zachowania funkcjonalnej tkanki łąkotek."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Jak wybiera się dalsze leczenie?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Ponowne zerwanie przeszczepu ACL w MRI nie oznacza automatycznie konieczności operacji rewizyjnej. Decyzja zależy od niestabilności, objawów, aktywności, uszkodzeń towarzyszących i anatomii po poprzedniej operacji."
+            },
+            {
+              "type": "p",
+              "text": "Jeśli rekonstrukcja jest wskazana, uwzględnia się przyczyny niepowodzenia, tunele kostne, dobór nowego przeszczepu i leczenie innych uszkodzeń."
+            },
+            {
+              "type": "p",
+              "text": "Celem jest usunięcie klinicznie istotnych przyczyn niestabilności i stworzenie warunków do odzyskania funkcji, a nie wyłącznie wymiana przeszczepu."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Co pokazuje ten przypadek?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Ponowny uraz po rekonstrukcji ACL wymaga indywidualnej analizy zamiast automatycznego powtórzenia wcześniejszej operacji."
+            },
+            {
+              "type": "p",
+              "text": "MRI przedstawia uszkodzenia strukturalne, lecz dopiero kompleksowa ocena pozwala określić potrzebę, zakres i strategię rewizji."
             }
           ],
           "divider": false
