@@ -1680,90 +1680,148 @@
           "body": [
             {
               "type": "p",
-              "text": "The knee is one of the joints where arthroscopic techniques are especially widely used."
+              "text": "Knee arthroscopy allows a range of operations through small incisions, including meniscal repair, ligament reconstruction and treatment of selected intra-articular injuries."
+            },
+            {
+              "type": "p",
+              "text": "Arthroscopic surgery is often considered after sports or everyday injuries when pain, recurrent swelling, instability, locking or difficulty returning to normal activity persists."
+            },
+            {
+              "type": "p",
+              "text": "The aim is not simply to remove damaged tissue, but whenever possible to preserve joint structures, restore stability and function, and reduce the risk of further injury."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Meniscus tear",
+          "heading": "Meniscus tears: repair or partial meniscectomy?",
           "body": [
             {
               "type": "p",
-              "text": "The menisci play an important role in load distribution and stability of the knee joint."
+              "text": "The two menisci are fibrocartilaginous structures inside the knee that distribute load, absorb shock and contribute to joint stability."
             },
             {
               "type": "p",
-              "text": "A meniscus tear can occur after an injury, presenting with pain, swelling, clicking, or mechanical locking of the knee."
+              "text": "Tears may result from trauma or gradual degeneration. Symptoms can include joint-line pain, swelling, painful clicking, reduced movement or true mechanical locking."
             },
             {
               "type": "p",
-              "text": "Not every tear requires surgery."
+              "text": "Not every meniscal tear requires surgery. Management depends on the tear pattern and location, tissue quality, age, symptoms, associated injuries and response to non-surgical treatment."
             },
             {
               "type": "p",
-              "text": "When arthroscopic treatment is indicated, the key question is:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "can the meniscus be preserved?"
-              ]
+              "text": "When surgery is indicated, two principal approaches may be considered."
             },
             {
               "type": "p",
-              "text": "In appropriate cases, preference is given to repair and meniscal suture. If the nature of the injury does not allow this, only the unstable, damaged portion may be removed."
+              "text": "Meniscus repair: the damaged meniscus is preserved and secured with specialised sutures or repair devices to restore continuity."
             },
             {
               "type": "p",
-              "text": "The goal is to preserve as much functional meniscal tissue as possible, rather than simply removing it."
+              "text": "Repair is appropriate when the tear has healing potential and the tissue can be reliably repaired. Preserving the meniscus is especially important for younger and active patients, but decisions remain individual."
+            },
+            {
+              "type": "p",
+              "text": "After repair, weight-bearing and range of motion are usually progressed in a controlled way to protect healing."
+            },
+            {
+              "type": "p",
+              "text": "Partial meniscectomy: when repair is not a sound option, only the unstable damaged portion may be removed, preserving as much healthy functional meniscal tissue as possible."
+            },
+            {
+              "type": "p",
+              "text": "Functional recovery is often faster than after repair, but removing meniscal tissue reduces load distribution and may increase the risk of future degenerative changes."
+            },
+            {
+              "type": "p",
+              "text": "Our principle is to preserve the meniscus whenever technically feasible, biologically justified and likely to provide clinical benefit."
+            },
+            {
+              "type": "p",
+              "text": "For degenerative meniscal tears, especially with osteoarthritis, arthroscopy is usually not the first-line treatment. An MRI-reported tear alone is not an indication for surgery."
+            }
+          ],
+          "divider": false,
+          "diagram": "arthroscopy-meniscus-en.png"
+        },
+        {
+          "heading": "Anterior cruciate ligament (ACL) tear and reconstruction",
+          "body": [
+            {
+              "type": "p",
+              "text": "The ACL is a major stabiliser of the knee. Tears commonly occur during sudden changes of direction, landing from a jump or sports injuries."
+            },
+            {
+              "type": "p",
+              "text": "Patients may experience giving way, recurrent instability, swelling and difficulty during physical activity."
+            },
+            {
+              "type": "p",
+              "text": "An ACL tear does not always require surgery."
+            },
+            {
+              "type": "p",
+              "text": "Decisions on reconstruction take into account clinical instability, age, activity level, sporting and occupational demands, associated meniscal or cartilage damage and patient goals."
+            },
+            {
+              "type": "p",
+              "text": "Surgical restoration of stability may be particularly beneficial when functional instability, high physical demands or associated injuries are present."
+            },
+            {
+              "type": "p",
+              "text": "Arthroscopic ACL reconstruction replaces the torn ligament with a tendon graft secured in an anatomically appropriate position. Graft choice and fixation are individualised."
+            },
+            {
+              "type": "p",
+              "text": "Before surgery, it is important to improve motion, reduce swelling and restore muscle function. When reconstruction is indicated after an acute injury, unnecessary prolonged delay can increase the risk of further meniscal and cartilage damage."
+            },
+            {
+              "type": "p",
+              "text": "ACL reconstruction requires staged rehabilitation. Return to running, training and contact sports depends on strength, stability, coordination and functional testing, not simply on time elapsed."
             }
           ],
           "divider": false
         },
         {
-          "heading": "ACL (anterior cruciate ligament) injury",
+          "heading": "Articular cartilage damage and osteochondral lesions",
           "body": [
             {
               "type": "p",
-              "text": "A tear of the anterior cruciate ligament (ACL) can cause knee instability, especially during running, sudden changes of direction, and sporting activity."
+              "text": "Articular cartilage allows joint surfaces to glide smoothly. Focal defects may arise from injury or other conditions."
             },
             {
               "type": "p",
-              "text": "The decision to reconstruct depends on more than just the MRI."
+              "text": "Selected symptomatic cartilage defects, unstable fragments, osteochondral lesions and loose bodies can sometimes be addressed arthroscopically."
             },
             {
               "type": "p",
-              "text": "The following are taken into account:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "clinical instability",
-                "age",
-                "level of physical activity",
-                "sporting and occupational demands",
-                "concomitant meniscal and cartilage injuries",
-                "patient expectations"
-              ]
+              "text": "The procedure depends on defect size, depth and location, subchondral bone, knee stability, limb alignment and overall joint condition."
             },
             {
               "type": "p",
-              "text": "If surgery is indicated, ligament reconstruction is performed to restore stability of the knee joint."
+              "text": "Options may include treating unstable fragments, selected cartilage-repair stimulation methods or more complex reconstructive techniques."
+            },
+            {
+              "type": "p",
+              "text": "Arthroscopy cannot restore normal cartilage throughout a joint with widespread osteoarthritis. Clinical findings and lesion characteristics, rather than MRI alone, guide the choice of treatment."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Cartilage and other intra-articular injuries",
+          "heading": "When should you seek a prompt assessment?",
           "body": [
             {
               "type": "p",
-              "text": "Arthroscopy can also be used for certain localized injuries to the joint cartilage, loose intra-articular bodies, and other pathological conditions."
+              "text": "After an injury, marked swelling, instability, inability to straighten the knee or true mechanical locking warrant timely assessment by an orthopaedic surgeon."
             },
             {
               "type": "p",
-              "text": "The approach is determined by the nature of the defect, the patient's age, and the overall condition of the joint."
+              "text": "Displaced meniscal tears, combined ligament injuries and other injuries where delay may reduce repair options deserve particular attention."
+            },
+            {
+              "type": "p",
+              "text": "A consultation helps determine the need for further investigations, non-operative care or arthroscopic surgery."
             }
           ],
           "divider": false
