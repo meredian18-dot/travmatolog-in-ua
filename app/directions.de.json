@@ -1986,6 +1986,124 @@
           "divider": false
         },
         {
+          "heading": "Wann ist eine Arthroskopie nicht erforderlich?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Eine Arthroskopie ist keine universelle Behandlung bei Knie- oder Schulterschmerzen. Selbst wenn ein MRT einen Meniskusriss, Sehnenschaden oder degenerative Veränderungen zeigt, bedeutet dies nicht zwangsläufig, dass eine Operation Beschwerden und Funktion verbessert."
+            },
+            {
+              "type": "p",
+              "text": "Die Entscheidung beruht auf Beschwerden, klinischer Untersuchung, Bildgebung, Art der Erkrankung und dem erwarteten Nutzen."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Kniearthrose",
+          "body": [
+            {
+              "type": "p",
+              "text": "Bei Arthrose verändern sich der Gelenkknorpel und weitere Strukturen. Eine arthroskopische „Gelenkreinigung“, Spülung oder Entfernung degenerativer Gewebe behandelt in der Regel nicht die zugrunde liegende Erkrankung."
+            },
+            {
+              "type": "p",
+              "text": "Eine routinemäßige arthroskopische Gelenksanierung bei Kniearthrose wird nicht empfohlen, da sie langfristig keinen klinisch relevanten Vorteil gegenüber angemessener konservativer Behandlung zeigt."
+            },
+            {
+              "type": "p",
+              "text": "Eine eigenständige mechanische Ursache, etwa eine echte Blockade durch ein verlagertes Fragment, muss individuell beurteilt werden. Arthroskopie behandelt damit nicht die Arthrose selbst."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Degenerative Meniskusrisse",
+          "body": [
+            {
+              "type": "p",
+              "text": "Degenerative Meniskusveränderungen sind im MRT bei Menschen mittleren und höheren Alters häufig und teilweise beschwerdefrei."
+            },
+            {
+              "type": "p",
+              "text": "Bei degenerativen Rissen ohne objektive mechanische Blockade ist in der Regel zunächst eine konservative Behandlung sinnvoll."
+            },
+            {
+              "type": "p",
+              "text": "Schmerzen, gelegentliches Klicken oder die Diagnose „Meniskusriss“ im MRT allein rechtfertigen keine partielle Meniskektomie."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Schulterschmerzen ohne eindeutige Operationsindikation",
+          "body": [
+            {
+              "type": "p",
+              "text": "Schmerzen können durch eine Tendinopathie der Rotatorenmanschette, subakromiale Beschwerden, degenerative Veränderungen oder andere Ursachen entstehen."
+            },
+            {
+              "type": "p",
+              "text": "Häufig stehen therapeutische Übungen, Mobilisation, schrittweiser Muskelaufbau und Belastungsanpassung im Vordergrund."
+            },
+            {
+              "type": "p",
+              "text": "Schmerzen oder Sehnenveränderungen im MRT begründen nicht automatisch eine Arthroskopie."
+            },
+            {
+              "type": "p",
+              "text": "Bei ausgewählten Rotatorenmanschettenrissen kann eine Operation sinnvoll sein; entscheidend sind Funktionsstörung, Rissform und die Prognose der Behandlungsoptionen."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Wann ist eine konservative Behandlung vorzuziehen?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Ein nichtoperativer Ansatz ist oft begründet, wenn:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "keine erhebliche mechanische Instabilität oder Gelenkblockade besteht",
+                "keine Verletzung vorliegt, bei der eine zeitnahe Operation nachweislich vorteilhaft ist",
+                "sich die Beschwerden ohne Operation kontrollieren lassen",
+                "Rehabilitation die Gelenkfunktion verbessern kann",
+                "der erwartete Nutzen die Operationsrisiken und Einschränkungen nicht überwiegt"
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Je nach Diagnose gehören individuelle Übungen, Physiotherapie, Belastungsanpassung, Schmerzbehandlung und andere indizierte Maßnahmen dazu."
+            },
+            {
+              "type": "p",
+              "text": "Konservative Behandlung bedeutet nicht passives Abwarten; sie braucht klare Ziele, einen Plan und Kriterien zur Erfolgskontrolle."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Wann muss die Entscheidung überprüft werden?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Bleiben Beschwerden trotz geeigneter Behandlung bestehen, nehmen sie zu oder treten Instabilität, echte Blockaden oder erhebliche Funktionseinbußen auf, ist eine erneute Untersuchung nötig."
+            },
+            {
+              "type": "p",
+              "text": "Bei bestimmten akuten Verletzungen, etwa verlagerten Meniskusrissen, einzelnen Sehnenrissen oder kombinierten Bandverletzungen, kann eine verspätete Untersuchung die Rekonstruktionsmöglichkeiten einschränken."
+            },
+            {
+              "type": "p",
+              "text": "Grundsatz: Eine Operation ist nicht angezeigt, nur weil eine Arthroskopie technisch möglich ist, sondern wenn sie für den einzelnen Patienten einen begründeten Vorteil bietet."
+            }
+          ],
+          "divider": false
+        },
+        {
           "heading": "Was sich nach der Operation ändern kann",
           "body": [
             {
