@@ -1578,23 +1578,65 @@
           "divider": false
         },
         {
-          "heading": "Was ist eine Arthroskopie",
+          "heading": "Was ist eine Arthroskopie und für wen ist sie sinnvoll?",
           "body": [
             {
               "type": "p",
-              "text": "Die Arthroskopie ist eine minimalinvasive chirurgische Technik, bei der über einen kleinen Zugang ein spezielles optisches System — das Arthroskop — in das Gelenk eingeführt wird."
+              "text": "Die Arthroskopie ist ein chirurgisches Verfahren, mit dem Strukturen im Gelenkinneren untersucht und bei entsprechender Indikation über kleine Hautschnitte behandelt werden können."
             },
             {
               "type": "p",
-              "text": "Das Bild der inneren Gelenkstrukturen wird auf einen Monitor übertragen, sodass der Chirurg sie detailliert beurteilen kann."
+              "text": "Während der Operation wird ein Arthroskop – ein dünnes Instrument mit Kamera – in das Gelenk eingeführt. Die Bilder werden auf einen Monitor übertragen. Über weitere kleine Zugänge können spezielle Instrumente eingesetzt werden, um geschädigte Strukturen zu behandeln oder zu reparieren."
             },
             {
               "type": "p",
-              "text": "Über zusätzliche kleine Zugänge werden spezielle Instrumente eingeführt, mit denen der notwendige chirurgische Eingriff durchgeführt werden kann."
+              "text": "Arthroskopische Eingriffe werden besonders häufig bei ausgewählten Verletzungen des Knie- und Schultergelenks eingesetzt."
             },
             {
               "type": "p",
-              "text": "So ermöglicht die Arthroskopie nicht nur, die Pathologie im Gelenkinneren zu sehen, sondern in entsprechenden Fällen auch geschädigte Strukturen über minimale chirurgische Zugänge wiederherzustellen oder zu rekonstruieren."
+              "text": "Wann kann eine Arthroskopie sinnvoll sein?"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Meniskusschäden – wenn Art des Risses, Beschwerden und Untersuchungsergebnisse einen Nutzen der Operation erwarten lassen.",
+                "Instabilität des Kniegelenks – etwa nach einem Riss des vorderen Kreuzbandes, sofern eine Rekonstruktion angezeigt ist.",
+                "Verletzungen der Rotatorenmanschette – bei ausgewählten Sehnenrissen, für die eine operative Rekonstruktion sinnvoll ist.",
+                "Wiederholte Schulterluxationen und Schulterinstabilität – wenn sich das Verletzungsmuster für eine arthroskopische Stabilisierung eignet.",
+                "Ausgewählte umschriebene Knorpelschäden, freie Gelenkkörper und andere mechanische Störungen – nach Bestätigung ihrer klinischen Bedeutung."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Welche Vorteile bietet die arthroskopische Chirurgie?"
+            },
+            {
+              "type": "p",
+              "text": "Viele Eingriffe lassen sich über kleine Zugänge durchführen, wodurch das umliegende Weichteilgewebe im Vergleich zu entsprechenden offenen Operationen weniger beeinträchtigt wird. Die Kamera liefert eine vergrößerte Ansicht der Gelenkstrukturen und ermöglicht präzise operative Schritte."
+            },
+            {
+              "type": "p",
+              "text": "Kleine Hautschnitte bedeuten jedoch weder eine einfache Operation noch zwangsläufig eine kurze Rehabilitation. Die Genesungsdauer hängt vor allem von der Verletzung, dem Eingriff und der Gewebeheilung ab."
+            },
+            {
+              "type": "p",
+              "text": "Ist eine Arthroskopie immer erforderlich?"
+            },
+            {
+              "type": "p",
+              "text": "Nein. Gelenkschmerzen, MRT-Veränderungen oder altersbedingte degenerative Befunde allein stellen keine ausreichende Operationsindikation dar."
+            },
+            {
+              "type": "p",
+              "text": "Bei Kniearthrose bringt eine arthroskopische „Gelenkreinigung“ in der Regel keinen wesentlichen langfristigen Nutzen und wird nicht als Routinebehandlung empfohlen."
+            },
+            {
+              "type": "p",
+              "text": "In vielen Situationen sollte zunächst eine konservative Behandlung mit therapeutischen Übungen, Rehabilitation, Belastungsanpassung und weiteren diagnosegerechten Maßnahmen erfolgen."
+            },
+            {
+              "type": "p",
+              "text": "Ziel der Beratung ist es, die Ursache der Beschwerden festzustellen und die Behandlung mit der besten Aussicht auf eine Funktionsverbesserung auszuwählen – unabhängig davon, ob eine Operation erforderlich ist."
             }
           ],
           "divider": false,
