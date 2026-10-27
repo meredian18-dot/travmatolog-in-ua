@@ -2737,24 +2737,38 @@
           "divider": false
         },
         {
-          "heading": "Clinical case",
-          "body": [],
-          "divider": true
-        },
-        {
-          "heading": "A complex recurrent knee injury after previous surgery",
+          "heading": "Clinical case: recurrent ACL graft injury with meniscal tears",
           "body": [
             {
               "type": "p",
-              "text": "The patient had previously undergone surgical treatment of the knee. During a follow-up MRI, a complete rupture of the anterior cruciate ligament (ACL) graft was found, together with a vertical tear of the lateral meniscus and a meniscocapsular injury of the posterior horn of the medial meniscus (a ramp lesion)."
+              "text": "A repeat knee injury after anterior cruciate ligament (ACL) reconstruction is complex. Unlike a first injury, planning possible revision surgery requires consideration of both new damage and the previous procedure."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "What did the examination reveal?",
+          "body": [
+            {
+              "type": "p",
+              "text": "The patient had previously undergone knee surgery. Repeat MRI identified:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Complete rupture of the reconstructed anterior cruciate ligament (ACL) graft.",
+                "A vertical tear of the lateral meniscus.",
+                "A meniscocapsular injury of the posterior horn of the medial meniscus (ramp lesion).",
+                "Associated post-traumatic and postoperative changes."
+              ]
             },
             {
               "type": "p",
-              "text": "The MRI also showed associated post-traumatic and post-surgical changes."
+              "text": "These combined injuries call for a comprehensive assessment of stability, meniscal condition and options for tissue preservation."
             },
             {
-              "type": "caption",
-              "text": "MRI of both knees. Right — a repeat injury to the anterior cruciate ligament graft along with associated meniscal injuries after previous surgical treatment; left — a comparative scan of the other knee."
+              "type": "p",
+              "text": "The MRI images on the right show the knee with recurrent ACL graft injury and associated meniscal tears. On the left is a comparison MRI of the other knee."
             }
           ],
           "divider": false,
@@ -2764,19 +2778,81 @@
           ]
         },
         {
-          "heading": "What matters in a situation like this?",
+          "heading": "Why is revision ACL reconstruction more complex?",
           "body": [
             {
               "type": "p",
-              "text": "Even findings this pronounced on MRI do not, by themselves, determine the final treatment strategy. The imaging results must be weighed together with the patient's complaints, the clinical stability of the knee, level of physical activity, the outcome of the previous surgery, and functional needs."
+              "text": "An MRI-confirmed graft rupture alone is not enough to plan revision surgery. When revision is indicated, assessment includes:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Possible reasons for graft failure, including a new injury or technical factors.",
+                "Location and size of bone tunnels created during previous surgery.",
+                "Existing fixation devices and bone defects.",
+                "Clinical instability, range of movement and muscle function.",
+                "Associated meniscal, cartilage and ligament injuries.",
+                "Possibility of repairing and preserving the menisci.",
+                "Activity level, functional needs and patient expectations."
+              ]
             },
             {
               "type": "p",
-              "text": "Only after this comprehensive assessment can it be determined whether repeat surgery is needed, which structures require repair, and what scope of surgery would be appropriate."
+              "text": "CT may be useful for assessing previous bone tunnels. Revision can sometimes be performed in a single stage; unfavourable or widened tunnels may require two-stage reconstruction with initial bone grafting."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Why assess both menisci?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Menisci distribute load and contribute to knee stability. Meniscal damage accompanying ACL graft failure may further compromise knee function."
             },
             {
               "type": "p",
-              "text": "MRI shows the structure of the injury. The surgeon's task is to determine its clinical significance and choose the right treatment strategy."
+              "text": "A ramp lesion involves the posterior meniscocapsular complex of the medial meniscus and may accompany ACL injuries."
+            },
+            {
+              "type": "p",
+              "text": "These lesions differ in size, stability and significance. Decisions about repair rely on imaging, clinical findings and, when appropriate, arthroscopic assessment."
+            },
+            {
+              "type": "p",
+              "text": "When surgery is indicated, preserving functional meniscal tissue remains a priority."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "How is the next treatment decision made?",
+          "body": [
+            {
+              "type": "p",
+              "text": "A repeat ACL graft tear on MRI does not automatically require revision surgery. The decision depends on clinical instability, symptoms, activity level, associated damage and anatomy after the original operation."
+            },
+            {
+              "type": "p",
+              "text": "If reconstruction is indicated, planning addresses the reason for failure, bone tunnels, new graft selection and associated lesions."
+            },
+            {
+              "type": "p",
+              "text": "The goal is not just to replace the torn graft, but to address clinically relevant causes of instability and support recovery of function."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "What does this case illustrate?",
+          "body": [
+            {
+              "type": "p",
+              "text": "A new injury after ACL reconstruction needs individual assessment rather than automatic repetition of the first operation."
+            },
+            {
+              "type": "p",
+              "text": "MRI describes structural injury, but clinical assessment determines whether revision is needed, its extent and the best treatment strategy."
             }
           ],
           "divider": false
