@@ -40,7 +40,7 @@ export default function Footer({ dict, lang }: { dict: Dict; lang: Locale }) {
 
         <div className="lg:w-64 shrink-0 flex flex-col items-start lg:items-end gap-1.5">
           <a
-            href={CONTACTS.telegramHref}
+            href={CONTACTS.phoneHref}
             className="text-sm font-medium text-ink hover:text-tan-dark transition-colors"
           >
             {CONTACTS.phoneDisplay}
