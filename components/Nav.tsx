@@ -3,8 +3,8 @@ import { BASE } from "@/app/base";
 import MobileMenu from "@/components/MobileMenu";
 import { internationalLabels } from "@/app/international-nav";
 
-function LocaleDropdown({ lang, current }: { lang: Locale; current: "home" | "clinical" | "international" }) {
-  const suffix = current === "clinical" ? "clinical/" : current === "international" ? "international-patients/" : "";
+function LocaleDropdown({ lang, current, treatmentSlug }: { lang: Locale; current: "home" | "clinical" | "international"; treatmentSlug?: string }) {
+  const suffix = treatmentSlug ? `treatments/${treatmentSlug}/` : current === "clinical" ? "clinical/" : current === "international" ? "international-patients/" : "";
   return (
     <details className="relative group">
       <summary className="flex items-center gap-2 px-6 py-5 label-caps text-[11.5px] font-semibold text-white/85 hover:text-white cursor-pointer list-none border-l border-white/15 h-full transition-colors">
@@ -44,10 +44,12 @@ export default function Nav({
   dict,
   lang,
   current,
+  treatmentSlug,
 }: {
   dict: Dict;
   lang: Locale;
   current: "home" | "clinical" | "international";
+  treatmentSlug?: string;
 }) {
   const navLinks = [
     { label: dict.nav.home, href: `${BASE}/${lang}/`, key: "home" },
@@ -64,7 +66,7 @@ export default function Nav({
     ? { label: dict.nav.forPatients, href: `${BASE}/${lang}/` }
     : { label: dict.nav.forColleagues, href: `${BASE}/${lang}/clinical/` };
 
-  const suffix = onClinical ? "clinical/" : current === "international" ? "international-patients/" : "";
+  const suffix = treatmentSlug ? `treatments/${treatmentSlug}/` : onClinical ? "clinical/" : current === "international" ? "international-patients/" : "";
   const localeItems = locales.map((l) => ({
     code: l,
     name: localeNames[l],
@@ -108,7 +110,7 @@ export default function Nav({
 
         {/* Locale dropdown — desktop */}
         <div className="hidden xl:flex items-stretch">
-          <LocaleDropdown lang={lang} current={current} />
+          <LocaleDropdown lang={lang} current={current} treatmentSlug={treatmentSlug} />
         </div>
 
         {/* Audience toggle — desktop */}
