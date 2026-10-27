@@ -1680,90 +1680,148 @@
           "body": [
             {
               "type": "p",
-              "text": "Das Kniegelenk ist eines der Gelenke, bei dem arthroskopische Techniken besonders häufig angewendet werden."
+              "text": "Die Kniearthroskopie ermöglicht zahlreiche Eingriffe über kleine Hautschnitte, darunter die Meniskusnaht, die Bandrekonstruktion und die Behandlung ausgewählter intraartikulärer Schäden."
+            },
+            {
+              "type": "p",
+              "text": "Eine Operation wird häufig nach Sport- oder Alltagsverletzungen erwogen, wenn Schmerzen, wiederkehrende Schwellungen, Instabilität, eine Gelenkblockade oder Einschränkungen der körperlichen Aktivität bestehen."
+            },
+            {
+              "type": "p",
+              "text": "Ziel ist nicht nur die Behandlung der geschädigten Struktur, sondern möglichst der Erhalt von Gelenkgewebe, die Wiederherstellung von Stabilität und Funktion sowie die Verringerung weiterer Schäden."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Meniskusverletzung",
+          "heading": "Meniskusriss: Meniskusnaht oder partielle Meniskektomie?",
           "body": [
             {
               "type": "p",
-              "text": "Die Menisken spielen eine wichtige Rolle bei der Lastverteilung und Stabilität des Kniegelenks."
+              "text": "Die beiden Menisken sind Faserknorpelstrukturen im Kniegelenk. Sie verteilen Belastungen, dämpfen Stöße und tragen zur Stabilität bei."
             },
             {
               "type": "p",
-              "text": "Nach einer Verletzung kann ein Meniskusriss entstehen, der mit Schmerz, Schwellung, Schnappen oder mechanischer Blockierung des Knies einhergeht."
+              "text": "Meniskusschäden können durch Verletzungen oder schrittweise degenerative Veränderungen entstehen. Mögliche Beschwerden sind Schmerzen am Gelenkspalt, Schwellung, schmerzhaftes Klicken, Bewegungseinschränkungen oder eine echte mechanische Blockade."
             },
             {
               "type": "p",
-              "text": "Nicht jeder Riss erfordert eine Operation."
+              "text": "Nicht jeder Meniskusriss muss operiert werden. Die Behandlung hängt von Rissform und -lage, Gewebequalität, Alter, Beschwerden, Begleitverletzungen und dem Erfolg konservativer Maßnahmen ab."
             },
             {
               "type": "p",
-              "text": "Wenn eine arthroskopische Behandlung angezeigt ist, stellt sich vor allem die Frage:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "kann der Meniskus erhalten werden?"
-              ]
+              "text": "Ist eine Operation angezeigt, kommen insbesondere zwei Verfahren infrage."
             },
             {
               "type": "p",
-              "text": "In entsprechenden Fällen wird seiner Wiederherstellung und Naht der Vorzug gegeben. Wenn die Art der Schädigung dies nicht zulässt, kann lediglich der instabile, geschädigte Teil entfernt werden."
+              "text": "Meniskusnaht: Der geschädigte Meniskus bleibt erhalten und wird mit speziellen Nähten oder Reparatursystemen fixiert."
             },
             {
               "type": "p",
-              "text": "Ziel ist es, möglichst viel funktionsfähiges Meniskusgewebe zu erhalten, statt ihn einfach zu entfernen."
+              "text": "Eine Naht ist sinnvoll, wenn der Riss Heilungspotenzial besitzt und die Gewebequalität eine zuverlässige Rekonstruktion erlaubt. Besonders bei jüngeren, aktiven Menschen ist der Meniskuserhalt wichtig; die Entscheidung bleibt individuell."
+            },
+            {
+              "type": "p",
+              "text": "Nach einer Meniskusnaht müssen Belastung und Beweglichkeit in der Regel kontrolliert gesteigert werden, um die Heilung zu schützen."
+            },
+            {
+              "type": "p",
+              "text": "Partielle Meniskektomie: Ist eine Naht nicht sinnvoll, kann in geeigneten Fällen nur der instabile geschädigte Anteil entfernt werden. Möglichst viel gesundes, funktionelles Gewebe bleibt erhalten."
+            },
+            {
+              "type": "p",
+              "text": "Die funktionelle Erholung verläuft oft schneller als nach einer Naht. Der Gewebeverlust verringert jedoch die Lastverteilung und kann spätere degenerative Veränderungen begünstigen."
+            },
+            {
+              "type": "p",
+              "text": "Unser Grundsatz: den Meniskus erhalten, wenn dies technisch möglich, biologisch sinnvoll und klinisch vorteilhaft ist."
+            },
+            {
+              "type": "p",
+              "text": "Bei degenerativen Meniskusrissen, besonders bei gleichzeitiger Arthrose, ist die Arthroskopie üblicherweise nicht die erste Behandlungswahl. Ein MRT-Befund allein begründet keine Operation."
+            }
+          ],
+          "divider": false,
+          "diagram": "arthroscopy-meniscus-de.png"
+        },
+        {
+          "heading": "Riss des vorderen Kreuzbandes (ACL) und Rekonstruktion",
+          "body": [
+            {
+              "type": "p",
+              "text": "Das vordere Kreuzband gehört zu den wichtigsten Stabilisatoren des Knies. Ein Riss entsteht häufig bei schnellen Richtungswechseln, der Landung nach einem Sprung oder bei Sportverletzungen."
+            },
+            {
+              "type": "p",
+              "text": "Mögliche Folgen sind Wegknicken, wiederholte Instabilität, Schwellung und Einschränkungen bei Belastungen."
+            },
+            {
+              "type": "p",
+              "text": "Nicht jeder Kreuzbandriss erfordert eine Operation."
+            },
+            {
+              "type": "p",
+              "text": "Die Indikation zur Rekonstruktion berücksichtigt klinische Instabilität, Alter, Aktivitätsniveau, sportliche und berufliche Anforderungen, begleitende Meniskus- oder Knorpelschäden sowie die Ziele der Betroffenen."
+            },
+            {
+              "type": "p",
+              "text": "Bei funktioneller Instabilität, hohen Belastungsanforderungen oder Begleitverletzungen kann eine operative Stabilisierung wesentliche Vorteile bieten."
+            },
+            {
+              "type": "p",
+              "text": "Bei der arthroskopischen Kreuzbandrekonstruktion wird das gerissene Band durch ein Sehnentransplantat ersetzt und in anatomisch geeigneter Position fixiert. Transplantatwahl und Fixierung werden individuell festgelegt."
+            },
+            {
+              "type": "p",
+              "text": "Vor der Operation sollten Beweglichkeit, Schwellung und Muskelfunktion möglichst verbessert werden. Wenn nach einer akuten Verletzung eine Rekonstruktion angezeigt ist, kann unnötig langes Abwarten das Risiko weiterer Meniskus- und Knorpelschäden erhöhen."
+            },
+            {
+              "type": "p",
+              "text": "Nach der Rekonstruktion ist eine stufenweise Rehabilitation nötig. Die Rückkehr zum Laufen, Training oder Kontaktsport richtet sich nach Kraft, Stabilität, Koordination und Funktionstests – nicht allein nach der Zeit."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Verletzung des vorderen Kreuzbandes",
+          "heading": "Knorpelschäden und osteochondrale Läsionen",
           "body": [
             {
               "type": "p",
-              "text": "Ein Riss des vorderen Kreuzbandes kann zu Knieinstabilität führen, besonders beim Laufen, bei plötzlichen Richtungswechseln und sportlicher Belastung."
+              "text": "Der Gelenkknorpel ermöglicht ein reibungsarmes Gleiten der Gelenkflächen. Umschriebene Defekte können nach Verletzungen oder durch andere Erkrankungen entstehen."
             },
             {
               "type": "p",
-              "text": "Die Entscheidung zur Rekonstruktion hängt nicht allein vom MRT ab."
+              "text": "Ausgewählte symptomatische Knorpeldefekte, instabile Fragmente, osteochondrale Läsionen und freie Gelenkkörper können arthroskopisch behandelt werden."
             },
             {
               "type": "p",
-              "text": "Berücksichtigt werden:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "klinische Instabilität",
-                "Alter",
-                "Grad der körperlichen Aktivität",
-                "sportliche und berufliche Anforderungen",
-                "begleitende Meniskus- und Knorpelschäden",
-                "Erwartungen des Patienten"
-              ]
+              "text": "Die Verfahrenswahl richtet sich nach Größe, Tiefe und Lage des Defekts, subchondralem Knochen, Kniestabilität, Beinachse und Zustand des gesamten Gelenks."
             },
             {
               "type": "p",
-              "text": "Ist eine Operation angezeigt, erfolgt eine Bandrekonstruktion mit dem Ziel, die Stabilität des Kniegelenks wiederherzustellen."
+              "text": "Zu den Möglichkeiten gehören die Behandlung instabiler Fragmente, ausgewählte Verfahren zur Stimulation der Knorpelheilung oder aufwendigere Rekonstruktionen."
+            },
+            {
+              "type": "p",
+              "text": "Bei ausgedehnter Arthrose kann eine Arthroskopie den normalen Gelenkknorpel nicht vollständig wiederherstellen. Für die Therapieentscheidung sind klinische Befunde und Art des Schadens entscheidend, nicht allein das MRT."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Knorpel- und andere intraartikuläre Schäden",
+          "heading": "Wann ist eine zeitnahe Untersuchung erforderlich?",
           "body": [
             {
               "type": "p",
-              "text": "Die Arthroskopie kann auch bei bestimmten lokalen Knorpelschäden, freien Gelenkkörpern und anderen pathologischen Zuständen eingesetzt werden."
+              "text": "Eine starke Schwellung nach einer Verletzung, Instabilität, fehlende vollständige Streckbarkeit oder eine echte mechanische Knieblockade sollten zeitnah orthopädisch beurteilt werden."
             },
             {
               "type": "p",
-              "text": "Die Taktik richtet sich nach Art des Defekts, Alter des Patienten und dem Gesamtzustand des Gelenks."
+              "text": "Besondere Aufmerksamkeit erfordern verlagerte Meniskusrisse, kombinierte Bandverletzungen und andere Schäden, bei denen Verzögerungen die Rekonstruktionsmöglichkeiten beeinträchtigen können."
+            },
+            {
+              "type": "p",
+              "text": "In der Sprechstunde wird geklärt, welche Untersuchungen, konservativen Maßnahmen oder arthroskopischen Eingriffe erforderlich sind."
             }
           ],
           "divider": false
