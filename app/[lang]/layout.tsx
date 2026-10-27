@@ -33,7 +33,7 @@ export default async function LangLayout({
       <a
         href={CONTACTS.telegramHref}
         aria-label={dict.common.ctaPrimary}
-        className="fixed bottom-5 left-4 sm:bottom-6 sm:left-6 z-40 inline-flex items-center gap-3 rounded-full btn-metallic px-5 py-3 text-sm font-semibold text-white shadow-lg transition-transform hover:-translate-y-1 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white"
+        className="fixed bottom-[max(0.75rem,env(safe-area-inset-bottom))] left-3 sm:bottom-6 sm:left-6 z-30 inline-flex max-w-[calc(100vw-5.5rem)] items-center gap-2 sm:gap-3 rounded-full btn-metallic px-4 sm:px-5 py-3 text-sm font-semibold text-white shadow-lg transition-transform hover:-translate-y-1 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white"
       >
         <span aria-hidden="true">✉</span>
         <span className="hidden sm:inline">{dict.common.ctaPrimary}</span>
