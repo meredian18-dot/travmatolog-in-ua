@@ -2308,6 +2308,206 @@
           "divider": false
         },
         {
+          "heading": "Ablauf der Arthroskopie und Erholung nach der Operation",
+          "body": [
+            {
+              "type": "p",
+              "text": "Bei einer Arthroskopie wird eine Kamera über einen kleinen Zugang eingeführt; weitere Instrumente ermöglichen die Behandlung unter Sicht auf einem Monitor."
+            },
+            {
+              "type": "p",
+              "text": "Viele Knie- und Schultereingriffe erfordern dadurch keinen großen offenen Zugang. Aufwand, Risiken und Rehabilitation hängen aber vor allem von der Verletzung und dem Eingriff ab, nicht von der Größe der Schnitte."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Wie läuft eine arthroskopische Operation ab?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Vor dem Eingriff werden Gesundheitszustand, Befunde und Narkoseplan geprüft. Je nach Eingriff ist eine Allgemein-, Regional- oder kombinierte Anästhesie möglich."
+            },
+            {
+              "type": "p",
+              "text": "Typische Schritte:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "1. Vorbereitung des Gelenks und Anlage kleiner arthroskopischer Zugänge.",
+                "2. Untersuchung der Gelenkstrukturen mit einer Kamera.",
+                "3. Durchführung der notwendigen Naht oder Rekonstruktion, etwa am Meniskus, vorderen Kreuzband, an der Rotatorenmanschette oder bei Schulterinstabilität.",
+                "4. Kontrolle des Ergebnisses, Verschluss der Zugänge und Verband."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Die Operationsdauer hängt vom Umfang ab und kann erheblich variieren."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Die ersten Stunden und Tage danach",
+          "body": [
+            {
+              "type": "p",
+              "text": "Nach der Narkose erfolgt die medizinische Überwachung. Schmerzen, Schwellung und eingeschränkte Beweglichkeit können anfänglich auftreten."
+            },
+            {
+              "type": "p",
+              "text": "Sie erhalten Anweisungen zur Schmerzbehandlung, Wundpflege, Belastung und Rehabilitation."
+            },
+            {
+              "type": "p",
+              "text": "Manche Eingriffe erfolgen ambulant; nach komplexeren Rekonstruktionen oder bei medizinischem Bedarf kann ein stationärer Aufenthalt nötig sein."
+            },
+            {
+              "type": "p",
+              "text": "Die Entlassung bedeutet nicht das Ende der Behandlung: die funktionelle Erholung geht weiter."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Erholung nach einer Kniearthroskopie",
+          "body": [
+            {
+              "type": "p",
+              "text": "Nach partieller Meniskektomie ist häufig frühe Belastung nach Verträglichkeit möglich. Ziele sind Abschwellen, Beweglichkeit, normales Gehen und Kraftaufbau. Alltagsaktivitäten sind oft nach Wochen möglich; Sport erfordert funktionelle Bereitschaft."
+            },
+            {
+              "type": "p",
+              "text": "Nach einer Meniskusnaht müssen Belastung, Beugung oder bestimmte Übungen je nach Riss und Naht zeitweise eingeschränkt werden. Die Heilung dauert gewöhnlich länger."
+            },
+            {
+              "type": "p",
+              "text": "Nach VKB-Rekonstruktion erfolgt eine längere stufenweise Rehabilitation von Beweglichkeit, Kraft und neuromuskulärer Kontrolle. Sport mit schnellen Richtungswechseln oder Körperkontakt wird meist nicht vor neun Monaten erwogen und erfordert Funktionstests sowie psychologische Bereitschaft."
+            },
+            {
+              "type": "p",
+              "text": "Bei gleichzeitiger VKB-Rekonstruktion und Meniskusnaht müssen beide Strukturen geschützt werden."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Erholung nach einer Schulterarthroskopie",
+          "body": [
+            {
+              "type": "p",
+              "text": "Nach einer Rotatorenmanschettennaht können Armschlinge und Einschränkungen aktiver Belastung nötig sein. Bewegungs- und Kraftaufbau erfolgen schrittweise nach Operationsprotokoll."
+            },
+            {
+              "type": "p",
+              "text": "Sehnenheilung braucht Zeit. Bis zur Rückkehr zu schwerer Arbeit oder Sport können mehrere Monate vergehen."
+            },
+            {
+              "type": "p",
+              "text": "Nach einer Stabilisierung, etwa Bankart-Rekonstruktion, sind zunächst unter Umständen Ruhigstellung und Bewegungseinschränkungen nötig. Danach werden Beweglichkeit, Manschettenkraft, Schulterblattkontrolle und Stabilität trainiert."
+            },
+            {
+              "type": "p",
+              "text": "Kontaktsport ist erst nach funktioneller Beurteilung sinnvoll, nicht allein nach Ablauf einer bestimmten Zeit."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Ungefähre Erholungszeiten",
+          "body": [
+            {
+              "type": "p",
+              "text": "Richtwerte für Sport oder größere körperliche Belastung, keine garantierten Fristen:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Partielle Meniskektomie — oft 4–12 Wochen.",
+                "Meniskusnaht — häufig 6–9 Monate, abhängig vom Riss.",
+                "VKB-Rekonstruktion — meist ab 9 Monaten bei erfüllten Funktionskriterien.",
+                "Rotatorenmanschettennaht — mehrere Monate; schwere Belastung oft ab 6 Monaten oder später.",
+                "Schulterstabilisierung — für Kontaktsport oft 4–6 Monate oder länger."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Büroarbeit, Gehen, Alltag und Sport sind unterschiedliche Meilensteine. Vorgaben sind individuell."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Welche Risiken hat eine Arthroskopie?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Auch eine häufig durchgeführte Arthroskopie ist nicht risikofrei. Mögliche Komplikationen:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Infektion der Wunde oder des Gelenks",
+                "Blutung, Hämatom oder Schwellung",
+                "tiefe Venenthrombose und andere thromboembolische Ereignisse",
+                "Verletzung von Nerven, Gefäßen oder Gewebe",
+                "Steifigkeit und eingeschränkte Bewegung",
+                "anhaltende Schmerzen oder unvollständige Funktionserholung",
+                "fehlende Heilung einer Naht oder erneute Verletzung",
+                "Narkosekomplikationen"
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Das Risiko hängt von Eingriff und Gesundheitszustand ab. Kleine Zugänge garantieren weder Risikofreiheit noch vollständige Beschwerdefreiheit."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Welche Beschwerden erfordern rasche Hilfe?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Nach Entlassung sollten Sie ärztlichen Rat einholen bei:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Fieber, zunehmender Rötung oder eitrigem Wundsekret",
+                "plötzlich stärkeren Schmerzen oder Schwellungen",
+                "Schmerzen und Schwellung einer Wade",
+                "neuem Taubheitsgefühl, ausgeprägter Schwäche oder Durchblutungsstörung",
+                "plötzlicher deutlicher Verschlechterung des Zustands"
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Plötzliche Atemnot, Brustschmerz oder Bewusstlosigkeit erfordern sofortige Notfallhilfe."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Was beeinflusst das Ergebnis?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Wesentlich sind die richtige Indikation, Art der Schädigung, Gewebequalität, Zeitpunkt, Begleiterkrankungen und Rehabilitation."
+            },
+            {
+              "type": "p",
+              "text": "Auch die Einhaltung anfänglicher Einschränkungen, regelmäßige Übungen und Kontrolltermine zählen."
+            },
+            {
+              "type": "p",
+              "text": "Die Behandlung endet nicht im Operationssaal: funktionelle Erholung erfordert Zusammenarbeit von Patient, Operateur und Rehabilitationsteam."
+            }
+          ],
+          "divider": false
+        },
+        {
           "heading": "Was sich nach der Operation ändern kann",
           "body": [
             {
