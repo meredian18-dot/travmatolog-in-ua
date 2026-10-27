@@ -234,6 +234,7 @@ function groupBlocks(blocks: Block[]): BlockGroup[] {
 }
 
 function localizedTreatmentImage(file: string, slug: string, lang: Locale): string {
+  if (slug === "arthroscopy" && lang !== "uk" && file === "arthroscopy-diagram.jpg") return `arthroscopy-diagram-${lang}.png`;
   if (slug === "shoulder-replacement" && lang !== "uk") {
     if (file === "shoulder-replacement-cuff.jpg") return `shoulder-replacement-rotator-cuff-${lang}.png`;
     if (file === "shoulder-replacement-types.jpg") return `shoulder-replacement-types-${lang}.png`;
