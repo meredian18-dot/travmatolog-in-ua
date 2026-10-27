@@ -2104,6 +2104,210 @@
           "divider": false
         },
         {
+          "heading": "Diagnosis and preparation for arthroscopy",
+          "body": [
+            {
+              "type": "p",
+              "text": "Good treatment starts with an accurate diagnosis. Before knee or shoulder arthroscopy, it is important to identify the cause of symptoms, the nature of the injury and whether surgery offers advantages over non-operative care."
+            },
+            {
+              "type": "p",
+              "text": "MRI findings alone are not an indication for arthroscopy. Imaging must be interpreted alongside symptoms, examination findings and the patient's functional needs."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Initial orthopaedic consultation",
+          "body": [
+            {
+              "type": "p",
+              "text": "The surgeon asks when symptoms began, whether an injury occurred, what movements cause pain, whether the joint gives way or locks, and which treatments have already been tried."
+            },
+            {
+              "type": "list",
+              "items": [
+                "assessment of active and passive movement",
+                "joint stability testing",
+                "specific tests for menisci, ligaments, rotator cuff or labrum",
+                "muscle strength and functional limitations",
+                "assessment of nearby regions that could cause referred symptoms"
+              ]
+            },
+            {
+              "type": "p",
+              "text": "The examination informs the provisional diagnosis and choice of further tests."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "MRI, X-rays, CT and ultrasound: which tests are needed?",
+          "body": [
+            {
+              "type": "p",
+              "text": "MRI assesses menisci, ligaments, tendons, labrum, cartilage and other soft tissues. It can be helpful for suspected intra-articular injury, but is not always necessary."
+            },
+            {
+              "type": "p",
+              "text": "X-rays assess bones, alignment, osteoarthritis and some consequences of injury."
+            },
+            {
+              "type": "p",
+              "text": "CT can clarify bone loss, particularly in recurrent shoulder instability, or help plan complex reconstruction."
+            },
+            {
+              "type": "p",
+              "text": "Ultrasound may assess rotator cuff tendons, surrounding tissues and some dynamic problems."
+            },
+            {
+              "type": "p",
+              "text": "Tests are selected for the clinical question; routinely ordering all modalities is unnecessary."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Knee-specific assessment",
+          "body": [
+            {
+              "type": "p",
+              "text": "For suspected meniscal or ACL injury, the surgeon assesses knee stability, movement, swelling and mechanical symptoms."
+            },
+            {
+              "type": "p",
+              "text": "MRI can clarify tear pattern and location and associated cartilage or other injury. Imaging findings must match the clinical presentation."
+            },
+            {
+              "type": "p",
+              "text": "Before ACL reconstruction, knee movement, muscle function and readiness for prolonged rehabilitation are also assessed."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Shoulder-specific assessment",
+          "body": [
+            {
+              "type": "p",
+              "text": "For suspected rotator cuff injury, the size of the tear, tendon retraction, muscle condition and tissue quality are assessed."
+            },
+            {
+              "type": "p",
+              "text": "With recurrent instability, the labrum and potential bone loss from the glenoid or humerus are evaluated."
+            },
+            {
+              "type": "p",
+              "text": "MR arthrography can help with selected labral injuries; CT can characterise bone defects."
+            },
+            {
+              "type": "p",
+              "text": "These findings help establish whether arthroscopy is appropriate and which reconstruction is best suited."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "How are surgical indications determined?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Following examination and imaging review, the surgeon discusses treatment options, considering:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "type and severity of injury",
+                "duration and intensity of symptoms",
+                "degree of functional limitation",
+                "response to previous non-operative care",
+                "age, activity and other medical conditions",
+                "expected benefits, limitations and risks"
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Patients should understand the operation's purpose, alternatives and recovery requirements before agreeing to surgery."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Preoperative assessment",
+          "body": [
+            {
+              "type": "p",
+              "text": "Once surgery is planned, general health and anaesthetic risks are reviewed."
+            },
+            {
+              "type": "p",
+              "text": "Depending on the procedure, age, medical conditions and medicines, blood tests, an ECG or further consultations may be needed."
+            },
+            {
+              "type": "p",
+              "text": "There is no universal mandatory set of tests for everyone: assessment is tailored to clinical indications and hospital requirements."
+            },
+            {
+              "type": "p",
+              "text": "Report chronic conditions, allergies, previous anaesthetic difficulties and all medicines, including anticoagulants and antiplatelet drugs. Do not stop prescribed medication without medical advice."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "How to prepare for arthroscopy",
+          "body": [
+            {
+              "type": "p",
+              "text": "Instructions are individual. Common preparations include:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "agreeing a medication plan with the treating team",
+                "following anaesthetic instructions on eating and drinking",
+                "reporting fever, infection or new health symptoms",
+                "organising transport home and initial assistance",
+                "obtaining crutches, a brace or an arm sling if prescribed"
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Before knee surgery, exercises may help maintain movement and strength. Before cuff repair or shoulder stabilisation, discuss sling use, daily-living restrictions and rehabilitation."
+            },
+            {
+              "type": "p",
+              "text": "The surgeon and anaesthetist provide procedure-specific instructions."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "What should patients know before surgery?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Before admission, ask:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "What injury needs treatment?",
+                "What operation is proposed and why?",
+                "What alternatives exist?",
+                "What risks and restrictions should I expect?",
+                "Will I need crutches, a brace or shoulder immobilisation?",
+                "How will rehabilitation and return to work or exercise be organised?"
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Careful assessment and preparation support appropriate decisions, minimise modifiable risks and set realistic expectations."
+            }
+          ],
+          "divider": false
+        },
+        {
           "heading": "Do you actually need arthroscopy?",
           "body": [
             {
