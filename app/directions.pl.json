@@ -2777,24 +2777,6 @@
             }
           ],
           "divider": false
-        },
-        {
-          "heading": "Boli kolano lub bark?",
-          "body": [
-            {
-              "type": "p",
-              "text": "Jeśli ból, niestabilność, blokowanie lub ograniczenie ruchów nie ustępują, pierwszym krokiem jest ustalenie struktury odpowiedzialnej za problem i zrozumienie, czy wymaga ona leczenia chirurgicznego."
-            },
-            {
-              "type": "p",
-              "text": "Jeśli MRI już wykonano lub zalecono Ci już artroskopię, podczas konsultacji można ocenić wyniki badania, omówić alternatywy i ustalić możliwą taktykę."
-            },
-            {
-              "type": "p",
-              "text": "Artroskopia to narzędzie. Najważniejsze jest prawidłowe zdefiniowanie problemu, który to narzędzie ma rozwiązać."
-            }
-          ],
-          "divider": false
         }
       ]
     },
