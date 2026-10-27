@@ -1831,69 +1831,156 @@
           "body": [
             {
               "type": "p",
-              "text": "Ból barku może być związany z różnymi strukturami — ścięgnami mankietu rotatorów, obrąbkiem stawowym, więzadłami i innymi elementami kompleksu barkowego."
+              "text": "Artroskopia barku pozwala przez niewielkie nacięcia leczyć wybrane uszkodzenia ścięgien, obrąbka stawowego, torebki i innych struktur stawu."
             },
             {
               "type": "p",
-              "text": "Dlatego przed operacją ważne jest ustalenie konkretnego źródła problemu."
+              "text": "Operację rozważa się zwłaszcza przy zerwaniach stożka rotatorów, nawracających zwichnięciach oraz niestabilności pourazowej powodującej ból, osłabienie lub ograniczenie funkcji ręki."
+            },
+            {
+              "type": "p",
+              "text": "Celem jest odtworzenie uszkodzonych struktur i sprawności, gdy leczenie zachowawcze jest niewystarczające lub rodzaj urazu uzasadnia operację."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Zerwanie mankietu rotatorów",
+          "heading": "Uszkodzenie stożka rotatorów: kiedy operacja?",
           "body": [
             {
               "type": "p",
-              "text": "Mankiet rotatorów to zespół ścięgien zapewniających stabilność i ruchy stawu barkowego."
+              "text": "Stożek rotatorów tworzą ścięgna czterech mięśni odpowiedzialnych za ruch i dynamiczną stabilizację barku. Uszkodzenie może mieć charakter urazowy lub zwyrodnieniowy."
             },
             {
               "type": "p",
-              "text": "Ich uszkodzenie może powodować:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "ból",
-                "ból nocny",
-                "osłabienie",
-                "trudności przy unoszeniu ręki",
-                "obniżenie funkcji barku"
-              ]
+              "text": "Objawy obejmują ból, także nocny, osłabienie przy unoszeniu lub rotacji ramienia i trudności w codziennych czynnościach."
             },
             {
               "type": "p",
-              "text": "Nie każde zerwanie wymaga operacji."
+              "text": "Nie każde uszkodzenie wymaga operacji. W części małych lub zwyrodnieniowych uszkodzeń pomagają ćwiczenia, rehabilitacja i modyfikacja obciążeń."
             },
             {
               "type": "p",
-              "text": "Ale przy odpowiednich wskazaniach artroskopowo można wykonać odtworzenie uszkodzonego ścięgna i jego fiksację do kości."
+              "text": "Operację częściej rozważa się przy urazowym zerwaniu ze znacznym osłabieniem, objawowym zerwaniu pełnej grubości, wybranych rozległych częściowych uszkodzeniach po nieskutecznym leczeniu zachowawczym lub trwałych ograniczeniach funkcji."
+            },
+            {
+              "type": "p",
+              "text": "Wybór zależy od rozmiaru i czasu trwania zerwania, retrakcji ścięgna, jakości tkanek i mięśni, wieku, aktywności oraz chorób współistniejących."
+            },
+            {
+              "type": "p",
+              "text": "Naprawa artroskopowa polega na mobilizacji ścięgna i umocowaniu go do kości, zwykle kotwicami szewnymi. Przy dużych przewlekłych nienaprawialnych uszkodzeniach lub artropatii potrzebne mogą być inne metody."
+            },
+            {
+              "type": "p",
+              "text": "Gojenie ścięgna i rehabilitacja przebiegają etapami; małe nacięcia nie oznaczają szybkiego powrotu do pełnych obciążeń."
+            }
+          ],
+          "divider": false,
+          "diagram": "arthroscopy-rotator-cuff-pl.png"
+        },
+        {
+          "heading": "Niestabilność barku i operacja Bankarta",
+          "body": [
+            {
+              "type": "p",
+              "text": "Zwichnięcie urazowe może uszkodzić obrąbek stawowy, torebkę, więzadła i elementy kostne barku."
+            },
+            {
+              "type": "p",
+              "text": "Uszkodzenie Bankarta to oderwanie przednio-dolnej części obrąbka od brzegu panewki łopatki, często po przednim zwichnięciu."
+            },
+            {
+              "type": "p",
+              "text": "Nawracające zwichnięcia, podwichnięcia lub poczucie niestabilności mogą uzasadniać stabilizację. Artroskopowa naprawa Bankarta odtwarza obrąbek oraz kompleks torebkowo-więzadłowy z użyciem kotwic szewnych."
+            },
+            {
+              "type": "p",
+              "text": "Przed wyborem metody ocenia się liczbę zwichnięć, aktywność, stan obrąbka i torebki, ubytek kości panewki, uszkodzenie Hill–Sachsa oraz ryzyko nawrotu."
+            },
+            {
+              "type": "p",
+              "text": "Przy znacznych ubytkach kostnych lub wysokim ryzyku nawrotu mogą być potrzebne inne lub dodatkowe operacje, w tym stabilizacja kostna."
+            },
+            {
+              "type": "p",
+              "text": "Celem jest trwała stabilność dostosowana do rodzaju uszkodzenia."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Niestabilność stawu barkowego",
+          "heading": "Uszkodzenia obrąbka stawowego: SLAP i inne",
           "body": [
             {
               "type": "p",
-              "text": "Po urazowym zwichnięciu barku mogą zostać uszkodzone struktury zapewniające stabilność stawu."
+              "text": "Obrąbek pogłębia panewkę i stabilizuje bark. Uszkodzenie SLAP obejmuje jego górną część przy przyczepie ścięgna głowy długiej bicepsa."
             },
             {
               "type": "p",
-              "text": "U części pacjentów po pierwszym zwichnięciu występują powtórne epizody niestabilności."
+              "text": "Może powstać po urazie lub powtarzalnych ruchach nad głową i powodować głęboki ból oraz bolesne przeskakiwanie."
             },
             {
               "type": "p",
-              "text": "Dotyczy to szczególnie osób młodych i aktywnych fizycznie."
+              "text": "Nie każde uszkodzenie SLAP widoczne w MRI powoduje objawy lub wymaga operacji."
             },
             {
               "type": "p",
-              "text": "W odpowiednich przypadkach operacja artroskopowa pozwala odtworzyć uszkodzone struktury stabilizujące."
+              "text": "Po nieskutecznym leczeniu zachowawczym i potwierdzeniu znaczenia klinicznego można rozważyć naprawę obrąbka, tenodezę bicepsa lub inne postępowanie zależnie od typu urazu, wieku, aktywności i zmian towarzyszących."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Ból podbarkowy: czy potrzebna jest dekompresja?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Ból przy unoszeniu ręki nie zawsze wynika z mechanicznego konfliktu wymagającego operacji. Przy bólu podbarkowym i tendinopatii stożka rotatorów podstawą są zwykle ćwiczenia, rehabilitacja i modyfikacja obciążeń."
             },
             {
               "type": "p",
-              "text": "Ważne jest przy tym ocenienie nie tylko tkanek miękkich, ale też ewentualnej utraty tkanki kostnej, ponieważ przy znacznym ubytku kostnym może być potrzebna inna strategia rekonstrukcyjna."
+              "text": "Izolowana artroskopowa dekompresja podbarkowa nie jest zalecana rutynowo w przewlekłym atraumatycznym bólu podbarkowym, ponieważ dobrej jakości badania nie wykazały istotnej klinicznie korzyści."
+            },
+            {
+              "type": "p",
+              "text": "Odrębne uszkodzenia strukturalne, takie jak zerwanie stożka rotatorów, wymagają osobnej oceny."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Zarostowe zapalenie torebki stawowej (zamrożony bark)",
+          "body": [
+            {
+              "type": "p",
+              "text": "Zamrożony bark powoduje ból oraz ograniczenie zarówno ruchów czynnych, jak i biernych."
+            },
+            {
+              "type": "p",
+              "text": "Leczenie zwykle rozpoczyna się od rehabilitacji, kontroli bólu i, gdy wskazane, iniekcji dostawowych."
+            },
+            {
+              "type": "p",
+              "text": "Przy znacznej utrzymującej się sztywności mimo właściwego leczenia zachowawczego u wybranych pacjentów można rozważyć artroskopowe uwolnienie torebki; nie jest to standardowe leczenie początkowe."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Kiedy zgłosić się do ortopedy?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Konsultacja jest wskazana przy znacznej słabości po urazie, nawracających zwichnięciach, niestabilności albo bólu zaburzającym sen i codzienne funkcjonowanie."
+            },
+            {
+              "type": "p",
+              "text": "Świeży uraz z deformacją barku, podejrzeniem zwichnięcia, zaburzeniami czucia lub krążenia wymaga pilnej oceny medycznej."
+            },
+            {
+              "type": "p",
+              "text": "Podczas wizyty ocenia się objawy, badanie kliniczne i potrzebne badania obrazowe, wybierając metodę najlepiej dopasowaną do uszkodzenia i potrzeb pacjenta."
             }
           ],
           "divider": false
