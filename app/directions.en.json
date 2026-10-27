@@ -1831,69 +1831,156 @@
           "body": [
             {
               "type": "p",
-              "text": "Shoulder pain can be related to various structures — the rotator cuff tendons, the labrum, ligaments, and other components of the shoulder complex."
+              "text": "Shoulder arthroscopy can treat selected injuries to tendons, the labrum, capsule and other joint structures through small incisions."
             },
             {
               "type": "p",
-              "text": "That is why it is important to identify the specific source of the problem before surgery."
+              "text": "Surgery is most often considered for rotator cuff tears, recurrent dislocations and post-traumatic instability causing pain, weakness or impaired arm function."
+            },
+            {
+              "type": "p",
+              "text": "The aim is to restore damaged structures and function when nonsurgical treatment is insufficient or the injury itself justifies surgery."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Rotator cuff tear",
+          "heading": "Rotator cuff tears: when is surgery needed?",
           "body": [
             {
               "type": "p",
-              "text": "The rotator cuff is a group of tendons that provide stability and movement of the shoulder joint."
+              "text": "The rotator cuff consists of tendons from four muscles that move and dynamically stabilise the shoulder. Tears may be traumatic or degenerative."
             },
             {
               "type": "p",
-              "text": "Damage to it can cause:"
-            },
-            {
-              "type": "list",
-              "items": [
-                "pain",
-                "night pain",
-                "weakness",
-                "difficulty raising the arm",
-                "reduced shoulder function"
-              ]
+              "text": "Symptoms include shoulder pain, sometimes at night, weakness when lifting or rotating the arm and difficulty with daily activities."
             },
             {
               "type": "p",
-              "text": "Not every tear requires surgery."
+              "text": "Not every tear needs surgery. Exercise-based therapy, rehabilitation and activity modification may help with selected small or degenerative tears."
             },
             {
               "type": "p",
-              "text": "But when indicated, the damaged tendon can be repaired arthroscopically and fixed back to the bone."
+              "text": "Surgery is more often considered after traumatic tears with substantial weakness, symptomatic full-thickness tears, selected high-grade partial tears after failed nonsurgical care, or persistent functional loss."
+            },
+            {
+              "type": "p",
+              "text": "The decision depends on tear size and chronicity, tendon retraction, tissue and muscle quality, age, activity and associated disease."
+            },
+            {
+              "type": "p",
+              "text": "Arthroscopic repair involves mobilising the tendon and reattaching it to bone, generally using suture anchors. Large chronic irreparable tears or cuff arthropathy may require other approaches."
+            },
+            {
+              "type": "p",
+              "text": "Tendon healing and rehabilitation are gradual; small incisions do not mean an immediate return to unrestricted activity."
+            }
+          ],
+          "divider": false,
+          "diagram": "arthroscopy-rotator-cuff-en.png"
+        },
+        {
+          "heading": "Shoulder instability and Bankart repair",
+          "body": [
+            {
+              "type": "p",
+              "text": "A traumatic dislocation can injure the labrum, capsule, ligaments and bones of the shoulder."
+            },
+            {
+              "type": "p",
+              "text": "A Bankart lesion is a detachment of the anteroinferior labrum from the glenoid rim, commonly associated with anterior dislocation."
+            },
+            {
+              "type": "p",
+              "text": "Recurrent dislocation, subluxation or apprehension may justify stabilisation. Arthroscopic Bankart repair uses suture anchors to restore the labrum and capsuloligamentous complex."
+            },
+            {
+              "type": "p",
+              "text": "Assessment must consider the number of dislocations, activity, labral and capsular condition, glenoid bone loss, Hill–Sachs lesions and recurrence risk."
+            },
+            {
+              "type": "p",
+              "text": "Significant bone defects or higher recurrence risk may call for other or additional stabilisation, including bone-based procedures."
+            },
+            {
+              "type": "p",
+              "text": "The objective is durable stability tailored to the injury pattern."
             }
           ],
           "divider": false
         },
         {
-          "heading": "Shoulder instability",
+          "heading": "Labral injuries: SLAP and other lesions",
           "body": [
             {
               "type": "p",
-              "text": "After a traumatic shoulder dislocation, the structures that provide joint stability may be damaged."
+              "text": "The labrum deepens the glenoid and contributes to stability. A SLAP lesion involves its superior part near the long-head biceps tendon attachment."
             },
             {
               "type": "p",
-              "text": "In some patients, repeated episodes of instability occur after the first dislocation."
+              "text": "Such injuries may follow trauma or repetitive overhead loading and cause deep pain or painful clicking."
             },
             {
               "type": "p",
-              "text": "This is especially relevant for young and physically active people."
+              "text": "Not every MRI-reported SLAP lesion is symptomatic or requires surgery."
             },
             {
               "type": "p",
-              "text": "In appropriate cases, arthroscopic surgery allows the damaged stabilizing structures to be repaired."
+              "text": "After unsuccessful nonsurgical care and confirmation of clinical relevance, options may include labral repair, biceps tenodesis or other treatment depending on lesion type, age, activity and associated pathology."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Subacromial pain: is decompression needed?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Pain on arm elevation does not necessarily reflect mechanical impingement needing surgery. Exercise, rehabilitation and load modification are usually first-line measures for subacromial pain and rotator cuff tendinopathy."
             },
             {
               "type": "p",
-              "text": "It is important to assess not only the soft tissues but also any potential bone loss, since a significant bone defect may require a different reconstructive strategy."
+              "text": "Isolated arthroscopic subacromial decompression is not recommended routinely for chronic atraumatic subacromial pain because robust studies have not demonstrated a clinically meaningful benefit."
+            },
+            {
+              "type": "p",
+              "text": "Distinct structural injuries such as rotator cuff tears require separate assessment and may have different surgical indications."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "Adhesive capsulitis (frozen shoulder)",
+          "body": [
+            {
+              "type": "p",
+              "text": "Adhesive capsulitis causes pain and progressive restriction of both active and passive shoulder movement."
+            },
+            {
+              "type": "p",
+              "text": "Treatment generally begins with rehabilitation, pain management and, when appropriate, intra-articular injections."
+            },
+            {
+              "type": "p",
+              "text": "Arthroscopic capsular release may be considered in selected patients with severe persistent restriction despite adequate conservative care; it is not standard initial treatment."
+            }
+          ],
+          "divider": false
+        },
+        {
+          "heading": "When should you see an orthopaedic specialist?",
+          "body": [
+            {
+              "type": "p",
+              "text": "Assessment is advisable for significant weakness after injury, recurrent dislocation, persistent instability or pain disrupting sleep and everyday life."
+            },
+            {
+              "type": "p",
+              "text": "Acute injury with shoulder deformity, suspected dislocation, sensory loss or impaired circulation requires urgent medical assessment."
+            },
+            {
+              "type": "p",
+              "text": "A planned consultation combines symptoms, examination and appropriate imaging to choose the treatment best suited to the injury and functional needs."
             }
           ],
           "divider": false
