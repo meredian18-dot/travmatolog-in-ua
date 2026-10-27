@@ -2777,24 +2777,6 @@
             }
           ],
           "divider": false
-        },
-        {
-          "heading": "Is your knee or shoulder hurting?",
-          "body": [
-            {
-              "type": "p",
-              "text": "If pain, instability, locking, or restricted movement don't go away, the first step is to identify the structure causing the problem and understand whether it requires surgical treatment."
-            },
-            {
-              "type": "p",
-              "text": "If an MRI has already been done, or arthroscopy has already been recommended to you, the consultation can be used to review the results, discuss alternatives, and determine a possible strategy."
-            },
-            {
-              "type": "p",
-              "text": "Arthroscopy is a tool. What matters most is correctly identifying the problem that tool is meant to solve."
-            }
-          ],
-          "divider": false
         }
       ]
     },
